@@ -1,0 +1,1872 @@
+{
+  "kicker": "WEBTOON V5.5 · DIRECTOR'S CUT",
+  "title": "PROLOGUE: THE 17 SUMMONING SCROLLS",
+  "subtitle": "Director's Cut · 48 Unique Panels · Zero Repeats · Comic Neue + Bangers (v5.5)",
+  "end_banner": {
+    "kicker": "END OF PROLOGUE · ALL 17 GUARDIANS AWAKENED",
+    "title": "NEXT: CHAPTER 1 — STATIC CLIFFS & THE FIRST SIGNAL",
+    "subtitle": "Hero Kai, Ng Shuang & Uvincc follow the first glowing Spellbook beacon into the storm..."
+  },
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH00_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 88,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "It all began in San Jie Class—a warm afternoon of Python code and sketchbooks.",
+          "bx": 29,
+          "by": -14,
+          "max_chars": 30
+        },
+        {
+          "type": "speech",
+          "text": "Today, draw your dream partner—then bring them to life with code!",
+          "bx": 76,
+          "by": -12,
+          "tx": 47,
+          "ty": 37,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CHATTER",
+          "x": 82,
+          "y": 82,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ],
+      "height": 370
+    },
+    {
+      "id": "ex01_sketchbook",
+      "file": "CH00_EX01_Sketchbook_Hands_Python_RAW.jpg",
+      "layout": "framed",
+      "height": 345,
+      "top_gutter": 66,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "One line of Python at a time, their classroom sketches began to spark.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SKETCH...",
+          "x": 76,
+          "y": 14,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #01",
+        "concept": "Variables & print()",
+        "lines": [
+          "hero = \"Hero Kai\"",
+          "partner = \"Tempest Stag\"",
+          "print(\"Welcome to Pythonia,\", partner)"
+        ],
+        "output": "Welcome to Pythonia, Tempest Stag"
+      }
+    },
+    {
+      "id": "p01_02",
+      "file": "CH00_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Nice work! One clean line of Python and your hero comes alive.",
+          "bx": 24,
+          "by": -14,
+          "tx": 36,
+          "ty": 16,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Whoa... look at the screen! It actually worked!",
+          "bx": 76,
+          "by": -14,
+          "tx": 61,
+          "ty": 24,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "TAP! TAP!",
+          "x": 82,
+          "y": 84,
+          "rotate": -7,
+          "size": 32,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "ex02_v2_teacher_cheong",
+      "file": "CH00_EX02_v2_TeacherCheong_Coaching_RAW.jpg",
+      "layout": "framed",
+      "height": 520,
+      "top_gutter": 110,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Try running your code now—every great coder starts one line at a time!",
+          "bx": 26,
+          "by": -15,
+          "tx": 34,
+          "ty": 15,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Whoa, Teacher Cheong—it's actually moving on my screen!",
+          "bx": 76,
+          "by": -15,
+          "tx": 56,
+          "ty": 43,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "FOCUS...",
+          "x": 13,
+          "y": 14,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "ex08_teacher_onn",
+      "file": "CH00_EX08_TeacherOnn_Coaching_RAW.jpg",
+      "layout": "framed",
+      "height": 568,
+      "top_gutter": 118,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Teacher Onn, why did our sprite stop right at the edge?",
+          "bx": 26,
+          "by": -15,
+          "tx": 35,
+          "ty": 19,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Check your indentation—step by step, you've got this!",
+          "bx": 75,
+          "by": -15,
+          "tx": 66,
+          "ty": 15,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "AHA!",
+          "x": 91,
+          "y": 24,
+          "rotate": 8,
+          "size": 26,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "ex07_whole_class",
+      "file": "CH00_EX07_Whole_Class_Photo_Real_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 446,
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "All seventeen young Guardians and their teachers—gathered beneath Hero Kai's banner in San Jie Class.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SMILE!",
+          "x": 12,
+          "y": 14,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "sfx",
+          "text": "CLICK!",
+          "x": 90,
+          "y": 14,
+          "rotate": 10,
+          "size": 32,
+          "fill": "#2563EB"
+        }
+      ]
+    },
+    {
+      "id": "p01_03",
+      "file": "CH00_P01_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 96,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Seventeen friends. Seventeen hand-drawn dreams. One unforgettable class.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SMILE!",
+          "x": 14,
+          "y": 14,
+          "rotate": -12,
+          "size": 36,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "sfx",
+          "text": "CLICK!",
+          "x": 87,
+          "y": 15,
+          "rotate": 10,
+          "size": 34,
+          "fill": "#2563EB"
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p01_04",
+      "file": "CH00_P01_04_TEACHERS_REAL_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 98,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "And behind every young coder stood the teachers and volunteers guiding San Jie Class with heart.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CHEERS!",
+          "x": 12,
+          "y": 14,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 560
+    },
+    {
+      "id": "p02_01",
+      "file": "CH00_P02_01_REAL_PORTRAIT_RAW.jpg",
+      "layout": "portrait_tall",
+      "top_gutter": 115,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THE FINAL BELL RANG—AND EVERYONE PACKED THEIR SKETCHBOOKS FOR HOME.",
+          "bx": 22,
+          "by": -11,
+          "max_chars": 28
+        },
+        {
+          "type": "speech",
+          "text": "I'M FINISHING MY FIRE-ICE PUP DRAWING TONIGHT!",
+          "bx": 86,
+          "by": -11,
+          "tx": 54,
+          "ty": 33,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "RING~",
+          "x": 18,
+          "y": 14,
+          "rotate": -8,
+          "size": 38,
+          "fill": "#2563EB"
+        }
+      ],
+      "height": 1180
+    },
+    {
+      "id": "ex09_pythonia_map",
+      "file": "CH00_EX09_Pythonia_Four_Realms_Map_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 560,
+      "top_gutter": 104,
+      "bottom_gutter": 64,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "ACT II · ENTERING PYTHONIA — Behold the Four Realms connected by golden code-streams.",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 46
+        },
+        {
+          "type": "narration",
+          "text": "NORTH · ALPINE AURORA PEAKS",
+          "bx": 49,
+          "by": 7,
+          "max_chars": 30,
+          "font_size": 13.5
+        },
+        {
+          "type": "narration",
+          "text": "WEST · SUN-FORGE VALLEY & CRYSTAL GROTTO",
+          "bx": 20,
+          "by": 89,
+          "max_chars": 24,
+          "font_size": 13.0
+        },
+        {
+          "type": "narration",
+          "text": "EAST · THE FLOATING CLOUD LIBRARY",
+          "bx": 82,
+          "by": 62,
+          "max_chars": 20,
+          "font_size": 13.0
+        },
+        {
+          "type": "narration",
+          "text": "SOUTH · EMERALD BAMBOO & SAKURA SANCTUARY",
+          "bx": 56,
+          "by": 106,
+          "max_chars": 44,
+          "font_size": 13.5
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p03_01",
+      "file": "CH00_P03_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 86,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Far beyond the clouds lay Pythonia—a world powered by kindness and code.",
+          "bx": 30,
+          "by": -13,
+          "max_chars": 32
+        },
+        {
+          "type": "speech",
+          "text": "What a peaceful morning, Ember! Let's check the border towers!",
+          "bx": 76,
+          "by": -13,
+          "tx": 46,
+          "ty": 25,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SOAR~",
+          "x": 16,
+          "y": 76,
+          "rotate": -10,
+          "size": 40,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "height": 480
+    },
+    {
+      "id": "p03_02",
+      "file": "CH00_P03_02_RAW.jpg",
+      "layout": "framed",
+      "height": 445,
+      "top_gutter": 76,
+      "bottom_gutter": 68,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "A broken core... still pulsing with dark code...",
+          "bx": 48,
+          "by": -12,
+          "tx": 49,
+          "ty": 28,
+          "max_chars": 24
+        },
+        {
+          "type": "narration",
+          "text": "Yet in the shadowed ruins, a lonely coder named Vex found something forbidden.",
+          "bx": 50,
+          "by": 109,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PULSE...",
+          "x": 28,
+          "y": 54,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH00_P04_01_RAW.jpg",
+      "layout": "framed",
+      "height": 445,
+      "top_gutter": 76,
+      "bottom_gutter": 68,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "Everyone else had a team. Everyone else had a partner...",
+          "bx": 34,
+          "by": -12,
+          "tx": 34,
+          "ty": 22,
+          "max_chars": 24
+        },
+        {
+          "type": "thought",
+          "text": "Nobody ever invited me inside.",
+          "bx": 64,
+          "by": 109,
+          "tx": 40,
+          "ty": 72,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "DRIP... DROP...",
+          "x": 76,
+          "y": 86,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#64748B"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH00_P04_02_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.29,
+        0.0,
+        0.77,
+        1.0
+      ],
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "If this world won't give me a partner—I'll code my own!",
+          "bx": 38,
+          "by": -11,
+          "tx": 58,
+          "ty": 11,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CRACKLE!",
+          "x": 24,
+          "y": 42,
+          "rotate": -12,
+          "size": 38,
+          "fill": "#C084FC"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "CORRUPTED SPELL · WARNING",
+        "concept": "Unsafe Override",
+        "lines": [
+          "dark_core = load_forbidden(\"Lord_Malcode\")",
+          "dark_core.safety_lock = False  # DANGER!",
+          "summon(dark_core)"
+        ],
+        "output": "CRITICAL ERROR: Firewall breached — Bug King awakening!"
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH00_P05_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 480,
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 58,
+        "cy": 38,
+        "color": "#E9D5FF",
+        "opacity": 0.36
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Wait—it's too strong!! I can't stop it!",
+          "bx": 26,
+          "by": -14,
+          "tx": 30,
+          "ty": 41,
+          "max_chars": 18
+        },
+        {
+          "type": "glitch",
+          "text": "Free at last! Let the Great Crash begin!",
+          "bx": 74,
+          "by": -14,
+          "tx": 60,
+          "ty": 12,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOOM!!",
+          "x": 83,
+          "y": 84,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH00_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 88,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Ember, look! Seventeen shooting stars—the Ancient Summoning!",
+          "bx": 72,
+          "by": -14,
+          "tx": 66,
+          "ty": 42,
+          "max_chars": 21
+        },
+        {
+          "type": "narration",
+          "text": "To answer the darkness, Pythonia called seventeen new Guardians.",
+          "bx": 38,
+          "by": 112,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 24,
+          "y": 28,
+          "rotate": -14,
+          "size": 42,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 445
+    },
+    {
+      "id": "p02_02",
+      "file": "CH00_P02_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 88,
+      "bottom_gutter": 88,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Far across the night, while seventeen students slept...",
+          "bx": 30,
+          "by": -11,
+          "max_chars": 30
+        },
+        {
+          "type": "narration",
+          "text": "...their sketchbooks glowed in answer to the seventeen stars.",
+          "bx": 70,
+          "by": 111,
+          "max_chars": 30
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "GLOW~",
+          "x": 46,
+          "y": 38,
+          "rotate": -6,
+          "size": 38,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "mood",
+          "text": "SHIMMER",
+          "x": 82,
+          "y": 54,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#60A5FA"
+        }
+      ],
+      "height": 505
+    },
+    {
+      "id": "ex06_starlight_portal",
+      "file": "CH00_EX06_Starlight_Portal_Summoning_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 515,
+      "top_gutter": 96,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Ribbons of starlight swirled from the open pages straight out into the night sky!",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH~",
+          "x": 70,
+          "y": 18,
+          "rotate": -8,
+          "size": 40,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "mood",
+          "text": "SPARKLE",
+          "x": 85,
+          "y": 80,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH00_P06_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 52,
+        "cy": 50,
+        "color": "#FFFFFF",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Whoa!! We're flying through starlight!",
+          "bx": 24,
+          "by": -14,
+          "tx": 32,
+          "ty": 50,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "My compass is spinning like crazy!",
+          "bx": 76,
+          "by": -14,
+          "tx": 72,
+          "ty": 42,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SWOOSH!",
+          "x": 18,
+          "y": 24,
+          "rotate": -12,
+          "size": 38,
+          "fill": "#38BDF8"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #02",
+        "concept": "For-Loop Teleportation",
+        "lines": [
+          "for guardian in san_jie_17:",
+          "    teleport(guardian, \"Pythonia_Meadow\")"
+        ],
+        "output": "17/17 Guardians safely arrived in Pythonia!"
+      },
+      "height": 430
+    },
+    {
+      "id": "p06_02",
+      "file": "CH00_P06_02_v2_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 455,
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Welcome to Pythonia! I'm Kai—and this is Ember!",
+          "bx": 25,
+          "by": -14,
+          "tx": 24,
+          "ty": 28,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "No way!! That's a real dragon!!",
+          "bx": 75,
+          "by": -14,
+          "tx": 70,
+          "ty": 34,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SPARKLE",
+          "x": 52,
+          "y": 24,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p06_03",
+      "file": "CH00_P06_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "The prophecy was true—all seventeen have arrived!",
+          "bx": 24,
+          "by": -14,
+          "tx": 20,
+          "ty": 34,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Wait... are all our classmates here too?!",
+          "bx": 74,
+          "by": -14,
+          "tx": 52,
+          "ty": 46,
+          "max_chars": 19
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p06_04",
+      "file": "CH00_P06_04_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Everyone! We made it down safe!",
+          "bx": 24,
+          "by": -14,
+          "tx": 28,
+          "ty": 32,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "Look up—the dragon's escorting us!",
+          "bx": 74,
+          "by": -14,
+          "tx": 44,
+          "ty": 38,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FLAP! FLAP!",
+          "x": 82,
+          "y": 30,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#DC2626"
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p06_05",
+      "file": "CH00_P06_05_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "This village looks just like our storybook!",
+          "bx": 26,
+          "by": -14,
+          "tx": 20,
+          "ty": 38,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "Follow the lantern light, young Spellcasters!",
+          "bx": 76,
+          "by": -14,
+          "tx": 84,
+          "ty": 34,
+          "max_chars": 19
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p06_06",
+      "file": "CH00_P06_06_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Wait—even our gear matches what we sketched!",
+          "bx": 28,
+          "by": -14,
+          "tx": 47,
+          "ty": 36,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "That's all seventeen! Come see what's waiting in the glade!",
+          "bx": 76,
+          "by": -14,
+          "tx": 82,
+          "ty": 34,
+          "max_chars": 21
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "ex03_glade_reveal",
+      "file": "CH00_EX03_Seventeen_Eggs_Glade_Glow_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 530,
+      "top_gutter": 106,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "As twilight fell, Kai led them into the Moonlit Egg Glade.",
+          "bx": 28,
+          "by": -13,
+          "max_chars": 30
+        },
+        {
+          "type": "speech",
+          "text": "Look—seventeen ancient eggs, glowing just for your class!",
+          "bx": 76,
+          "by": -13,
+          "tx": 44,
+          "ty": 32,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "GLOW~",
+          "x": 78,
+          "y": 24,
+          "rotate": -6,
+          "size": 38,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH00_P07_01_RAW.jpg",
+      "layout": "framed",
+      "height": 510,
+      "top_gutter": 106,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "It's warm... like a little heartbeat inside!",
+          "bx": 26,
+          "by": -14,
+          "tx": 32,
+          "ty": 10,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Mine has the exact star from my compass!",
+          "bx": 74,
+          "by": -14,
+          "tx": 68,
+          "ty": 10,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "THUMP...",
+          "x": 11,
+          "y": 86,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "THUMP...",
+          "x": 89,
+          "y": 86,
+          "rotate": 4,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH00_P07_02_RAW.jpg",
+      "layout": "portrait_cinematic",
+      "crop": [
+        0.26,
+        0.0,
+        0.74,
+        1.0
+      ],
+      "top_gutter": 112,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Their partners are waking, Kai. Guard them well—darkness already feels their light.",
+          "bx": 24,
+          "by": -10,
+          "tx": 23,
+          "ty": 26,
+          "max_chars": 24
+        },
+        {
+          "type": "speech",
+          "text": "I won't let anything happen to them, Elder!",
+          "bx": 80,
+          "by": -10,
+          "tx": 82,
+          "ty": 43,
+          "max_chars": 19
+        }
+      ],
+      "height": 1170
+    },
+    {
+      "id": "p08_01_p08_02_duo",
+      "layout": "portrait_duo",
+      "top_gutter": 112,
+      "bottom_gutter": 32,
+      "left": {
+        "file": "CH00_P08_01_RAW.jpg",
+        "crop": [
+          0.33,
+          0.0,
+          0.8,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "speech",
+            "text": "Oh! You're so tiny and warm... hello, Tempest Stag!",
+            "bx": 50,
+            "by": -14,
+            "tx": 60,
+            "ty": 8,
+            "max_chars": 21
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "CRACK!",
+            "x": 22,
+            "y": 24,
+            "rotate": -12,
+            "size": 34,
+            "fill": "#F59E0B"
+          },
+          {
+            "kind": "mood",
+            "text": "SPARKLE",
+            "x": 24,
+            "y": 86,
+            "rotate": -6,
+            "size": 20,
+            "fill": "#38BDF8"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH00_P08_02_RAW.jpg",
+        "crop": [
+          0.3,
+          0.0,
+          0.76,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "shout",
+            "text": "It hatched! He's got little cloud ears!",
+            "bx": 50,
+            "by": -14,
+            "tx": 64,
+            "ty": 8,
+            "max_chars": 19
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "POP!",
+            "x": 22,
+            "y": 24,
+            "rotate": -10,
+            "size": 36,
+            "fill": "#0EA5E9"
+          },
+          {
+            "kind": "sfx",
+            "text": "YIP!",
+            "x": 22,
+            "y": 86,
+            "rotate": 8,
+            "size": 26,
+            "fill": "#F59E0B"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p08_03",
+      "file": "CH00_P08_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "They already know us by heart...",
+          "bx": 26,
+          "by": -14,
+          "tx": 36,
+          "ty": 38,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "Haha! Hey, that tickles!",
+          "bx": 74,
+          "by": -14,
+          "tx": 68,
+          "ty": 40,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "LICK~",
+          "x": 54,
+          "y": 26,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F97316"
+        }
+      ],
+      "height": 480
+    },
+    {
+      "id": "p08_04",
+      "file": "CH00_P08_04_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "No way—Bro's actually real!",
+          "bx": 24,
+          "by": -14,
+          "tx": 24,
+          "ty": 40,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "Dan just sparked right out of his shell!",
+          "bx": 72,
+          "by": -14,
+          "tx": 42,
+          "ty": 42,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "BEAMING",
+          "x": 86,
+          "y": 20,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p08_05",
+      "file": "CH00_P08_05_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Haha, look at Sticky's glowing little drop!",
+          "bx": 30,
+          "by": -14,
+          "tx": 50,
+          "ty": 38,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Poppy smells just like cherry blossoms!",
+          "bx": 76,
+          "by": -14,
+          "tx": 66,
+          "ty": 40,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "BOING~",
+          "x": 50,
+          "y": 18,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#38BDF8"
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p08_06",
+      "file": "CH00_P08_06_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "OKX is wearing little glasses just like my sketch!",
+          "bx": 26,
+          "by": -14,
+          "tx": 26,
+          "ty": 16,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Hi there, little Sylvan-Fox!",
+          "bx": 76,
+          "by": -14,
+          "tx": 76,
+          "ty": 18,
+          "max_chars": 18
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p08_07",
+      "file": "CH00_P08_07_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Wait—Emerald-X actually booted up?!",
+          "bx": 30,
+          "by": -14,
+          "tx": 48,
+          "ty": 20,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "And my Star-Yarn Caticorn is so fluffy!",
+          "bx": 76,
+          "by": -14,
+          "tx": 72,
+          "ty": 24,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BEEP!",
+          "x": 58,
+          "y": 15,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#10B981"
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p09_02",
+      "file": "CH00_P09_02_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 112,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Each of you receives a Python Spellbook—your code channels your partner's power!",
+          "bx": 28,
+          "by": -14,
+          "tx": 33,
+          "ty": 12,
+          "max_chars": 23
+        },
+        {
+          "type": "speech",
+          "text": "It's just like the Python we learned in class!",
+          "bx": 76,
+          "by": -14,
+          "tx": 68,
+          "ty": 24,
+          "max_chars": 20
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #03",
+        "concept": "Dictionaries (Key : Value)",
+        "lines": [
+          "spellbook = {\"guardian\": \"San_Jie_17\", \"stage\": \"S1_Baby\"}",
+          "spellbook[\"bond\"] = \"ACTIVE\""
+        ],
+        "output": "17 Python Spellbooks synced with Stage-1 Partners!"
+      }
+    },
+    {
+      "id": "p10_01",
+      "file": "CH00_P10_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Eat up, everyone—fresh steamed buns and forest berries!",
+          "bx": 26,
+          "by": -14,
+          "tx": 36,
+          "ty": 36,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Wait... why did the sky just turn purple?!",
+          "bx": 74,
+          "by": -14,
+          "tx": 68,
+          "ty": 38,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "RUMBLE...",
+          "x": 84,
+          "y": 16,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#7C3AED"
+        }
+      ],
+      "height": 445
+    },
+    {
+      "id": "ex04_storm_rift",
+      "file": "CH00_EX04_Purple_Storm_Rift_Over_Meadow_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 525,
+      "top_gutter": 96,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Without warning, a jagged purple storm rift tore straight across the meadow sky!",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-CRACK!!",
+          "x": 24,
+          "y": 24,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p07_03",
+      "file": "CH00_P07_03_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 68,
+        "cy": 38,
+        "color": "#C084FC",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "Seventeen new variables?! Swarm them—corrupt every last one!",
+          "bx": 30,
+          "by": -13,
+          "tx": 66,
+          "ty": 30,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZZZZZ!!",
+          "x": 28,
+          "y": 62,
+          "rotate": -10,
+          "size": 46,
+          "fill": "#9333EA"
+        }
+      ],
+      "height": 525
+    },
+    {
+      "id": "p11_01",
+      "file": "CH00_P11_01_RAW.jpg",
+      "layout": "portrait_cinematic",
+      "crop": [
+        0.35,
+        0.0,
+        0.85,
+        1.0
+      ],
+      "top_gutter": 112,
+      "bottom_gutter": 32,
+      "speedlines": {
+        "cx": 54,
+        "cy": 38,
+        "color": "#E9D5FF",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "Seventeen little bugs... time to crash your code!",
+          "bx": 54,
+          "by": -10,
+          "tx": 54,
+          "ty": 25,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOW!!",
+          "x": 26,
+          "y": 18,
+          "rotate": -12,
+          "size": 44,
+          "fill": "#A855F7"
+        }
+      ],
+      "height": 1170
+    },
+    {
+      "id": "p11_02",
+      "file": "CH00_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Stay behind us! Ember—ready to fly!",
+          "bx": 26,
+          "by": -14,
+          "tx": 34,
+          "ty": 46,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "Kai, look out! Someone's with him!",
+          "bx": 76,
+          "by": -14,
+          "tx": 82,
+          "ty": 64,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 16,
+          "y": 28,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#6D28D9"
+        }
+      ],
+      "height": 505
+    },
+    {
+      "id": "ex05_shield_brace",
+      "file": "CH00_EX05_Kai_Ember_Shield_Brace_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 520,
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 42,
+        "cy": 45,
+        "color": "#A7F3D0",
+        "opacity": 0.28
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Spellbook Barrier—HOLD! Ember, cover the flank!!",
+          "bx": 28,
+          "by": -14,
+          "tx": 36,
+          "ty": 20,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ROAAAR!!",
+          "x": 82,
+          "y": 14,
+          "rotate": 8,
+          "size": 40,
+          "fill": "#DC2626"
+        },
+        {
+          "kind": "sfx",
+          "text": "ZAP!!",
+          "x": 14,
+          "y": 20,
+          "rotate": -14,
+          "size": 34,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH00_P12_01_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.32,
+        0.0,
+        0.82,
+        1.0
+      ],
+      "top_gutter": 108,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "You never needed me, Pythonia... now watch your precious code unravel!",
+          "bx": 42,
+          "by": -10,
+          "tx": 24,
+          "ty": 14,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "DUN",
+            "DUN",
+            "DUN"
+          ],
+          "x": 4,
+          "y": 56,
+          "step_x": 22,
+          "step_y": 40,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#111116"
+        }
+      ],
+      "height": 1170
+    },
+    {
+      "id": "p12_02",
+      "file": "CH00_P12_02_v2_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 115,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 54,
+        "cy": 38,
+        "color": "#F3E8FF",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Hold hands! Don't let go!!",
+          "bx": 28,
+          "by": -13,
+          "tx": 48,
+          "ty": 52,
+          "max_chars": 16
+        },
+        {
+          "type": "shout",
+          "text": "Kai!! The wind's pulling us apart!!",
+          "bx": 76,
+          "by": -13,
+          "tx": 78,
+          "ty": 36,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "VROOOM!!",
+          "x": 62,
+          "y": 18,
+          "rotate": -6,
+          "size": 48,
+          "fill": "#7C3AED"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE GLITCH · INFINITE LOOP",
+        "concept": "Uncontrolled while-Loop",
+        "lines": [
+          "while vortex_power > 0:",
+          "    scatter(san_jie_17, biomes=4)  # Emergency!"
+        ],
+        "output": "ALERT: Guardians scattered across 4 Pythonia biomes!"
+      },
+      "height": 450
+    },
+    {
+      "id": "p12_03",
+      "file": "CH00_P12_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Hang onto your partners, guys!",
+          "bx": 24,
+          "by": -14,
+          "tx": 18,
+          "ty": 44,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "Wait—the Elder's shield is cushioning our fall!",
+          "bx": 76,
+          "by": -14,
+          "tx": 85,
+          "ty": 40,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOSH~",
+          "x": 52,
+          "y": 15,
+          "rotate": -6,
+          "size": 36,
+          "fill": "#10B981"
+        }
+      ],
+      "height": 430
+    },
+    {
+      "id": "p12_04",
+      "file": "CH00_P12_04_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Stay together! We'll find Kai and the others!",
+          "bx": 26,
+          "by": -14,
+          "tx": 34,
+          "ty": 42,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Keep your Spellbooks close—we're landing on those islands!",
+          "bx": 74,
+          "by": -14,
+          "tx": 66,
+          "ty": 44,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SWIRL~",
+          "x": 48,
+          "y": 16,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#A855F7"
+        }
+      ],
+      "height": 445
+    },
+    {
+      "id": "p12_05",
+      "file": "CH00_P12_05_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 112,
+      "bottom_gutter": 102,
+      "speedlines": {
+        "cx": 48,
+        "cy": 45,
+        "color": "#FDE68A",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "We've got you! Climb higher, Ember!!",
+          "bx": 26,
+          "by": -13,
+          "tx": 44,
+          "ty": 24,
+          "max_chars": 17
+        },
+        {
+          "type": "shout",
+          "text": "Find your friends—reunite all seventeen!",
+          "bx": 72,
+          "by": 113,
+          "tx": 78,
+          "ty": 78,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FWOOSH!!",
+          "x": 18,
+          "y": 72,
+          "rotate": -10,
+          "size": 48,
+          "fill": "#EA580C"
+        }
+      ],
+      "height": 455
+    },
+    {
+      "id": "p13_01",
+      "file": "CH00_P13_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 92,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Look at the horizon! Your classmates' Spellbooks are sending up signals!",
+          "bx": 28,
+          "by": -14,
+          "tx": 46,
+          "ty": 26,
+          "max_chars": 23
+        },
+        {
+          "type": "speech",
+          "text": "Then let's go bring every single one of them home!",
+          "bx": 76,
+          "by": -14,
+          "tx": 58,
+          "ty": 28,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLIDE~",
+          "x": 15,
+          "y": 64,
+          "rotate": -8,
+          "size": 26,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 395
+    },
+    {
+      "id": "p13_02",
+      "file": "CH00_P13_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 72,
+      "bottom_gutter": 68,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "And so the seventeen Guardians were scattered across Pythonia...",
+          "bx": 34,
+          "by": -12,
+          "max_chars": 34
+        },
+        {
+          "type": "narration",
+          "text": "...their quest to reunite, evolve, and debug the world had only just begun.",
+          "bx": 66,
+          "by": 112,
+          "max_chars": 36
+        }
+      ],
+      "height": 415
+    }
+  ]
+}

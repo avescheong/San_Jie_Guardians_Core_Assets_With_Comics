@@ -1,0 +1,1733 @@
+{
+  "kicker": "HERO KAI × SAN JIE 17 GUARDIANS  •  ACT III: CITADEL SIEGE  •  ENGLISH WEBTOON v5.3",
+  "title": "CHAPTER 10: TWIN SPIRES & GRAND ASCENSION",
+  "subtitle": "Nine Guardians awaken Stage 3 Grand Evolution across the Clockwork Forge & Crystal Waterfall Spires!",
+  "end_banner": {
+    "kicker": "TO BE CONTINUED IN CHAPTER 11",
+    "title": "NEXT: ASSAULT ON LORD MALCODE'S CITADEL",
+    "subtitle": "All 17 Guardians unite under Hero Kai's Star-Map for the ultimate showdown against Bug King II!"
+  },
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH10_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 405,
+      "top_gutter": 62,
+      "bottom_gutter": 60,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "TWO CORRUPTED OUTER SPIRES LOCK THE CITADEL GATES — THE CLOCKWORK FORGE AND THE CRYSTAL WATERFALL.",
+          "bx": 50,
+          "by": -9,
+          "max_chars": 46
+        },
+        {
+          "type": "narration",
+          "text": "TO SHATTER LORD MALCODE'S SEAL, TWO GUARDIAN SQUADS MUST IGNITE BOTH BEACONS AT ONCE!",
+          "bx": 50,
+          "by": 109,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "RUMBLE...",
+          "x": 22,
+          "y": 19,
+          "rotate": -8,
+          "size": 26,
+          "fill": "#A855F7"
+        },
+        {
+          "kind": "mood",
+          "text": "THROB...",
+          "x": 78,
+          "y": 21,
+          "rotate": 7,
+          "size": 25,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH10_P01_02_RAW.jpg",
+      "layout": "framed",
+      "height": 405,
+      "top_gutter": 94,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "THE CLOCKWORK FORGE IS RIGHT AHEAD! READY, BARKLEY?",
+          "bx": 25,
+          "by": -14,
+          "tx": 34,
+          "ty": 32,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "MY STAR-CHRONO COMPASS DETECTS HEAVY GLITCH GEARS INSIDE!",
+          "bx": 74,
+          "by": -14,
+          "tx": 57,
+          "ty": 32,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "TICK... TOCK...",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH10_P02_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 410,
+      "top_gutter": 96,
+      "bottom_gutter": 16,
+      "speedlines": {
+        "cx": 50,
+        "cy": 34,
+        "color": "#FDE047",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "HOLD THE FRONT LINE, BARKLEY! FLAME COUNTER!",
+          "bx": 24,
+          "by": -15,
+          "tx": 27,
+          "ty": 41,
+          "max_chars": 19
+        },
+        {
+          "type": "shout",
+          "text": "IGNIS-FROST PUP, COOL ITS MAGMA ARMOR NOW!",
+          "bx": 76,
+          "by": -15,
+          "tx": 70,
+          "ty": 43,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ROOOAAR!!",
+          "x": 50,
+          "y": 12,
+          "rotate": -5,
+          "size": 44,
+          "fill": "#F97316"
+        },
+        {
+          "kind": "sfx",
+          "text": "FWOOSH!",
+          "x": 14,
+          "y": 38,
+          "rotate": -12,
+          "size": 34,
+          "fill": "#EF4444"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH10_P02_02_RAW.jpg",
+      "layout": "framed",
+      "height": 410,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "SHIELD DOME LOCKED! SYNCING OUR FOUR RELICS NOW!",
+          "bx": 25,
+          "by": -14,
+          "tx": 43,
+          "ty": 26,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "DEWDROP PETAL TEACUP — HEAL THE SQUAD AND BOOST LIGHT!",
+          "bx": 75,
+          "by": -14,
+          "tx": 57,
+          "ty": 28,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHIIING!",
+          "x": 18,
+          "y": 24,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "mood",
+          "text": "SPARKLE",
+          "x": 85,
+          "y": 24,
+          "rotate": 10,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · FUNCTIONS & RETURN",
+        "concept": "def + return · Relic Sync Calibration",
+        "lines": [
+          "def sync_relics(energies, threshold=100):",
+          "    total = sum(energies)",
+          "    return total >= threshold",
+          "",
+          "ready = sync_relics([28, 26, 25, 27])  # Fourfold Sun-Forge Dome"
+        ],
+        "output": "True -> RELIC RESONANCE AT 106%! STAGE 3 GATE UNLOCKED!"
+      }
+    },
+    {
+      "id": "p03_01",
+      "file": "CH10_P03_01_RAW.jpg",
+      "layout": "framed",
+      "height": 425,
+      "top_gutter": 96,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 50,
+        "cy": 18,
+        "color": "#FCD34D",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "FOUR VIRTUES — ONE HEART! LINK EVERY RELIC!",
+          "bx": 25,
+          "by": -15,
+          "tx": 20,
+          "ty": 34,
+          "max_chars": 19
+        },
+        {
+          "type": "shout",
+          "text": "GRAND EVOLUTION PROTOCOL — ACTIVATE!!",
+          "bx": 75,
+          "by": -15,
+          "tx": 82,
+          "ty": 34,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "VWOOOM!!",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 44,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p03_01_eye",
+      "file": "CH10_P03_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "crop": [
+        0.06,
+        0.4,
+        0.94,
+        0.6
+      ],
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SYNC!!",
+          "x": 50,
+          "y": 24,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p03_01b",
+      "file": "CH10_P03_01B_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 455,
+      "top_gutter": 78,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "ABOVE THE BURNING GEARS, FOUR BONDS SURGE PAST STAGE 2 INTO RADIANT GRAND ASCENSION!",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BLAZE!!",
+          "x": 16,
+          "y": 84,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#F97316"
+        },
+        {
+          "kind": "mood",
+          "text": "SHIMMER",
+          "x": 85,
+          "y": 84,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p03_pt01",
+      "file": "CH10_PT01_DaoYang_Barkley_Grand_Ascension_3x4_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 855,
+      "top_gutter": 10,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THE SMILEY HEARTH MEDALLION IGNITES — SUN-FORGE SOVEREIGN BARKLEY SOARS INTO STAGE 3!",
+          "bx": 50,
+          "by": 4,
+          "max_chars": 44
+        },
+        {
+          "type": "shout",
+          "text": "RISE WITH THE SUN, BARKLEY!!",
+          "bx": 22,
+          "by": 67,
+          "tx": 44,
+          "ty": 68,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ASCEND!!",
+          "x": 79,
+          "y": 13,
+          "rotate": 8,
+          "size": 44,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "ROOAAAR~",
+          "x": 20,
+          "y": 14,
+          "rotate": -10,
+          "size": 26,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH10_P03_02_RAW.jpg",
+      "layout": "framed",
+      "height": 425,
+      "top_gutter": 88,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "SOLAR DRAGON, CRYSTAL-FLAME GUARDIAN, CELESTIAL PHOENIX, AND NINE-TAIL BLOSSOM — STAGE 3 GRAND FORM!",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 50
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-SHOOOM!!",
+          "x": 50,
+          "y": 84,
+          "rotate": -3,
+          "size": 42,
+          "fill": "#FCD34D"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH10_P04_01_RAW.jpg",
+      "layout": "framed",
+      "height": 400,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "WHOA... BARKLEY, YOUR SOLAR WINGS ARE INCREDIBLE!",
+          "bx": 25,
+          "by": -14,
+          "tx": 39,
+          "ty": 41,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "IGNIS-FROST PUP'S FLAME AND ICE ARE IN PERFECT HARMONY!",
+          "bx": 75,
+          "by": -14,
+          "tx": 66,
+          "ty": 41,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "RADIANT",
+          "x": 52,
+          "y": 18,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH10_P04_02_RAW.jpg",
+      "layout": "framed",
+      "height": 400,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "DOYB'S STAR-TIME FEATHERS CAN READ EVERY GLITCH WEAK POINT!",
+          "bx": 25,
+          "by": -14,
+          "tx": 44,
+          "ty": 44,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "POPPY, LET'S TURN THIS WHOLE FORGE BACK TO LIGHT!",
+          "bx": 75,
+          "by": -14,
+          "tx": 57,
+          "ty": 46,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "FLUTTER~",
+          "x": 14,
+          "y": 42,
+          "rotate": -12,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p04_duo",
+      "layout": "split_duo",
+      "height": 255,
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "left": {
+        "file": "CH10_P04_01_RAW.jpg",
+        "crop": [
+          0.16,
+          0.14,
+          0.46,
+          0.52
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "FLARE!",
+            "x": 28,
+            "y": 82,
+            "rotate": -8,
+            "size": 32,
+            "fill": "#F97316"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH10_P04_02_RAW.jpg",
+        "crop": [
+          0.18,
+          0.14,
+          0.48,
+          0.52
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SHING!",
+            "x": 74,
+            "y": 82,
+            "rotate": 8,
+            "size": 32,
+            "fill": "#EC4899"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH10_P05_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 365,
+      "top_gutter": 98,
+      "bottom_gutter": 20,
+      "speedlines": {
+        "cx": 72,
+        "cy": 44,
+        "color": "#FDE047",
+        "opacity": 0.35
+      },
+      "inset": {
+        "crop": [
+          0.58,
+          0.26,
+          0.86,
+          0.64
+        ],
+        "x": 548,
+        "y_off": 145,
+        "w": 222,
+        "h": 212,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SHATTER!",
+            "x": 50,
+            "y": 84,
+            "rotate": -8,
+            "size": 32,
+            "fill": "#A855F7"
+          }
+        ]
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "COMBINED GRAND PURIFICATION BEAM — FIRE!!",
+          "bx": 22,
+          "by": -15,
+          "tx": 28,
+          "ty": 13,
+          "max_chars": 19
+        },
+        {
+          "type": "glitch",
+          "text": "ERROR... CORE_GEAR OVERLOAD... SHUTTING DOWN...",
+          "bx": 98,
+          "by": -15,
+          "tx": 73,
+          "ty": 11,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOOM!!",
+          "x": 44,
+          "y": 20,
+          "rotate": -7,
+          "size": 40,
+          "fill": "#F59E0B"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · FOR LOOP & ACCUMULATOR",
+        "concept": "for loop · Fourfold Grand Beam Strike",
+        "lines": [
+          "grand_beams = [\"Solar\", \"Crystal-Frost\", \"Star-Phoenix\", \"Petal-Light\"]",
+          "corruption = 100",
+          "for beam in grand_beams:",
+          "    corruption = max(0, corruption - 25)",
+          "print(f\"Clockwork Titan corruption: {corruption}%\")"
+        ],
+        "output": "Clockwork Titan corruption: 0% -> CORE PURIFIED!"
+      }
+    },
+    {
+      "id": "p05_02",
+      "file": "CH10_P05_02_RAW.jpg",
+      "layout": "framed",
+      "height": 445,
+      "top_gutter": 98,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THE CLOCKWORK FORGE BEACON IGNITES — ONE SEAL DOWN!",
+          "bx": 24,
+          "by": -11,
+          "max_chars": 24
+        },
+        {
+          "type": "shout",
+          "text": "WE DID IT! OVER TO SQUAD EMERALD-TIDE!",
+          "bx": 77,
+          "by": -15,
+          "tx": 67,
+          "ty": 46,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "FLUTTER",
+          "x": 58,
+          "y": 24,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#FBBF24"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH10_P06_01_RAW.jpg",
+      "layout": "framed",
+      "height": 410,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "MEANWHILE, AT THE CRYSTAL WATERFALL SPIRE...",
+          "bx": 28,
+          "by": -11,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "THOSE PURPLE BRIARS ARE DRAINING THE ENTIRE WATERFALL!",
+          "bx": 73,
+          "by": -14,
+          "tx": 46,
+          "ty": 44,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CREAAAK...",
+          "x": 82,
+          "y": 54,
+          "rotate": 10,
+          "size": 24,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH10_P06_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 365,
+      "top_gutter": 98,
+      "bottom_gutter": 20,
+      "inset": {
+        "crop": [
+          0.45,
+          0.08,
+          0.74,
+          0.44
+        ],
+        "x": 548,
+        "y_off": 145,
+        "w": 222,
+        "h": 212,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "GLARE!!",
+            "x": 50,
+            "y": 84,
+            "rotate": -6,
+            "size": 32,
+            "fill": "#D946EF"
+          }
+        ]
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "AEGIS BAMBOO-IRON SCROLL — BARRIER UP!!",
+          "bx": 22,
+          "by": -15,
+          "tx": 29,
+          "ty": 38,
+          "max_chars": 19
+        },
+        {
+          "type": "glitch",
+          "text": "NO GUARDIAN SHALL PASS THE BRIAR ROOT!!",
+          "bx": 98,
+          "by": -15,
+          "tx": 60,
+          "ty": 12,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 13,
+          "y": 40,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p06_eye",
+      "file": "CH10_P06_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 225,
+      "crop": [
+        0.38,
+        0.1,
+        0.78,
+        0.36
+      ],
+      "top_gutter": 14,
+      "bottom_gutter": 16,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HISS...",
+          "x": 20,
+          "y": 50,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#D946EF"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH10_P07_01_RAW.jpg",
+      "layout": "framed",
+      "height": 400,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 50,
+        "cy": 48,
+        "color": "#38BDF8",
+        "opacity": 0.28
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "STICKY, CLEAR THE BRIDGE WITH TIDE-WAVE!",
+          "bx": 25,
+          "by": -15,
+          "tx": 38,
+          "ty": 20,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "SYLVAN-FOX, ANCHOR THE VINES SO NOBODY SLIPS!",
+          "bx": 75,
+          "by": -14,
+          "tx": 64,
+          "ty": 18,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SPLAAASH!",
+          "x": 16,
+          "y": 54,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#0EA5E9"
+        },
+        {
+          "kind": "sfx",
+          "text": "RUSTLE!",
+          "x": 85,
+          "y": 74,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#22C55E"
+        }
+      ]
+    },
+    {
+      "id": "p07_01b",
+      "file": "CH10_P07_01B_RAW.jpg",
+      "layout": "framed",
+      "height": 400,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "IF ALL FIVE OF US SYNC OUR RELICS NOW, WE CAN HEAL IT!",
+          "bx": 24,
+          "by": -14,
+          "tx": 22,
+          "ty": 42,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "STAR-BERRY LIGHT — SLICE RIGHT THROUGH THOSE THORNS, BERRIE!",
+          "bx": 73,
+          "by": -14,
+          "tx": 44,
+          "ty": 25,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SWISH!!",
+          "x": 80,
+          "y": 28,
+          "rotate": -12,
+          "size": 38,
+          "fill": "#EC4899"
+        },
+        {
+          "kind": "mood",
+          "text": "SPARKLE",
+          "x": 74,
+          "y": 14,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#FBBF24"
+        }
+      ]
+    },
+    {
+      "id": "p07_duo",
+      "layout": "split_duo",
+      "height": 255,
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "left": {
+        "file": "CH10_P07_01_RAW.jpg",
+        "crop": [
+          0.05,
+          0.1,
+          0.36,
+          0.62
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SURGE!",
+            "x": 28,
+            "y": 82,
+            "rotate": -8,
+            "size": 32,
+            "fill": "#0EA5E9"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH10_P07_01B_RAW.jpg",
+        "crop": [
+          0.54,
+          0.14,
+          0.9,
+          0.64
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SLASH!",
+            "x": 74,
+            "y": 82,
+            "rotate": 8,
+            "size": 32,
+            "fill": "#EC4899"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p07_02",
+      "file": "CH10_P07_02_RAW.jpg",
+      "layout": "framed",
+      "height": 425,
+      "top_gutter": 114,
+      "bottom_gutter": 22,
+      "speedlines": {
+        "cx": 50,
+        "cy": 22,
+        "color": "#86EFAC",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "FIVE GUARDIANS — FIVE ELEMENTS AS ONE!",
+          "bx": 25,
+          "by": -15,
+          "tx": 39,
+          "ty": 38,
+          "max_chars": 19
+        },
+        {
+          "type": "shout",
+          "text": "BLOOM THE EMERALD LOTUS — GRAND EVOLUTION!!",
+          "bx": 75,
+          "by": -15,
+          "tx": 63,
+          "ty": 38,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CHIIIME!!",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 40,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · ALL() & LIST CHECK",
+        "concept": "all() · Fivefold Emerald Lotus Sync",
+        "lines": [
+          "emerald_squad = [",
+          "    {\"pet\": \"Sticky\", \"sync\": True}, {\"pet\": \"Javin Jr\", \"sync\": True},",
+          "    {\"pet\": \"Berrie\", \"sync\": True}, {\"pet\": \"Sylvan-Fox\", \"sync\": True},",
+          "    {\"pet\": \"Emerald-X\", \"sync\": True}",
+          "]",
+          "if all(m[\"sync\"] for m in emerald_squad):",
+          "    print(\"FIVEFOLD GRAND ASCENSION ACTIVE!\")"
+        ],
+        "output": "FIVEFOLD GRAND ASCENSION ACTIVE!"
+      }
+    },
+    {
+      "id": "p07_03",
+      "file": "CH10_P07_03_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 455,
+      "top_gutter": 88,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "TIDE, BAMBOO, STAR-BERRY, EMERALD ROOT, AND ECO-MECHA — FIVE GRAND SPIRITS AWAKEN AS ONE!",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHINE!!",
+          "x": 50,
+          "y": 84,
+          "rotate": -5,
+          "size": 44,
+          "fill": "#34D399"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH10_P08_01_RAW.jpg",
+      "layout": "framed",
+      "height": 430,
+      "top_gutter": 88,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FIVE ANCIENT RUNE SEALS LOCK INTO PLACE — STAGE 3 GRAND FORM COMPLETE!",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HUMMM...",
+          "x": 50,
+          "y": 84,
+          "rotate": 0,
+          "size": 26,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p08_02",
+      "file": "CH10_P08_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 108,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "STICKY, YOU'RE A FULL TIDE-CRYSTAL SPIRIT NOW!",
+          "bx": 26,
+          "by": -14,
+          "tx": 39,
+          "ty": 30,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "AND JAVIN JR BECAME THE GRAND BAMBOO SAGE!",
+          "bx": 75,
+          "by": -14,
+          "tx": 81,
+          "ty": 30,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "AWESOME!",
+          "x": 54,
+          "y": 18,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p08_eye",
+      "file": "CH10_P08_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 205,
+      "crop": [
+        0.06,
+        0.2,
+        0.94,
+        0.46
+      ],
+      "top_gutter": 16,
+      "bottom_gutter": 20,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "AWAKEN!!",
+          "x": 50,
+          "y": 80,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p09_01",
+      "file": "CH10_P09_01_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 108,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "BERRIE'S STARLIGHT WINGS ARE GLOWING SO BRIGHT!",
+          "bx": 25,
+          "by": -14,
+          "tx": 29,
+          "ty": 41,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "EMERALD-X MECHA IS ONLINE AT FULL ECO-POWER!",
+          "bx": 75,
+          "by": -14,
+          "tx": 74,
+          "ty": 39,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SPARKLE",
+          "x": 50,
+          "y": 12,
+          "rotate": 4,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p09_02",
+      "file": "CH10_P09_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 365,
+      "top_gutter": 114,
+      "bottom_gutter": 32,
+      "speedlines": {
+        "cx": 75,
+        "cy": 40,
+        "color": "#86EFAC",
+        "opacity": 0.34
+      },
+      "inset": {
+        "crop": [
+          0.72,
+          0.16,
+          0.96,
+          0.56
+        ],
+        "x": 548,
+        "y_off": 152,
+        "w": 222,
+        "h": 215,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "PETAL BURST",
+            "x": 50,
+            "y": 84,
+            "rotate": -6,
+            "size": 22,
+            "fill": "#EC4899"
+          }
+        ]
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "FIVEFOLD NATURE BLOOM — PURIFY THE SPIRE!!",
+          "bx": 22,
+          "by": -15,
+          "tx": 24,
+          "ty": 13,
+          "max_chars": 19
+        },
+        {
+          "type": "whisper",
+          "text": "THE DARK THORNS... THEY'RE TURNING BACK INTO FLOWERS...",
+          "bx": 98,
+          "by": -14,
+          "tx": 72,
+          "ty": 15,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BLOOOOM!!",
+          "x": 48,
+          "y": 18,
+          "rotate": -8,
+          "size": 38,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p09_float",
+      "file": "CH10_P09_02_RAW.jpg",
+      "layout": "floating_beat",
+      "height": 275,
+      "crop": [
+        0.58,
+        0.14,
+        0.96,
+        0.62
+      ],
+      "top_gutter": 16,
+      "bottom_gutter": 20,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "BLOOM~",
+          "x": 50,
+          "y": 84,
+          "rotate": -5,
+          "size": 28,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p10_01",
+      "file": "CH10_P10_01_RAW.jpg",
+      "layout": "framed",
+      "height": 445,
+      "top_gutter": 110,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THE CRYSTAL WATERFALL SPIRE IS FREE — BOTH BEACONS ARE LIT!",
+          "bx": 25,
+          "by": -11,
+          "max_chars": 25
+        },
+        {
+          "type": "shout",
+          "text": "WOOHOO!! BOTH OUTER SEALS ARE BROKEN!",
+          "bx": 77,
+          "by": -15,
+          "tx": 68,
+          "ty": 46,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CHEER~",
+          "x": 50,
+          "y": 24,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH10_P10_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 455,
+      "top_gutter": 88,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "TWIN BEAMS OF GOLD AND EMERALD STRIKE THE CITADEL GATE — THE DARK BARRIER SHATTERS!",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-SHAAAK!!",
+          "x": 62,
+          "y": 38,
+          "rotate": -7,
+          "size": 44,
+          "fill": "#F59E0B"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · BOOLEAN AND GATE",
+        "concept": "if ... and ... · Twin Spire Seal Unlock",
+        "lines": [
+          "forge_beacon = True",
+          "crystal_beacon = True",
+          "if forge_beacon and crystal_beacon:",
+          "    gate_status = \"OPEN\"",
+          "    print(\"CITADEL GATES UNLOCKED!\")"
+        ],
+        "output": "CITADEL GATES UNLOCKED! -> PATH TO THE THRONE ROOM CLEAR!"
+      }
+    },
+    {
+      "id": "p11_01",
+      "file": "CH10_P11_01_RAW.jpg",
+      "layout": "framed",
+      "height": 400,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "STEAMED VEGGIE BUNS AND STAR-BERRIES NEVER TASTED THIS GOOD!",
+          "bx": 26,
+          "by": -14,
+          "tx": 31,
+          "ty": 34,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "RECHARGE EVERYONE — THE CITADEL AWAITS US NEXT!",
+          "bx": 75,
+          "by": -14,
+          "tx": 74,
+          "ty": 36,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CLINK~",
+          "x": 52,
+          "y": 78,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH10_P11_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 405,
+      "top_gutter": 96,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "HEY GUARDIANS!! INCREDIBLE WORK ON BOTH SPIRES!",
+          "bx": 25,
+          "by": -15,
+          "tx": 37,
+          "ty": 9,
+          "max_chars": 20
+        },
+        {
+          "type": "shout",
+          "text": "HERO KAI! AND EMBER! YOU MADE IT!!",
+          "bx": 76,
+          "by": -15,
+          "tx": 74,
+          "ty": 52,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 54,
+          "y": 26,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#EF4444"
+        }
+      ]
+    },
+    {
+      "id": "p11_duo",
+      "layout": "split_duo",
+      "height": 250,
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "left": {
+        "file": "CH10_P11_02_RAW.jpg",
+        "crop": [
+          0.16,
+          0.06,
+          0.56,
+          0.58
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "SWOOP!",
+            "x": 26,
+            "y": 84,
+            "rotate": -8,
+            "size": 28,
+            "fill": "#EF4444"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH10_P11_02_RAW.jpg",
+        "crop": [
+          0.56,
+          0.54,
+          0.96,
+          0.98
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "YAAAY!!",
+            "x": 74,
+            "y": 22,
+            "rotate": 8,
+            "size": 28,
+            "fill": "#F59E0B"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p11_03",
+      "file": "CH10_P11_03_RAW.jpg",
+      "layout": "framed",
+      "height": 400,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "ALL SEVENTEEN CONSTELLATIONS ARE ALIGNED! EVERY SQUAD CONVERGES AT DAWN!",
+          "bx": 27,
+          "by": -14,
+          "tx": 50,
+          "ty": 26,
+          "max_chars": 23
+        },
+        {
+          "type": "shout",
+          "text": "NEXT STOP: LORD MALCODE'S THRONE ROOM!",
+          "bx": 76,
+          "by": -15,
+          "tx": 70,
+          "ty": 36,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 56,
+          "y": 12,
+          "rotate": 0,
+          "size": 24,
+          "fill": "#FCD34D"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH10_P12_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 340,
+      "top_gutter": 94,
+      "bottom_gutter": 82,
+      "inset": {
+        "crop": [
+          0.51,
+          0.14,
+          0.75,
+          0.42
+        ],
+        "x": 548,
+        "y_off": 132,
+        "w": 222,
+        "h": 202,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "SCAN...",
+            "x": 50,
+            "y": 84,
+            "rotate": -5,
+            "size": 24,
+            "fill": "#38BDF8"
+          }
+        ]
+      },
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "BOTH OUTER SPIRES HAVE FALLEN... ALL NINE OF THEM HIT STAGE 3...",
+          "bx": 26,
+          "by": -14,
+          "tx": 58,
+          "ty": 12,
+          "max_chars": 22
+        },
+        {
+          "type": "thought",
+          "text": "THEY AREN'T JUST KIDS ANYMORE. I MUST WARN LORD MALCODE.",
+          "bx": 28,
+          "by": 112,
+          "tx": 48,
+          "ty": 66,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "STATIC...",
+          "x": 20,
+          "y": 28,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p12_eye",
+      "file": "CH10_P12_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.46,
+        0.18,
+        0.78,
+        0.36
+      ],
+      "top_gutter": 12,
+      "bottom_gutter": 14,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLINT...",
+          "x": 22,
+          "y": 50,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p12_pt02",
+      "file": "CH10_PT02_Malcode_Throne_Override_3x4_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 1100,
+      "top_gutter": 10,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "DEEP INSIDE THE OBSIDIAN CITADEL — BUG KING II AWAKENS HIS FINAL OVERRIDE!",
+          "bx": 50,
+          "by": 4,
+          "max_chars": 42
+        },
+        {
+          "type": "glitch",
+          "text": "NINE GRAND FORMS?! AMUSING... LET THEM FACE MY INFINITE LOOP!!",
+          "bx": 75,
+          "by": 17,
+          "tx": 60,
+          "ty": 32,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-ZAAAP!!",
+          "x": 24,
+          "y": 16,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#D946EF"
+        },
+        {
+          "kind": "mood",
+          "text": "CRACKLE...",
+          "x": 82,
+          "y": 86,
+          "rotate": 8,
+          "size": 26,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p12_pt02_eye",
+      "file": "CH10_PT02_Malcode_Throne_Override_3x4_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 225,
+      "crop": [
+        0.36,
+        0.32,
+        0.8,
+        0.5
+      ],
+      "top_gutter": 16,
+      "bottom_gutter": 20,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "OVERRIDE!!",
+          "x": 22,
+          "y": 50,
+          "rotate": -6,
+          "size": 34,
+          "fill": "#D946EF"
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH10_P12_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 455,
+      "top_gutter": 116,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "MY LORD... THE CITADEL GATES HAVE BEEN BREACHED.",
+          "bx": 23,
+          "by": -14,
+          "tx": 38,
+          "ty": 46,
+          "max_chars": 21
+        },
+        {
+          "type": "glitch",
+          "text": "LET THEM COME!! MY FINAL OVERRIDE ALGORITHM IS READY!!",
+          "bx": 73,
+          "by": -15,
+          "tx": 54,
+          "ty": 9,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRZZZT!!",
+          "x": 82,
+          "y": 28,
+          "rotate": 10,
+          "size": 44,
+          "fill": "#C084FC"
+        },
+        {
+          "kind": "mood",
+          "text": "MENACING...",
+          "x": 18,
+          "y": 78,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#A855F7"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE OVERRIDE · INFINITE LOOP TRAP",
+        "concept": "while loop · Bug King II Citadel Protocol",
+        "lines": [
+          "citadel_shield = \"MAXIMUM\"",
+          "wave = 1",
+          "while citadel_shield == \"MAXIMUM\":",
+          "    deploy_bug_swarm(wave, power=99)",
+          "    wave += 1  # No break condition until core is debugged!"
+        ],
+        "output": "WARNING: INFINITE BUG SWARM INITIALIZED — CITADEL SIEGE BEGINS!"
+      }
+    },
+    {
+      "id": "p12_finale_duo",
+      "layout": "split_duo",
+      "height": 285,
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "left": {
+        "file": "CH10_P11_03_RAW.jpg",
+        "crop": [
+          0.34,
+          0.24,
+          0.68,
+          0.72
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "STAR-MAP",
+            "x": 30,
+            "y": 84,
+            "rotate": -6,
+            "size": 26,
+            "fill": "#FCD34D"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH10_P12_02_RAW.jpg",
+        "crop": [
+          0.32,
+          0.08,
+          0.76,
+          0.5
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SIEGE!!",
+            "x": 72,
+            "y": 84,
+            "rotate": 6,
+            "size": 32,
+            "fill": "#C084FC"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# Superseded drafts, archived versions, and duplicate exports (~467 MB)
+99_Archive_Superseded/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+.vscode/
+.idea/
+
+# Office temporary lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Logs & temporary files
+*.log
+*.tmp
+*.bak

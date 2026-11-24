@@ -1,0 +1,1488 @@
+{
+  "kicker": "HERO KAI × SAN JIE 17 GUARDIANS  •  ACT 2 FINALE  •  ENGLISH WEBTOON v5.3",
+  "title": "CHAPTER 8: THE FLOATING RUNE LIBRARY",
+  "subtitle": "Four Scholars Awaken — Ooi Kai Xiang, Chong Jing Cheng, Lee Qiu Rong & Chan Shi Ye",
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH08_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 72,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "ACT 2 FINALE — THE FLOATING RUNE LIBRARY ABOVE MOONLIT SILVER LAKE.",
+          "bx": 28,
+          "by": 2,
+          "max_chars": 30
+        },
+        {
+          "type": "speech",
+          "text": "HOLD ON, EMBER! THAT PURPLE LIGHTNING IS TEARING RIGHT THROUGH THE ARCHIVE!",
+          "bx": 76,
+          "by": -9,
+          "tx": 66,
+          "ty": 32,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOOOM!!",
+          "x": 24,
+          "y": 29,
+          "rotate": -10,
+          "size": 46,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH08_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 78,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "THE LIBRARY RUNES FEEL STRANGE TONIGHT, OKX. SOMETHING'S SCRAMBLING THE ARCHIVE!",
+          "bx": 26,
+          "by": -9,
+          "tx": 24,
+          "ty": 36,
+          "max_chars": 24
+        },
+        {
+          "type": "speech",
+          "text": "DON'T WORRY, KAI XIANG! MIKU AND CATICORN ARE RIGHT HERE WITH US!",
+          "bx": 74,
+          "by": -9,
+          "tx": 59,
+          "ty": 36,
+          "max_chars": 24
+        },
+        {
+          "type": "narration",
+          "text": "EARLIER THAT EVENING, FOUR GUARDIANS PATROLLED THE SUNLIT ARCHIVE BRIDGE.",
+          "bx": 50,
+          "by": 100,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "BREEZY~",
+          "x": 12,
+          "y": 24,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH08_P02_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "KAI XIANG! JING CHENG! QIU RONG! SHI YE! LORD MALCODE'S GLITCHES ARE CLOSING IN!",
+          "bx": 30,
+          "by": -15,
+          "tx": 40,
+          "ty": 24,
+          "max_chars": 23
+        },
+        {
+          "type": "speech",
+          "text": "WE FELT THE RUNES FLICKERING! ALL FOUR OF OUR PARTNERS ARE READY!",
+          "bx": 76,
+          "by": -15,
+          "tx": 73,
+          "ty": 36,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "ZZZ...",
+          "x": 19,
+          "y": 24,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH08_P02_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 96,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "THE CIPHER OWL HAS WOKEN... LET'S SEE IF THESE FOUR CAN REWRITE THE LOCK.",
+          "bx": 68,
+          "by": -14,
+          "tx": 72,
+          "ty": 11,
+          "max_chars": 22
+        },
+        {
+          "type": "narration",
+          "text": "UNSEEN FROM THE RUINED GALLERY, A SILENT WATCHER OBSERVED THE LAKE...",
+          "bx": 38,
+          "by": 104,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HUMMM...",
+          "x": 27,
+          "y": 57,
+          "rotate": -5,
+          "size": 22,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p02_02_eye",
+      "file": "CH08_P02_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "crop": [
+        0.3,
+        0.14,
+        0.9,
+        0.36
+      ],
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "STARE...",
+          "x": 22,
+          "y": 50,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH08_P03_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 86,
+      "bottom_gutter": 74,
+      "speedlines": {
+        "cx": 65,
+        "cy": 34,
+        "color": "#E879F9",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "ARCHIVE CORRUPTION: 99%. DELETING ALL KNOWLEDGE SCROLLS!!",
+          "bx": 66,
+          "by": -11,
+          "tx": 65,
+          "ty": 10,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "NO WAY! IT'S SCRAMBLING THE LIBRARY'S MASTER CIPHER!",
+          "bx": 30,
+          "by": 108,
+          "tx": 32,
+          "ty": 94,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "SHRIEK!",
+            "BZ-ZZT!"
+          ],
+          "x": 9,
+          "y": 20,
+          "step_x": 36,
+          "step_y": 46,
+          "rotate": -10,
+          "size": 40,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH08_P03_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 98,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "MY CIPHER CUBE READS ITS CODE! IT'S SHIFTING EVERY KEY WITH A DICTIONARY!",
+          "bx": 20,
+          "by": -13,
+          "tx": 36,
+          "ty": 21,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "I'LL MAP THE BROKEN KEYS IN MY SKETCHBOOK — LET'S DECODE IT TOGETHER!",
+          "bx": 104,
+          "by": -13,
+          "tx": 64,
+          "ty": 24,
+          "max_chars": 21
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.2,
+          0.14,
+          0.54,
+          0.56
+        ],
+        "x": 552,
+        "y_off": 146,
+        "w": 222,
+        "h": 196,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SCAN!",
+            "x": 28,
+            "y": 18,
+            "rotate": -10,
+            "size": 28,
+            "fill": "#0284C7"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK  •  SPELL #1",
+        "concept": "Dictionaries (dict) & Safe .get() Lookup",
+        "lines": [
+          "# Ooi Kai Xiang & Chong Jing Cheng — Cipher Cube Decoder",
+          "rune_map = {\"X7\": \"LIGHT\", \"Q9\": \"SHIELD\", \"Z3\": \"RESTORE\"}",
+          "signal = rune_map.get(\"Z3\", \"UNKNOWN\")",
+          "print(\"Decoded Rune:\", signal)"
+        ],
+        "output": "Decoded Rune: RESTORE"
+      }
+    },
+    {
+      "id": "p04_01",
+      "file": "CH08_P04_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "BACK OFF, GLITCH TENDRILS! MY CHIME BOW HOLDS THE LINE!",
+          "bx": 28,
+          "by": -15,
+          "tx": 36,
+          "ty": 21,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "THE SCROLLS ARE UNRAVELING! I'LL WEAVE MY STAR-YARN TO BIND THEM!",
+          "bx": 74,
+          "by": -15,
+          "tx": 64,
+          "ty": 29,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "TWANG!!",
+          "x": 49,
+          "y": 17,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#0D9488"
+        },
+        {
+          "kind": "mood",
+          "text": "ZAP!",
+          "x": 87,
+          "y": 35,
+          "rotate": 12,
+          "size": 24,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH08_P04_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 52,
+      "bottom_gutter": 90,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "STEP 1: RELIC RESONANCE! LOGIC AND CREATIVITY IGNITE THE ARCHIVE!",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 40
+        },
+        {
+          "type": "shout",
+          "text": "OKX, FEEL THE CIPHER!",
+          "bx": 26,
+          "by": 114,
+          "tx": 36,
+          "ty": 94,
+          "max_chars": 18
+        },
+        {
+          "type": "shout",
+          "text": "MIMIK-SPARK, SHINE BRIGHT!",
+          "bx": 74,
+          "by": 114,
+          "tx": 65,
+          "ty": 94,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FWOOSH!!",
+          "x": 51,
+          "y": 14,
+          "rotate": -4,
+          "size": 38,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p04_02_eye",
+      "file": "CH08_P04_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 180,
+      "crop": [
+        0.22,
+        0.42,
+        0.8,
+        0.68
+      ],
+      "top_gutter": 16,
+      "bottom_gutter": 16,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SYNC!!",
+          "x": 50,
+          "y": 28,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p04_02b",
+      "file": "CH08_P04_02B_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 90,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "STEP 2: LUMINOUS COCOONS WRAP BOTH PARTNERS AS THEIR DATA REWRITES...",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 42
+        },
+        {
+          "type": "whisper",
+          "text": "MY WINGS... THEY'RE GROWING SO WARM!",
+          "bx": 28,
+          "by": 112,
+          "tx": 30,
+          "ty": 79,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER~",
+          "x": 52,
+          "y": 30,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p05_01",
+      "file": "CH08_P05_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 56,
+      "bottom_gutter": 20,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FDE047",
+        "opacity": 0.32
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "STAGE 2 EVOLUTION COMPLETE — SCHOLAR FLAME & CRYSTAL SPARK AWAKEN!",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FLARE!!",
+          "x": 16,
+          "y": 20,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "sfx",
+          "text": "CRACKLE!!",
+          "x": 85,
+          "y": 20,
+          "rotate": 10,
+          "size": 42,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p05_01_eye",
+      "file": "CH08_P05_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "crop": [
+        0.1,
+        0.24,
+        0.9,
+        0.54
+      ],
+      "top_gutter": 22,
+      "bottom_gutter": 22,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHING!!",
+          "x": 50,
+          "y": 50,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH08_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 86,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "WHOA, OKX! THAT FLAMING TOP HAT LOOKS AWESOME ON YOU!",
+          "bx": 28,
+          "by": -11,
+          "tx": 24,
+          "ty": 22,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "AND MIMIK-SPARK HAS CRYSTAL ARMOR NOW! WE'RE READY TO FIGHT!",
+          "bx": 72,
+          "by": -11,
+          "tx": 67,
+          "ty": 23,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PROUD~",
+          "x": 46,
+          "y": 43,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p05_03_portrait",
+      "file": "CH08_P05_03_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 880,
+      "top_gutter": 10,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "OKX'S CIPHER CUBE LOCKS ONTO EVERY FLOATING BOOKSHELF IN THE ARCHIVE!",
+          "bx": 50,
+          "by": 4,
+          "max_chars": 40
+        },
+        {
+          "type": "speech",
+          "text": "I SEE THE WHOLE MATRIX NOW, OKX! EVERY SCRAMBLED SHELF HAS A CLEAN KEY!",
+          "bx": 30,
+          "by": 17,
+          "tx": 44,
+          "ty": 41,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "DECODE!!",
+          "x": 79,
+          "y": 14,
+          "rotate": 8,
+          "size": 44,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "WHIRR~",
+          "x": 15,
+          "y": 35,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH08_P06_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 94,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "MEANWHILE, HARMONY AND WONDER SPARK A SECOND DOUBLE AWAKENING...",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 40
+        },
+        {
+          "type": "speech",
+          "text": "SING WITH THE MOONLIGHT, MIKU!",
+          "bx": 26,
+          "by": 113,
+          "tx": 24,
+          "ty": 94,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "WEAVE THE STARS, CATICORN!",
+          "bx": 74,
+          "by": 113,
+          "tx": 76,
+          "ty": 94,
+          "max_chars": 19
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p06_01b",
+      "file": "CH08_P06_01B_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "MOONLIGHT CHIMES AND NEBULA THREADS SPIN INTO STAGE 2 FORMS!",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CHIME~",
+          "x": 15,
+          "y": 24,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#059669"
+        },
+        {
+          "kind": "mood",
+          "text": "SPARKLE!",
+          "x": 86,
+          "y": 24,
+          "rotate": 10,
+          "size": 24,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p06_01b_eye",
+      "file": "CH08_P06_01B_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 200,
+      "crop": [
+        0.14,
+        0.26,
+        0.92,
+        0.56
+      ],
+      "top_gutter": 24,
+      "bottom_gutter": 24,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "RADIANT~",
+          "x": 50,
+          "y": 78,
+          "rotate": 0,
+          "size": 24,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH08_P06_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 54,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FFFFFF",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "EMERALD CRYSTAL WINGS & NEBULA STARLIGHT — STAGE 2 COMPLETE!",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHING!!",
+          "x": 17,
+          "y": 84,
+          "rotate": -8,
+          "size": 42,
+          "fill": "#059669"
+        },
+        {
+          "kind": "sfx",
+          "text": "DAZZLE!!",
+          "x": 83,
+          "y": 84,
+          "rotate": 8,
+          "size": 42,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p07_03_portrait",
+      "file": "CH08_P07_03_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 890,
+      "top_gutter": 12,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "MOONLIGHT CHIMES SPIRAL ABOVE SILVER LAKE — CALMING EVERY SCRAMBLED PAGE!",
+          "bx": 50,
+          "by": 4,
+          "max_chars": 42
+        },
+        {
+          "type": "speech",
+          "text": "LISTEN TO THE HARMONY, MIKU! OUR RIBBONS WILL BIND THE WHOLE ARCHIVE!",
+          "bx": 72,
+          "by": 16,
+          "tx": 57,
+          "ty": 48,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CHIME~!!",
+          "x": 22,
+          "y": 15,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#059669"
+        },
+        {
+          "kind": "mood",
+          "text": "LULLABY~",
+          "x": 83,
+          "y": 36,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#8B5CF6"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH08_P07_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "MIKU! YOUR CRYSTAL WINGS ARE GLOWING JUST LIKE THE SILVER LAKE!",
+          "bx": 28,
+          "by": -15,
+          "tx": 26,
+          "ty": 16,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "AND STAR-YARN CATICORN CAN REWEAVE EVERY BROKEN BRIDGE!",
+          "bx": 74,
+          "by": -15,
+          "tx": 72,
+          "ty": 22,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLEAM~",
+          "x": 50,
+          "y": 22,
+          "rotate": 0,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH08_P07_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 20,
+      "speedlines": {
+        "cx": 42,
+        "cy": 50,
+        "color": "#FDE047",
+        "opacity": 0.28
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "ALL FOUR STAGE 2 PARTNERS ARE ONLINE! CHARGE THE ARCHIVE!",
+          "bx": 38,
+          "by": -14,
+          "tx": 41,
+          "ty": 32,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "DASH!",
+            "WHOOSH!"
+          ],
+          "x": 67,
+          "y": 20,
+          "step_x": 34,
+          "step_y": 40,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p07_02_eye",
+      "file": "CH08_P07_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "crop": [
+        0.22,
+        0.28,
+        0.86,
+        0.58
+      ],
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CHARGE!!",
+          "x": 85,
+          "y": 28,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH08_P08_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "OKX, FIRE A CLEAN PARSER FLAME TO CLEAR THE CORRUPTED LAYERS!",
+          "bx": 28,
+          "by": -15,
+          "tx": 25,
+          "ty": 24,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "MIMIK-SPARK, CHAIN YOUR CRYSTAL BOLT RIGHT BEHIND IT!",
+          "bx": 74,
+          "by": -15,
+          "tx": 80,
+          "ty": 24,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ROOOAR!!",
+          "x": 52,
+          "y": 31,
+          "rotate": -6,
+          "size": 36,
+          "fill": "#EA580C"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK  •  SPELL #2",
+        "concept": "Reusable Functions (def) & Return Values",
+        "lines": [
+          "# Combo Spell Function — Flame + Crystal Spark",
+          "def cast_combo(pet_a, pet_b, power):",
+          "    return f\"{pet_a} + {pet_b} STRIKE ({power * 2} DMG)!\"",
+          "print(cast_combo(\"OKX\", \"Mimik-Spark\", 45))"
+        ],
+        "output": "OKX + Mimik-Spark STRIKE (90 DMG)!"
+      }
+    },
+    {
+      "id": "p08_01b",
+      "file": "CH08_P08_01B_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 118,
+      "bottom_gutter": 52,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "DIRECT HIT ON ITS CIPHER CORE! KEEP THE PRESSURE ON!",
+          "bx": 22,
+          "by": -17,
+          "tx": 30,
+          "ty": 40,
+          "max_chars": 20
+        },
+        {
+          "type": "glitch",
+          "text": "ERR-OR!! FIREWALL BREACHED!!",
+          "bx": 104,
+          "by": -17,
+          "tx": 63,
+          "ty": 14,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZ-BOOM!!",
+          "x": 46,
+          "y": 86,
+          "rotate": -6,
+          "size": 34,
+          "fill": "#0284C7"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.46,
+          0.05,
+          0.78,
+          0.42
+        ],
+        "x": 552,
+        "y_off": 146,
+        "w": 222,
+        "h": 196,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "KRA-ZAP!",
+            "x": 52,
+            "y": 84,
+            "rotate": -8,
+            "size": 26,
+            "fill": "#9333EA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p08_02",
+      "file": "CH08_P08_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 74,
+      "bottom_gutter": 56,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "RAINBOW NEBULA BRIDGE — LOOPING EVERY THREAD AROUND ITS WINGS!",
+          "bx": 28,
+          "by": -9,
+          "tx": 14,
+          "ty": 36,
+          "max_chars": 24
+        },
+        {
+          "type": "speech",
+          "text": "MIKU, LOCK THE MOON-RIBBON ANCHORS! DON'T LET IT ESCAPE!",
+          "bx": 34,
+          "by": 105,
+          "tx": 28,
+          "ty": 92,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOOSH!!",
+          "x": 46,
+          "y": 19,
+          "rotate": -8,
+          "size": 38,
+          "fill": "#DB2777"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK  •  SPELL #3",
+        "concept": "Iterating Lists with a for Loop",
+        "lines": [
+          "# Lee Qiu Rong & Chan Shi Ye — Harmonic Ribbon Loop",
+          "anchors = [\"North-Pillar\", \"Moon-Arch\", \"Sky-Bridge\"]",
+          "for point in anchors:",
+          "    print(\"Binding & Restoring:\", point)"
+        ],
+        "output": "Binding & Restoring: North-Pillar -> Moon-Arch -> Sky-Bridge"
+      }
+    },
+    {
+      "id": "p09_01",
+      "file": "CH08_P09_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 36,
+      "bottom_gutter": 58,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FOUR GUARDIAN SIGNALS LOCK INTO SYNC — READY FOR THE MASTER PURGE!",
+          "bx": 50,
+          "by": 2,
+          "max_chars": 42
+        },
+        {
+          "type": "shout",
+          "text": "EVERYONE, LINK YOUR SPELLS WITH EMBER! LET'S CLEANSE THAT OWL!",
+          "bx": 50,
+          "by": 106,
+          "tx": 50,
+          "ty": 94,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "RESONATE!",
+          "x": 20,
+          "y": 24,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p09_02",
+      "file": "CH08_P09_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 92,
+      "bottom_gutter": 74,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "SYSTEM LOCKED... UNABLE TO CORRUPT...!",
+          "bx": 68,
+          "by": -12,
+          "tx": 65,
+          "ty": 10,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "WE'VE GOT IT BOUND IN THE MASTER RUNE RING! NOW FINISH THE DECODE!",
+          "bx": 34,
+          "by": 109,
+          "tx": 34,
+          "ty": 94,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHING-LOCK!!",
+          "x": 24,
+          "y": 22,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#0D9488"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.5,
+          0.08,
+          0.8,
+          0.5
+        ],
+        "x": 552,
+        "y_off": 146,
+        "w": 222,
+        "h": 196,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "BIND!!",
+            "x": 50,
+            "y": 84,
+            "rotate": 6,
+            "size": 28,
+            "fill": "#059669"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p09_02b",
+      "file": "CH08_P09_02B_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 22,
+      "bottom_gutter": 76,
+      "speedlines": {
+        "cx": 50,
+        "cy": 36,
+        "color": "#38BDF8",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "FOURFOLD ARCHIVE PURGE — RESTORE THE FLOATING LIBRARY!!",
+          "bx": 50,
+          "by": 109,
+          "tx": 50,
+          "ty": 94,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-SHATTER!!",
+          "x": 79,
+          "y": 17,
+          "rotate": 8,
+          "size": 40,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK  •  SPELL #4",
+        "concept": "Conditionals (if / else) & Integrity Gate",
+        "lines": [
+          "# Fourfold Archive Purge — Integrity Verification",
+          "glitch_level = 0",
+          "if glitch_level == 0:",
+          "    print(\"ARCHIVE RESTORED: All 4 Relics Verified!\")",
+          "else:",
+          "    print(\"Keep decoding...\")"
+        ],
+        "output": "ARCHIVE RESTORED: All 4 Relics Verified!"
+      }
+    },
+    {
+      "id": "p10_01",
+      "file": "CH08_P10_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 56,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THE PURPLE STORM VANISHED. GOLDEN LANTERNS LIT THE FLOATING ARCHES ONCE MORE.",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PEACEFUL~",
+          "x": 82,
+          "y": 24,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH08_P10_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 48,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "FOUR MORE GUARDIANS AWAKENED... THE FINAL ACT IS ALMOST HERE.",
+          "bx": 68,
+          "by": -14,
+          "tx": 64,
+          "ty": 20,
+          "max_chars": 21
+        },
+        {
+          "type": "narration",
+          "text": "AT FIRST LIGHT, THE QUIET WATCHER TURNED TOWARD THE DISTANT SPIRES...",
+          "bx": 38,
+          "by": 104,
+          "max_chars": 40
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p10_02_eye",
+      "file": "CH08_P10_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "crop": [
+        0.12,
+        0.14,
+        0.88,
+        0.42
+      ],
+      "top_gutter": 20,
+      "bottom_gutter": 20,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "DAWN...",
+          "x": 42,
+          "y": 48,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH08_P11_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "TOAST TO OUR FOUR NEW STAGE 2 GUARDIANS! THESE STEAMED BUNS AND WATERMELON ARE AMAZING!",
+          "bx": 28,
+          "by": -15,
+          "tx": 25,
+          "ty": 30,
+          "max_chars": 23
+        },
+        {
+          "type": "speech",
+          "text": "AND ZERO GLITCHES LEFT IN THE LIBRARY! BEST STUDY BREAK EVER!",
+          "bx": 72,
+          "by": -15,
+          "tx": 54,
+          "ty": 28,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "YUM~",
+          "x": 52,
+          "y": 86,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH08_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "BY THE WILLOW SHORE, FIVE PARTNERS RESTED BENEATH THE FIREFLIES...",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "COZY~",
+          "x": 24,
+          "y": 42,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "mood",
+          "text": "PURR~",
+          "x": 88,
+          "y": 50,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p11_02_eye",
+      "file": "CH08_P11_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 200,
+      "crop": [
+        0.06,
+        0.52,
+        0.94,
+        0.84
+      ],
+      "top_gutter": 24,
+      "bottom_gutter": 24,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "Zzz~",
+          "x": 18,
+          "y": 28,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH08_P12_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 72,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "ACT 2 IS DONE! ALL SEVENTEEN GUARDIANS ARE READY — NEXT STOP, THE FINAL CITADEL!",
+          "bx": 32,
+          "by": -9,
+          "tx": 50,
+          "ty": 34,
+          "max_chars": 25
+        },
+        {
+          "type": "speech",
+          "text": "LOOK BEYOND THE CLOUDS... THAT MUST BE LORD MALCODE'S FORTRESS!",
+          "bx": 82,
+          "by": -9,
+          "tx": 83,
+          "ty": 36,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "LOOMING...",
+          "x": 66,
+          "y": 14,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#475569"
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH08_P12_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 72,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "SO ALL SEVENTEEN GUARDIANS HAVE AWAKENED... LET THEM COME TO MY CITADEL!",
+          "bx": 33,
+          "by": -10,
+          "tx": 38,
+          "ty": 15,
+          "max_chars": 25
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-THOOM!!",
+          "x": 81,
+          "y": 25,
+          "rotate": 8,
+          "size": 36,
+          "fill": "#9333EA"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.24,
+          0.14,
+          0.52,
+          0.46
+        ],
+        "x": 552,
+        "y_off": 146,
+        "w": 222,
+        "h": 196,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "GLARE!!",
+            "x": 50,
+            "y": 84,
+            "rotate": -6,
+            "size": 28,
+            "fill": "#DC2626"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE BUG ENGINE  •  ACT 3 THREAT",
+        "concept": "while Loops & Breaking Out (break)",
+        "lines": [
+          "# Lord Malcode's Citadel Firewall — Act 3 Preview",
+          "citadel_locked = True",
+          "while citadel_locked:",
+          "    deploy_bug_swarm(\"ACT_3_FINAL_SIEGE\")",
+          "    break  # Only 17 Guardians together can trigger break!"
+        ],
+        "output": "WARNING: Act 3 Siege Protocol Armed -> Continue in Chapter 9!"
+      }
+    }
+  ],
+  "end_banner": {
+    "kicker": "END OF ACT 2  •  TO BE CONTINUED IN ACT 3",
+    "title": "NEXT: CHAPTER 9 — THE CITADEL OF INFINITE LOOPS",
+    "subtitle": "All 17 San Jie Guardians unite with Hero Kai & Ember to storm Lord Malcode's dark fortress!"
+  }
+}

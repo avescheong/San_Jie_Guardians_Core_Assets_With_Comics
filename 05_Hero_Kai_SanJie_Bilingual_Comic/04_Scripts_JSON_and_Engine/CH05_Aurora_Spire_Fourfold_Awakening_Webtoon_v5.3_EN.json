@@ -1,0 +1,1431 @@
+{
+  "kicker": "HERO KAI × SAN JIE 17 GUARDIANS — CHAPTER 05 (ENGLISH WEBTOON v5.3)",
+  "title": "THE AURORA SPIRE & FOURFOLD AWAKENING",
+  "subtitle": "Four Guardians unite beneath a glitch-locked alpine peak to awaken Stage 2 partners and break Lord Malcode's infinite loop.",
+  "sections": [
+    {
+      "id": "p01_00",
+      "file": "CH05_P01_00_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 1090,
+      "top_gutter": 20,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "DEEP IN THE FROZEN NORTH, THE TOWERING AURORA SPIRE LIES SEALED BENEATH LORD MALCODE'S GLITCH DOME!",
+          "bx": 50,
+          "by": 5,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRAAAK...",
+          "x": 20,
+          "y": 23,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#7E22CE"
+        },
+        {
+          "kind": "mood",
+          "text": "LOCKED DOWN",
+          "x": 82,
+          "y": 19,
+          "rotate": 7,
+          "size": 24,
+          "fill": "#0F766E"
+        }
+      ]
+    },
+    {
+      "id": "p01_01",
+      "file": "CH05_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 82,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "EVERY CRACKLING PULSE OF THE PURPLE BARRIER DRAINS THE PEAK'S NORTHERN LIGHTS.",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZZT...",
+          "x": 22,
+          "y": 24,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#7E22CE"
+        },
+        {
+          "kind": "mood",
+          "text": "EERIE HUM",
+          "x": 84,
+          "y": 22,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#0F766E"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH05_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "FASTER, EMBER! THE AURORA SPIRE'S SIGNAL IS LOCKED DOWN—OUR FRIENDS ARE ALREADY UP THERE!",
+          "bx": 46,
+          "by": -14,
+          "tx": 45,
+          "ty": 7,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 82,
+          "y": 24,
+          "rotate": -12,
+          "size": 46,
+          "fill": "#DC2626"
+        },
+        {
+          "kind": "mood",
+          "text": "URGENT",
+          "x": 15,
+          "y": 82,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#1E3A8A"
+        }
+      ]
+    },
+    {
+      "id": "p01_02_eye",
+      "file": "CH05_P01_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.22,
+        0.12,
+        0.72,
+        0.42
+      ],
+      "top_gutter": 20,
+      "bottom_gutter": 16,
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "LOCKED ON!",
+          "x": 84,
+          "y": 76,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH05_P02_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "HOLD STEADY, TEMPEST STAG! THAT BARRIER IS DRAINING THE AURORA LIGHT!",
+          "bx": 27,
+          "by": -14,
+          "tx": 34,
+          "ty": 17,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "MY COMPASS IS SPINNING WILDLY, NG SHUANG—SOMETHING HUGE IS COMING!",
+          "bx": 73,
+          "by": -14,
+          "tx": 64,
+          "ty": 17,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CHILL WIND...",
+          "x": 84,
+          "y": 20,
+          "rotate": 7,
+          "size": 24,
+          "fill": "#1D4ED8"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH05_P02_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "BRACE YOURSELVES, BRO! THE GLITCH STORM JUST SPIKED!",
+          "bx": 27,
+          "by": -15,
+          "tx": 30,
+          "ty": 14,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "KEEP CLOSE, DAN! I CAN BARELY SEE THE SPIRE STEPS!",
+          "bx": 73,
+          "by": -14,
+          "tx": 70,
+          "ty": 17,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRAAAK!",
+          "x": 52,
+          "y": 18,
+          "rotate": -8,
+          "size": 46,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p02_02_eye",
+      "file": "CH05_P02_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.15,
+        0.14,
+        0.85,
+        0.44
+      ],
+      "top_gutter": 20,
+      "bottom_gutter": 16,
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "RUMBLE...",
+          "x": 50,
+          "y": 78,
+          "rotate": -4,
+          "size": 34,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH05_P03_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 122,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "DEPLOY THE GLITCH-CRYSTAL GOLEM! LOCK THEM IN AN INFINITE LOOP UNTIL THE SPIRE FALLS!",
+          "bx": 68,
+          "by": -15,
+          "tx": 88,
+          "ty": 18,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "KRA-",
+            "KOOM!!"
+          ],
+          "x": 54,
+          "y": 22,
+          "step_x": 38,
+          "step_y": 38,
+          "rotate": -10,
+          "size": 48,
+          "fill": "#9333EA"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE GLITCH INJECTION",
+        "concept": "Infinite while Loop",
+        "lines": [
+          "dome_locked = True",
+          "while dome_locked:  # Never stops without a break!",
+          "    spawn_golem('Glitch-Crystal', shield=999)",
+          "    drain_aurora_spire(rate=50)"
+        ],
+        "output": "ALERT: Spire barrier locked! Golem regenerating infinitely..."
+      }
+    },
+    {
+      "id": "p03_02",
+      "file": "CH05_P03_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 116,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 48,
+        "cy": 42,
+        "color": "#FFFFFF",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "GET THE LITTLE ONES BACK! MY SHIELD WILL HOLD THIS BLAST!",
+          "bx": 34,
+          "by": -15,
+          "tx": 34,
+          "ty": 15,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ZZZ-KRASH!",
+          "x": 54,
+          "y": 18,
+          "rotate": -9,
+          "size": 42,
+          "fill": "#16A34A"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.22,
+          0.14,
+          0.44,
+          0.44
+        ],
+        "x": 552,
+        "y_off": 135,
+        "w": 222,
+        "h": 222,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "HOLD FAST!",
+            "x": 54,
+            "y": 88,
+            "rotate": -6,
+            "size": 24,
+            "fill": "#15803D"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p04_01",
+      "file": "CH05_P04_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "GRAB THE ROPE, EG SIU! DON'T LET GO OF DAN!",
+          "bx": 27,
+          "by": -15,
+          "tx": 27,
+          "ty": 14,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "I'VE GOT THE OTHER END, KHANG KOK—PULL TOGETHER ON THREE!",
+          "bx": 73,
+          "by": -14,
+          "tx": 72,
+          "ty": 15,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CRUMBLE!",
+          "x": 52,
+          "y": 20,
+          "rotate": -8,
+          "size": 42,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "SLIP!",
+          "x": 38,
+          "y": 72,
+          "rotate": -12,
+          "size": 26,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p04_01b",
+      "file": "CH05_P04_01B_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "THANK GOODNESS! DAN AND I ARE SAFE—THANKS, EVERYONE!",
+          "bx": 40,
+          "by": -14,
+          "tx": 49,
+          "ty": 43,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "QUICK, INTO THE ICE CAVE! WE NEED A REAL COUNTER-SPELL!",
+          "bx": 80,
+          "by": -14,
+          "tx": 81,
+          "ty": 32,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PHEW~",
+          "x": 36,
+          "y": 36,
+          "rotate": -8,
+          "size": 25,
+          "fill": "#0369A1"
+        }
+      ]
+    },
+    {
+      "id": "p04_01_eye",
+      "file": "CH05_P04_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.16,
+        0.12,
+        0.84,
+        0.42
+      ],
+      "top_gutter": 20,
+      "bottom_gutter": 16,
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HOLD ON!",
+          "x": 50,
+          "y": 76,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH05_P04_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "ONE SPELL CAN'T BREAK AN INFINITE LOOP—BUT FOUR SYNCED RELICS CAN!",
+          "bx": 25,
+          "by": -14,
+          "tx": 49,
+          "ty": 26,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "IF WE LOOP THROUGH EVERY GUARDIAN'S ELEMENT, WE CAN OVERLOAD ITS CORE!",
+          "bx": 76,
+          "by": -14,
+          "tx": 72,
+          "ty": 34,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "STRATEGY!",
+          "x": 16,
+          "y": 22,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK — PAGE 01",
+        "concept": "Dictionaries & for Loops",
+        "lines": [
+          "squad = {",
+          "    'Ng Shuang': 'Aurora-Ice',  'Uvincc': 'Solar-Wind',",
+          "    'Khang Kok': 'Iron-Flame',  'Eg Siu': 'Volt-Spark'",
+          "}",
+          "for guardian, element in squad.items():",
+          "    charge_relic(guardian, element)"
+        ],
+        "output": "4 Relics synchronized! Resonance climbing to 100%..."
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH05_P05_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "AURORA PRISM BELL—ANSWER OUR CALL, TEMPEST STAG!",
+          "bx": 25,
+          "by": -14,
+          "tx": 31,
+          "ty": 15,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "SOLAR-WIND COMPASS—GUIDE US, SKY-PUP!",
+          "bx": 75,
+          "by": -14,
+          "tx": 70,
+          "ty": 15,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CHIME~!",
+          "x": 50,
+          "y": 15,
+          "rotate": -6,
+          "size": 44,
+          "fill": "#0891B2"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH05_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 86,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "RIBBONS OF FROST-AURORA AND GOLDEN WIND LIFT BOTH PARTNERS INTO LUMINOUS COCOONS.",
+          "bx": 50,
+          "by": -11,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHIMMER!",
+          "x": 50,
+          "y": 18,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "ASCEND",
+          "x": 14,
+          "y": 18,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p05_01_eye",
+      "file": "CH05_P05_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "crop": [
+        0.16,
+        0.14,
+        0.84,
+        0.44
+      ],
+      "top_gutter": 22,
+      "bottom_gutter": 18,
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "RESONATE~",
+          "x": 50,
+          "y": 24,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#0891B2"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH05_P06_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 86,
+      "bottom_gutter": 22,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FEF08A",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "STAGE 2 AWAKENING: WINGED TEMPEST STAG & SOLAR-BREEZE SKY-PUP UNFURL IN STARLIGHT!",
+          "bx": 50,
+          "by": -11,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FWOOSH!!",
+          "x": 50,
+          "y": 18,
+          "rotate": -8,
+          "size": 50,
+          "fill": "#0369A1"
+        }
+      ]
+    },
+    {
+      "id": "p06_01b",
+      "file": "CH05_P06_01B_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 845,
+      "top_gutter": 12,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "TEMPEST STAG SPREADS LUMINOUS WINGS BESIDE NG SHUANG AS THE AURORA BELL RINGS ACROSS THE PEAK!",
+          "bx": 50,
+          "by": 6,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHIMMER!!",
+          "x": 22,
+          "y": 19,
+          "rotate": -9,
+          "size": 44,
+          "fill": "#0891B2"
+        },
+        {
+          "kind": "mood",
+          "text": "AWAKENED!",
+          "x": 83,
+          "y": 17,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH05_P06_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 98,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "YOU'RE MAGNIFICENT, TEMPEST STAG... WE'RE READY.",
+          "bx": 28,
+          "by": -14,
+          "tx": 36,
+          "ty": 22,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "THOSE WINGS ARE AMAZING, SKY-PUP! NOW IT'S THEIR TURN!",
+          "bx": 72,
+          "by": -14,
+          "tx": 64,
+          "ty": 20,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SPARKLE",
+          "x": 50,
+          "y": 20,
+          "rotate": -6,
+          "size": 25,
+          "fill": "#0891B2"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH05_P07_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "IRON HEART, UNSHAKABLE COURAGE—LIGHT IT UP, BRO!",
+          "bx": 28,
+          "by": -15,
+          "tx": 42,
+          "ty": 12,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "DYNAMO CORE AT MAX CHARGE—EVOLVE, DAN!",
+          "bx": 75,
+          "by": -14,
+          "tx": 62,
+          "ty": 15,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZZT!",
+          "x": 86,
+          "y": 24,
+          "rotate": 10,
+          "size": 42,
+          "fill": "#CA8A04"
+        }
+      ]
+    },
+    {
+      "id": "p07_01_eye",
+      "file": "CH05_P07_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.18,
+        0.12,
+        0.84,
+        0.42
+      ],
+      "top_gutter": 20,
+      "bottom_gutter": 16,
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "IGNITE!",
+          "x": 85,
+          "y": 78,
+          "rotate": -8,
+          "size": 32,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH05_P07_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 86,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "CRIMSON FIRE AND GOLDEN LIGHTNING IGNITE THE ALPINE NIGHT IN TWIN EVOLUTION RINGS.",
+          "bx": 50,
+          "by": -11,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CRACKLE!",
+          "x": 50,
+          "y": 17,
+          "rotate": -7,
+          "size": 42,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "SURGE",
+          "x": 88,
+          "y": 18,
+          "rotate": 9,
+          "size": 24,
+          "fill": "#EAB308"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH05_P08_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 86,
+      "bottom_gutter": 20,
+      "speedlines": {
+        "cx": 52,
+        "cy": 48,
+        "color": "#FDE047",
+        "opacity": 0.32
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "STAGE 2 AWAKENING: SOLAR-WING BRO & CROWNED VOLT-DRAKE DAN ROAR INTO BATTLE!",
+          "bx": 50,
+          "by": -11,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KA-ZAP!!",
+          "x": 54,
+          "y": 17,
+          "rotate": -9,
+          "size": 50,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p08_02",
+      "file": "CH05_P08_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 118,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "WHOA, FLAME WINGS, BRO! NOBODY CAN STOP US!",
+          "bx": 22,
+          "by": -15,
+          "tx": 26,
+          "ty": 22,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "A GOLDEN CROWN?! DAN, YOU'RE A FULL VOLT-DRAKE!",
+          "bx": 86,
+          "by": -14,
+          "tx": 68,
+          "ty": 30,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PUMPED!",
+          "x": 14,
+          "y": 82,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.68,
+          0.1,
+          0.94,
+          0.54
+        ],
+        "x": 552,
+        "y_off": 135,
+        "w": 222,
+        "h": 222,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "ZAP!",
+            "x": 74,
+            "y": 84,
+            "rotate": -10,
+            "size": 34,
+            "fill": "#CA8A04"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK — PAGE 02",
+        "concept": "Classes & Evolution Methods",
+        "lines": [
+          "class GuardianPet:",
+          "    def evolve(self, new_stage):",
+          "        self.stage = new_stage",
+          "        self.power *= 3",
+          "for pet in [tempest_stag, sky_pup, bro, dan]:",
+          "    pet.evolve(2)"
+        ],
+        "output": "ALL 4 PARTNERS EVOLVED TO STAGE 2! Squad power x3!"
+      }
+    },
+    {
+      "id": "p09_01",
+      "file": "CH05_P09_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "FOUR STAGE 2 GUARDIANS, ONE UNIFIED SPELL! SYNC YOUR ELEMENTS ON MY MARK!",
+          "bx": 50,
+          "by": -15,
+          "tx": 50,
+          "ty": 29,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 18,
+          "y": 16,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#16A34A"
+        },
+        {
+          "kind": "mood",
+          "text": "SYNCED!",
+          "x": 85,
+          "y": 16,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK — PAGE 03",
+        "concept": "Pairing Lists with zip()",
+        "lines": [
+          "sky_team = ['Tempest Stag', 'Sky-Pup']",
+          "strike_team = ['Bro', 'Volt-Drake Dan']",
+          "combo = [f'{a} + {b}' for a, b in zip(sky_team, strike_team)]",
+          "cast_convergence(combo)"
+        ],
+        "output": "Combo locked: ['Tempest Stag + Bro', 'Sky-Pup + Volt-Drake Dan']"
+      }
+    },
+    {
+      "id": "p09_02",
+      "file": "CH05_P09_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 86,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 50,
+        "cy": 48,
+        "color": "#A5F3FC",
+        "opacity": 0.28
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "HIGH ABOVE THE SPIRE, TEMPEST STAG AND SKY-PUP WEAVE A TWIN CYCLONE OF AURORA AND SOLAR WIND!",
+          "bx": 50,
+          "by": -11,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SWOOOSH!",
+          "x": 50,
+          "y": 18,
+          "rotate": -7,
+          "size": 44,
+          "fill": "#0891B2"
+        }
+      ]
+    },
+    {
+      "id": "p10_01",
+      "file": "CH05_P10_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 130,
+      "bottom_gutter": 36,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "ERROR... ERROR!! THERMAL AND VOLTAGE OVERLOAD DETECTED!!",
+          "bx": 50,
+          "by": -15,
+          "tx": 50,
+          "ty": 16,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CRAAACK!",
+          "x": 18,
+          "y": 20,
+          "rotate": -12,
+          "size": 44,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "OVERLOAD!",
+          "x": 85,
+          "y": 18,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p10_01b",
+      "file": "CH05_P10_01B_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 102,
+      "bottom_gutter": 32,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FFFFFF",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FOUR ELEMENTS CONVERGE ON ONE BREAKPOINT—SHATTERING THE GLITCH-CRYSTAL CORE!",
+          "bx": 46,
+          "by": -11,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "KA-",
+            "BOOOOM!!"
+          ],
+          "x": 30,
+          "y": 14,
+          "step_x": 32,
+          "step_y": 28,
+          "rotate": -10,
+          "size": 38,
+          "fill": "#D97706"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.36,
+          0.3,
+          0.65,
+          0.66
+        ],
+        "x": 552,
+        "y_off": 135,
+        "w": 222,
+        "h": 222,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SHATTER!",
+            "x": 50,
+            "y": 86,
+            "rotate": -8,
+            "size": 32,
+            "fill": "#9333EA"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK — PAGE 04",
+        "concept": "Exiting Loops with break",
+        "lines": [
+          "while dome_locked:",
+          "    if four_elements_synced == True:",
+          "        dome_locked = False",
+          "        break  # Shatters Malcode's infinite loop!"
+        ],
+        "output": "LOOP BROKEN! Aurora Crystal Spire restored to 100%!"
+      }
+    },
+    {
+      "id": "p10_02",
+      "file": "CH05_P10_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "FOUR STAGE 2 AWAKENINGS AT ONCE?! LORD MALCODE MUST HEAR OF THIS...",
+          "bx": 68,
+          "by": -14,
+          "tx": 72,
+          "ty": 30,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHIMMER...",
+          "x": 22,
+          "y": 20,
+          "rotate": -6,
+          "size": 38,
+          "fill": "#059669"
+        },
+        {
+          "kind": "mood",
+          "text": "STUNNED",
+          "x": 87,
+          "y": 42,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#475569"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH05_P11_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "WARM VEGGIE BUNS, ROASTED SWEET POTATOES, AND BERRY TARTS—YOU ALL EARNED THIS FEAST!",
+          "bx": 24,
+          "by": -14,
+          "tx": 24,
+          "ty": 30,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "BEST CAMPFIRE EVER! WHEN WE CODE TOGETHER, NOTHING CAN FREEZE US OUT!",
+          "bx": 76,
+          "by": -14,
+          "tx": 60,
+          "ty": 30,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "COZY~",
+          "x": 46,
+          "y": 20,
+          "rotate": -7,
+          "size": 25,
+          "fill": "#D97706"
+        },
+        {
+          "kind": "mood",
+          "text": "YUM!",
+          "x": 88,
+          "y": 24,
+          "rotate": 9,
+          "size": 24,
+          "fill": "#16A34A"
+        }
+      ]
+    },
+    {
+      "id": "p11_01_eye",
+      "file": "CH05_P11_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "crop": [
+        0.14,
+        0.18,
+        0.86,
+        0.5
+      ],
+      "top_gutter": 20,
+      "bottom_gutter": 16,
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "TOGETHER~",
+          "x": 50,
+          "y": 26,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH05_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "THANK YOU FOR ALWAYS TRUSTING ME, TEMPEST STAG...",
+          "bx": 26,
+          "by": -14,
+          "tx": 27,
+          "ty": 32,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "WHO'S THE BRAVEST WINGED SKY-PUP IN PYTHONIA? YOU ARE!",
+          "bx": 74,
+          "by": -14,
+          "tx": 80,
+          "ty": 34,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "WARMTH~",
+          "x": 54,
+          "y": 22,
+          "rotate": -6,
+          "size": 25,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH05_P12_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "LOOK AT THE HORIZON, EMBER... A VOLCANIC BEACON JUST ERUPTED TO THE EAST!",
+          "bx": 34,
+          "by": -14,
+          "tx": 36,
+          "ty": 25,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "RUMBLE...",
+          "x": 77,
+          "y": 16,
+          "rotate": 6,
+          "size": 40,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p12_01_eye",
+      "file": "CH05_P12_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.1,
+        0.14,
+        0.9,
+        0.46
+      ],
+      "top_gutter": 20,
+      "bottom_gutter": 16,
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BOOOOM...",
+          "x": 78,
+          "y": 76,
+          "rotate": -6,
+          "size": 32,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p12_02_zoom",
+      "layout": "zoom_cascade",
+      "top_gutter": 38,
+      "bottom_gutter": 26,
+      "steps": [
+        {
+          "file": "CH05_P12_02_RAW.jpg",
+          "crop": [
+            0.18,
+            0.08,
+            0.82,
+            0.52
+          ],
+          "sfx": [
+            {
+              "kind": "mood",
+              "text": "MALCODE...",
+              "x": 22,
+              "y": 82,
+              "rotate": -7,
+              "size": 24,
+              "fill": "#9333EA"
+            }
+          ]
+        },
+        {
+          "file": "CH05_P12_02_RAW.jpg",
+          "crop": [
+            0.26,
+            0.44,
+            0.74,
+            0.92
+          ],
+          "sfx": [
+            {
+              "kind": "sfx",
+              "text": "ERUPT!!",
+              "x": 76,
+              "y": 84,
+              "rotate": -8,
+              "size": 34,
+              "fill": "#EA580C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH05_P12_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 134,
+      "bottom_gutter": 36,
+      "speedlines": {
+        "cx": 50,
+        "cy": 36,
+        "color": "#C084FC",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "LET THEM CELEBRATE! RISE, MAGMA-GLITCH TITAN—BURN THEIR NEXT REALM TO ASH!",
+          "bx": 46,
+          "by": -15,
+          "tx": 50,
+          "ty": 8,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOOM!!",
+          "x": 27,
+          "y": 18,
+          "rotate": -10,
+          "size": 38,
+          "fill": "#9333EA"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.36,
+          0.56,
+          0.64,
+          0.88
+        ],
+        "x": 552,
+        "y_off": 135,
+        "w": 222,
+        "h": 222,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "ROOOAR!!",
+            "x": 52,
+            "y": 86,
+            "rotate": -6,
+            "size": 32,
+            "fill": "#EA580C"
+          }
+        ]
+      }
+    }
+  ],
+  "end_banner": {
+    "kicker": "TO BE CONTINUED IN CHAPTER 06",
+    "title": "THE VOLCANIC FORGE & MAGMA-GLITCH TITAN",
+    "subtitle": "Next: Hero Kai and the Guardians race toward the erupting eastern caldera as Lord Malcode unleashes his molten colossus!"
+  }
+}

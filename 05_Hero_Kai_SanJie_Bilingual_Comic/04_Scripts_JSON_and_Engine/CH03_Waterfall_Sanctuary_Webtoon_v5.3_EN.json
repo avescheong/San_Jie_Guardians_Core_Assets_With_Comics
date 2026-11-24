@@ -1,0 +1,1528 @@
+{
+  "kicker": "HERO KAI × SAN JIE 17 GUARDIANS • CHAPTER 03 (ENGLISH WEBTOON v5.3)",
+  "title": "THE WATERFALL SANCTUARY",
+  "subtitle": "Four Guardians, Four Relics, and the Infinite Loop Trap",
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH03_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Beyond the canyon portal lies the Waterfall Sanctuary—a hidden valley of crystal springs and ancient echoes.",
+          "bx": 27,
+          "by": -13,
+          "max_chars": 30
+        },
+        {
+          "type": "speech",
+          "text": "Hold on, Ember! The distress signal is coming right from those falls!",
+          "bx": 76,
+          "by": -14,
+          "tx": 60,
+          "ty": 23,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOSH!",
+          "x": 18,
+          "y": 20,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "SHIMMER...",
+          "x": 31,
+          "y": 76,
+          "rotate": -5,
+          "size": 22,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH03_P01_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 120,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Hey! Over here! Welcome to the Waterfall Sanctuary!",
+          "bx": 23,
+          "by": -17,
+          "tx": 37,
+          "ty": 16,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "I'm Gisele, and this is Carlzen! Sticky and Berrie spotted your dragon!",
+          "bx": 77,
+          "by": -15,
+          "tx": 65,
+          "ty": 19,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "WAVE~",
+          "x": 50,
+          "y": 14,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#059669"
+        },
+        {
+          "kind": "mood",
+          "text": "BOBBLE!",
+          "x": 15,
+          "y": 54,
+          "rotate": -8,
+          "size": 20,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH03_P02_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "I'm Yi Ren! Poppy says the crystal springs feel restless today...",
+          "bx": 26,
+          "by": -14,
+          "tx": 31,
+          "ty": 21,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "And I'm Kai Xiang! OKX and I detected strange rune interference behind the falls.",
+          "bx": 74,
+          "by": -15,
+          "tx": 74,
+          "ty": 13,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SPARKLE~",
+          "x": 53,
+          "y": 56,
+          "rotate": -6,
+          "size": 23,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH03_P02_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 38,
+        "cy": 48,
+        "color": "#E0F2FE",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "WHOA!! The gate just blasted us with a wall of water!",
+          "bx": 36,
+          "by": -17,
+          "tx": 66,
+          "ty": 37,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "It's sealed! Someone locked the sanctuary archway!",
+          "bx": 80,
+          "by": -15,
+          "tx": 83,
+          "ty": 36,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "SPLASH",
+            "CRASH!!"
+          ],
+          "x": 12,
+          "y": 24,
+          "rotate": -8,
+          "size": 40,
+          "step_x": 42,
+          "step_y": 40,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p02_02b_eye",
+      "file": "CH03_P02_02_v2_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "crop": [
+        0.55,
+        0.39,
+        0.91,
+        0.61
+      ],
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "DRENCHED!!",
+          "x": 16,
+          "y": 24,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "GULP!",
+          "x": 86,
+          "y": 82,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#1D4ED8"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH03_P03_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "I'm Hero Kai, and this is Ember! We're uniting all seventeen Guardians!",
+          "bx": 28,
+          "by": -15,
+          "tx": 34,
+          "ty": 29,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Count us in, Kai! Our Waterfall Squad is ready to help!",
+          "bx": 75,
+          "by": -15,
+          "tx": 65,
+          "ty": 33,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CHEERFUL~",
+          "x": 50,
+          "y": 20,
+          "rotate": 4,
+          "size": 23,
+          "fill": "#16A34A"
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH03_P03_02_v2_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 134,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Welcome, young coders. The Golden Bell inside the grotto has fallen silent...",
+          "bx": 30,
+          "by": -23,
+          "tx": 33,
+          "ty": 6,
+          "max_chars": 22
+        },
+        {
+          "type": "whisper",
+          "text": "The Sanctuary Elder! Her voice echoes like pure water...",
+          "bx": 98,
+          "by": -22,
+          "tx": 62,
+          "ty": 32,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER...",
+          "x": 16,
+          "y": 38,
+          "rotate": -6,
+          "size": 21,
+          "fill": "#15803D"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.22,
+          0.08,
+          0.5,
+          0.45
+        ],
+        "x": 556,
+        "y_off": 122,
+        "w": 216,
+        "h": 200,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "GLOW~",
+            "x": 76,
+            "y": 86,
+            "rotate": -6,
+            "size": 22,
+            "fill": "#D97706"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p03_02b_eye",
+      "file": "CH03_P03_02_v2_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "crop": [
+        0.54,
+        0.35,
+        0.92,
+        0.58
+      ],
+      "top_gutter": 74,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "The ancient guardian's gentle light fills the clearing with quiet courage.",
+          "bx": 50,
+          "by": -20,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "WONDER~",
+          "x": 85,
+          "y": 24,
+          "rotate": 5,
+          "size": 22,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH03_P04_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 126,
+      "bottom_gutter": 74,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "Listen closely... the ripples are repeating a four-beat pulse! Like a loop!",
+          "bx": 68,
+          "by": -20,
+          "tx": 61,
+          "ty": 8,
+          "max_chars": 22
+        },
+        {
+          "type": "narration",
+          "text": "Through calm focus, Gisele hears the hidden rhythm beneath the noise.",
+          "bx": 34,
+          "by": 111,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "PLIP... PLOP...",
+          "x": 24,
+          "y": 64,
+          "rotate": -5,
+          "size": 32,
+          "fill": "#0D9488"
+        },
+        {
+          "kind": "mood",
+          "text": "LISTEN~",
+          "x": 82,
+          "y": 24,
+          "rotate": 7,
+          "size": 22,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p04_01b_duo",
+      "layout": "split_duo",
+      "height": 450,
+      "top_gutter": 98,
+      "bottom_gutter": 24,
+      "left": {
+        "file": "CH03_P04_01_v2_RAW.jpg",
+        "crop": [
+          0.02,
+          0.54,
+          0.44,
+          0.98
+        ],
+        "balloons": [
+          {
+            "type": "narration",
+            "text": "FOUR RINGS... FOUR BEATS!",
+            "bx": 50,
+            "by": -12,
+            "max_chars": 22
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "RING... RING...",
+            "x": 50,
+            "y": 22,
+            "rotate": -5,
+            "size": 28,
+            "fill": "#0D9488"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH03_P04_01_v2_RAW.jpg",
+        "crop": [
+          0.38,
+          0.14,
+          0.8,
+          0.78
+        ],
+        "balloons": [
+          {
+            "type": "speech",
+            "text": "Every single relic matches one beat of the spring!",
+            "bx": 50,
+            "by": -12,
+            "tx": 55,
+            "ty": 14,
+            "max_chars": 20
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "AHA!!",
+            "x": 82,
+            "y": 86,
+            "rotate": 7,
+            "size": 26,
+            "fill": "#DB2777"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p04_02",
+      "file": "CH03_P04_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "An 'AND' condition! If even one relic is missing, the archway stays locked!",
+          "bx": 27,
+          "by": -15,
+          "tx": 34,
+          "ty": 18,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "My Cipher Cube decoded it! The gate needs all four relic signals to be True!",
+          "bx": 75,
+          "by": -15,
+          "tx": 68,
+          "ty": 16,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HUMMM~",
+          "x": 51,
+          "y": 28,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • GATE LOGIC",
+        "concept": "Boolean AND Conditions",
+        "lines": [
+          "lantern_lit = True    # Carlzen's Tide-Ember Lantern",
+          "teacup_pure = True    # Yi Ren's Dewdrop Petal Teacup",
+          "berries_ready = True  # Gisele's Star-Berry Basket",
+          "cube_synced = True    # Kai Xiang's Cipher Rune Cube",
+          "gate_open = lantern_lit and teacup_pure and berries_ready and cube_synced"
+        ],
+        "output": "gate_open -> True  [ALL 4 SANCTUARY RELICS ALIGNED!]"
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH03_P05_01_v2_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 104,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Tide-Ember Lantern and Petal Teacup—locked in!",
+          "bx": 22,
+          "by": -14,
+          "tx": 25,
+          "ty": 16,
+          "max_chars": 17
+        },
+        {
+          "type": "shout",
+          "text": "Star-Berry Basket and Cipher Cube—run the gate spell!",
+          "bx": 78,
+          "by": -14,
+          "tx": 82,
+          "ty": 16,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHING!!",
+          "x": 52,
+          "y": 14,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH03_P05_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "The falls part like silver curtains, revealing the ancient Bell Chamber.",
+          "bx": 28,
+          "by": -13,
+          "max_chars": 28
+        },
+        {
+          "type": "speech",
+          "text": "It worked! Look at those golden lanterns inside the cave!",
+          "bx": 76,
+          "by": -14,
+          "tx": 62,
+          "ty": 40,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "RUMBLE...",
+          "x": 20,
+          "y": 26,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#0369A1"
+        },
+        {
+          "kind": "mood",
+          "text": "AWE~",
+          "x": 80,
+          "y": 30,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH03_P06_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 138,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Lord Malcode's Shadow Coder—trapping the bell in corrupted code!",
+          "bx": 26,
+          "by": -23,
+          "max_chars": 22
+        },
+        {
+          "type": "glitch",
+          "text": "While this infinite loop runs, your Golden Bell will never ring again...",
+          "bx": 100,
+          "by": -24,
+          "tx": 78,
+          "ty": 14,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZZ-CRACKLE!",
+          "x": 42,
+          "y": 17,
+          "rotate": -7,
+          "size": 32,
+          "fill": "#9333EA"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.64,
+          0.18,
+          0.88,
+          0.68
+        ],
+        "x": 556,
+        "y_off": 118,
+        "w": 216,
+        "h": 210,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "BZZZT!",
+            "x": 32,
+            "y": 86,
+            "rotate": -8,
+            "size": 28,
+            "fill": "#9333EA"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE GLITCH • INFINITE LOOP",
+        "concept": "Broken while True Trap",
+        "lines": [
+          "bell_muted = True",
+          "while bell_muted:   # DANGER: No exit condition!",
+          "    spawn_glitch_bugs(count=12)",
+          "    drain_sanctuary_echo()"
+        ],
+        "output": "ERROR: SANCTUARY_BELL FROZEN IN INFINITE LOOP!"
+      }
+    },
+    {
+      "id": "p06_02",
+      "file": "CH03_P06_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 48,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Yip! Don't be scared—Sticky, Berrie, OKX, we've got our Guardians' backs!",
+          "bx": 27,
+          "by": -15,
+          "tx": 40,
+          "ty": 37,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "RAWR!! Nobody messes with our Waterfall Sanctuary!",
+          "bx": 76,
+          "by": -16,
+          "tx": 80,
+          "ty": 32,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "FIRED UP!",
+          "x": 54,
+          "y": 22,
+          "rotate": -5,
+          "size": 25,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH03_P07_01_v2_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 138,
+      "bottom_gutter": 36,
+      "speedlines": {
+        "cx": 50,
+        "cy": 36,
+        "color": "#D8B4FE",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "The vortex is draining the bell! We have to break his loop together!",
+          "bx": 33,
+          "by": -18,
+          "tx": 53,
+          "ty": 22,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "I see the bug—there's no break statement!",
+          "bx": 81,
+          "by": -16,
+          "tx": 84,
+          "ty": 22,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "VWOOOOM!!",
+          "x": 18,
+          "y": 16,
+          "rotate": -9,
+          "size": 42,
+          "fill": "#7E22CE"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH03_P07_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 128,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "W-what?! My glitch shield is dissolving?! How are four kids syncing that fast?!",
+          "bx": 32,
+          "by": -27,
+          "tx": 37,
+          "ty": 5,
+          "max_chars": 22
+        },
+        {
+          "type": "thought",
+          "text": "That harmony... it feels so warm...",
+          "bx": 106,
+          "by": -22,
+          "tx": 49,
+          "ty": 12,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "TREMBLING...",
+          "x": 16,
+          "y": 54,
+          "rotate": -8,
+          "size": 21,
+          "fill": "#7C3AED"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.27,
+          0.13,
+          0.48,
+          0.36
+        ],
+        "x": 556,
+        "y_off": 122,
+        "w": 216,
+        "h": 198,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "GASP!",
+            "x": 74,
+            "y": 84,
+            "rotate": 8,
+            "size": 30,
+            "fill": "#7C3AED"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p07_03",
+      "file": "CH03_P07_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 82,
+        "cy": 52,
+        "color": "#67E8F9",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Chain the four relics in a for-loop! Light, dew, rune, and star-berry!",
+          "bx": 23,
+          "by": -16,
+          "tx": 30,
+          "ty": 29,
+          "max_chars": 19
+        },
+        {
+          "type": "shout",
+          "text": "Send the harmonic pulse—break the glitch vortex now!!",
+          "bx": 78,
+          "by": -16,
+          "tx": 56,
+          "ty": 33,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-SHING!!",
+          "x": 77,
+          "y": 24,
+          "rotate": -8,
+          "size": 42,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • HARMONY LOOP",
+        "concept": "for Loops, Lists & break",
+        "lines": [
+          "relics = [\"Lantern\", \"Teacup\", \"Star-Berry\", \"Rune-Cube\"]",
+          "for relic in relics:",
+          "    cast_harmonic_ring(relic)",
+          "if vortex_power <= 0:",
+          "    break  # Shatter Malcode's infinite loop!"
+        ],
+        "output": "4 HARMONIC RINGS FIRED -> GLITCH VORTEX SHATTERED!"
+      }
+    },
+    {
+      "id": "p07_04",
+      "file": "CH03_P07_04_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 116,
+      "bottom_gutter": 110,
+      "speedlines": {
+        "cx": 54,
+        "cy": 30,
+        "color": "#FDE047",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "YES!! THE GOLDEN BELL IS RINGING AGAIN!!",
+          "bx": 28,
+          "by": -16,
+          "tx": 44,
+          "ty": 48,
+          "max_chars": 18
+        },
+        {
+          "type": "glitch",
+          "text": "...This isn't over. Lord Malcode will hear of this.",
+          "bx": 72,
+          "by": 119,
+          "tx": 89,
+          "ty": 95,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "DOOOONG!!",
+          "x": 76,
+          "y": 18,
+          "rotate": 8,
+          "size": 48,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p07_04b_duo",
+      "layout": "split_duo",
+      "height": 420,
+      "top_gutter": 96,
+      "bottom_gutter": 22,
+      "left": {
+        "file": "CH03_P07_04_RAW.jpg",
+        "crop": [
+          0.36,
+          0.44,
+          0.56,
+          0.94
+        ],
+        "balloons": [
+          {
+            "type": "shout",
+            "text": "WE BROKE THE LOOP!!",
+            "bx": 50,
+            "by": -13,
+            "tx": 46,
+            "ty": 16,
+            "max_chars": 16
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "VICTORY!!",
+            "x": 52,
+            "y": 88,
+            "rotate": -5,
+            "size": 28,
+            "fill": "#EA580C"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH03_P07_04_RAW.jpg",
+        "crop": [
+          0.76,
+          0.46,
+          0.98,
+          0.96
+        ],
+        "balloons": [
+          {
+            "type": "glitch",
+            "text": "Tch... next time won't be so easy.",
+            "bx": 50,
+            "by": -12,
+            "tx": 60,
+            "ty": 28,
+            "max_chars": 18
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "FWOOSH...",
+            "x": 36,
+            "y": 84,
+            "rotate": 8,
+            "size": 26,
+            "fill": "#7E22CE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p07_05_portrait",
+      "file": "CH03_P07_05_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 920,
+      "crop": [
+        0.02,
+        0.02,
+        0.98,
+        0.98
+      ],
+      "top_gutter": 96,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "High above the crystal falls, the Golden Bell sings across the valley once more!",
+          "bx": 50,
+          "by": -5,
+          "max_chars": 46
+        },
+        {
+          "type": "shout",
+          "text": "WE DID IT, STICKY!! THE SANCTUARY IS FREE!!",
+          "bx": 22,
+          "by": 46,
+          "tx": 43,
+          "ty": 52,
+          "max_chars": 16
+        },
+        {
+          "type": "speech",
+          "text": "BLOOP-YAY!!",
+          "bx": 84,
+          "by": 61,
+          "tx": 74,
+          "ty": 72,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CHIIIME!!",
+          "x": 18,
+          "y": 16,
+          "rotate": -10,
+          "size": 48,
+          "fill": "#D97706"
+        },
+        {
+          "kind": "mood",
+          "text": "RADIANT~",
+          "x": 84,
+          "y": 24,
+          "rotate": 8,
+          "size": 26,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p07_05b_eye",
+      "file": "CH03_P07_04_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.09,
+        0.47,
+        0.39,
+        0.72
+      ],
+      "top_gutter": 92,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Look at that rainbow light—our four relics really synced into one melody!",
+          "bx": 50,
+          "by": -25,
+          "tx": 40,
+          "ty": 4,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HARMONY~",
+          "x": 88,
+          "y": 82,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH03_P08_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Wait—he dropped a corrupted data shard! Can your cube read it, Kai Xiang?",
+          "bx": 28,
+          "by": -15,
+          "tx": 41,
+          "ty": 23,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Scanning now! It's a trace log—pointing straight to a floating sky sanctuary!",
+          "bx": 75,
+          "by": -15,
+          "tx": 64,
+          "ty": 15,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "BEEP-SCAN!",
+          "x": 52,
+          "y": 56,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • SHARD DECODER",
+        "concept": "Dictionaries & Key Lookup",
+        "lines": [
+          "shard_log = {",
+          "    \"source\": \"Shadow_Coder\",",
+          "    \"next_target\": \"Floating_Bamboo_Sky_Isle\",",
+          "    \"threat_level\": \"HIGH\"",
+          "}",
+          "print(\"NEXT:\", shard_log[\"next_target\"])"
+        ],
+        "output": "NEXT: Floating_Bamboo_Sky_Isle"
+      }
+    },
+    {
+      "id": "p08_02",
+      "file": "CH03_P08_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Mmm!! Warm steamed buns and floral tea after a boss battle—best reward ever!",
+          "bx": 28,
+          "by": -14,
+          "tx": 19,
+          "ty": 22,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Eat up, Kai! Fresh star-berries, sweet corn, and plant-based treats for the road!",
+          "bx": 75,
+          "by": -14,
+          "tx": 70,
+          "ty": 19,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "YUMM~",
+          "x": 49,
+          "y": 14,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p08_03_portrait",
+      "file": "CH03_P08_03_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 920,
+      "crop": [
+        0.02,
+        0.02,
+        0.98,
+        0.98
+      ],
+      "top_gutter": 108,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Fresh star-berries for everyone! Sharing kindness makes our whole squad stronger!",
+          "bx": 34,
+          "by": -6,
+          "tx": 46,
+          "ty": 22,
+          "max_chars": 24
+        },
+        {
+          "type": "speech",
+          "text": "Yip-yip! Sweetest victory picnic ever!",
+          "bx": 80,
+          "by": 54,
+          "tx": 74,
+          "ty": 67,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SPARKLE~",
+          "x": 80,
+          "y": 14,
+          "rotate": 7,
+          "size": 28,
+          "fill": "#DB2777"
+        },
+        {
+          "kind": "mood",
+          "text": "HOP! HOP!",
+          "x": 84,
+          "y": 93,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p08_03b_eye",
+      "file": "CH03_P08_02_v2_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "crop": [
+        0.1,
+        0.24,
+        0.92,
+        0.56
+      ],
+      "top_gutter": 82,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Laughter, warm tea, and plant-based treats recharge every Guardian for the road ahead.",
+          "bx": 50,
+          "by": -21,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "COZY~",
+          "x": 14,
+          "y": 82,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p09_01",
+      "file": "CH03_P09_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "The waterfalls are singing again... and our pets feel stronger already!",
+          "bx": 28,
+          "by": -14,
+          "tx": 28,
+          "ty": 16,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Even if the Shadow Coder returns, we'll keep the sanctuary's code clean!",
+          "bx": 75,
+          "by": -14,
+          "tx": 74,
+          "ty": 17,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PEACEFUL~",
+          "x": 50,
+          "y": 24,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p09_02",
+      "file": "CH03_P09_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 134,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Follow the rainbow current, Hero Kai. More Guardians await on the Floating Sky Isle!",
+          "bx": 28,
+          "by": -23,
+          "tx": 30,
+          "ty": 11,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Got it, Elder! I'll log these coordinates into my spellbook right now!",
+          "bx": 100,
+          "by": -22,
+          "tx": 80,
+          "ty": 39,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER~",
+          "x": 54,
+          "y": 24,
+          "rotate": -5,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.38,
+          0.38,
+          0.7,
+          0.68
+        ],
+        "x": 556,
+        "y_off": 122,
+        "w": 216,
+        "h": 198,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "PING!",
+            "x": 74,
+            "y": 84,
+            "rotate": -6,
+            "size": 24,
+            "fill": "#059669"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • SKY NAVIGATION",
+        "concept": "Functions & Return Values",
+        "lines": [
+          "def plot_sky_course(origin, dest):",
+          "    return f\"COURSE LOCKED: {origin} -> {dest}\"",
+          "",
+          "nav = plot_sky_course(\"Waterfall_Sanctuary\", \"Crystal_Bamboo_Isle\")",
+          "print(nav)"
+        ],
+        "output": "COURSE LOCKED: Waterfall_Sanctuary -> Crystal_Bamboo_Isle"
+      }
+    },
+    {
+      "id": "p10_01",
+      "file": "CH03_P10_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 120,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Safe flights, Kai and Ember! Call us whenever you need the Waterfall Squad!",
+          "bx": 24,
+          "by": -17,
+          "tx": 26,
+          "ty": 19,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "We'll guard the Golden Bell until all seventeen of us reunite!",
+          "bx": 77,
+          "by": -15,
+          "tx": 77,
+          "ty": 21,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SEE YA!!",
+          "x": 50,
+          "y": 14,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH03_P10_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 124,
+      "bottom_gutter": 74,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Thank you, everyone! I won't forget the harmony you taught me!",
+          "bx": 34,
+          "by": -19,
+          "tx": 34,
+          "ty": 10,
+          "max_chars": 20
+        },
+        {
+          "type": "narration",
+          "text": "Four more Guardians stand awakened—their relics bright, their code unbroken.",
+          "bx": 62,
+          "by": 111,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FLAP! FLAP!",
+          "x": 16,
+          "y": 42,
+          "rotate": -10,
+          "size": 32,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH03_P11_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 114,
+      "bottom_gutter": 78,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Next stop, Ember—the Floating Bamboo Sanctuary!",
+          "bx": 38,
+          "by": -15,
+          "tx": 37,
+          "ty": 39,
+          "max_chars": 20
+        },
+        {
+          "type": "narration",
+          "text": "High above the golden clouds, a crystal dome gleams amid emerald bamboo...",
+          "bx": 50,
+          "by": 111,
+          "max_chars": 36
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SOAR!!",
+          "x": 16,
+          "y": 22,
+          "rotate": -8,
+          "size": 44,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "GLEAM~",
+          "x": 82,
+          "y": 11,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p11_01b_eye",
+      "file": "CH03_P11_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 235,
+      "crop": [
+        0.64,
+        0.04,
+        0.99,
+        0.48
+      ],
+      "top_gutter": 84,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "New Guardians wait beyond the clouds—and Malcode's next trap is already stirring...",
+          "bx": 50,
+          "by": -19,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHIMMER...",
+          "x": 18,
+          "y": 82,
+          "rotate": -5,
+          "size": 28,
+          "fill": "#0284C7"
+        }
+      ]
+    }
+  ],
+  "end_banner": {
+    "kicker": "END OF CHAPTER 03 • THE WATERFALL SANCTUARY",
+    "title": "NEXT: CHAPTER 04 — THE FLOATING BAMBOO ISLE!",
+    "subtitle": "High above the sunlit clouds, a crystal dome awaits Hero Kai and Ember—along with new Guardians and Malcode's creeping shadow..."
+  }
+}

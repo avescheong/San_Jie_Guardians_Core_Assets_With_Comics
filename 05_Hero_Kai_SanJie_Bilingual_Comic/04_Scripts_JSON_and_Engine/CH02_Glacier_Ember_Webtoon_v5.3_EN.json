@@ -1,0 +1,1263 @@
+{
+  "kicker": "HERO KAI × SAN JIE 17 GUARDIANS · ENGLISH WEBTOON EDITION (v5.3)",
+  "title": "CHAPTER 2: GLACIER-EMBER CANYON & THE BROKEN BRIDGE",
+  "subtitle": "Complete 26-Panel Director's Cut · With Inline Python Spellbook Trays",
+  "end_banner": {
+    "kicker": "END OF CHAPTER 2 · BALANCE PILLAR RESTORED",
+    "title": "NEXT: CHAPTER 3 — RAINBOW FALLS & THE EMERALD SANCTUARY",
+    "subtitle": "Following Ooi Yu Bhor's Star-Chrono Compass beam, Hero Kai and Ember soar toward the misty waterfall pavilion..."
+  },
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH02_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "High above Glacier-Ember Canyon, frost cliffs met rivers of glowing magma—and a shattered stone bridge.",
+          "bx": 30,
+          "by": -14,
+          "max_chars": 34
+        },
+        {
+          "type": "speech",
+          "text": "Look down there, Ng Shuang! Uvincc! The canyon bridge collapsed!",
+          "bx": 76,
+          "by": -13,
+          "tx": 58,
+          "ty": 10,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 20,
+          "y": 24,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p01_01_zoom",
+      "file": "CH02_P01_01_RAW.jpg",
+      "layout": "eye_strip",
+      "crop": [
+        0.14,
+        0.56,
+        0.86,
+        0.96
+      ],
+      "height": 230,
+      "top_gutter": 36,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Below the clouds, the ancient stone bridge hung broken over churning lava.",
+          "bx": 50,
+          "by": -8,
+          "max_chars": 42,
+          "font_size": 15.0
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "RUMBLE...",
+          "x": 80,
+          "y": 78,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH02_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Hero Kai!! Over here on the ice ridge!",
+          "bx": 26,
+          "by": -14,
+          "tx": 60,
+          "ty": 22,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "My Smiley Hearth Medallion caught your signal—welcome to the canyon!",
+          "bx": 74,
+          "by": -14,
+          "tx": 74,
+          "ty": 24,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SPARKLE!",
+          "x": 86,
+          "y": 16,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "WAVE~",
+          "x": 16,
+          "y": 24,
+          "rotate": -10,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH02_P02_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "We're trapped on the lava side! The bridge just snapped!",
+          "bx": 26,
+          "by": -14,
+          "tx": 58,
+          "ty": 20,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Hold tight, Dao Yang! Yu Chen! DOYB and I can't jump that gap!",
+          "bx": 74,
+          "by": -14,
+          "tx": 77,
+          "ty": 20,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "WORRIED",
+          "x": 18,
+          "y": 22,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH02_P02_02_RAW.jpg",
+      "layout": "portrait_cinematic",
+      "crop": [
+        0.18,
+        0.0,
+        0.82,
+        1.0
+      ],
+      "top_gutter": 100,
+      "bottom_gutter": 96,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Deep beside the gorge, corrupted Glitch Beetles were draining the ancient Balance Pillar.",
+          "bx": 50,
+          "by": -9,
+          "max_chars": 36
+        },
+        {
+          "type": "glitch",
+          "text": "ERR::404... DRAINING THERMAL BALANCE CORE...",
+          "bx": 50,
+          "by": 109,
+          "tx": 74,
+          "ty": 70,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZZ-CRACK!",
+          "x": 26,
+          "y": 18,
+          "rotate": -12,
+          "size": 30,
+          "fill": "#9333EA"
+        },
+        {
+          "kind": "sfx",
+          "text": "GLITCH!",
+          "x": 78,
+          "y": 14,
+          "rotate": 6,
+          "size": 26,
+          "fill": "#C084FC"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH02_P03_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Don't worry, Dao Yang and Yu Chen! With Python balance logic, we can rebuild that bridge.",
+          "bx": 26,
+          "by": -14,
+          "tx": 34,
+          "ty": 21,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Ignis-Frost Pup and I are ready! Let me test an ice span first!",
+          "bx": 76,
+          "by": -14,
+          "tx": 79,
+          "ty": 24,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "STEADY",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p03_01_zoom",
+      "layout": "zoom_cascade",
+      "top_gutter": 32,
+      "bottom_gutter": 26,
+      "steps": [
+        {
+          "file": "CH02_P03_01_RAW.jpg",
+          "crop": [
+            0.22,
+            0.14,
+            0.56,
+            0.68
+          ],
+          "sfx": [
+            {
+              "kind": "mood",
+              "text": "CONFIDENT!",
+              "x": 76,
+              "y": 18,
+              "rotate": -6,
+              "size": 22,
+              "fill": "#10B981"
+            }
+          ]
+        },
+        {
+          "file": "CH02_P03_01_RAW.jpg",
+          "crop": [
+            0.56,
+            0.24,
+            0.96,
+            0.88
+          ],
+          "sfx": [
+            {
+              "kind": "mood",
+              "text": "READY!!",
+              "x": 37,
+              "y": 14,
+              "rotate": 6,
+              "size": 21,
+              "fill": "#0EA5E9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH02_P03_02_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.25,
+        0.0,
+        0.75,
+        1.0
+      ],
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "I'm still small... can my little sparks really help?",
+          "bx": 14,
+          "by": -11,
+          "tx": 28,
+          "ty": 44,
+          "max_chars": 19
+        },
+        {
+          "type": "whisper",
+          "text": "Easy there, BARKLEY. Warmth doesn't need to be huge—just true.",
+          "bx": 84,
+          "by": -11,
+          "tx": 68,
+          "ty": 14,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "AWWW~",
+          "x": 18,
+          "y": 34,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH02_P04_01_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.05,
+        0.0,
+        0.68,
+        1.0
+      ],
+      "top_gutter": 118,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "No! The magma heat is melting my ice bridge mid-air!",
+          "bx": 16,
+          "by": -12,
+          "tx": 34,
+          "ty": 18,
+          "max_chars": 19
+        },
+        {
+          "type": "narration",
+          "text": "Pure ice alone cracked over the volcanic updraft. One element wasn't enough.",
+          "bx": 84,
+          "by": -12,
+          "max_chars": 25
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "HISS—CRACK!!",
+          "x": 70,
+          "y": 40,
+          "rotate": -12,
+          "size": 28,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH02_P04_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Check the Spellbook! An if-elif-else check balances frost and ember together!",
+          "bx": 28,
+          "by": -14,
+          "tx": 46,
+          "ty": 17,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Aha! When BARKLEY's warmth meets Ignis-Frost's chill, it turns into crystal!",
+          "bx": 76,
+          "by": -14,
+          "tx": 78,
+          "ty": 29,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER~",
+          "x": 66,
+          "y": 14,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #06",
+        "concept": "Conditionals (if / elif / else)",
+        "lines": [
+          "temp = 50  # balanced frost + ember",
+          "if temp < 20:",
+          "    status = \"Ice shatters!\"",
+          "elif temp > 80:",
+          "    status = \"Magma melts span!\"",
+          "else:",
+          "    status = \"Crystal bridge holds!\""
+        ],
+        "output": "Crystal bridge holds!"
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH02_P05_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 78,
+        "cy": 54,
+        "color": "#FEF3C7",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "BARKLEY! Channel the Hearth Medallion now!",
+          "bx": 27,
+          "by": -14,
+          "tx": 20,
+          "ty": 20,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "Ignis-Frost Pup, weave our frost stream right beside it!",
+          "bx": 68,
+          "by": -14,
+          "tx": 37,
+          "ty": 23,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FWOOSH!!",
+          "x": 76,
+          "y": 24,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH02_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 92,
+        "cy": 38,
+        "color": "#BBF7D0",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Javin Jr! Unroll the Aegis Bamboo Scroll—anchor our side!",
+          "bx": 26,
+          "by": -14,
+          "tx": 26,
+          "ty": 25,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Star-Chrono Compass locked! DOYB, sync both beams to the center!",
+          "bx": 74,
+          "by": -14,
+          "tx": 42,
+          "ty": 20,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ZING!!",
+          "x": 80,
+          "y": 16,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#22C55E"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #07",
+        "concept": "Logical Operators (and)",
+        "lines": [
+          "left_balance = True   # Dao Yang + Yu Chen",
+          "right_anchor = True   # Jun Ming + Yu Bhor",
+          "if left_balance and right_anchor:",
+          "    print(\"Bridge synced across canyon!\")"
+        ],
+        "output": "Bridge synced across canyon!"
+      }
+    },
+    {
+      "id": "p06_01",
+      "file": "CH02_P06_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 96,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FFFFFF",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Four Guardians. Four partner spirits. Frost, flame, emerald bamboo, and starlight braided into one bridge.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "WEAVE!",
+            "LOCK!",
+            "SHINE!!"
+          ],
+          "x": 50,
+          "y": 16,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH02_P06_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "We actually did it! BARKLEY, Ignis-Frost—look how steady it is!",
+          "bx": 26,
+          "by": -14,
+          "tx": 26,
+          "ty": 22,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Zero drift on my compass—every single rune aligned!",
+          "bx": 76,
+          "by": -14,
+          "tx": 76,
+          "ty": 23,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PROUD!",
+          "x": 51,
+          "y": 14,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p06_03",
+      "file": "CH02_P06_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Jun Ming!! Best teamwork ever!!",
+          "bx": 26,
+          "by": -14,
+          "tx": 44,
+          "ty": 21,
+          "max_chars": 18
+        },
+        {
+          "type": "shout",
+          "text": "Up top, Dao Yang! Bridge squad united!!",
+          "bx": 74,
+          "by": -14,
+          "tx": 58,
+          "ty": 21,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SLAP!!",
+          "x": 51,
+          "y": 13,
+          "rotate": 6,
+          "size": 30,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "CHEER~",
+          "x": 16,
+          "y": 18,
+          "rotate": -10,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH02_P07_01_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.36,
+        0.0,
+        0.99,
+        1.0
+      ],
+      "top_gutter": 104,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "A cute little bridge? Let's see it survive an infinite Bug Swarm!",
+          "bx": 32,
+          "by": -10,
+          "tx": 58,
+          "ty": 9,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZZZT!!",
+          "x": 22,
+          "y": 34,
+          "rotate": -14,
+          "size": 34,
+          "fill": "#A855F7"
+        },
+        {
+          "kind": "mood",
+          "text": "SMIRK...",
+          "x": 85,
+          "y": 8,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#C084FC"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE CORRUPTION · BUG #02",
+        "concept": "Infinite while Loop Trap",
+        "lines": [
+          "while True:  # DANGER: no exit condition!",
+          "    swarm.append(\"Glitch_Beetle\")",
+          "    attack(\"Crystal_Bridge\")"
+        ],
+        "output": "WARNING: Infinite swarm overload!"
+      }
+    },
+    {
+      "id": "p07_02",
+      "file": "CH02_P07_02_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.17,
+        0.0,
+        0.8,
+        1.0
+      ],
+      "top_gutter": 100,
+      "bottom_gutter": 26,
+      "speedlines": {
+        "cx": 82,
+        "cy": 72,
+        "color": "#E9D5FF",
+        "opacity": 0.45
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Dark static bolts slammed into the crystal railing—sending shockwaves across the gorge!",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 36
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOOM!!",
+          "x": 74,
+          "y": 24,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#9333EA"
+        },
+        {
+          "kind": "sfx",
+          "text": "CRACK!",
+          "x": 76,
+          "y": 84,
+          "rotate": 8,
+          "size": 28,
+          "fill": "#EF4444"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH02_P08_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Stay inside the dome! Add a break condition to stop that infinite loop!",
+          "bx": 28,
+          "by": -14,
+          "tx": 49,
+          "ty": 34,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Got it, Hero Kai! Locking the Spellbook shield until the swarm hits zero!",
+          "bx": 74,
+          "by": -14,
+          "tx": 61,
+          "ty": 30,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ZZZAP!",
+          "x": 16,
+          "y": 18,
+          "rotate": -14,
+          "size": 30,
+          "fill": "#A855F7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #08",
+        "concept": "Safe while Loop with break",
+        "lines": [
+          "bugs = 12",
+          "while bugs > 0:",
+          "    bugs -= 4  # squad counter-wave!",
+          "    if bugs == 0:",
+          "        break  # loop safely exited!"
+        ],
+        "output": "Swarm cleared! Bridge integrity: 100%"
+      }
+    },
+    {
+      "id": "p08_02",
+      "file": "CH02_P08_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 98,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 42,
+        "cy": 58,
+        "color": "#FEF08A",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "From above, Ember swept through the canyon—fusing warm updrafts with the Guardians' frost-ember wave!",
+          "bx": 40,
+          "by": -14,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ROOOAR!!",
+          "x": 42,
+          "y": 18,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#EF4444"
+        },
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 80,
+          "y": 76,
+          "rotate": 8,
+          "size": 28,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p08_03",
+      "file": "CH02_P08_03_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Aegis Bamboo Wall—blocking every bolt!",
+          "bx": 28,
+          "by": -14,
+          "tx": 20,
+          "ty": 29,
+          "max_chars": 17
+        },
+        {
+          "type": "shout",
+          "text": "Frost & Ember wave—BREAK THE LOOP!!",
+          "bx": 96,
+          "by": -14,
+          "tx": 66,
+          "ty": 26,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CLANG!!",
+          "x": 44,
+          "y": 36,
+          "rotate": -12,
+          "size": 32,
+          "fill": "#10B981"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.05,
+          0.22,
+          0.45,
+          0.78
+        ],
+        "x": 546,
+        "y_off": 110,
+        "w": 224,
+        "h": 224,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SHIELD UP!",
+            "x": 50,
+            "y": 18,
+            "rotate": -6,
+            "size": 24,
+            "fill": "#22C55E"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p09_01_duo",
+      "layout": "portrait_duo",
+      "top_gutter": 124,
+      "bottom_gutter": 32,
+      "height": 440,
+      "left": {
+        "file": "CH02_P09_01_RAW.jpg",
+        "crop": [
+          0.05,
+          0.0,
+          0.65,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "glitch",
+            "text": "Tch... clean exit conditions! Enjoy your victory—we'll meet again deeper in Pythonia.",
+            "bx": 50,
+            "by": -18,
+            "tx": 55,
+            "ty": 16,
+            "max_chars": 23,
+            "font_size": 13.8
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "VANISH...",
+            "x": 24,
+            "y": 20,
+            "rotate": -8,
+            "size": 22,
+            "fill": "#9333EA"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH02_P09_02_RAW.jpg",
+        "crop": [
+          0.2,
+          0.0,
+          0.8,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "narration",
+            "text": "With the swarm gone, the Balance Pillar pulsed clear blue and gold—and wildflowers bloomed across the stone.",
+            "bx": 50,
+            "by": -17,
+            "max_chars": 28,
+            "font_size": 14.0
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "CHIME~",
+            "x": 76,
+            "y": 22,
+            "rotate": 8,
+            "size": 26,
+            "fill": "#0EA5E9"
+          },
+          {
+            "kind": "mood",
+            "text": "PEACEFUL",
+            "x": 24,
+            "y": 24,
+            "rotate": -6,
+            "size": 20,
+            "fill": "#10B981"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p10_01",
+      "file": "CH02_P10_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "You four earned this! Warm veggie buns, sweet corn, and herbal tea for everyone!",
+          "bx": 26,
+          "by": -14,
+          "tx": 37,
+          "ty": 22,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Best victory picnic ever! Even the bridge is glowing at sunset!",
+          "bx": 74,
+          "by": -14,
+          "tx": 68,
+          "ty": 26,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "YUM~",
+          "x": 86,
+          "y": 22,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH02_P10_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Haha, careful BARKLEY—that herbal tea is still warm!",
+          "bx": 26,
+          "by": -14,
+          "tx": 37,
+          "ty": 12,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Look at Ignis-Frost Pup! He found the sweetest blueberries!",
+          "bx": 74,
+          "by": -14,
+          "tx": 67,
+          "ty": 13,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GIGGLE~",
+          "x": 54,
+          "y": 24,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#EC4899"
+        },
+        {
+          "kind": "mood",
+          "text": "NOM NOM",
+          "x": 88,
+          "y": 46,
+          "rotate": 6,
+          "size": 20,
+          "fill": "#6366F1"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH02_P11_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Whoa! My Star-Chrono Compass just locked onto a new Spellbook beacon!",
+          "bx": 28,
+          "by": -14,
+          "tx": 43,
+          "ty": 19,
+          "max_chars": 21
+        },
+        {
+          "type": "whisper",
+          "text": "It's pointing past the emerald mountains... more of our classmates need help.",
+          "bx": 96,
+          "by": -14,
+          "tx": 84,
+          "ty": 29,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "PING!!",
+          "x": 66,
+          "y": 22,
+          "rotate": -10,
+          "size": 30,
+          "fill": "#06B6D4"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.42,
+          0.5,
+          0.72,
+          0.88
+        ],
+        "x": 546,
+        "y_off": 110,
+        "w": 224,
+        "h": 224,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "LOCKED!",
+            "x": 50,
+            "y": 18,
+            "rotate": -5,
+            "size": 24,
+            "fill": "#06B6D4"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #09",
+        "concept": "Reusable Functions (def)",
+        "lines": [
+          "def locate_beacon(heading):",
+          "    return f\"Signal locked: {heading}\"",
+          "print(locate_beacon(\"Rainbow Falls\"))"
+        ],
+        "output": "Signal locked: Rainbow Falls"
+      }
+    },
+    {
+      "id": "p11_02",
+      "file": "CH02_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Keep guarding Glacier-Ember Bridge while I follow the next beacon!",
+          "bx": 26,
+          "by": -14,
+          "tx": 19,
+          "ty": 27,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "Count on us, Hero Kai! San Jie Guardians—forever!!",
+          "bx": 72,
+          "by": -14,
+          "tx": 54,
+          "ty": 12,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 52,
+          "y": 82,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH02_P12_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 56,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "See you at the Grand Reunion, everyone! Stay strong!",
+          "bx": 30,
+          "by": -11,
+          "tx": 63,
+          "ty": 8,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "Fly safe, Hero Kai and Ember!! Bring our friends home!!",
+          "bx": 68,
+          "by": 107,
+          "tx": 76,
+          "ty": 94,
+          "max_chars": 30,
+          "font_size": 15.0
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "FAREWELL~",
+          "x": 26,
+          "y": 24,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH02_P12_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 44,
+      "bottom_gutter": 4,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Leaving the frost-and-lava peaks behind, Ember glided toward twin rainbows—and a sunlit waterfall sanctuary.",
+          "bx": 50,
+          "by": -9,
+          "max_chars": 48,
+          "font_size": 15.0
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "ONWARD...",
+          "x": 62,
+          "y": 18,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ]
+    }
+  ]
+}

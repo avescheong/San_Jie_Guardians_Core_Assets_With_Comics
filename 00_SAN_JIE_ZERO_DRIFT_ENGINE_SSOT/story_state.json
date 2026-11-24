@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "project": "San Jie Class (July 2026) Hero Kai x 17 Guardians — 30pp Chapter Saga",
+  "drive_root_id": "1tyHf-nXF2-HcUMLD2comNcR1uupw8qQ9",
+  "ssot_vault_id": "1skzEAMjg6NbYaVUSrNKM0gCCARze_MMU",
+  "active_chapter": 0,
+  "active_batch": "Batch_A",
+  "act_evolution_gates": {
+    "0": {"act": "Prologue", "max_pet_stage": "S1_Baby", "evolution_allowed": false},
+    "1": {"act": "Act_1_Baby_Bond", "max_pet_stage": "S1_Baby", "evolution_allowed": false},
+    "2": {"act": "Act_1_Baby_Bond", "max_pet_stage": "S1_Baby", "evolution_allowed": false},
+    "3": {"act": "Act_1_Baby_Bond", "max_pet_stage": "S1_Baby", "evolution_allowed": false},
+    "4": {"act": "Act_1_Baby_Bond", "max_pet_stage": "S1_Baby", "evolution_allowed": false},
+    "5": {"act": "Act_2_Stage2_Awakening", "max_pet_stage": "S2_Site", "evolution_allowed": true, "min_evo_panels": 4},
+    "6": {"act": "Act_2_Stage2_Awakening", "max_pet_stage": "S2_Site", "evolution_allowed": true, "min_evo_panels": 4},
+    "7": {"act": "Act_2_Stage2_Awakening", "max_pet_stage": "S2_Site", "evolution_allowed": true, "min_evo_panels": 4},
+    "8": {"act": "Act_2_Stage2_Awakening", "max_pet_stage": "S2_Site", "evolution_allowed": true, "min_evo_panels": 4},
+    "9": {"act": "Act_3_Stage3_Grand_Finale", "max_pet_stage": "S3_Grand", "evolution_allowed": true, "min_evo_panels": 4},
+    "10": {"act": "Act_3_Stage3_Grand_Finale", "max_pet_stage": "S3_Grand", "evolution_allowed": true, "min_evo_panels": 4},
+    "11": {"act": "Act_3_Stage3_Grand_Finale", "max_pet_stage": "S3_Grand", "evolution_allowed": true, "min_evo_panels": 4},
+    "12": {"act": "Act_3_Stage3_Grand_Finale", "max_pet_stage": "S3_Grand", "evolution_allowed": true, "min_evo_panels": 4}
+  },
+  "core_cast": {
+    "HERO_KAI": {
+      "name_en": "Hero Kai",
+      "name_zh": "凱英雄",
+      "current_realm": "Pythonia_Sanctuary",
+      "turnaround_file": "00_KAI_NORMAL_4H_TURNAROUND_CLEAN.jpg",
+      "drive_id": "1P31jHSAVtBrmEzf0apbGMGNODu6yIUbR",
+      "notes": "Genome v5.0 Normal 4.0H, bright cobalt-blue eyes, Tzu Chi winged-lotus & Dharma ship belt buckle, sword-free default."
+    },
+    "EMBER_RED_DRAGON": {
+      "name_en": "Ember the Red Dragon",
+      "name_zh": "餘燼紅龍",
+      "current_realm": "Pythonia_Sanctuary",
+      "turnaround_file": "09B_CH07_RED_DRAGON_4VIEW_CLEAN.jpg",
+      "drive_id": "1Nx_bron4h3lpewvDI8-P-TH8sGno-Do5",
+      "notes": "Canonical friendly Red Dragon of Ember Peak (Vol 2 EP18); Hero Kai's flight mount for traveling realm-by-realm with Squad 1."
+    },
+    "VEX": {
+      "name_en": "Vex (Alias-0)",
+      "name_zh": "維克斯",
+      "current_realm": "Abandoned_Ruins_Of_Bug_King",
+      "turnaround_file": "NEEDS_4VIEW_TURNAROUND_BEFORE_CH0_BATCH_B",
+      "drive_id": null,
+      "origin_canon": "Years after Hero Kai defeated the original Bug King, Vex accidentally discovered the cracked Bug King eggshell remains. Carrying deep wounds from childhood abuse, hunger, and loneliness, his dark experiments and broken childhood sketch code accidentally awakened Bug King II."
+    },
+    "BUG_KING_II": {
+      "name_en": "Bug King II",
+      "name_zh": "二代蟲王",
+      "current_realm": "Dormant_Eggshell",
+      "turnaround_file": "NEEDS_4VIEW_TURNAROUND_BEFORE_CH0_BATCH_C",
+      "drive_id": null
+    }
+  },
+  "excluded_names": ["Ko Zi Xing", "子興", "高子興", "Jacob", "Tan Jie Khe", "杰克"],
+  "banned_drift_terms": ["Golden-Pup", "Spark-Fawn", "語雙", "宇文", "unicorn horn", "green bandana"],
+  "students": {
+    "S01": {"num": "01", "name_en": "Ng Shuang", "name_zh": "吳雙", "squad": "Squad_1", "realm": "Penang_TzuChi_Classroom", "pet_en": "Tempest Stag", "pet_zh": "雷冰火鹿", "pet_stage": "S0_Sketch", "relic_en": "Aurora Prism Bell", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_01_NgShuang_TempestStag_S1_Baby_4View.jpg", "S2_Site": "TURN_01_NgShuang_TempestStag_S2_Site_4View.jpg", "S3_Grand": "TURN_01_NgShuang_TempestStag_S3_Grand_4View.jpg"}},
+    "S02": {"num": "02", "name_en": "Lim Dao Yang", "name_zh": "林道羏", "squad": "Squad_2", "realm": "Penang_TzuChi_Classroom", "pet_en": "BARKLEY", "pet_zh": "BARKLEY", "pet_stage": "S0_Sketch", "relic_en": "Smiley Hearth Medallion", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_02_LimDaoYang_Barkley_S1_Baby_4View.jpg", "S2_Site": "TURN_02_LimDaoYang_Barkley_S2_Site_4View.jpg", "S3_Grand": "TURN_02_LimDaoYang_Barkley_S3_Grand_4View.jpg"}},
+    "S03": {"num": "03", "name_en": "Carlzen Lim Jia Tzen", "name_zh": "林家誠", "squad": "Squad_3", "realm": "Penang_TzuChi_Classroom", "pet_en": "Sticky", "pet_zh": "Sticky", "pet_stage": "S0_Sketch", "relic_en": "Tide-Ember Lantern Drop", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_03_CarlzenLim_Sticky_S1_Baby_4View.jpg", "S2_Site": "TURN_03_CarlzenLim_Sticky_S2_Site_4View.jpg", "S3_Grand": "TURN_03_CarlzenLim_Sticky_S3_Grand_4View.jpg"}},
+    "S04": {"num": "04", "name_en": "Ong Yu Chen", "name_zh": "洪語晨", "squad": "Squad_2", "realm": "Penang_TzuChi_Classroom", "pet_en": "Ignis-Frost Pup", "pet_zh": "火冰狗", "pet_stage": "S0_Sketch", "relic_en": "Twin-Balance Bandana", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_04_OngYuChen_IgnisFrostPup_S1_Baby_4View.jpg", "S2_Site": "TURN_04_OngYuChen_IgnisFrostPup_S2_Site_4View.jpg", "S3_Grand": "TURN_04_OngYuChen_IgnisFrostPup_S3_Grand_4View.jpg"}},
+    "S05": {"num": "05", "name_en": "Kua Jun Ming", "name_zh": "葛峻銘", "squad": "Squad_3", "realm": "Penang_TzuChi_Classroom", "pet_en": "Javin Jr", "pet_zh": "Javin Jr", "pet_stage": "S0_Sketch", "relic_en": "Aegis Bamboo-Iron Scroll", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_05_KuaJunMing_JavinJr_S1_Baby_4View.jpg", "S2_Site": "TURN_05_KuaJunMing_JavinJr_S2_Site_4View.jpg", "S3_Grand": "TURN_05_KuaJunMing_JavinJr_S3_Grand_4View.jpg"}},
+    "S06": {"num": "06", "name_en": "Ooi Yu Bhor", "name_zh": "黃煜博", "squad": "Squad_2", "realm": "Penang_TzuChi_Classroom", "pet_en": "DOYB", "pet_zh": "DOYB", "pet_stage": "S0_Sketch", "relic_en": "Star-Chrono Pocket Compass", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_06_OoiYuBhor_DOYB_S1_Baby_4View.jpg", "S2_Site": "TURN_06_OoiYuBhor_DOYB_S2_Site_4View.jpg", "S3_Grand": "TURN_06_OoiYuBhor_DOYB_S3_Grand_4View.jpg"}},
+    "S07": {"num": "07", "name_en": "Boey Yi Ren", "name_zh": "梅譯仁", "squad": "Squad_2", "realm": "Penang_TzuChi_Classroom", "pet_en": "Poppy", "pet_zh": "Poppy", "pet_stage": "S0_Sketch", "relic_en": "Dewdrop Petal Teacup", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_07_BoeyYiRen_Poppy_S1_Baby_4View.jpg", "S2_Site": "TURN_07_BoeyYiRen_Poppy_S2_Site_4View.jpg", "S3_Grand": "TURN_07_BoeyYiRen_Poppy_S3_Grand_4View.jpg"}},
+    "S08": {"num": "08", "name_en": "Lee Khang Kok", "name_zh": "李強國", "squad": "Squad_1", "realm": "Penang_TzuChi_Classroom", "pet_en": "Bro", "pet_zh": "Bro", "pet_stage": "S0_Sketch", "relic_en": "Iron-Heart Knapsack & Rope", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_08_LeeKhangKok_Bro_S1_Baby_4View.jpg", "S2_Site": "TURN_08_LeeKhangKok_Bro_S2_Site_4View.jpg", "S3_Grand": "TURN_08_LeeKhangKok_Bro_S3_Grand_4View.jpg"}},
+    "S09": {"num": "09", "name_en": "Gisele Khoo Kai Yin", "name_zh": "邱愷音", "squad": "Squad_3", "realm": "Penang_TzuChi_Classroom", "pet_en": "Berrie", "pet_zh": "Berrie", "pet_stage": "S0_Sketch", "relic_en": "Star-Berry Picnic Basket", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_09_GiseleKhoo_Berrie_S1_Baby_4View.jpg", "S2_Site": "TURN_09_GiseleKhoo_Berrie_S2_Site_4View.jpg", "S3_Grand": "TURN_09_GiseleKhoo_Berrie_S3_Grand_4View.jpg"}},
+    "S10": {"num": "10", "name_en": "Tan Eg Siu", "name_zh": "陳奕修", "squad": "Squad_1", "realm": "Penang_TzuChi_Classroom", "pet_en": "Volt-Drake", "pet_zh": "蛋", "pet_stage": "S0_Sketch", "relic_en": "Cracked-Shell Dynamo Core", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_10_TanEgSiu_VoltDrake_S1_Baby_4View.jpg", "S2_Site": "TURN_10_TanEgSiu_VoltDrake_S2_Site_4View.jpg", "S3_Grand": "TURN_10_TanEgSiu_VoltDrake_S3_Grand_4View.jpg"}},
+    "S11": {"num": "11", "name_en": "Ooi Kai Xiang", "name_zh": "黃楷翔", "squad": "Squad_4", "realm": "Penang_TzuChi_Classroom", "pet_en": "OKX", "pet_zh": "OKX", "pet_stage": "S0_Sketch", "relic_en": "Cipher Rune Cube", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_11_OoiKaiXiang_OKX_S1_Baby_4View.jpg", "S2_Site": "TURN_11_OoiKaiXiang_OKX_S2_Site_4View.jpg", "S3_Grand": "TURN_11_OoiKaiXiang_OKX_S3_Grand_4View.jpg"}},
+    "S12": {"num": "12", "name_en": "Chong Jing Cheng", "name_zh": "張敬誠", "squad": "Squad_4", "realm": "Penang_TzuChi_Classroom", "pet_en": "Mimik-Spark", "pet_zh": "虛假元卡丘", "pet_stage": "S0_Sketch", "relic_en": "Stitch-Light Sketchbook", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_12_ChongJingCheng_MimikSpark_S1_Baby_4View.jpg", "S2_Site": "TURN_12_ChongJingCheng_MimikSpark_S2_Site_4View.jpg", "S3_Grand": "TURN_12_ChongJingCheng_MimikSpark_S3_Grand_4View.jpg"}},
+    "S13": {"num": "13", "name_en": "Lee Ming Hui", "name_zh": "李明穗", "squad": "Squad_3", "realm": "Penang_TzuChi_Classroom", "pet_en": "Sylvan-Fox", "pet_zh": "翡翠根晶狐", "pet_stage": "S0_Sketch", "relic_en": "Emerald Root Seed-Satchel", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_13_LeeMingHui_SylvanFox_S1_Baby_4View.jpg", "S2_Site": "TURN_13_LeeMingHui_SylvanFox_S2_Site_4View.jpg", "S3_Grand": "TURN_13_LeeMingHui_SylvanFox_S3_Grand_4View.jpg"}},
+    "S14": {"num": "14", "name_en": "Lee Qiu Rong", "name_zh": "李秋容", "squad": "Squad_4", "realm": "Penang_TzuChi_Classroom", "pet_en": "Miku", "pet_zh": "Miku", "pet_stage": "S0_Sketch", "relic_en": "Moon-Ribbon Chime Bow", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_14_LeeQiuRong_Miku_S1_Baby_4View.jpg", "S2_Site": "TURN_14_LeeQiuRong_Miku_S2_Site_4View.jpg", "S3_Grand": "TURN_14_LeeQiuRong_Miku_S3_Grand_4View.jpg"}},
+    "S15": {"num": "15", "name_en": "Cheah Hao Fung", "name_zh": "謝昊峰", "squad": "Squad_3", "realm": "Penang_TzuChi_Classroom", "pet_en": "Emerald-X Mecha", "pet_zh": "翡翠翼機甲", "pet_stage": "S0_Sketch", "relic_en": "Eco-Rune Greatsword", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_15_CheahHaoFung_EmeraldX_S1_Baby_4View.jpg", "S2_Site": "TURN_15_CheahHaoFung_EmeraldX_S2_Site_4View.jpg", "S3_Grand": "TURN_15_CheahHaoFung_EmeraldX_S3_Grand_4View.jpg"}},
+    "S16": {"num": "16", "name_en": "Chan Shi Ye", "name_zh": "陳施曄", "squad": "Squad_4", "realm": "Penang_TzuChi_Classroom", "pet_en": "Star-Yarn Caticorn", "pet_zh": "星紗獨角貓", "pet_stage": "S0_Sketch", "relic_en": "Rainbow Nebula Yarn Ball", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_16_ChanShiYe_StarYarnCaticorn_S1_Baby_4View.jpg", "S2_Site": "TURN_16_ChanShiYe_StarYarnCaticorn_S2_Site_4View.jpg", "S3_Grand": "TURN_16_ChanShiYe_StarYarnCaticorn_S3_Grand_4View.jpg"}},
+    "S17": {"num": "17", "name_en": "Uvincc Long Chieh Eik", "name_zh": "龍學議", "squad": "Squad_1", "realm": "Penang_TzuChi_Classroom", "pet_en": "Solar-Breeze Sky-Pup", "pet_zh": "曜風天犬", "pet_stage": "S0_Sketch", "relic_en": "Solar-Wind Star Compass", "relic_unlocked": false, "spells": [], "pet_turnarounds": {"S1_Baby": "TURN_17_UvinccLongChiehEik_SolarBreezeSkyPup_S1_Baby_4View.jpg", "S2_Site": "TURN_17_UvinccLongChiehEik_SolarBreezeSkyPup_S2_Site_4View.jpg", "S3_Grand": "TURN_17_UvinccLongChiehEik_SolarBreezeSkyPup_S3_Grand_4View.jpg"}}
+  }
+}

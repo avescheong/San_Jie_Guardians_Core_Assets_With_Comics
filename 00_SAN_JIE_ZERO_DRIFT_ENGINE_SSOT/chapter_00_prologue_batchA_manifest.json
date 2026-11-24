@@ -1,0 +1,172 @@
+{
+  "chapter": 0,
+  "chapter_title_en": "Prologue: The Classroom Sketches & The Cracked Eggshell",
+  "chapter_title_zh": "序章：教室裡的靈寵畫紙與碎裂蛋殼",
+  "batch_id": "CH00_Batch_A_Pages_01_to_05",
+  "target_pages": "1-5 of 20 (Prologue)",
+  "pages": [
+    {
+      "page_num": 1,
+      "scene": "Penang Tzu Chi San Jie Classroom — Last Coding Class Before Holiday",
+      "panels": [
+        {
+          "panel_id": "CH00_P01_01",
+          "core_cast": [],
+          "students": ["S01", "S17", "S02", "S04"],
+          "pets": [{"student_id": "S01", "stage": "S0_Sketch"}, {"student_id": "S17", "stage": "S0_Sketch"}],
+          "narration_en": "PENANG TZU CHI CLASSROOM — Warm afternoon sunlight pours across the last San Jie coding class before the school holiday.",
+          "narration_zh": "檳城慈濟人文教室——溫暖的午後陽光灑落，這是學校假期前最後一堂三捷班程式課。",
+          "dialogue": [
+            {"speaker": "TEACHER CHEONG", "en": "Before the holiday begins, sketch your dream guardian pet and write your very first Python spell!", "zh": "放假前，畫下你夢想中的守護靈寵，寫下屬於你的第一道 Python 咒語吧！"}
+          ],
+          "art_prompt": "Warm Studio Ghibli watercolor classroom in Penang; Teacher Cheong smiling as all 17 San Jie students sketch dream pets at wooden desks."
+        },
+        {
+          "panel_id": "CH00_P01_02",
+          "core_cast": [],
+          "students": ["S01", "S17"],
+          "pets": [{"student_id": "S01", "stage": "S0_Sketch"}, {"student_id": "S17", "stage": "S0_Sketch"}],
+          "narration_en": "",
+          "narration_zh": "",
+          "dialogue": [
+            {"speaker": "NG SHUANG", "en": "Look, Uvincc! My deer has aurora light so it can calm storms gently.", "zh": "學議你看！我的小鹿帶著極光，可以溫柔地安撫風暴喔。"},
+            {"speaker": "UVINCC", "en": "Awesome! Mine is a sky-pup with cloud ears and a star compass to guide everyone home.", "zh": "好酷！我畫的是一隻有雲朵耳朵和星羅盤的小天犬，能帶大家平安回家。"}
+          ],
+          "art_prompt": "Close-up of Ng Shuang and Uvincc smiling over their hand-drawn Stage 1 Baby sketches on paper."
+        },
+        {
+          "panel_id": "CH00_P01_03",
+          "core_cast": [],
+          "students": ["S03", "S09", "S05", "S13"],
+          "pets": [],
+          "narration_en": "Across the room, classmates share colored pencils, fruit snacks, and laughter — teamwork already blooming before any magic begins.",
+          "narration_zh": "教室另一頭，同學們互相借彩色筆、分享水果點心與笑聲——魔法尚未展開，團隊情誼早已悄悄萌芽。",
+          "dialogue": [
+            {"speaker": "GISELE", "en": "Want a sweet star-berry cookie? Sharing makes drawing way more fun!", "zh": "要吃一塊星莓餅乾嗎？大家一起分享畫畫更開心！"}
+          ],
+          "art_prompt": "Carlzen, Gisele, Kua Jun Ming, and Lee Ming Hui sharing colored pencils and plant-based fruit cookies at a classroom table."
+        }
+      ]
+    },
+    {
+      "page_num": 2,
+      "scene": "The 17-Guardian Class Photo & Heading Home",
+      "panels": [
+        {
+          "panel_id": "CH00_P02_01",
+          "core_cast": [],
+          "students": ["S01", "S02", "S03", "S04", "S17"],
+          "pets": [],
+          "narration_en": "One big San Jie group photo — seventeen young coders holding up seventeen hand-drawn dreams.",
+          "narration_zh": "一張溫馨的三捷班大合照——十七位小小程式師高舉著十七幅親手畫下的夢想。",
+          "dialogue": [
+            {"speaker": "TEACHER CHEONG", "en": "Remember: alone we can only do a little, but together with kindness, we can move mountains! Say Pythonia!", "zh": "記住：一個人的力量有限，但懷抱善念團結在一起，就能完成大事！一起喊「Pythonia」！"}
+          ],
+          "art_prompt": "Joyful wide shot of the 17 San Jie students and teachers posing together holding their pet sketches."
+        },
+        {
+          "panel_id": "CH00_P02_02",
+          "core_cast": [],
+          "students": ["S01"],
+          "pets": [{"student_id": "S01", "stage": "S0_Sketch"}],
+          "narration_en": "That night in Penang, seventeen sketches rest safely beside seventeen pillows...",
+          "narration_zh": "那天夜晚在檳城，十七張靈寵畫紙靜靜躺在十七個枕頭旁……",
+          "dialogue": [
+            {"speaker": "NG SHUANG", "en": "Goodnight, little aurora fawn... I wonder what Pythonia really looks like?", "zh": "晚安，極光小鹿……不知道 Pythonia 真正的樣子是什麼呢？"}
+          ],
+          "art_prompt": "Peaceful Penang bedroom at dusk; Ng Shuang placing her pencil drawing beside her bedside lamp."
+        }
+      ]
+    },
+    {
+      "page_num": 3,
+      "scene": "Meanwhile in Pythonia — Years After Hero Kai's Finale vs. Original Bug King",
+      "panels": [
+        {
+          "panel_id": "CH00_P03_01",
+          "core_cast": ["HERO_KAI", "EMBER_RED_DRAGON"],
+          "students": [],
+          "pets": [],
+          "narration_en": "MEANWHILE IN PYTHONIA — Several peaceful years have passed since Hero Kai defeated the original Bug King.",
+          "narration_zh": "與此同時在 Pythonia——自從凱英雄擊敗初代蟲王後，已經過了數年和平時光。",
+          "dialogue": [
+            {"speaker": "HERO KAI", "en": "Feel that strange static wind, Ember? Let's patrol the outer ridge together!", "zh": "餘燼，你感覺到這陣奇怪的靜電風了嗎？我們一起去外圍山脊巡邏吧！"}
+          ],
+          "art_prompt": "Hero Kai (4.0H Genome v5.0, cobalt-blue eyes, Tzu Chi belt buckle, sword-free) soaring across golden twilight clouds riding Ember the Red Dragon (09B_CH07_RED_DRAGON_4VIEW_CLEAN)."
+        },
+        {
+          "panel_id": "CH00_P03_02",
+          "core_cast": ["VEX"],
+          "students": [],
+          "pets": [],
+          "narration_en": "Far below in the forgotten crater of the old battle, a lone hooded boy named Vex stumbles upon a pulsing violet shard — the cracked eggshell remains of the first Bug King.",
+          "narration_zh": "在遠方早已被遺忘的古戰場隕石坑裡，一位孤單的兜帽少年「維克斯」偶然發現了一片脈動著紫光的碎片——那是初代蟲王殘留的碎裂蛋殼。",
+          "dialogue": [
+            {"speaker": "VEX", "en": "Still warm... Everyone throws away what's broken. Nobody ever cared about me either.", "zh": "還有餘溫……大家總是丟棄破碎的東西。從來也沒有人在乎過我。"}
+          ],
+          "art_prompt": "Moody Ghibli watercolor ruin; lonely boy Vex kneeling in mist, picking up a glowing violet cracked eggshell shard."
+        }
+      ]
+    },
+    {
+      "page_num": 4,
+      "scene": "Vex's Painful Memory — Abuse, Hunger & Loneliness",
+      "panels": [
+        {
+          "panel_id": "CH00_P04_01",
+          "core_cast": ["VEX"],
+          "students": [],
+          "pets": [],
+          "narration_en": "FLASHBACK — Years of harsh words, empty bowls, and cold rainy nights taught young Vex to lock his heart behind walls of anger.",
+          "narration_zh": "回憶——多年來的苛責、空蕩的飯碗與冰冷雨夜，讓年幼的維克斯學會用憤怒把心緊緊鎖起來。",
+          "dialogue": [
+            {"speaker": "VEX", "en": "Cold... hungry... If nobody shares a seat at the table, I'll build my own power alone!", "zh": "好冷……好餓……既然沒有人願意為我留一個位置，我就靠自己打造最強的力量！"}
+          ],
+          "art_prompt": "Muted rain-washed sepia watercolor flashback: young Vex huddled alone outside a warm lit window, clutching a crumpled torn sketchbook, feeling hunger and rejection (poignant, age-appropriate Studio Ghibli tone)."
+        },
+        {
+          "panel_id": "CH00_P04_02",
+          "core_cast": ["VEX"],
+          "students": [],
+          "pets": [],
+          "narration_en": "In his dim workshop, Vex feeds his bitter, broken childhood sketch code into the cracked eggshell — never realizing what his loneliness is about to wake.",
+          "narration_zh": "在昏暗的工作室裡，維克斯將充滿怨恨與錯誤的童年草圖程式碼輸入碎裂蛋殼——卻渾然不知自己的孤單正要喚醒什麼。",
+          "dialogue": [
+            {"speaker": "VEX", "en": "Why should happy teams win everything? Compile my anger — wake up!", "zh": "憑什麼快樂的小隊就能擁有一切？編譯我的不甘——甦醒吧！"}
+          ],
+          "art_prompt": "Vex typing frantic glowing violet broken code around the cracked Bug King eggshell on a stone workbench."
+        }
+      ]
+    },
+    {
+      "page_num": 5,
+      "scene": "Bug King II Awakens & The 10:17 PM Starlight Summons",
+      "panels": [
+        {
+          "panel_id": "CH00_P05_01",
+          "core_cast": ["VEX", "BUG_KING_II"],
+          "students": [],
+          "pets": [],
+          "narration_en": "CRACK!! Fuelled by Vex's broken code and pain, the eggshell erupts — awakening BUG KING II, far stronger than the first!",
+          "narration_zh": "轟隆！！在維克斯的錯誤程式碼與傷痛催動下，蛋殼劇烈爆裂——比初代更強大的「二代蟲王」甦醒了！",
+          "dialogue": [
+            {"speaker": "BUG KING II", "en": "Your lonely code gave me a new crown, boy... Now let's shatter Pythonia's bonds!", "zh": "你孤單的程式碼賜予了我全新的王冠，孩子……現在，讓我們撕碎 Pythonia 所有的羈絆吧！"}
+          ],
+          "art_prompt": "Dramatic violet glitch-lightning erupting from the cracked eggshell as Bug King II rises above a shocked Vex."
+        },
+        {
+          "panel_id": "CH00_P05_02",
+          "core_cast": ["HERO_KAI", "EMBER_RED_DRAGON"],
+          "students": ["S01", "S17"],
+          "pets": [],
+          "narration_en": "10:17 PM — Feeling the darkness rise, Pythonia's ancient Starlight answers by summoning seventeen kind-hearted coders from Penang!",
+          "narration_zh": "晚間 10:17——感應到黑暗甦醒，Pythonia 古老的星光即刻回應，從檳城召喚十七位懷抱善心的小小程式師！",
+          "dialogue": [
+            {"speaker": "HERO KAI", "en": "Seventeen golden ribbons! Ember, full speed — we have to catch them before Bug King II strikes!", "zh": "十七道金色星光！餘燼，全速前進——我們得在二代蟲王出手前接住他們！"}
+          ],
+          "art_prompt": "Epic double-wide splash: 17 golden starlight ribbons arcing across the night sky toward Pythonia as Hero Kai flies on Ember the Red Dragon."
+        }
+      ]
+    }
+  ]
+}

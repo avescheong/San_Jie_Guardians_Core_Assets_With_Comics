@@ -1,0 +1,592 @@
+{
+  "schema": "SANJIE-ZERO-DRIFT-SSOT-v1.0",
+  "project": "San Jie Class (July 2026) Hero Kai x 17 Photographed Guardians",
+  "drive_root": "1tyHf-nXF2-HcUMLD2comNcR1uupw8qQ9",
+  "global_negative_contracts": [
+    "Strictly 17 photographed students (Tan Jie Khe Jacob excluded; Ko Zi Xing has no photo in Name Card.pdf).",
+    "Hero Kai Normal 4.0H Genome v5.0 locked (sword-free default, Tzu Chi winged-lotus emerald shield buckle, String + Baby Praying Mantis only, Zero Ember).",
+    "100% plant-based eco-friendly world (zero meat/non-veg props, zero modern plastic or guns).",
+    "100% text-free raw AI artwork — composite all English + Traditional Chinese typography deterministically via Python/WeasyPrint.",
+    "Always anchor new generations to MASTER_BOARD_01 (17 Students), MASTER_BOARD_02 (17 Pets), and MASTER_BOARD_03 (17 Relics) + individual turnaround sheets to guarantee 1:1 visual lock."
+  ],
+  "roster": [
+    {
+      "num": "01",
+      "pet_id": "ID012",
+      "student_en": "Ng Shuang",
+      "student_zh": "吴双",
+      "student_genome": {
+        "glasses": "round gold wire-rimmed",
+        "hair": "chin-length straight black bob, wispy bangs",
+        "outfit": "sky-blue & cream shoulder capelet w/ gold clasp, cream tunic, leather waist pouch, light-blue pants, tan cuffed boots",
+        "hex": [
+          "#7BB5D3",
+          "#F4EFE6",
+          "#A97C50"
+        ]
+      },
+      "pet_name": "雷冰火鹿 (Tempest Stag)",
+      "element": "Electricity",
+      "element_tag": "Electricity · Ice · Fire",
+      "virtue": "愛大地 Love Earth",
+      "stages": {
+        "s0_egg": "Frost-Spark Antler Egg",
+        "s1_baby": "Spark-Fawn",
+        "s2_site": "Winged Lightning Stag",
+        "s3_grand": "Astral Tempest Sovereign Stag"
+      },
+      "relic": {
+        "en": "Aurora Prism Bell",
+        "zh": "極光稜鏡鈴",
+        "s1": "Frost-blue dewdrop chime tied to ear",
+        "s2": "Silver diamond-gem collar humming with calm thunder",
+        "s3": "Floating tri-elemental aurora prism crown orbiting antlers",
+        "story_hook": "Calms the Glitch Storm's static wind so Hero Kai's compass works again."
+      }
+    },
+    {
+      "num": "02",
+      "pet_id": "ID004",
+      "student_en": "Lim Dao Yang",
+      "student_zh": "林道羏",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "short tousled black hair, feathery bangs",
+        "outfit": "crimson-red laced vest over cream long-sleeve tunic, brown leather cross-body satchel, earthy brown pants, laced brown boots",
+        "hex": [
+          "#A93236",
+          "#F4EFE6",
+          "#6B4E37"
+        ]
+      },
+      "pet_name": "BARKLEY (Unbeatable Ice)",
+      "element": "Fire",
+      "element_tag": "Fire · Horn",
+      "virtue": "愛人 Love Others",
+      "stages": {
+        "s0_egg": "Striped-Ember Egg",
+        "s1_baby": "Little Bark-Drake",
+        "s2_site": "Fiery Striped-Horn Barkley",
+        "s3_grand": "Sun-Forge Sovereign Barkley"
+      },
+      "relic": {
+        "en": "Smiley Hearth Medallion",
+        "zh": "笑臉暖爐徽章",
+        "s1": "Warm brass button-tag with tiny smiley engraving",
+        "s2": "Gold BARKLEY smiley-face shield medallion",
+        "s3": "Radiant Sun-Forge Lotus Mantle radiating protective warmth",
+        "story_hook": "Shields classmates from cold Shadow Fog without scorching a single leaf."
+      }
+    },
+    {
+      "num": "03",
+      "pet_id": "ID002",
+      "student_en": "Lim Jia Tzen Carlzen",
+      "student_zh": "林家诚",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "very short cropped black buzz/crew cut",
+        "outfit": "aqua-teal explorer tunic, warm yellow canvas backpack, brown utility belt w/ twin pouches, brown cargo pants, dark-brown boots",
+        "hex": [
+          "#4BA3A8",
+          "#E6B84C",
+          "#7A5C3E"
+        ]
+      },
+      "pet_name": "Sticky",
+      "element": "Water",
+      "element_tag": "Water / Fire · Crystal Tail",
+      "virtue": "自愛 Love Self",
+      "stages": {
+        "s0_egg": "Bubble-Prism Egg",
+        "s1_baby": "Droplet Stick-Sprite",
+        "s2_site": "Crystal-Tail Water Stickman",
+        "s3_grand": "Tidal Prism Guardian Sticky"
+      },
+      "relic": {
+        "en": "Tide-Ember Lantern Drop",
+        "zh": "潮焰提燈露",
+        "s1": "Small glass bubble carrying a glowing ember-droplet",
+        "s2": "Faceted aqua-ember crystal tail lantern",
+        "s3": "Twin orbiting Steam-Prism Orbs purifying streams",
+        "story_hook": "Evaporates muddy Glitch Ink and rains clean crystal water over the valley."
+      }
+    },
+    {
+      "num": "04",
+      "pet_id": "ID010",
+      "student_en": "Ong Yu Chen",
+      "student_zh": "洪语晨",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "black hair in mid-high ponytail",
+        "outfit": "cream puffy-sleeve tunic, dual flame-orange & frost-blue woven scarf, brown waist belt, brown pants, sturdy brown shoes",
+        "hex": [
+          "#E67E35",
+          "#78B7D0",
+          "#F4EFE6"
+        ]
+      },
+      "pet_name": "火冰狗 (Ignis-Frost Pup)",
+      "element": "Fire",
+      "element_tag": "Fire · Crystal Tail",
+      "virtue": "愛人 Love Others",
+      "stages": {
+        "s0_egg": "Hearth-Crystal Egg",
+        "s1_baby": "Fluffy Spark-Pup",
+        "s2_site": "Horned Flame-Crystal Pup",
+        "s3_grand": "Solar-Frost Hound Guardian"
+      },
+      "relic": {
+        "en": "Twin-Balance Bandana",
+        "zh": "冰火平衡領巾",
+        "s1": "Patchwork red-and-blue knitted scarf",
+        "s2": "Frost-flame woven neckerchief with snowflake-spark clasp",
+        "s3": "Flowing Aurora Twin-Ribbon Mantle balancing heat & frost",
+        "story_hook": "Bridges frozen and overheated tiles during the Valley Crossing."
+      }
+    },
+    {
+      "num": "05",
+      "pet_id": "ID006",
+      "student_en": "Kua Jun Ming",
+      "student_zh": "葛峻铭",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "short neat crew-cut black hair",
+        "outfit": "crimson-red & forest-green layered guardian tunic, brown belt w/ twin pouches & bamboo scroll, forest-green pants, tan cuffed boots",
+        "hex": [
+          "#A8383B",
+          "#3E7B4F",
+          "#B88B5A"
+        ]
+      },
+      "pet_name": "Javin Jr",
+      "element": "Nature",
+      "element_tag": "Nature · Wizard Hat",
+      "virtue": "愛大地 Love Earth",
+      "stages": {
+        "s0_egg": "Acorn-Bolt Egg",
+        "s1_baby": "Sprout-Cheek Apprentice",
+        "s2_site": "Forest Mage Javin Jr",
+        "s3_grand": "Grand Verdant Archmage"
+      },
+      "relic": {
+        "en": "Aegis Bamboo-Iron Scroll",
+        "zh": "竹鐵盾卷軸",
+        "s1": "Mini wooden practice token strapped to paw",
+        "s2": "Engraved emerald-steel bracers & mini shield charm",
+        "s3": "Sovereign Guardian Crest Shield hovering beside shoulder",
+        "story_hook": "Blocks falling Glitch boulders while Kai decodes the Python lock."
+      }
+    },
+    {
+      "num": "06",
+      "pet_id": "ID007",
+      "student_en": "Ooi Yu Bhor",
+      "student_zh": "黄煜博",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "short straight black hair, neat straight fringe",
+        "outfit": "cobalt-blue sleeveless vest over cream laced tunic, brown belt w/ brass compass pendant, dark-brown pants, dark-brown boots",
+        "hex": [
+          "#2F5DA8",
+          "#F4EFE6",
+          "#4A3728"
+        ]
+      },
+      "pet_name": "DOYB",
+      "element": "Fire",
+      "element_tag": "Fire · Wizard Hat",
+      "virtue": "自愛 Love Self",
+      "stages": {
+        "s0_egg": "Star-Hat Ember Egg",
+        "s1_baby": "Winking Ember-Wyrm",
+        "s2_site": "Wizard-Hat Flame-Plume DOYB",
+        "s3_grand": "Astral Grimoire Phoenix-Drake"
+      },
+      "relic": {
+        "en": "Star-Chrono Pocket Compass",
+        "zh": "星時懷錶羅盤",
+        "s1": "Tiny brass key-charm on ribbon",
+        "s2": "Glowing sapphire-rune compass pendant",
+        "s3": "Celestial Astrolabe Ring spinning behind back",
+        "story_hook": "Maps hidden shortcuts through the Labyrinth of Forgotten Sketches."
+      }
+    },
+    {
+      "num": "07",
+      "pet_id": "ID005",
+      "student_en": "Boey Yi Ren",
+      "student_zh": "梅译仁",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "long straight black hair parted at center",
+        "outfit": "blush-pink hooded cloak over rose-pink sleeveless overdress & cream tunic, brown belt w/ petal pouch, cream leggings, brown boots",
+        "hex": [
+          "#E8B4B8",
+          "#D97B8B",
+          "#F4EFE6"
+        ]
+      },
+      "pet_name": "Poppy",
+      "element": "Fire",
+      "element_tag": "Fire · Crystal Tail",
+      "virtue": "愛人 Love Others",
+      "stages": {
+        "s0_egg": "Ribbon-Spark Egg",
+        "s1_baby": "Ember-Bow Kit",
+        "s2_site": "Flame-Wing Star-Crystal Poppy",
+        "s3_grand": "Seraphic Starfire Kitsune"
+      },
+      "relic": {
+        "en": "Dewdrop Petal Teacup",
+        "zh": "露珠花瓣茶杯",
+        "s1": "Tiny acorn-cap cup filled with morning dew",
+        "s2": "Pink-blossom nectar pouch & crystal dew wand",
+        "s3": "Blooming Sanctuary Blossom Halo scattering healing pollen",
+        "story_hook": "Brews plant-based floral nectar to revive tired pets and students."
+      }
+    },
+    {
+      "num": "08",
+      "pet_id": "ID013",
+      "student_en": "Lee Khang Kok",
+      "student_zh": "李强国",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "short thick slightly spiky black hair",
+        "outfit": "cream adventurer tunic, brown leather cross-strap & coiled climbing rope over shoulder, brown belt, khaki pants, dark-brown cuffed boots",
+        "hex": [
+          "#F4EFE6",
+          "#7B5638",
+          "#9C8B68"
+        ]
+      },
+      "pet_name": "Bro",
+      "element": "Fire",
+      "element_tag": "Fire · Wings",
+      "virtue": "愛人 Love Others",
+      "stages": {
+        "s0_egg": "Cloud-Whisker Egg",
+        "s1_baby": "Little Cloud-Loong",
+        "s2_site": "Crimson Winged Eastern Dragon Bro",
+        "s3_grand": "Celestial Dawn-Winged Sovereign Loong"
+      },
+      "relic": {
+        "en": "Iron-Heart Knapsack & Rope",
+        "zh": "鐵心行囊與攀繩",
+        "s1": "Mini woven explorer pouch with lucky pebble",
+        "s2": "Sturdy grappling vine-rope & brass lantern clip",
+        "s3": "Golden Vanguard Banner Cloak & Titan Climbing Hook",
+        "story_hook": "Pulls teammates safely up the Ink-Cliff during Act 2 rescue."
+      }
+    },
+    {
+      "num": "09",
+      "pet_id": "ID019",
+      "student_en": "Gisele Khoo Kai Yin",
+      "student_zh": "邱恺音",
+      "student_genome": {
+        "glasses": "round dark-rimmed",
+        "hair": "black hair in neat low bun, clean forehead",
+        "outfit": "berry-magenta sleeveless tunic over cream long-sleeve shirt, berry cross-body satchel, cream leggings, berry Mary Jane flats",
+        "hex": [
+          "#A63A63",
+          "#F4EFE6",
+          "#8C2D4F"
+        ]
+      },
+      "pet_name": "Berrie (Berry)",
+      "element": "Cosmic",
+      "element_tag": "Fairy · Fruit Salad",
+      "virtue": "愛人 Love Others",
+      "stages": {
+        "s0_egg": "Berry-Blossom Egg",
+        "s1_baby": "Ribbon-Berry Kit",
+        "s2_site": "Fairy-Winged Berrie",
+        "s3_grand": "Starlight Orchard Sylph Berrie"
+      },
+      "relic": {
+        "en": "Star-Berry Picnic Basket",
+        "zh": "星莓野餐籃",
+        "s1": "Single glowing strawberry charm on collar",
+        "s2": "Woven berry-vine satchel full of sparkling berries",
+        "s3": "Cornucopia Crystal Basket overflowing with luminous fruit",
+        "story_hook": "Shares plant-based Star-Berries that recharge every Guardian's spirit."
+      }
+    },
+    {
+      "num": "10",
+      "pet_id": "ID017",
+      "student_en": "Tan Eg Siu",
+      "student_zh": "陈奕修",
+      "student_genome": {
+        "glasses": "round dark-rimmed",
+        "hair": "short neat bowl-cut black hair, straight bangs",
+        "outfit": "lime-green & golden-yellow lightning-trim wizard tunic, brown belt w/ tiny golden eggshell charm, olive-brown pants, brown boots",
+        "hex": [
+          "#9BD146",
+          "#F2C94C",
+          "#6D683C"
+        ]
+      },
+      "pet_name": "蛋 (Dan / Volt-Drake)",
+      "element": "Electricity",
+      "element_tag": "Electricity · Dragon Wings",
+      "virtue": "自愛 Love Self",
+      "stages": {
+        "s0_egg": "Crown-Spark Egg",
+        "s1_baby": "Crackling Egg-Drake",
+        "s2_site": "Crowned Electric Dragon-Mouse",
+        "s3_grand": "Thunder-Crown Sky Sovereign"
+      },
+      "relic": {
+        "en": "Cracked-Shell Dynamo Core",
+        "zh": "蛋殼電能核",
+        "s1": "Cozy spotted eggshell helmet hat",
+        "s2": "Charged lightning-rune eggshell pauldron & tail spark",
+        "s3": "Sovereign Thunder-Shell Halo crackling with golden arcs",
+        "story_hook": "Powers up the ancient Pythonia Lighthouse Beacon in Act 3."
+      }
+    },
+    {
+      "num": "11",
+      "pet_id": "ID009",
+      "student_en": "Ooi Kai Xiang",
+      "student_zh": "黃楷翔",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "short neat black hair, straight bangs",
+        "outfit": "royal-blue rune-trimmed apprentice tunic, brown belt w/ glowing cyan-rune pouch, dark-slate pants, brown boots",
+        "hex": [
+          "#2D5AA6",
+          "#4FD1C5",
+          "#3B4652"
+        ]
+      },
+      "pet_name": "OKX",
+      "element": "Fire",
+      "element_tag": "Fire · Top Hat",
+      "virtue": "自愛 Love Self",
+      "stages": {
+        "s0_egg": "Top-Hat Ember Egg",
+        "s1_baby": "Scholar-Spark Hatchling",
+        "s2_site": "Top-Hat Scholar Dragon OKX",
+        "s3_grand": "Grand Alchemist-Scholar Dragon"
+      },
+      "relic": {
+        "en": "Cipher Rune Cube",
+        "zh": "密碼符文方塊",
+        "s1": "Tiny glowing wooden puzzle block",
+        "s2": "Floating cyan logic-rune cube orbiting paw",
+        "s3": "Grand Holographic Matrix Prism projecting clean code",
+        "story_hook": "Debugs the Bug King's scrambled barrier loops alongside Kai."
+      }
+    },
+    {
+      "num": "12",
+      "pet_id": "ID008",
+      "student_en": "Chong Jing Cheng",
+      "student_zh": "张敬诚",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "very short buzz-cut black hair",
+        "outfit": "emerald-green long-sleeve adventurer tunic w/ laced collar, brown cross-body sketch satchel, olive-green pants, tall brown boots",
+        "hex": [
+          "#2F8F5B",
+          "#7A5230",
+          "#6C7A46"
+        ]
+      },
+      "pet_name": "虛假元卡丘 (Mimik-Spark)",
+      "element": "Nature",
+      "element_tag": "Nature · Crystal Tail",
+      "virtue": "自愛 Love Self",
+      "stages": {
+        "s0_egg": "Stitched-Rune Egg",
+        "s1_baby": "Patchwork Spark-Plush",
+        "s2_site": "Crystal-Tail Stitched Plush",
+        "s3_grand": "Phantom Prism-Weaver Guardian"
+      },
+      "relic": {
+        "en": "Stitch-Light Sketchbook",
+        "zh": "縫光素描本",
+        "s1": "Little handmade patchwork disguise hood & crayon",
+        "s2": "Glowing stitched lightning-tail cloak & magic charcoal",
+        "s3": "Radiant Star-Weave Phantom Mantle turning doodles real",
+        "story_hook": "Brings faded classroom sketches back to vivid life."
+      }
+    },
+    {
+      "num": "13",
+      "pet_id": "ID014",
+      "student_en": "Lee Ming Hui",
+      "student_zh": "李明穗",
+      "student_genome": {
+        "glasses": "rectangular dark-rimmed",
+        "hair": "black hair in low ponytail w/ small hairclip",
+        "outfit": "sage-green & cream botanical tunic w/ leaf brooch, brown belt, brown backpack w/ rolled bedroll, forest-green leggings, brown shoes",
+        "hex": [
+          "#7FA67E",
+          "#F4EFE6",
+          "#486B49"
+        ]
+      },
+      "pet_name": "Sylvan-Fox (Moss-Fox)",
+      "element": "Nature",
+      "element_tag": "Nature · Crystal Tail",
+      "virtue": "愛大地 Love Earth",
+      "stages": {
+        "s0_egg": "Moss-Gem Egg",
+        "s1_baby": "Dewdrop Fox-Cub",
+        "s2_site": "Emerald-Root Crystal Fox",
+        "s3_grand": "Elder Grove Sanctuary Fox"
+      },
+      "relic": {
+        "en": "Emerald Root Seed-Satchel",
+        "zh": "翡翠根種囊",
+        "s1": "Single glowing sprout-acorn tucked in neck ruff",
+        "s2": "Leafy vine-woven seed pouch & emerald crystal shard",
+        "s3": "Living Elder-Grove Botanical Crown & Heart-Crystal Root",
+        "story_hook": "Regrows the withered Whispering Orchard in a single leap."
+      }
+    },
+    {
+      "num": "14",
+      "pet_id": "ID015",
+      "student_en": "Lee Qiu Rong",
+      "student_zh": "李秋容",
+      "student_genome": {
+        "glasses": "round thin gold-rimmed",
+        "hair": "shoulder-length layered black hair, side-swept bangs",
+        "outfit": "pastel lavender-lilac shoulder cape w/ crescent clasp over mint-green tunic, brown belt w/ golden chime keys, dark-plum leggings, brown flats",
+        "hex": [
+          "#C5B0D6",
+          "#A7DEC8",
+          "#5E465E"
+        ]
+      },
+      "pet_name": "Miku",
+      "element": "Nature",
+      "element_tag": "Nature · Crystal Tail · Fox",
+      "virtue": "愛大地 Love Earth",
+      "stages": {
+        "s0_egg": "Mint-Moon Egg",
+        "s1_baby": "Moon-Ribbon Kit",
+        "s2_site": "Moonlit Mint-Crystal Miku",
+        "s3_grand": "Lunar Blossom Sovereign Miku"
+      },
+      "relic": {
+        "en": "Moon-Ribbon Chime Bow",
+        "zh": "月緞風鈴結",
+        "s1": "Soft mint ribbon bow with tiny silver bell",
+        "s2": "Twin moonlit translucent ribbon streamers",
+        "s3": "Dual Floating Crescent-Moon Halos weaving harmonic light",
+        "story_hook": "Sings a lullaby chime that turns panicked Glitch sprites friendly."
+      }
+    },
+    {
+      "num": "15",
+      "pet_id": "ID011",
+      "student_en": "Cheah Hao Fung",
+      "student_zh": "谢昊峰",
+      "student_genome": {
+        "glasses": "rectangular dark-rimmed",
+        "hair": "short thick black hair, straight bangs",
+        "outfit": "charcoal-dark apprentice tunic w/ crisp emerald-green collar/cuff/hem trim, dark charcoal pants, brown boots, leather blueprint pouch",
+        "hex": [
+          "#3C403D",
+          "#2EAA6E",
+          "#6B4E37"
+        ]
+      },
+      "pet_name": "Emerald-X Mecha",
+      "element": "Cosmic",
+      "element_tag": "Cosmic · Green Flame Mecha",
+      "virtue": "愛人 Love Others",
+      "stages": {
+        "s0_egg": "Chrono-Gear Egg",
+        "s1_baby": "Mini X-Bot Sprout",
+        "s2_site": "Emerald-Flame Winged Mecha",
+        "s3_grand": "Aegis Eco-Titan Prime"
+      },
+      "relic": {
+        "en": "Eco-Rune Greatsword",
+        "zh": "生態符文巨劍",
+        "s1": "Tiny green leaf antenna & mini crimson cape",
+        "s2": "Dark-steel greatsword etched with glowing emerald runes",
+        "s3": "Twin Crimson-Emerald Crystal Wings & Chest Star Core",
+        "story_hook": "Clears tangled dark-briar vines with a gentle emerald restoration wave."
+      }
+    },
+    {
+      "num": "16",
+      "pet_id": "ID003",
+      "student_en": "Chan Shi Ye",
+      "student_zh": "陈施晔",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "chin-length straight black bob, full straight bangs",
+        "outfit": "pastel-lavender long-sleeve tunic, dusty-purple pants, woven rainbow-striped cross-body yarn pouch, warm brown shoes",
+        "hex": [
+          "#D8C2E6",
+          "#9A84A8",
+          "#E88D9C"
+        ]
+      },
+      "pet_name": "Star-Yarn Caticorn",
+      "element": "Cosmic",
+      "element_tag": "Cosmic · Dream · Unicorn Horn",
+      "virtue": "自愛 Love Self",
+      "stages": {
+        "s0_egg": "Pastel-Yarn Egg",
+        "s1_baby": "Teardrop Yarn-Kitten",
+        "s2_site": "Rainbow-Horn Yarn Caticorn",
+        "s3_grand": "Nebula Loom Celestial Caticorn"
+      },
+      "relic": {
+        "en": "Rainbow Nebula Yarn Ball",
+        "zh": "彩虹星雲毛線球",
+        "s1": "Cozy pastel rainbow yarn ball hugged in paws",
+        "s2": "Enchanted rolling rainbow yarn orb with star-charm collar",
+        "s3": "Orbiting Starry Yarn Moons & Constellation Loom Tail",
+        "story_hook": "Weaves a glowing rainbow yarn bridge across the Sky Chasm."
+      }
+    },
+    {
+      "num": "17",
+      "pet_id": "ID001",
+      "student_en": "Uvincc Long Chieh Eik",
+      "student_zh": "龙学议",
+      "student_genome": {
+        "glasses": "none",
+        "hair": "very short buzz-cut black hair",
+        "outfit": "sky-blue shoulder capelet over golden-orange tunic w/ sky-blue trim, brown belt w/ golden 8-point star-compass buckle & twin pouches, khaki pants, dark-brown boots",
+        "hex": [
+          "#6CB2D1",
+          "#E89B3C",
+          "#7D6246"
+        ]
+      },
+      "pet_name": "曜風天犬 (Solar-Breeze Sky-Pup)",
+      "element": "Wind",
+      "element_tag": "Wind · Sky · Star Compass",
+      "virtue": "愛人 Love Others",
+      "stages": {
+        "s0_egg": "Cloud-Compass Egg",
+        "s1_baby": "Breeze-Tuft Pup",
+        "s2_site": "Solar-Breeze Sky-Pup",
+        "s3_grand": "Solar-Breeze Celestial Hound"
+      },
+      "relic": {
+        "en": "Solar-Wind Star Compass",
+        "zh": "曜風星羅盤",
+        "s1": "Sky-blue explorer neckerchief",
+        "s2": "Golden 8-point star-compass collar & turquoise wind ribbons",
+        "s3": "Radiant Solar-Compass Chest Crest & Feathered Wind Wings",
+        "story_hook": "Guides the entire class squadron safely through the high clouds."
+      }
+    }
+  ]
+}

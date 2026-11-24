@@ -1,0 +1,1809 @@
+{
+  "project": "San Jie Class (July 2026) Hero Kai x 17 Guardians",
+  "version": "v5.5-complete-13ch",
+  "generated_at": "2026-11-23T21:00:00+08:00",
+  "comic_root_drive_id": "11J-N2kLwRSvdkvq-rl1eYJGnGY5HmdvC",
+  "folders": {
+    "00_Raw_Panels_Tracked_For_Edit": "1WkyU_QYMh4brbE6nmJZKMhWesLn5bEfn",
+    "01_Final_PDFs_v5.3_v5.4": "1O0vmp0GdipTru98xSdRJC5chuXtSnSap",
+    "02_Webtoon_Strips_Stitched_800px": "12ZvprZBfbEB4HCjke6MYnAKLKBXnLMe6",
+    "03_Webtoon_Tiles_WebP_Website": "1SSnao22wzmU94JQgTFJemWr-Q8vnV79L",
+    "04_Scripts_JSON_and_Engine": "1qqW_TK8sbeI9n4pcNRfnko5zx70_1RBC"
+  },
+  "total_chapters": 13,
+  "total_tiles": 221,
+  "tile_format": {
+    "width": 800,
+    "height": 1460,
+    "format": "webp",
+    "quality": 84
+  },
+  "strip_format": {
+    "width": 800,
+    "format": "jpeg",
+    "quality": 82
+  },
+  "chapters": [
+    {
+      "chapter": "CH00",
+      "slug": "CH00_Prologue",
+      "edition": "v5.5 Director's Cut",
+      "pdf_drive_id": "1u3DjsnqvSRQqB8b1pisVYLSnNfaxYV64",
+      "json_drive_id": "1O6Iyd50XP7sX-f7zVs-Q5BQkXEGtkO2B",
+      "stitched_strip": {
+        "drive_id": "1Nf4U1lzEl2UcZCrVdZVgE8JAfOpA5vV2",
+        "filename": "CH00_Prologue_Webtoon_v5.5_800px_Stitched.jpg",
+        "width": 800,
+        "height": 37960,
+        "size_mb": 5.86
+      },
+      "tile_subfolder_drive_id": "1vZFFBbEnT_u535qC7WKAL6DjQL67PECf",
+      "tile_count": 26,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH00_tile_001.webp",
+          "drive_id": "1C12EkU6lX5rBPBLimDkTd924RdNuGybA",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH00_tile_002.webp",
+          "drive_id": "13n0gxHn3AKrXcPEUXtCBIjOasOCMupWe",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH00_tile_003.webp",
+          "drive_id": "19bznp7Dq136rPuWSeI0A3a4HkpA-VTCg",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH00_tile_004.webp",
+          "drive_id": "1ULn-OP8q6QX6hjiQ2yTvFUYLLJtjBR1A",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH00_tile_005.webp",
+          "drive_id": "1Ma4-olDmtOSWCGmeucXil6YHXr52quPs",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH00_tile_006.webp",
+          "drive_id": "15fnl9--q-nJRDqSZUyryPmaHyqoHvNw8",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH00_tile_007.webp",
+          "drive_id": "1V-IS_E4tRqTJb3axyKiFWpCPma582DMh",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH00_tile_008.webp",
+          "drive_id": "1VYiLsxhWUMeyiEjkOBywR0nmPnlhMpB6",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH00_tile_009.webp",
+          "drive_id": "1H0WOiajPeGD_Zyh2aTSbixqg1oRTVi7M",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH00_tile_010.webp",
+          "drive_id": "1jwRZ_aChNtEeEUjh7V52au1pZrW7Lg1s",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH00_tile_011.webp",
+          "drive_id": "1GNbxrBCc4rxrlH8R5kn6SlAHGMt1bwPI",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH00_tile_012.webp",
+          "drive_id": "1Ty38-LeGZtXkjptjLPAHixWgm2H0eLWL",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH00_tile_013.webp",
+          "drive_id": "1A5eBfi6VP1YnM6T2C0qcYKV1wn-Xb6xq",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH00_tile_014.webp",
+          "drive_id": "1TdIKjqc_NB-dSZiLIEdSQdPdVYZ8iwvG",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH00_tile_015.webp",
+          "drive_id": "1fl4ZpXaQwEVUzCFNtr6CUoUO52jidxp-",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 16,
+          "filename": "CH00_tile_016.webp",
+          "drive_id": "1lJaWvv_35w5rAGtZsZO2Sby48EvYf45q",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 17,
+          "filename": "CH00_tile_017.webp",
+          "drive_id": "1vbKscdxWzF12xWAIkNgcW2OBOk_kiquU",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 18,
+          "filename": "CH00_tile_018.webp",
+          "drive_id": "1GYe35yQDnFKfHeUoekkDe6quHQjjZjm_",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 19,
+          "filename": "CH00_tile_019.webp",
+          "drive_id": "1j2IAFGx6CS_0YqBMpSFqlxbVOuV4Ig9t",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 20,
+          "filename": "CH00_tile_020.webp",
+          "drive_id": "1_wYnhFGFvR9yVIEWbJGmfcVlJkhpTX96",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 21,
+          "filename": "CH00_tile_021.webp",
+          "drive_id": "1qwaxz2QqYjKZoFdFkQl1N-HEhAXPKesd",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 22,
+          "filename": "CH00_tile_022.webp",
+          "drive_id": "17NVI-D8fS2uQlEv3vi2v4KibFZxdOyE9",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 23,
+          "filename": "CH00_tile_023.webp",
+          "drive_id": "1iQit3nhx_ql5PkPfhjuAdpQaRPNmAdnS",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 24,
+          "filename": "CH00_tile_024.webp",
+          "drive_id": "1Kq4Xa06GIK1V8IUvo49aa9PVj_zGN51n",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 25,
+          "filename": "CH00_tile_025.webp",
+          "drive_id": "1XaUPlZzSiPk4n_F2FMRES8oK5Amt3d73",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 26,
+          "filename": "CH00_tile_026.webp",
+          "drive_id": "1SlzvtAcxswOuQlkSS6qKsSK2X3P9jg5x",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH01",
+      "slug": "CH01_Frost_Peak_Signals",
+      "edition": "v5.3",
+      "pdf_drive_id": "1wGXKNYKzoN5zgOPvTmAEnEfCeUZJC0Ci",
+      "json_drive_id": "1LO6hZj7GZSmmfFom_J6iD5p_RhtNXhyc",
+      "stitched_strip": {
+        "drive_id": "1hifgUuPuaR2O3MYyRX_ROD1y6W3xJehg",
+        "filename": "CH01_Frost_Peak_Signals_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 33580,
+        "size_mb": 4.827
+      },
+      "tile_subfolder_drive_id": "16CKrQaMO-ndhAW1hJHbrs7NtBHDippdB",
+      "tile_count": 23,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH01_tile_001.webp",
+          "drive_id": "1c17U37gUU9MLq_QSaK2ZILpT9J8uvY7C",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH01_tile_002.webp",
+          "drive_id": "1KzshFvGmj-NjYTYEQoLIjlnWw8cec_oX",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH01_tile_003.webp",
+          "drive_id": "1m9zXOOhK130fnGaljX_fCjuymHJmmvZt",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH01_tile_004.webp",
+          "drive_id": "1dCFLR8yWW-lbDKh-isxEOfOKz2oZP09v",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH01_tile_005.webp",
+          "drive_id": "1_oKLRLakIpDcEkROcbT2DdvchyCiIskz",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH01_tile_006.webp",
+          "drive_id": "1WHCCfQ9mfKMgnvLpyQDM7wq1yHb-d9kQ",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH01_tile_007.webp",
+          "drive_id": "1t42lAbQugyAMqoW9udfgKbnSyDzo-_as",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH01_tile_008.webp",
+          "drive_id": "1WTwRvlS1aLVSsPmXpzq3Opi8m1lbFK0j",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH01_tile_009.webp",
+          "drive_id": "1VMK-aVxmQ_cFUUZGxNpTzMRgMleU_0PB",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH01_tile_010.webp",
+          "drive_id": "1P0kMzeDg1ni0rvtr9EciT9TR7p0v9fr3",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH01_tile_011.webp",
+          "drive_id": "1FmG5D1UrWZHtZ-UdwjKqbpN7O5ychNot",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH01_tile_012.webp",
+          "drive_id": "1-1oh8UuKj1OphP9Y0NOVygncW4Dp9BV0",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH01_tile_013.webp",
+          "drive_id": "1dYWKx0AL_L9xH8ppVQrEh-Tb8LPZi9WD",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH01_tile_014.webp",
+          "drive_id": "1s4dLM8ousOQ9Ld0sGewi1XavDzsKH3Jp",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH01_tile_015.webp",
+          "drive_id": "1czwBAZSuHBH_z4If-2wgdcZwQCjOJpKY",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 16,
+          "filename": "CH01_tile_016.webp",
+          "drive_id": "14fCo5Ii9rNzyJqxGyN1CdIIa_QEaCGAA",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 17,
+          "filename": "CH01_tile_017.webp",
+          "drive_id": "1htcKJVhA-GL4syNBxU5l7V4aE_fAZf_S",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 18,
+          "filename": "CH01_tile_018.webp",
+          "drive_id": "13AFcgnpXMUNDQliTAwwh-34i8DxDJCjj",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 19,
+          "filename": "CH01_tile_019.webp",
+          "drive_id": "1K2yxomWDS9JuzUMynT562yXFC1AMbEhy",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 20,
+          "filename": "CH01_tile_020.webp",
+          "drive_id": "1-3s_UoAqd0GjpfTJAlNbsHSY_uHdy0tX",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 21,
+          "filename": "CH01_tile_021.webp",
+          "drive_id": "1_FHPgtvQdXgzWvdk5JwUc91nYg_sSmhs",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 22,
+          "filename": "CH01_tile_022.webp",
+          "drive_id": "1010OqaounCkoxdVfuZTtVLBNRJEsubbV",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 23,
+          "filename": "CH01_tile_023.webp",
+          "drive_id": "1Ti0458LEeu2igynoiETCVKpniz7W3vVG",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH02",
+      "slug": "CH02_Glacier_Ember",
+      "edition": "v5.3",
+      "pdf_drive_id": "1CsxLYZ-XmprUBU-jqtkQvPFYrWnvsmZS",
+      "json_drive_id": "1bJkWoUpYYOcU3ugjoCOLYTHpnxgJstpf",
+      "stitched_strip": {
+        "drive_id": "1Sr52FP3mWS2HPq_-wC7mLl8CUYnKrQGp",
+        "filename": "CH02_Glacier_Ember_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 23360,
+        "size_mb": 3.5
+      },
+      "tile_subfolder_drive_id": "1kGDEXvZ3ay8drOk39rpJHP4LyVod36a0",
+      "tile_count": 16,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH02_tile_001.webp",
+          "drive_id": "1a71rNZRjSoUL24i2Pogq5PZ2UKJVtgIm",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH02_tile_002.webp",
+          "drive_id": "1fSYbcnR2U-mGWavnspPvnHB8gCUCcYAo",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH02_tile_003.webp",
+          "drive_id": "10iQsnEmOoyv6ls28Zgj_Ft9IrzGtqCVE",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH02_tile_004.webp",
+          "drive_id": "1O41KpWOQCbwcUBln4Oo-3Ddl5I092-2b",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH02_tile_005.webp",
+          "drive_id": "1z3tcoSyjC6o_n8bQMyACcganepvCvYqS",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH02_tile_006.webp",
+          "drive_id": "1WNdxAF_DaKuxsPo28EsOzdhV3M74dfbV",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH02_tile_007.webp",
+          "drive_id": "1-dIPLuBozD9yPNGEg1MhiXxiWmUjw3rf",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH02_tile_008.webp",
+          "drive_id": "1MIfcavbR9qwiaT0HuFZrCNcXHJBHErcv",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH02_tile_009.webp",
+          "drive_id": "12eQayJmQU-ttuT-ju_tTMcPlD6MJWSM7",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH02_tile_010.webp",
+          "drive_id": "1A9YJM4UQJJ1RGWsKNLWIJzkTzxUs48pM",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH02_tile_011.webp",
+          "drive_id": "1NrHIWAdx-aXfqBjVEIrmp0fTD6pgBSwA",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH02_tile_012.webp",
+          "drive_id": "1cKmpZGvtZXdrNyN2OMdQRfZBvb4KkmWm",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH02_tile_013.webp",
+          "drive_id": "1kg8QXATQp3g20AKuGokomP-mXYDsxWdw",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH02_tile_014.webp",
+          "drive_id": "1PfwFyi2Mhf9V8rX6vJsqqMDuqQJPGLwU",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH02_tile_015.webp",
+          "drive_id": "1wb-rZSlH-g2JnUz-_QozWKEKh5Il7Dz5",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 16,
+          "filename": "CH02_tile_016.webp",
+          "drive_id": "1gWyTSDOsZ5hceXwfYDN0XuCGWeV--Vas",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH03",
+      "slug": "CH03_Waterfall_Sanctuary",
+      "edition": "v5.3",
+      "pdf_drive_id": "1ML-JAN0nFm1MvX038iUncUm_L3TJDhr4",
+      "json_drive_id": "1Z9TGNQtA3B6rENTLWufFN6msdIkaC8T8",
+      "stitched_strip": {
+        "drive_id": "1FMTxnIL__zPIQEpqnZ-aQvaLsHzF4FE-",
+        "filename": "CH03_Waterfall_Sanctuary_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 21900,
+        "size_mb": 3.59
+      },
+      "tile_subfolder_drive_id": "1aLJ4D4jFmBlRYCZxGJq_-6uEZQ9n8Ama",
+      "tile_count": 15,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH03_tile_001.webp",
+          "drive_id": "1ZDBOuXdeluY0HG3WQ4huSecZTjajkl5K",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH03_tile_002.webp",
+          "drive_id": "1Pw2_9oflHNnZ-l0tGvlwArO5tCWv_Ktp",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH03_tile_003.webp",
+          "drive_id": "1M0cpz80g_fjoNO5oOECsHUBwz4OAb8mx",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH03_tile_004.webp",
+          "drive_id": "1AkKcjloZ3XLJ4ZQnfyv0pe2e1vkm-PFC",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH03_tile_005.webp",
+          "drive_id": "1Xe1GJqBd5NIVlrpapEGNIfd642S4FErl",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH03_tile_006.webp",
+          "drive_id": "1Z_1isf4y1CtWBFPEcfeWs8V2DHn5RFZ8",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH03_tile_007.webp",
+          "drive_id": "1BPPEk6e82zrIEcoMHxv9odkhuBBbFG8e",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH03_tile_008.webp",
+          "drive_id": "1-53tZkxcpONaBrJLwZnpHNDnJTysVC5A",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH03_tile_009.webp",
+          "drive_id": "1cvH_NiawTL_5PqMAFmAMzGDy0c43al9B",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH03_tile_010.webp",
+          "drive_id": "1caR9U-MXX0ee4KSWGi3iU6FIpF-ykkkR",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH03_tile_011.webp",
+          "drive_id": "1FkZMIViptkNGlMzJbigxcM3HNiCAv-gm",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH03_tile_012.webp",
+          "drive_id": "1fidNAYlYikQxl9xxxeTR1CsbCG5ROeZU",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH03_tile_013.webp",
+          "drive_id": "16nrfFUhHFaIa1vnYGjQzlIMdaynqtm9v",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH03_tile_014.webp",
+          "drive_id": "1oWjsjmZs5kkOOlr3fgZn_mkLrdoqBUDj",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH03_tile_015.webp",
+          "drive_id": "1qBqQPj-I880vNDlS9nC6wnW55lJXw0fW",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH04",
+      "slug": "CH04_Bamboo_Lotus_Barrier",
+      "edition": "v5.3",
+      "pdf_drive_id": "1PqSMnjUwRQjDJTJhskKqv_hxkxi-BSJn",
+      "json_drive_id": "1Q1_kkjdHdlv7jwoLUk_pey0TblVc7KMc",
+      "stitched_strip": {
+        "drive_id": "13LwFZaCrVxgVSjwu8nVn3k6s4CGCynAK",
+        "filename": "CH04_Bamboo_Lotus_Barrier_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 20440,
+        "size_mb": 3.49
+      },
+      "tile_subfolder_drive_id": "1qs1GqiqBxq4yZHZybhmVMPpzeI2lmse6",
+      "tile_count": 14,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH04_tile_001.webp",
+          "drive_id": "18T95IIfSGMSoA6ue2_9cKwXEuCngJOUO",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH04_tile_002.webp",
+          "drive_id": "1lAgKsmobafkOdR32npGLPt7AlwhNKK2b",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH04_tile_003.webp",
+          "drive_id": "1YTOMnxQJe6UprqN1tKuchKsLYoTa-_dQ",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH04_tile_004.webp",
+          "drive_id": "1igd3yzv9fPF3TSFht6S0l3x5K93H6CdF",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH04_tile_005.webp",
+          "drive_id": "1tazkHorpaLRzqsPD5nGmwbgBYhkuIfPy",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH04_tile_006.webp",
+          "drive_id": "1PujVcRU67nmoAyu9G4OFaW-ZM7MhCc9w",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH04_tile_007.webp",
+          "drive_id": "16kXfL5LYS0HYBrC_XBT7xGo7hDmL0QkC",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH04_tile_008.webp",
+          "drive_id": "1H5ACyxaDZAJOpV2Yh0C3NuEuuowzYyJj",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH04_tile_009.webp",
+          "drive_id": "1kMgOm6Pcp6dO2YvLTCzp2ysiQPCFcSQJ",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH04_tile_010.webp",
+          "drive_id": "1maHd4Wo3n_uxXjaQM5Vb_9mf3zMAIA0b",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH04_tile_011.webp",
+          "drive_id": "1WUUMe31Fyu3l8A021BD3td68fhvfNe95",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH04_tile_012.webp",
+          "drive_id": "1q5jgMSDGzAb29qnXSObXuWiJeKyeIa6i",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH04_tile_013.webp",
+          "drive_id": "1H6lrwUvnOs9s7nayU0gpZrgSEpa7Xp4k",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH04_tile_014.webp",
+          "drive_id": "1QCbinUY1tAx3flQae-uO64APA4lDlVhx",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH05",
+      "slug": "CH05_Aurora_Spire_Fourfold_Awakening",
+      "edition": "v5.3",
+      "pdf_drive_id": "17TzGRow2szmAGCbel-OynYOn7hfKU3Lh",
+      "json_drive_id": "1IYK-_XtM9eLRSMKZ3AGBKoGg7hOV0fDy",
+      "stitched_strip": {
+        "drive_id": "111MhNDK_WI8NKV8sVWpzpCthchKwUHz0",
+        "filename": "CH05_Aurora_Spire_Fourfold_Awakening_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 21900,
+        "size_mb": 3.535
+      },
+      "tile_subfolder_drive_id": "1-cuKNDWC5wJaHmRf26ozXHSyu97sJvdT",
+      "tile_count": 15,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH05_tile_001.webp",
+          "drive_id": "1GaDw5ZFoTtNeWu5aK11PqXHav0E9FkAq",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH05_tile_002.webp",
+          "drive_id": "1Yhh0nyP4NTK9PFGaD-bi0FQnhP2y39TA",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH05_tile_003.webp",
+          "drive_id": "1pzJleOOkBw0cD3CMH9GH1PhCr-VD96cT",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH05_tile_004.webp",
+          "drive_id": "1rF7gpTfW1eQ0MCz-5QC3eMu7z-bsIx9G",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH05_tile_005.webp",
+          "drive_id": "1eEHfTfV44GE_COXCqFlSiKwFrEjtniQ_",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH05_tile_006.webp",
+          "drive_id": "1Yby3y4tjT8nJYI02szbcZVfgmeZVRrqP",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH05_tile_007.webp",
+          "drive_id": "1LHkNQS03MkN8vuq-216MN1BZziyJ5eCQ",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH05_tile_008.webp",
+          "drive_id": "1EKe-c6MHv2uqe-nTx1AdLyhgVoedg8-i",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH05_tile_009.webp",
+          "drive_id": "1ZUjIqPcKzUv1LDZAxWPxIHZXRYBkm5Co",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH05_tile_010.webp",
+          "drive_id": "1YtLk1haDqykcyZek91eWKd96sQyT63dA",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH05_tile_011.webp",
+          "drive_id": "1D6knx9ouzmREuMFzJG82aVqUB_YfEdnq",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH05_tile_012.webp",
+          "drive_id": "1lpQi6uJiMN1mq7VkxA6W-SX20Zy6O-DP",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH05_tile_013.webp",
+          "drive_id": "1q8vMEEKQoLmO7JSFZtT0HrKjSXofSsDE",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH05_tile_014.webp",
+          "drive_id": "1bXL9djFZPV0G7XVDVthkQwI12sjiSH9D",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH05_tile_015.webp",
+          "drive_id": "1NrybQ0Ykt3gtxPwwtuS56yCstiLIBtPF",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH06",
+      "slug": "CH06_Magma_Glitch_Titan_Fourfold_Balance",
+      "edition": "v5.3",
+      "pdf_drive_id": "1uBBLE-E1wTG4OGSG0jCaaFMhVmqlk4Ck",
+      "json_drive_id": "1bAidoAN3UNkNbb_364qBQcZTL-ME5vbN",
+      "stitched_strip": {
+        "drive_id": "1mmyp_AJ1v1GUvjiUtXbYxIM528wGCJu9",
+        "filename": "CH06_Magma_Glitch_Titan_Fourfold_Balance_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 21900,
+        "size_mb": 3.835
+      },
+      "tile_subfolder_drive_id": "10KjoVX8QIqPmn4jcUY5jyMFEosPx1oC1",
+      "tile_count": 15,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH06_tile_001.webp",
+          "drive_id": "1iJXvuuq1mzoeSZfTQ4UJx4p7yDMbFzM7",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH06_tile_002.webp",
+          "drive_id": "19cDnejn8wFFZtFXtHo9zbF9-dwN7QfEJ",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH06_tile_003.webp",
+          "drive_id": "1spRU28wj6AbUl5b7lHffOmxkL7syLimu",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH06_tile_004.webp",
+          "drive_id": "1Wga5Hmf9csv-IhQLKTb0LBBmoISeFbEq",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH06_tile_005.webp",
+          "drive_id": "1OLdqbP9D9ZQuWmmJ1-_Vv_lABWOU7crV",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH06_tile_006.webp",
+          "drive_id": "1HDkHIWOjLCbzgLYWoVMmBOPh-ELu1khy",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH06_tile_007.webp",
+          "drive_id": "1CuZnUlOUZI8nW27pxNjtRwK2gDa4OsX5",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH06_tile_008.webp",
+          "drive_id": "14YpJiidAJN2hlugTQnKY_lVb5JkxrSBk",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH06_tile_009.webp",
+          "drive_id": "1AzX6dkCyHH2EhJkmmNvacIs-nakrDmxD",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH06_tile_010.webp",
+          "drive_id": "1fbh6-_RU3_qdFSCeNlM0ZmJqbZBZ9-IS",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH06_tile_011.webp",
+          "drive_id": "1CIufz-kSK5txIjrIhGGYxAoQQdhO26us",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH06_tile_012.webp",
+          "drive_id": "1Inx-Xvq3dK1M5kBrAZ-8Cde5FlXcPNPQ",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH06_tile_013.webp",
+          "drive_id": "1NH_fbTUBwIjANIWrNi7OgyrqsI1B5WjN",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH06_tile_014.webp",
+          "drive_id": "1BpCtlj8Xak_pKqVDfaoUBhQ6SJLh8wrM",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH06_tile_015.webp",
+          "drive_id": "1qIC_F-Op75wm4SWlpxwihn2s2L_sKuHE",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH07",
+      "slug": "CH07_The_Briar_Hydra_And_Fivefold_Evolution",
+      "edition": "v5.3",
+      "pdf_drive_id": "1locgIsbfn7v94eHlQEyuRDIhBG8ASDw6",
+      "json_drive_id": "1O1r6WW4VJ8kCggrOhwAz7cDx2DGlffHc",
+      "stitched_strip": {
+        "drive_id": "1Hk_P5V5Izy2OMvxVmVdXJMn5o3Sz9mu2",
+        "filename": "CH07_The_Briar_Hydra_And_Fivefold_Evolution_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 20440,
+        "size_mb": 3.87
+      },
+      "tile_subfolder_drive_id": "1e8n1g_KlG3eav1wa2e6yJrndLdURhb_r",
+      "tile_count": 14,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH07_tile_001.webp",
+          "drive_id": "1x6a8DHDLg5zGmaB8COh7qaCVA_D5T6bL",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH07_tile_002.webp",
+          "drive_id": "1Gyd9Ryc0z4Hz-6OFH2eQ8KPmpfI03zLe",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH07_tile_003.webp",
+          "drive_id": "1FMyoM1gyZX7USHyyB0HjneAGq2t3TQk8",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH07_tile_004.webp",
+          "drive_id": "1Oc3A2Ct5Kzl9H9kLw3bAhukT4qBadj82",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH07_tile_005.webp",
+          "drive_id": "14ee82Wbh4rQsTUC7gVsTfrMPzEcBLsGd",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH07_tile_006.webp",
+          "drive_id": "1-wh2t-TOADgfnkiKal8yhPbtIp3WL0nm",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH07_tile_007.webp",
+          "drive_id": "1v190Hv-ZzwKwjXfnYjJdpNSTlNJjqlpe",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH07_tile_008.webp",
+          "drive_id": "1zwZq0xOSJpXWagWOikTpm68a20Y6O1lW",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH07_tile_009.webp",
+          "drive_id": "1pI6AVZKeII1e6meitIIHVKtYvxekgv1-",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH07_tile_010.webp",
+          "drive_id": "1H0fy5sGzag6pnUL-aAUNSywFEWyitVIx",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH07_tile_011.webp",
+          "drive_id": "1dJ1xcdzgHSQyStQGki3KsvwtqJYTBemv",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH07_tile_012.webp",
+          "drive_id": "1WI0ERi6ltz9rPp8I-UWuI2aexp_LA-1_",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH07_tile_013.webp",
+          "drive_id": "1rFZ_B0BiTDVlK7qR7j26K46WJoJnn3xC",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH07_tile_014.webp",
+          "drive_id": "1WdOTz3OCpFhAAX93X3LqkFAxpnjqclMU",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH08",
+      "slug": "CH08_The_Floating_Rune_Library",
+      "edition": "v5.3",
+      "pdf_drive_id": "1e-lJOC-sxv3AyjqI4m3ShFlFV4qG6Euv",
+      "json_drive_id": "1ZiYSPxw5_rLPl22VviFErr6x_IqY9igs",
+      "stitched_strip": {
+        "drive_id": "1drfNvSigOnAgaUjBal8U7UTu-uo7-TXT",
+        "filename": "CH08_The_Floating_Rune_Library_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 21900,
+        "size_mb": 3.816
+      },
+      "tile_subfolder_drive_id": "1oGnqJU7FHSqDQpNhHbdzZlLFEoC45ETy",
+      "tile_count": 15,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH08_tile_001.webp",
+          "drive_id": "1L0Hvd_J8_ikQqxoQss9xSqlYJHxYXpMG",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH08_tile_002.webp",
+          "drive_id": "1_atb2PK78LFcUO-VYVhf6hBJ3d4KtB2I",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH08_tile_003.webp",
+          "drive_id": "1UDMo8EeLix1d5p9sJl3w-l5OeQov-gV3",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH08_tile_004.webp",
+          "drive_id": "1_1iEGZ2AX_bCz53TxGN87y6XIeCLiuB5",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH08_tile_005.webp",
+          "drive_id": "1qAcewFU9vYrzoF71WGiE03eX7HFhMSd6",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH08_tile_006.webp",
+          "drive_id": "1qavUlVeajNHgtCkYzjFPGdTYXndWasYL",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH08_tile_007.webp",
+          "drive_id": "1o3QpM3qVfsE5Yim8BpuqwbPoDWttzaMc",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH08_tile_008.webp",
+          "drive_id": "1KSqJPgnnqkSgPtuPlhBoAQ7_ntj33nWf",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH08_tile_009.webp",
+          "drive_id": "16_VE4xbBJlSQmBDKZUR7e_8e4nsHe_pH",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH08_tile_010.webp",
+          "drive_id": "1AhFO9Owc_xX35uJpHDzw9YLl5wJNxqXK",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH08_tile_011.webp",
+          "drive_id": "14tTQinq2tKSopHAlbYebn2TDC2Zg5zpl",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH08_tile_012.webp",
+          "drive_id": "1WXC-RCtJBzI3PYOGD2tQWWGoUyugqLSu",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH08_tile_013.webp",
+          "drive_id": "1-_FLZw8CmaEszyWVM7VXhZfAF7N_r79A",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH08_tile_014.webp",
+          "drive_id": "1tXE1UqKVlhBkVZPfwtS-JpG46YgLdR9Q",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH08_tile_015.webp",
+          "drive_id": "1mGXh0VhGv1xjUsSOwVQonniVCOR4M2wk",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH09",
+      "slug": "CH09_The_Sky_Bridge_Siege",
+      "edition": "v5.3",
+      "pdf_drive_id": "1Mhmh7YAh4ltKNDTMKhiIh5_o8FJumpiO",
+      "json_drive_id": "1mMnGUMhQKS0trEOQl89L-g2K1ksBkgvM",
+      "stitched_strip": {
+        "drive_id": "1-VUKUMGARlYeyaU1zUFvjLfxSU97zsW_",
+        "filename": "CH09_The_Sky_Bridge_Siege_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 20440,
+        "size_mb": 3.43
+      },
+      "tile_subfolder_drive_id": "1X8DuorkQXu3PPZyClbrCAqwztadekHb7",
+      "tile_count": 14,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH09_tile_001.webp",
+          "drive_id": "12QL8emXl223Ck43OPjRX4i1BiWWTE7u3",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH09_tile_002.webp",
+          "drive_id": "1FOJKPgjrvZ9e6eckLgaIZFe1lQ5RX0yX",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH09_tile_003.webp",
+          "drive_id": "1PYzr_qEcwOY_oZ6MEO3hb7f1-hgDS5vP",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH09_tile_004.webp",
+          "drive_id": "1uNKSp90L2-MDGK0V96AjRibehMyIcvDf",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH09_tile_005.webp",
+          "drive_id": "1WkFaEe69du3II_EtS_Gpj5z4PcGAA-ZR",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH09_tile_006.webp",
+          "drive_id": "1c9STeBohUGyopTHL9RluFstFEuBufl-L",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH09_tile_007.webp",
+          "drive_id": "12UNEXnNRi2iLuHMfHbC_XiOJ_bBcFHfi",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH09_tile_008.webp",
+          "drive_id": "1GlLtBREuUndx3nJQwGH5Rhw6JmQvJZGG",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH09_tile_009.webp",
+          "drive_id": "1eb_vfBm06T_FSizWwmhFsTU5iboGvERp",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH09_tile_010.webp",
+          "drive_id": "1RpC9WfqijBJ5M9cbOvDIAenmRDrM_Jnn",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH09_tile_011.webp",
+          "drive_id": "18fSPMF7Wu0XTgsrz9vUK-ClD2fNG45dd",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH09_tile_012.webp",
+          "drive_id": "1EFyhZbiF37g0Z8z0f-XrGmN-dGIyqMxA",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH09_tile_013.webp",
+          "drive_id": "18i7KiwSo_kyO6KwlAacpzzJWApDL95U0",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH09_tile_014.webp",
+          "drive_id": "1gxm_0ZdtgDeWo8B8_zmfssB_9FIT8txU",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH10",
+      "slug": "CH10_Twin_Spires_And_Grand_Ascension",
+      "edition": "v5.3",
+      "pdf_drive_id": "1aNjt7a6MgG0KE9NeZNGL-sFyOSlkOGDC",
+      "json_drive_id": "1XDtrbyk38Uj78ZUbvH8rI2yfbG7W-2ev",
+      "stitched_strip": {
+        "drive_id": "1_yd0GmQVovSHGGL5uxzV1dWkwaDtpgTG",
+        "filename": "CH10_Twin_Spires_And_Grand_Ascension_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 23360,
+        "size_mb": 4.18
+      },
+      "tile_subfolder_drive_id": "1Ee8gB6vZUru1dZOwmQ6LJonL-P0pzoNw",
+      "tile_count": 16,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH10_tile_001.webp",
+          "drive_id": "1eRSbJ_HQD4T8bVziFnl2TtaZoeHU8XN2",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH10_tile_002.webp",
+          "drive_id": "1DlEXUTc6uiM6385fE2xaWTwbYWFciAtF",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH10_tile_003.webp",
+          "drive_id": "1IZEhsHjUbLjwmV5Dlr3en4HTmKj69V-9",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH10_tile_004.webp",
+          "drive_id": "1yI9_OdN-cdBFQIZ2l6k0I1T3UnQrZbd7",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH10_tile_005.webp",
+          "drive_id": "1zBdac5R6c6_D5E7o6d9dR9Lwd0zlonSY",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH10_tile_006.webp",
+          "drive_id": "1lYqwvLsa71c0wWV3piE0BYigeNjFVzXR",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH10_tile_007.webp",
+          "drive_id": "1O1ZLQDD1Re3kZeMXYw-4RmVCynE39QWV",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH10_tile_008.webp",
+          "drive_id": "12nlz6QBMUq0Xci-3O9e2_rBd-jTb7IQF",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH10_tile_009.webp",
+          "drive_id": "1X-fQGTmnzANXGEEMioahgS-eddH5l56s",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH10_tile_010.webp",
+          "drive_id": "1146y-peEtZxSUuwlGYPD9bkyk19ilbEH",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH10_tile_011.webp",
+          "drive_id": "1YCuvT5OyoJhyP7SPE0WYw436jwNh10AE",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH10_tile_012.webp",
+          "drive_id": "1k2mvAGHqVw6-Np2C50dqcqZoP5SavB_t",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH10_tile_013.webp",
+          "drive_id": "1bDBNcocnIHvxGiUgJAmO4QJ0T6Rqw5j9",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH10_tile_014.webp",
+          "drive_id": "1d5MOY2UXunn2uVJwh4N5AVrIrioxAPap",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH10_tile_015.webp",
+          "drive_id": "1V9ildoLxq5ddUpDnU-L3ZCOljUcjLmnn",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 16,
+          "filename": "CH10_tile_016.webp",
+          "drive_id": "1FUIWWFXG5aT2QlD0UxBJz7B5LmCwdFUk",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH11",
+      "slug": "CH11_Hall_of_Echoing_Mirrors",
+      "edition": "v5.3",
+      "pdf_drive_id": "1f35J758ilusAGDBt3Wr5aJKv3xE1KGRv",
+      "json_drive_id": "1Z3D9dI0PEM2N8eMGngWLNkQPXOMkSUcb",
+      "stitched_strip": {
+        "drive_id": "1h1vpNteOrkEz3kypl75LGpZejaVA5u25",
+        "filename": "CH11_Hall_of_Echoing_Mirrors_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 24820,
+        "size_mb": 4.43
+      },
+      "tile_subfolder_drive_id": "13uF5VM_h2oypR5q7v2gsYXs5jrZLKkyP",
+      "tile_count": 17,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH11_tile_001.webp",
+          "drive_id": "14GN3qIo6GSbiDb06NATDBZfvrzaUR5Vc",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH11_tile_002.webp",
+          "drive_id": "1z-ExJ9sRhdD9z05CuyjhCApH6fvy05Zl",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH11_tile_003.webp",
+          "drive_id": "1sUIaYWoA2p6WTQo06J-FlNfYImlPaTWN",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH11_tile_004.webp",
+          "drive_id": "1iacZ4PsHpSh_01U6nbE_uxDAS1zscWvv",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH11_tile_005.webp",
+          "drive_id": "1_Pu4WGyLbccVb94YdllxtJB_bsL8UiAM",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH11_tile_006.webp",
+          "drive_id": "1KpxkOtxj1yhgbTIfVK2UAG10amYjxQPt",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH11_tile_007.webp",
+          "drive_id": "1-ySf1Bhp084tgb6r9W_zPqOC1lYvz3sx",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH11_tile_008.webp",
+          "drive_id": "1EwfH3_GoxQ_26UEKsDbbcTd46hOCjjQc",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH11_tile_009.webp",
+          "drive_id": "1rNEKbvda1NDvUMY9W2mSgInkDfZhGjxc",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH11_tile_010.webp",
+          "drive_id": "1ut-2GwrBF_Fjmz9qetcnk4lz2ZQL8KIN",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH11_tile_011.webp",
+          "drive_id": "1skhB3_VpIYXh70HQsyQ1KXBnNY3tWKKf",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH11_tile_012.webp",
+          "drive_id": "1ETmiLWtbABqZaMCdT4Z6cgqjsYSi86om",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH11_tile_013.webp",
+          "drive_id": "1i4S39YgAAyf7TiK1oPaw4QFijUX0XAHu",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH11_tile_014.webp",
+          "drive_id": "1ZYd3aYEBoEJy-xFfq8DAbkv_fVZFmNyx",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH11_tile_015.webp",
+          "drive_id": "1Z-1ijxsQ_TJAVXszWw2kcDHzk8KElLIq",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 16,
+          "filename": "CH11_tile_016.webp",
+          "drive_id": "10iHCN42D2bUaEe_5gatvLazaiiU78Nkq",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 17,
+          "filename": "CH11_tile_017.webp",
+          "drive_id": "1kRe9h-Mymltt_31660JU93WSUSj1jQKv",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    },
+    {
+      "chapter": "CH12",
+      "slug": "CH12_The_Grand_Finale_DirectorsCut_v5.4",
+      "edition": "v5.4 Director's Cut",
+      "pdf_drive_id": "1cgVFyz4e9HS3_-9bcilHDrTvuWB4iaON",
+      "json_drive_id": "19NafglMO25l5fchlZ8z3EnQmfOz21IkM",
+      "stitched_strip": {
+        "drive_id": "1kzThunnuJtj75suLar2ZhZj4WdRT3rPn",
+        "filename": "CH12_The_Grand_Finale_DirectorsCut_v5.4_Webtoon_800px_Stitched.jpg",
+        "width": 800,
+        "height": 30660,
+        "size_mb": 5.65
+      },
+      "tile_subfolder_drive_id": "1nCflFhHvG6g_5mJaJ3YcJ8ZTWb-gCLrk",
+      "tile_count": 21,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "filename": "CH12_tile_001.webp",
+          "drive_id": "1mllrj8Obh684Yv3R70GrMNh6FZDjvzhc",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 2,
+          "filename": "CH12_tile_002.webp",
+          "drive_id": "1AjmueyCdc_3ZrhFEGvu7dk-4jOe0Evqc",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 3,
+          "filename": "CH12_tile_003.webp",
+          "drive_id": "1sxtQ5KJ2GeHmPyciqIO7vc7xfyt46s1G",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 4,
+          "filename": "CH12_tile_004.webp",
+          "drive_id": "12g7ax3jUEtgKor9rhI6P3-kAMxukvpCZ",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 5,
+          "filename": "CH12_tile_005.webp",
+          "drive_id": "1hb8GfCxkLGL5C_vcpjcVjcm4QUIRsYdy",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 6,
+          "filename": "CH12_tile_006.webp",
+          "drive_id": "1Ive0sF6PYd3dcoRLoRic1zuWubZkc2O2",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 7,
+          "filename": "CH12_tile_007.webp",
+          "drive_id": "1zGQXX2MRf3xBGb_V_lwlCAnCY3Sacd6D",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 8,
+          "filename": "CH12_tile_008.webp",
+          "drive_id": "1pA6jNMV0ZEFRJ9uaX9tVck_aDBDZdyA0",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 9,
+          "filename": "CH12_tile_009.webp",
+          "drive_id": "18GWzgt-AjTQBza4e_LZdGdZ_iwi9MOD1",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 10,
+          "filename": "CH12_tile_010.webp",
+          "drive_id": "1lY0OlK-MNyyejuxfA7ObdmMRoXZAtITn",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 11,
+          "filename": "CH12_tile_011.webp",
+          "drive_id": "1OeVONHSdzRt5K8XNaIlWLqNkYELRjz8B",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 12,
+          "filename": "CH12_tile_012.webp",
+          "drive_id": "1txNBFPwMNIYpBX-caWkWkIymPQOpUxVP",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 13,
+          "filename": "CH12_tile_013.webp",
+          "drive_id": "19I6B7guVGNGkWAqiLbAuANDC-0KFvywz",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 14,
+          "filename": "CH12_tile_014.webp",
+          "drive_id": "1W4RG4bMVdv2xjhN7CbNnBXhHC7yxiucd",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 15,
+          "filename": "CH12_tile_015.webp",
+          "drive_id": "11W_KFAPJXOb-PSuNTZ81s6ILaW2Tz-h2",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 16,
+          "filename": "CH12_tile_016.webp",
+          "drive_id": "1yMY2TefK0E2EGSMKZdOapwAEza-CCSeg",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 17,
+          "filename": "CH12_tile_017.webp",
+          "drive_id": "1L4NYoaqr-Q7D0EA-yjAi0wYJvcTN7-5W",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 18,
+          "filename": "CH12_tile_018.webp",
+          "drive_id": "1nFA0eAZ2LcXVRn8K5Ius-Igreq4Wrpbg",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 19,
+          "filename": "CH12_tile_019.webp",
+          "drive_id": "1eDBfxZR9eCEDLmd9857Mix1_j1xdjh6X",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 20,
+          "filename": "CH12_tile_020.webp",
+          "drive_id": "1K2KGFDaNw_sXVLDZldZAfoo7w-Ay9pDR",
+          "width": 800,
+          "height": 1460
+        },
+        {
+          "tile_index": 21,
+          "filename": "CH12_tile_021.webp",
+          "drive_id": "19lCWz7-eZmCEtszA0OoCgEFQwMPw3gku",
+          "width": 800,
+          "height": 1460
+        }
+      ]
+    }
+  ]
+}
