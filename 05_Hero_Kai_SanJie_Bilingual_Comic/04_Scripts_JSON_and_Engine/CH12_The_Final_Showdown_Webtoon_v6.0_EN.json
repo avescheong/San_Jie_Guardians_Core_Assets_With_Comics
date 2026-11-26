@@ -1,0 +1,3422 @@
+{
+  "kicker": "HERO KAI × SAN JIE 17 GUARDIANS • ACT III GRAND FINALE • ENGLISH WEBTOON v6.0",
+  "title": "CHAPTER 12: THE FINAL SHOWDOWN — SEVENTEEN HEARTS, ONE SCROLL",
+  "subtitle": "84-Panel Director's Cut: Six-Wing Override, Four-Realm Cavalry, Vex's Redemption, Teacher Cheong's Truth & Loom Forest Homecoming",
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH12_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 390,
+      "top_gutter": 78,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "ACT 3 GRAND FINALE — THE THRONE CHAMBER OF LORD MALCODE'S CITADEL.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 44
+        },
+        {
+          "type": "glitch",
+          "text": "FOOLISH GUARDIANS! MY INFINITE CORRUPTION WILL ERASE PYTHONIA FOREVER!",
+          "bx": 22,
+          "by": 22,
+          "tx": 43,
+          "ty": 19,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOOM!!",
+          "x": 82,
+          "y": 84,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p01_01b",
+      "file": "CH12_P01_01B_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 390,
+      "top_gutter": 96,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "CODE-GRAVITY OVERRIDE!! LET'S SEE YOU STAND IN FOUR FRACTURED REALMS!!",
+          "bx": 28,
+          "by": -13,
+          "tx": 47,
+          "ty": 14,
+          "max_chars": 22
+        },
+        {
+          "type": "narration",
+          "text": "A violet gravity ring shatters the obsidian floor into four drifting islands!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHATTER!!",
+          "x": 82,
+          "y": 78,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#A855F7"
+        }
+      ],
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#9333EA",
+        "opacity": 0.28
+      }
+    },
+    {
+      "id": "p01_02",
+      "file": "CH12_P01_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 46,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "ABOVE THE HALL, THE GUARDIANS' STAGE-3 PARTNERS UNLEASH A CELESTIAL VORTEX!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOOSH!!",
+          "x": 18,
+          "y": 24,
+          "rotate": -10,
+          "size": 30,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "sfx",
+          "text": "FWOOSH!!",
+          "x": 84,
+          "y": 82,
+          "rotate": 8,
+          "size": 28,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p01_03",
+      "file": "CH12_P01_03_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "HOLD ON, VEX!! I'VE GOT YOU!!",
+          "bx": 74,
+          "by": -14,
+          "tx": 64,
+          "ty": 18,
+          "max_chars": 18
+        },
+        {
+          "type": "shout",
+          "text": "KAI?! YOU ACTUALLY DOVE INTO THE CHASM FOR ME?!",
+          "bx": 26,
+          "by": -14,
+          "tx": 34,
+          "ty": 50,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SWOOOSH!!",
+          "x": 16,
+          "y": 24,
+          "rotate": -10,
+          "size": 30,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH12_P02_01_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 46,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FIRE, FROST, AND STARLIGHT MERGE INTO ONE UNSTOPPABLE SPELL STREAM!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BLAZE!!",
+          "x": 22,
+          "y": 22,
+          "rotate": -8,
+          "size": 32,
+          "fill": "#F97316"
+        },
+        {
+          "kind": "sfx",
+          "text": "ZAAAP!!",
+          "x": 82,
+          "y": 24,
+          "rotate": 6,
+          "size": 28,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p02_01c",
+      "file": "CH12_P02_01C_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 365,
+      "top_gutter": 96,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "BRUTE FORCE ONLY DOUBLES MY RECURSIVE PRISM BARRIER!!",
+          "bx": 50,
+          "by": -13,
+          "tx": 50,
+          "ty": 25,
+          "max_chars": 30
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CLANG!!",
+          "x": 18,
+          "y": 22,
+          "rotate": -12,
+          "size": 32,
+          "fill": "#C084FC"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE TRAP • RECURSIVE SHIELD",
+        "concept": "Why Brute Force Fails",
+        "lines": [
+          "if attack_mode == 'brute_force':",
+          "    barrier_layers *= 2  # Doubles on impact!",
+          "    reflect_shockwave(power=barrier_layers)"
+        ],
+        "output": "WARNING: Barrier doubled! Shockwave reflected!"
+      }
+    },
+    {
+      "id": "p02_01d",
+      "file": "CH12_P02_01D_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "NGH!! MY LOTUS SHIELD IS CRACKING!!",
+          "bx": 68,
+          "by": -14,
+          "tx": 66,
+          "ty": 28,
+          "max_chars": 22
+        },
+        {
+          "type": "narration",
+          "text": "The reflected blast slams Kai and Ember onto a crumbling spire!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CRAAACK!!",
+          "x": 28,
+          "y": 24,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#EC4899"
+        }
+      ],
+      "speedlines": {
+        "cx": 38,
+        "cy": 46,
+        "color": "#E879F9",
+        "opacity": 0.3
+      }
+    },
+    {
+      "id": "p02_01e",
+      "file": "CH12_P02_01E_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "A GRAVITY DOME SEALED US IN!!",
+          "bx": 26,
+          "by": -14,
+          "tx": 21,
+          "ty": 41,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "Tempest Stag, brace the spire—don't let it tilt!",
+          "bx": 72,
+          "by": -14,
+          "tx": 46,
+          "ty": 43,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "THRUM...",
+          "x": 16,
+          "y": 22,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p02_01f",
+      "file": "CH12_P02_01F_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "THE LEDGE IS SPLITTING! BARKLEY, HOLD THE LOTUS DOME!!",
+          "bx": 30,
+          "by": -14,
+          "tx": 41,
+          "ty": 43,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Yi Ren, stay inside the flame ring!",
+          "bx": 76,
+          "by": -14,
+          "tx": 81,
+          "ty": 48,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-ZZT!!",
+          "x": 16,
+          "y": 78,
+          "rotate": -8,
+          "size": 30,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01g",
+      "file": "CH12_P02_01G_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "CODE-VINES ARE EVERYWHERE! JAVIN JR, RAISE BAMBOO SHIELD!!",
+          "bx": 28,
+          "by": -14,
+          "tx": 42,
+          "ty": 47,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Hold tight, Squad 3—our emerald barrier is holding!",
+          "bx": 76,
+          "by": -14,
+          "tx": 69,
+          "ty": 48,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SLASH!!",
+          "x": 85,
+          "y": 24,
+          "rotate": 8,
+          "size": 28,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p02_01h",
+      "file": "CH12_P02_01H_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Echo-glitch clones! OKX, scan their frequency!",
+          "bx": 28,
+          "by": -14,
+          "tx": 41,
+          "ty": 29,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "Back to back, Squad 4! Don't let them break our formation!",
+          "bx": 74,
+          "by": -14,
+          "tx": 66,
+          "ty": 37,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "STATIC...",
+          "x": 86,
+          "y": 24,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01i",
+      "file": "CH12_P02_01I_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "Wait... look at that pulsing emerald seam under his chestplate! His core is fighting the armor?!",
+          "bx": 30,
+          "by": -14,
+          "tx": 24,
+          "ty": 26,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PULSE...",
+          "x": 76,
+          "y": 24,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p02_01j",
+      "file": "CH12_P02_01J_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "The Mirror-Sage's True Mirror Shard! It's pointing straight at his heart!",
+          "bx": 50,
+          "by": -14,
+          "tx": 50,
+          "ty": 28,
+          "max_chars": 30
+        },
+        {
+          "type": "narration",
+          "text": "The crystal from Chapter 11 hums with warm golden-emerald truth.",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HUMMM~",
+          "x": 78,
+          "y": 48,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p02_01k",
+      "file": "CH12_P02_01K_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "ALL FOUR SQUADS!! STOP USING BRUTE FORCE!!",
+          "bx": 28,
+          "by": -14,
+          "tx": 43,
+          "ty": 33,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "DEBUG HIS FOUR GRAVITY PILLARS WITH CLEAN CODE!!",
+          "bx": 74,
+          "by": -14,
+          "tx": 46,
+          "ty": 35,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ROAR!!",
+          "x": 62,
+          "y": 18,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "p02_01b",
+      "file": "CH12_P02_01B_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 76,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "BARKLEY! LIGHT UP HIS DARKNESS!",
+          "bx": 24,
+          "by": -12,
+          "tx": 24,
+          "ty": 40,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "SYLVAN-FOX, EMERALD ROOT SHIELD—HOLD THE LINE!",
+          "bx": 72,
+          "by": -12,
+          "tx": 48,
+          "ty": 48,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ROOOAR!!",
+          "x": 54,
+          "y": 20,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH12_P02_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 46,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "STICKY, MIMIK-SPARK, MIKU, AND EMERALD-X LOCK SHIELDS AGAINST MALCODE'S BEAM!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHING!!",
+          "x": 20,
+          "y": 24,
+          "rotate": -8,
+          "size": 30,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "sfx",
+          "text": "KRA-ZZT!!",
+          "x": 82,
+          "y": 24,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH12_P03_01_RAW.jpg",
+      "layout": "framed",
+      "height": 365,
+      "top_gutter": 46,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "OKX, DAN, DOYB, AND STAR-YARN CATICORN WEAVE A FOUR-CORNER LOGIC SEAL!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "LOCK!!",
+          "x": 50,
+          "y": 18,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#38BDF8"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK  •  STAGE-3 SYNERGY",
+        "concept": "Pairing Guardians & Pets with zip()",
+        "lines": [
+          "squads = ['Tempest', 'Ignis', 'Emerald', 'Nebula']",
+          "shields = [100, 100, 100, 100]",
+          "for squad, power in zip(squads, shields):",
+          "    print(f'{squad} Logic Seal -> {power}% ACTIVE')"
+        ],
+        "output": "Tempest / Ignis / Emerald / Nebula Logic Seal -> 100% ACTIVE"
+      }
+    },
+    {
+      "id": "p03_01b",
+      "file": "CH12_P03_01B_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 78,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "TEMPEST STAG! RING THE AURORA BELL—BREAK HIS SHIELD!",
+          "bx": 26,
+          "by": -12,
+          "tx": 22,
+          "ty": 48,
+          "max_chars": 27
+        },
+        {
+          "type": "shout",
+          "text": "EVERY GUARDIAN—SYNC YOUR RELICS NOW!",
+          "bx": 76,
+          "by": -12,
+          "tx": 64,
+          "ty": 46,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CHIME!!",
+          "x": 49,
+          "y": 14,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p03_01c",
+      "file": "CH12_P03_01C_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "BRO! IGNITE THE FLAME ROPE! SKY-PUP, THREAD THE LIGHTNING RINGS!!",
+          "bx": 50,
+          "by": -14,
+          "tx": 46,
+          "ty": 46,
+          "max_chars": 30
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CRACK!!",
+          "x": 78,
+          "y": 20,
+          "rotate": -8,
+          "size": 32,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p03_01d",
+      "file": "CH12_P03_01D_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "DOYB locked the trajectory—Ignis-Frost thermal surge and Poppy petal heal, FIRE!!",
+          "bx": 50,
+          "by": -14,
+          "tx": 34,
+          "ty": 60,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BLAAAZE!!",
+          "x": 20,
+          "y": 82,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "p03_01e",
+      "file": "CH12_P03_01E_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "STICKY, CLEAR THE MIST! EMERALD-X, ECO-RESTORATION WAVE!!",
+          "bx": 50,
+          "by": -14,
+          "tx": 80,
+          "ty": 40,
+          "max_chars": 30
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHAA-TING!!",
+          "x": 64,
+          "y": 18,
+          "rotate": -8,
+          "size": 30,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p03_01f",
+      "file": "CH12_P03_01F_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Miku, silence the static! Caticorn, weave our 17-thread rainbow bridge!!",
+          "bx": 50,
+          "by": -14,
+          "tx": 30,
+          "ty": 28,
+          "max_chars": 32
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CHIME!!",
+          "x": 20,
+          "y": 54,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p03_01g",
+      "file": "CH12_P03_01G_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "ENOUGH!! SWARM THEM, VOID-RIFT DRONES!! TEAR THEM APART!!",
+          "bx": 30,
+          "by": -13,
+          "tx": 40,
+          "ty": 45,
+          "max_chars": 24
+        },
+        {
+          "type": "narration",
+          "text": "Cornered, Malcode rips open a ceiling rift—a hundred glitch-drones pour down!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "RIP-ROAAAR!!",
+          "x": 76,
+          "y": 22,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#A855F7"
+        }
+      ],
+      "speedlines": {
+        "cx": 65,
+        "cy": 28,
+        "color": "#C084FC",
+        "opacity": 0.3
+      }
+    },
+    {
+      "id": "p03_01h",
+      "file": "CH12_P03_01H_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "SUDDENLY—EMERALD DAWN SHATTERS THE CEILING RIFT!!",
+          "bx": 50,
+          "by": -12,
+          "max_chars": 38
+        },
+        {
+          "type": "narration",
+          "text": "The four Purified Realm Guardians from Chapters 9, 10 & 11 descend in glory!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOOOM!!",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 36,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p03_01i",
+      "file": "CH12_P03_01I_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "You freed our hearts, young Guardians! Now we hold the sky—go free the heart inside Malcode!!",
+          "bx": 50,
+          "by": -14,
+          "tx": 55,
+          "ty": 25,
+          "max_chars": 36
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHIELD!!",
+          "x": 16,
+          "y": 24,
+          "rotate": -8,
+          "size": 28,
+          "fill": "#34D399"
+        }
+      ]
+    },
+    {
+      "id": "p03_01j",
+      "file": "SQUAD_COMBO_REALM1_AuroraPrismSkyConvergence.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 48,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "REALM I CONVERGENCE: Aurora Prism Sky shatters Gravity Pillar 1!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "PRISM!!",
+          "x": 50,
+          "y": 20,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p03_01k",
+      "file": "SQUAD_COMBO_REALM2_SunForgePrismMatrix.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 48,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "REALM II CONVERGENCE: Sun-Forge & Tide melts Gravity Pillar 2 into steam!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SURGE!!",
+          "x": 52,
+          "y": 20,
+          "rotate": 4,
+          "size": 30,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p03_01l",
+      "file": "SQUAD_COMBO_REALM3_ElderGroveBlossomSymphony.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 48,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "REALM III CONVERGENCE: Elder-Grove Blossom seals Gravity Pillar 3 in jade vines!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BLOOM!!",
+          "x": 50,
+          "y": 20,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p03_01m",
+      "file": "SQUAD_COMBO_REALM4_CelestialVanguardStarlightChorus.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 48,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "REALM IV CONVERGENCE: Celestial Starlight decrypts Pillar 4—gravity restores!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "STARLIGHT!!",
+          "x": 50,
+          "y": 18,
+          "rotate": 0,
+          "size": 28,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH12_P03_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "ALL FOUR PILLARS ARE DOWN!!",
+          "bx": 25,
+          "by": -14,
+          "tx": 28,
+          "ty": 44,
+          "max_chars": 18
+        },
+        {
+          "type": "shout",
+          "text": "NOW, VEX!! WHILE HIS FIREWALL IS OPEN—LET'S REACH HIS CORE!!",
+          "bx": 74,
+          "by": -14,
+          "tx": 70,
+          "ty": 44,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHING!!",
+          "x": 50,
+          "y": 20,
+          "rotate": 0,
+          "size": 30,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH12_P04_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 365,
+      "top_gutter": 78,
+      "bottom_gutter": 8,
+      "speedlines": {
+        "cx": 50,
+        "cy": 45,
+        "color": "#C084FC",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "IMPOSSIBLE!! SEVENTEEN TINY CODERS CANNOT OVERRIDE MY INFINITE LOOP!!",
+          "bx": 50,
+          "by": -14,
+          "tx": 50,
+          "ty": 16,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-ZZT!!",
+          "x": 18,
+          "y": 82,
+          "rotate": -10,
+          "size": 32,
+          "fill": "#C084FC"
+        },
+        {
+          "kind": "sfx",
+          "text": "SURGE!!",
+          "x": 84,
+          "y": 82,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#F43F5E"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE BUG ENGINE  •  FINAL TRAP",
+        "concept": "Stopping an Infinite while Loop with break",
+        "lines": [
+          "malcode_loop = True",
+          "while malcode_loop:",
+          "    if len(united_guardians) == 17:",
+          "        break  # 17-Guardian Unity snaps the infinite loop!"
+        ],
+        "output": "ALERT: 17 Relic Signals Detected -> Infinite Loop BROKEN!"
+      }
+    },
+    {
+      "id": "p04_01b",
+      "file": "CH12_P04_01B_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "YOU UNLEASHED THE STATIC STORM BECAUSE NOBODY WANTED YOU, VEX!! RETURN TO THE DARK!!",
+          "bx": 38,
+          "by": -14,
+          "tx": 36,
+          "ty": 25,
+          "max_chars": 30
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "TREMBLE...",
+          "x": 82,
+          "y": 26,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#7E22CE"
+        }
+      ]
+    },
+    {
+      "id": "p04_01c",
+      "file": "CH12_P04_01C_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "Maybe he's right... I broke Pythonia... I don't deserve friends...",
+          "bx": 72,
+          "by": -14,
+          "tx": 54,
+          "ty": 34,
+          "max_chars": 24
+        },
+        {
+          "type": "narration",
+          "text": "Tears fall onto the Silver Backdoor Key as darkness closes in.",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "DRIP...",
+          "x": 20,
+          "y": 72,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p04_01d",
+      "file": "CH12_P04_01D_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "STOP LISTENING TO HIM!! YOU'RE SAN JIE CLASS NOW, VEX!!",
+          "bx": 34,
+          "by": -14,
+          "tx": 50,
+          "ty": 26,
+          "max_chars": 24
+        },
+        {
+          "type": "speech",
+          "text": "Hands linked—nobody gets left alone ever again!",
+          "bx": 76,
+          "by": -14,
+          "tx": 74,
+          "ty": 28,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 14,
+          "y": 22,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p04_01e",
+      "file": "CH12_P04_01E_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 50,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FLASHBACK — Original Penang pencil sketches (#01, #04, #10, #17) ignite in gold!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHINE~",
+          "x": 50,
+          "y": 16,
+          "rotate": 0,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p04_01f",
+      "file": "CH12_P04_01F_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 50,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "\"Remember why we drew them—for kindness!\" (#02, #03, #06, #11)",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HEARTBEAT~",
+          "x": 50,
+          "y": 16,
+          "rotate": 0,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p04_01g",
+      "file": "CH12_P04_01G_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 50,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "\"Zero weapons. 100% plant-based. Three Hearts!\" (#05, #07, #13, #14)",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "IGNITE!!",
+          "x": 50,
+          "y": 16,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p04_01h",
+      "file": "CH12_P04_01H_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 50,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "All 17 sketches burst into starlight—shattering the Zero-Point chains! (#08, #09, #12, #15, #16)",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 50
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHATTER!!",
+          "x": 50,
+          "y": 16,
+          "rotate": 4,
+          "size": 28,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p04_01i",
+      "file": "CH12_P04_01I_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "TRUE MIRROR SHARD—REVEAL WHAT'S TRULY INSIDE HIM!!",
+          "bx": 50,
+          "by": -13,
+          "tx": 46,
+          "ty": 30,
+          "max_chars": 28
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FLAAASH!!",
+          "x": 82,
+          "y": 24,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#10B981"
+        }
+      ],
+      "speedlines": {
+        "cx": 50,
+        "cy": 56,
+        "color": "#34D399",
+        "opacity": 0.3
+      }
+    },
+    {
+      "id": "p04_01j",
+      "file": "CH12_P04_01J_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "WAIT—THERE'S A REAL PERSON TRAPPED INSIDE THAT ARMOR?!",
+          "bx": 34,
+          "by": -14,
+          "tx": 46,
+          "ty": 46,
+          "max_chars": 26
+        },
+        {
+          "type": "narration",
+          "text": "Through the golden beam, a kind figure with glasses holds back the dark chains from within!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "GASP!!",
+          "x": 18,
+          "y": 24,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p04_01k",
+      "file": "CH12_P04_01K_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "He was protecting us from inside all along!! KAI—BOOST ME UP!!",
+          "bx": 50,
+          "by": -14,
+          "tx": 48,
+          "ty": 34,
+          "max_chars": 30
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "GRIP!!",
+          "x": 80,
+          "y": 42,
+          "rotate": 8,
+          "size": 26,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH12_P04_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "EMBER—WIND SPIRAL! LOTUS STEPPING SHIELDS—GO, VEX!!",
+          "bx": 38,
+          "by": -14,
+          "tx": 34,
+          "ty": 52,
+          "max_chars": 26
+        },
+        {
+          "type": "shout",
+          "text": "I'M GOING IN!!",
+          "bx": 84,
+          "by": -14,
+          "tx": 81,
+          "ty": 36,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "STEP-STEP-LEAP!!",
+          "x": 58,
+          "y": 78,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p04_02b",
+      "file": "CH12_P04_02B_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 365,
+      "top_gutter": 96,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "SILVER BACKDOOR KEY—BREAK THE INFINITE LOOP!!",
+          "bx": 68,
+          "by": -13,
+          "tx": 58,
+          "ty": 38,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-SHING!!",
+          "x": 24,
+          "y": 24,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#FBBF24"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "VEX • SILVER BACKDOOR KEY",
+        "concept": "Breaking the Infinite Corruption Loop",
+        "lines": [
+          "while malcode_loop:",
+          "    if key_inserted == 'SILVER_BACKDOOR':",
+          "        break  # Terminates Void-Parasite!"
+        ],
+        "output": "LOOP TERMINATED — CORE FIREWALL UNLOCKED!"
+      }
+    },
+    {
+      "id": "p04_03",
+      "file": "CH12_P04_03_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "SQUAD ONE—AURORA BELL, IRON HEART, DYNAMO, AND SOLAR COMPASS!",
+          "bx": 21,
+          "by": -12,
+          "tx": 38,
+          "ty": 30,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "ALL FOUR SIGNALS LOCKED AND RISING!",
+          "bx": 79,
+          "by": -12,
+          "tx": 78,
+          "ty": 36,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "RING!!",
+          "x": 16,
+          "y": 24,
+          "rotate": -10,
+          "size": 26,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p04_04",
+      "file": "CH12_P04_04_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "SQUAD TWO—HEARTH FLAME, TWIN BALANCE, STAR COMPASS, AND BLOSSOM DEW!",
+          "bx": 21,
+          "by": -12,
+          "tx": 28,
+          "ty": 44,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "OUR LIGHT WILL GUIDE EVERY LOST SPARK HOME!",
+          "bx": 79,
+          "by": -12,
+          "tx": 74,
+          "ty": 46,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FLARE!!",
+          "x": 50,
+          "y": 16,
+          "rotate": 4,
+          "size": 26,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "p04_05",
+      "file": "CH12_P04_05_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 74,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "SQUAD THREE—TIDE, BAMBOO AEGIS, STAR-BERRY, ROOT, AND ECO-RUNE!",
+          "bx": 21,
+          "by": -12,
+          "tx": 34,
+          "ty": 40,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "FIVE GUARDIANS STRONG—UNBREAKABLE DEFENSE!",
+          "bx": 79,
+          "by": -12,
+          "tx": 82,
+          "ty": 38,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SURGE!!",
+          "x": 50,
+          "y": 16,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p04_06",
+      "file": "CH12_P04_06_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 74,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "SQUAD FOUR—CIPHER CUBE, STITCH-LIGHT, MOON CHIMES, AND NEBULA YARN!",
+          "bx": 22,
+          "by": -12,
+          "tx": 24,
+          "ty": 34,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "WEAVING ALL SEVENTEEN THREADS INTO ONE RAINBOW CODE!",
+          "bx": 78,
+          "by": -12,
+          "tx": 78,
+          "ty": 34,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WEAVE!!",
+          "x": 52,
+          "y": 14,
+          "rotate": 5,
+          "size": 26,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH12_P05_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 365,
+      "top_gutter": 76,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "SEVENTEEN GUARDIAN STREAMS CONVERGE ON HERO KAI'S EMERALD CORE.",
+          "bx": 26,
+          "by": -14,
+          "max_chars": 28
+        },
+        {
+          "type": "shout",
+          "text": "ALL SEVENTEEN VALUES VERIFIED! EXECUTING: GRAND HARMONY RETURN!!",
+          "bx": 74,
+          "by": -12,
+          "tx": 55,
+          "ty": 52,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "VWHOOOSH!!",
+          "x": 18,
+          "y": 28,
+          "rotate": -12,
+          "size": 30,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK  •  MASTER FUNCTION",
+        "concept": "Defining Functions (def) & return Values",
+        "lines": [
+          "def cast_grand_harmony(guardians):",
+          "    if len(guardians) == 17:",
+          "        return 'MALCODE_PURIFIED'",
+          "result = cast_grand_harmony(san_jie_17)"
+        ],
+        "output": "RETURN VALUE: 'MALCODE_PURIFIED' -> 17-Color Lotus Beam Fired!"
+      }
+    },
+    {
+      "id": "p05_03",
+      "file": "CH12_P05_03_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "The dark Void-Parasite dissolves into harmless emerald butterflies!!",
+          "bx": 50,
+          "by": -12,
+          "max_chars": 44
+        },
+        {
+          "type": "narration",
+          "text": "Golden sunlight floods the ruined hall as the obsidian armor begins to fracture!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "PURIFIED!!",
+          "x": 22,
+          "y": 24,
+          "rotate": -8,
+          "size": 32,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "ex01_armor_crack_legs",
+      "file": "CH12_EX01_Armor_Crack_Legs_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 56,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FIRST, A FRACTURE OF EMERALD LIGHT SPLITS THE OBSIDIAN GREAVES...",
+          "bx": 50,
+          "by": -7,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CRACK...",
+          "x": 20,
+          "y": 36,
+          "rotate": -8,
+          "size": 32,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "ex02_armor_crack_hands",
+      "file": "CH12_EX02_Armor_Crack_Hands_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 56,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THEN THE DARK GAUNTLETS DISSOLVE INTO LEAVES, UNCOVERING A WARM HUMAN HAND...",
+          "bx": 50,
+          "by": -7,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHATTER...",
+          "x": 78,
+          "y": 84,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "ex03_armor_crack_helm",
+      "file": "CH12_EX03_Armor_Crack_Helm_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 435,
+      "top_gutter": 16,
+      "bottom_gutter": 44,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FZZ-SHIMMER...",
+          "x": 78,
+          "y": 18,
+          "rotate": 6,
+          "size": 28,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "ex04_teacher_cheong_sleeping",
+      "file": "CH12_EX04_TeacherCheong_Sleeping_Peaceful_3x4_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 1240,
+      "top_gutter": 16,
+      "bottom_gutter": 64,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "AS THE LAST SHADOWS DISSIPATE, A FAMILIAR FACE APPEARS—SLEEPING IN TRANQUIL PEACE...",
+          "bx": 50,
+          "by": 5,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER~",
+          "x": 50,
+          "y": 20,
+          "rotate": -4,
+          "size": 28,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "ex05_kids_shocked",
+      "file": "CH12_EX05_Kids_Shocked_TeacherCheong_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "WAIT—THAT'S TEACHER CHEONG!!",
+          "bx": 24,
+          "by": -13,
+          "tx": 46,
+          "ty": 34,
+          "max_chars": 22
+        },
+        {
+          "type": "shout",
+          "text": "HOW COME HE WAS INSIDE MALCODE?!",
+          "bx": 76,
+          "by": -13,
+          "tx": 69,
+          "ty": 35,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "GASP!!",
+          "x": 52,
+          "y": 16,
+          "rotate": -5,
+          "size": 28,
+          "fill": "#EF4444"
+        }
+      ]
+    },
+    {
+      "id": "ex05b",
+      "file": "CH12_EX05B_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "LOOK OUT, CLASS! THAT VOID-PARASITE IS LUNGING INTO THE PORTAL!!",
+          "bx": 38,
+          "by": -14,
+          "tx": 28,
+          "ty": 28,
+          "max_chars": 28
+        },
+        {
+          "type": "narration",
+          "text": "FLASHBACK (1/4): Back in Penang, the rogue Void-Parasite ambushed the class mid-transit!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SWARM!!",
+          "x": 76,
+          "y": 24,
+          "rotate": 6,
+          "size": 28,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "ex05c",
+      "file": "CH12_EX05C_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "RUN TO THE FOUR REALMS!! I'LL HOLD THE BREACH!!",
+          "bx": 48,
+          "by": -14,
+          "tx": 46,
+          "ty": 24,
+          "max_chars": 26
+        },
+        {
+          "type": "narration",
+          "text": "FLASHBACK (2/4): Teacher Cheong shielded his students so all 17 landed safely!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BARRIER!!",
+          "x": 18,
+          "y": 24,
+          "rotate": -8,
+          "size": 28,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "ex05d",
+      "file": "CH12_EX05D_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FLASHBACK (3/4): The parasite wrapped him in obsidian armor as a puppet shell, sealing his heart asleep...",
+          "bx": 50,
+          "by": -12,
+          "max_chars": 48
+        },
+        {
+          "type": "shout",
+          "text": "NO!! TEACHER CHEONG!!",
+          "bx": 26,
+          "by": 107,
+          "tx": 22,
+          "ty": 60,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SEALED...",
+          "x": 16,
+          "y": 22,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#7E22CE"
+        }
+      ]
+    },
+    {
+      "id": "ex05e",
+      "file": "CH12_EX05E_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "Hold back... I won't let this armor hurt a single one of my students... I trust you all...",
+          "bx": 72,
+          "by": -14,
+          "tx": 74,
+          "ty": 30,
+          "max_chars": 28
+        },
+        {
+          "type": "narration",
+          "text": "FLASHBACK (4/4): From inside the dark core, Teacher Cheong secretly dampened every blow!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "RESIST!!",
+          "x": 26,
+          "y": 24,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "ex06_teacher_cheong_explains",
+      "file": "CH12_EX06_TeacherCheong_Awakens_Explains_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "WHEN THE GLITCH STORM STRUCK PYTHONIA, I STEPPED IN TO SHIELD OUR CLASS—",
+          "bx": 23,
+          "by": -15,
+          "tx": 41,
+          "ty": 24,
+          "max_chars": 25
+        },
+        {
+          "type": "speech",
+          "text": "MALCODE'S DARKNESS WRAPPED AROUND ME LIKE ARMOR, WAITING FOR SEVENTEEN KIND HEARTS AND CLEAN CODE TO FREE ME.",
+          "bx": 76,
+          "by": -15,
+          "tx": 59,
+          "ty": 24,
+          "max_chars": 28
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "WARM~",
+          "x": 18,
+          "y": 78,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "ex07_emerald_seed_heart",
+      "file": "CH12_EX07_Emerald_Seed_Heart_To_Hand_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 48,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "A RADIANT EMERALD SEED RISES FROM TEACHER CHEONG'S HEART INTO HIS PALMS...",
+          "bx": 50,
+          "by": -7,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 24,
+          "y": 36,
+          "rotate": -8,
+          "size": 28,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "ex08_passes_seed_to_vex",
+      "file": "CH12_EX08_TeacherCheong_Passes_Seed_To_Vex_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 80,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "TAKE THIS SEED OF KINDNESS, VEX—LET IT SHOW YOU THE GENTLE WAY WE HUMANS SHOULD LIVE.",
+          "bx": 24,
+          "by": -14,
+          "tx": 39,
+          "ty": 28,
+          "max_chars": 26
+        },
+        {
+          "type": "whisper",
+          "text": "FOR ME...? EVEN AFTER EVERYTHING I DID... THANK YOU.",
+          "bx": 77,
+          "by": -14,
+          "tx": 62,
+          "ty": 34,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GENTLE~",
+          "x": 51,
+          "y": 20,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "ex08b",
+      "file": "CH12_EX08B_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "My real-world body in Penang is holding the classroom gate open. I must return first so you can come home at dawn!",
+          "bx": 48,
+          "by": -14,
+          "tx": 39,
+          "ty": 24,
+          "max_chars": 36
+        },
+        {
+          "type": "narration",
+          "text": "His silhouette shimmers like golden morning dew beside the Penang classroom portal.",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER~",
+          "x": 82,
+          "y": 24,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "ex09_dissolving_farewell",
+      "file": "CH12_EX09_TeacherCheong_Dissolving_Farewell_3x4_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 1240,
+      "top_gutter": 16,
+      "bottom_gutter": 64,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "TEACHER CHEONG IS SO PROUD OF YOU ALL! MAY YOU ALL SPREAD THE SEEDS OF KINDNESS TO THE WORLD.",
+          "bx": 50,
+          "by": 16,
+          "tx": 50,
+          "ty": 44,
+          "max_chars": 30
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER~",
+          "x": 22,
+          "y": 36,
+          "rotate": -8,
+          "size": 26,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "ex10_massive_light_beam",
+      "file": "CH12_EX10_Massive_Light_Beam_Vanish_3x4_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 1240,
+      "top_gutter": 16,
+      "bottom_gutter": 64,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "DON'T WORRY ABOUT ME... WE WILL MEET BACK IN OUR REAL WORLD...",
+          "bx": 50,
+          "by": 46,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "ECHO~",
+          "x": 50,
+          "y": 22,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH12_P06_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 80,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "LOOK, VEX... TEACHER CHEONG'S KINDNESS SEED IS BLOOMING INTO A PURE EMERALD SPROUT!",
+          "bx": 23,
+          "by": -12,
+          "tx": 24,
+          "ty": 34,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "I PROMISE TO NURTURE IT ACROSS PYTHONIA. THANK YOU FOR BELIEVING IN ME, KAI.",
+          "bx": 77,
+          "by": -12,
+          "tx": 78,
+          "ty": 30,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 50,
+          "y": 24,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p06_03",
+      "file": "CH12_P06_03_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Thank you, San Jie Guardians! Our Four Realms shine again because of your kindness!",
+          "bx": 48,
+          "by": -14,
+          "tx": 34,
+          "ty": 26,
+          "max_chars": 34
+        },
+        {
+          "type": "narration",
+          "text": "As dawn breaks, the four Purified Realm Guardians bow gratefully before returning home.",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "DAWN~",
+          "x": 84,
+          "y": 24,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH12_P07_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 435,
+      "top_gutter": 48,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "DAWN BREAKS OVER A RESTORED PYTHONIA. EVERY REALM SHINES BRIGHT AND BUG-FREE.",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 48
+        },
+        {
+          "type": "thought",
+          "text": "WE REALLY DID IT, EMBER... EVERY SINGLE GUARDIAN SHONE LIKE A STAR.",
+          "bx": 68,
+          "by": 24,
+          "tx": 51,
+          "ty": 40,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "DAWN~",
+          "x": 86,
+          "y": 84,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH12_P07_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 46,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "IN THE SUNLIT COURTYARD, THE STAGE-3 GUARDIAN PARTNERS DANCE IN GOLDEN PETALS!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "FLUTTER~",
+          "x": 20,
+          "y": 84,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "SPARKLE~",
+          "x": 82,
+          "y": 84,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH12_P08_01_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 76,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "I'M RECORDING EVERY GUARDIAN'S LESSON SO FUTURE CODERS NEVER FORGET THEM.",
+          "bx": 26,
+          "by": -12,
+          "tx": 34,
+          "ty": 26,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "SKETCHING OUR ADVENTURE, VEX? EVEN EMBER WANTS TO CHECK YOUR NOTES!",
+          "bx": 76,
+          "by": -12,
+          "tx": 64,
+          "ty": 22,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SCRIBBLE~",
+          "x": 22,
+          "y": 84,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p08_02",
+      "file": "CH12_P08_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 46,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "MEANWHILE, THE GUARDIAN PARTNERS HOST THEIR OWN 100% PLANT-BASED TEA PARTY!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CLINK~",
+          "x": 48,
+          "y": 24,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "SIP~",
+          "x": 84,
+          "y": 24,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p09_01",
+      "file": "CH12_P09_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THE GRAND VICTORY FEAST — ALL SEVENTEEN SAN JIE GUARDIANS AROUND ONE TABLE!",
+          "bx": 21,
+          "by": -14,
+          "max_chars": 22
+        },
+        {
+          "type": "shout",
+          "text": "A TOAST TO TEACHER CHEONG AND SAN JIE CLASS—SEVENTEEN HEARTS, ONE LEGEND!",
+          "bx": 77,
+          "by": -12,
+          "tx": 48,
+          "ty": 32,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CHEERS!!",
+          "x": 20,
+          "y": 16,
+          "rotate": -8,
+          "size": 28,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p09_03",
+      "file": "CH12_P09_03_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "TO SQUAD ONE! FROM FROST-PEAK CLIFFS ALL THE WAY TO THE CITADEL!",
+          "bx": 26,
+          "by": -12,
+          "tx": 24,
+          "ty": 34,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "AND THESE PLANT-BASED STEAMED BUNS BEAT EVEN MY DYNAMO CORE!",
+          "bx": 76,
+          "by": -12,
+          "tx": 64,
+          "ty": 30,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CLINK~!",
+          "x": 48,
+          "y": 14,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p09_04",
+      "file": "CH12_P09_04_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "LOOK AT THESE FRUIT TARTS AND DUMPLINGS—WE EARNED EVERY BITE!",
+          "bx": 26,
+          "by": -12,
+          "tx": 24,
+          "ty": 34,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "MY COMPASS SAYS THIS IS THE HAPPIEST COORDINATE IN PYTHONIA.",
+          "bx": 76,
+          "by": -12,
+          "tx": 62,
+          "ty": 34,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HAPPY~",
+          "x": 50,
+          "y": 16,
+          "rotate": 4,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p09_05",
+      "file": "CH12_P09_05_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 74,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "CHEERS, SQUAD THREE! STICKY WOULD LOVE THIS WATERFALL TEA!",
+          "bx": 26,
+          "by": -12,
+          "tx": 20,
+          "ty": 30,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "EVERY GUARDIAN KEPT THEIR PROMISE. ZERO BUGS LEFT STANDING!",
+          "bx": 76,
+          "by": -12,
+          "tx": 86,
+          "ty": 32,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "WARM~",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p09_06",
+      "file": "CH12_P09_06_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "TO SQUAD FOUR! EVEN THE FLOATING LIBRARY RUNES ARE CHEERING TONIGHT!",
+          "bx": 26,
+          "by": -12,
+          "tx": 24,
+          "ty": 26,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "ONE MORE STEAMED BUN, SHI YE—WE'VE GOT LANTERNS TO LIGHT NEXT!",
+          "bx": 76,
+          "by": -12,
+          "tx": 64,
+          "ty": 26,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "LAUGH~",
+          "x": 50,
+          "y": 14,
+          "rotate": 4,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p09_02",
+      "file": "CH12_P09_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 365,
+      "top_gutter": 68,
+      "bottom_gutter": 4,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "AFTER THE FEAST, HERO KAI SUMMONS SEVENTEEN GOLDEN SCROLLS OF PYTHONIA.",
+          "bx": 22,
+          "by": -14,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "ONE SCROLL FOR EVERY GUARDIAN—SEALED WITH YOUR COURAGE, KINDNESS, AND CODE!",
+          "bx": 98,
+          "by": -14,
+          "tx": 52,
+          "ty": 18,
+          "max_chars": 22
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.55,
+          0.56,
+          0.8,
+          0.86
+        ],
+        "x": 560,
+        "y_off": 122,
+        "w": 185,
+        "h": 185,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "SEALED~",
+            "x": 50,
+            "y": 86,
+            "rotate": 0,
+            "size": 22,
+            "fill": "#F59E0B"
+          }
+        ]
+      },
+      "sfx": [],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK  •  17 MASTER SCROLLS",
+        "concept": "Dictionaries & Mapping Every Guardian",
+        "lines": [
+          "scrolls = {i: f'Guardian #{i:02d} Master Scroll' for i in range(1, 18)}",
+          "print('Total Scrolls Forged:', len(scrolls))",
+          "print('Certified Class: San Jie (July 2026)')"
+        ],
+        "output": "Total Scrolls Forged: 17 | Certified Class: San Jie (July 2026)"
+      }
+    },
+    {
+      "id": "p10_01",
+      "file": "CH12_P10_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 435,
+      "top_gutter": 76,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "LANTERN NIGHT — UNDER THE AURORA SKY, EVERY GUARDIAN MAKES A WISH.",
+          "bx": 21,
+          "by": -12,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "LIGHT YOUR LANTERNS, EVERYONE! LET OUR WISHES RISE HIGHER THAN THE STARS!",
+          "bx": 77,
+          "by": -12,
+          "tx": 50,
+          "ty": 28,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "TWINKLE~",
+          "x": 16,
+          "y": 14,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#FDE047"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH12_P10_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 48,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "HIGH ABOVE THE VALLEY, THE GUARDIAN PARTNERS DANCE AMONG RISING LANTERNS!",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 18,
+          "y": 82,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#FDE047"
+        },
+        {
+          "kind": "mood",
+          "text": "DRIFT~",
+          "x": 84,
+          "y": 82,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#34D399"
+        }
+      ]
+    },
+    {
+      "id": "p10_03",
+      "file": "CH12_P10_03_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "I WISH WE NEVER STOP LEARNING AND CREATING TOGETHER!",
+          "bx": 26,
+          "by": -12,
+          "tx": 34,
+          "ty": 34,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "AND THAT OUR FRIENDSHIP GROWS LIKE THE DEEPEST EMERALD ROOTS!",
+          "bx": 76,
+          "by": -12,
+          "tx": 68,
+          "ty": 34,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "FLOAT~",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#FDE047"
+        }
+      ]
+    },
+    {
+      "id": "p10_04",
+      "file": "CH12_P10_04_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "UP THEY GO! EVERY LANTERN CARRIES CLEAN CODE INTO THE NIGHT!",
+          "bx": 22,
+          "by": -12,
+          "tx": 28,
+          "ty": 34,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "IT LOOKS LIKE A RAINBOW CONSTELLATION MADE JUST FOR SAN JIE CLASS!",
+          "bx": 78,
+          "by": -12,
+          "tx": 74,
+          "ty": 32,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER~",
+          "x": 50,
+          "y": 14,
+          "rotate": 4,
+          "size": 22,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p10_05",
+      "file": "CH12_P10_05_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 66,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "LOOK HOW BRIGHT THE AURORA IS TONIGHT—JUST LIKE TEMPEST STAG'S WINGS!",
+          "bx": 22,
+          "by": -12,
+          "tx": 22,
+          "ty": 30,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "WHEREVER OUR COMPASS POINTS NEXT, WE'LL ALWAYS BE SEVENTEEN GUARDIANS.",
+          "bx": 78,
+          "by": -12,
+          "tx": 82,
+          "ty": 30,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLISTEN~",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#34D399"
+        }
+      ]
+    },
+    {
+      "id": "p10_06",
+      "file": "CH12_P10_06_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 64,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "THREE, TWO, ONE—RELEASE!",
+          "bx": 24,
+          "by": -12,
+          "tx": 24,
+          "ty": 34,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "FLY HIGH, LITTLE LANTERNS! CARRY OUR THANK-YOU ALL THE WAY HOME!",
+          "bx": 74,
+          "by": -12,
+          "tx": 64,
+          "ty": 36,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "RISE~",
+          "x": 48,
+          "y": 14,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#FDE047"
+        }
+      ]
+    },
+    {
+      "id": "pt02_lantern",
+      "file": "CH12_PT02_Grand_Lantern_Sky_Ascension_3x4_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 1240,
+      "top_gutter": 16,
+      "bottom_gutter": 64,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Hundreds of golden wish-lanterns rise into the cosmos—carrying seventeen promises of kindness!",
+          "bx": 50,
+          "by": 102,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SOAR~",
+          "x": 20,
+          "y": 14,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#FBBF24"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH12_P11_01_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 68,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THE NEXT MORNING, A GOLDEN PORTAL OPENS TO CARRY SAN JIE CLASS BACK HOME.",
+          "bx": 79,
+          "by": -14,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "YOU DON'T NEED MAGIC SCROLLS TO BE HEROES—YOUR KINDNESS AND LOGIC GO HOME WITH YOU!",
+          "bx": 24,
+          "by": -12,
+          "tx": 15,
+          "ty": 34,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER~",
+          "x": 86,
+          "y": 14,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p11_01b",
+      "file": "CH12_P11_01B_RAW.jpg",
+      "layout": "framed",
+      "height": 465,
+      "top_gutter": 105,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Thank you for everything, Tempest Stag and BARKLEY... we'll never forget you!",
+          "bx": 30,
+          "by": -14,
+          "tx": 22,
+          "ty": 48,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "Poppy, Miku—keep shining bright in Pythonia!",
+          "bx": 76,
+          "by": -14,
+          "tx": 78,
+          "ty": 48,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HUG~",
+          "x": 50,
+          "y": 22,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p11_01c",
+      "file": "CH12_P11_01C_RAW.jpg",
+      "layout": "framed",
+      "height": 465,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Whenever you draw or code with love, we're right here beside you!",
+          "bx": 50,
+          "by": -14,
+          "tx": 51,
+          "ty": 48,
+          "max_chars": 30
+        },
+        {
+          "type": "narration",
+          "text": "Sticky, OKX, Caticorn & Sky-Pup nuzzle their trainers one last time before the sunrise gate.",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SNIFFLE...",
+          "x": 16,
+          "y": 24,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH12_P11_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 435,
+      "top_gutter": 70,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "HIGH FIVE, HERO KAI! WE'LL KEEP CODING BACK IN SAN JIE CLASS!",
+          "bx": 24,
+          "by": -14,
+          "tx": 44,
+          "ty": 22,
+          "max_chars": 19
+        },
+        {
+          "type": "whisper",
+          "text": "TAKE CARE OF KAI FOR US, EMBER... WE'LL MISS YOU SO MUCH!",
+          "bx": 98,
+          "by": -14,
+          "tx": 68,
+          "ty": 30,
+          "max_chars": 20
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.64,
+          0.24,
+          0.9,
+          0.62
+        ],
+        "x": 560,
+        "y_off": 130,
+        "w": 190,
+        "h": 190,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "PURR~",
+            "x": 50,
+            "y": 86,
+            "rotate": 0,
+            "size": 22,
+            "fill": "#EA580C"
+          }
+        ]
+      },
+      "sfx": []
+    },
+    {
+      "id": "p12_01",
+      "file": "CH12_P12_01_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 70,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "BACK IN SAN JIE CLASS — JULY 2026. THE SUN SHINES ON SEVENTEEN FOREVER GUARDIANS.",
+          "bx": 21,
+          "by": -14,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "SAME CLASSROOM... NEW SUPERPOWERS! WHO'S READY TO WRITE OUR NEXT PYTHON PROGRAM?",
+          "bx": 77,
+          "by": -12,
+          "tx": 42,
+          "ty": 28,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SMILE~",
+          "x": 86,
+          "y": 14,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "ex11_realworld_reunion",
+      "file": "CH12_EX11_RealWorld_Classroom_Reunion_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 78,
+      "bottom_gutter": 44,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "WELCOME BACK, SAN JIE CLASS—I TOLD YOU WE'D MEET AGAIN IN OUR REAL WORLD!",
+          "bx": 27,
+          "by": -14,
+          "tx": 22,
+          "ty": 24,
+          "max_chars": 26
+        },
+        {
+          "type": "shout",
+          "text": "TEACHER CHEONG!!",
+          "bx": 76,
+          "by": -14,
+          "tx": 66,
+          "ty": 44,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 37,
+          "y": 58,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p12_01b",
+      "file": "CH12_P12_01B_RAW.jpg",
+      "layout": "framed",
+      "height": 335,
+      "top_gutter": 48,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "On every wooden desk in Penang, seventeen original pencil sketchbooks shimmer faintly with emerald starlight...",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 50
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SPARKLE~",
+          "x": 78,
+          "y": 24,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p12_01c",
+      "file": "CH12_P12_01C_RAW.jpg",
+      "layout": "framed",
+      "height": 335,
+      "top_gutter": 105,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "STRING!! GRANDMA LOOMA!! WE'RE HOME!!",
+          "bx": 34,
+          "by": -14,
+          "tx": 34,
+          "ty": 34,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Welcome home, little Kai! Our forest is blooming again!",
+          "bx": 76,
+          "by": -14,
+          "tx": 78,
+          "ty": 20,
+          "max_chars": 22
+        },
+        {
+          "type": "narration",
+          "text": "Back at Loom Forest Cottage, String leaps into Kai's arms as Grandma Looma smiles on the porch!",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WOOF-WOOF!!",
+          "x": 52,
+          "y": 78,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p12_01d",
+      "file": "CH12_P12_01D_RAW.jpg",
+      "layout": "framed",
+      "height": 335,
+      "top_gutter": 48,
+      "bottom_gutter": 36,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "Look, Teacher Cheong... your Seed of Kindness grew into an Emerald Tree watching over all of Pythonia.",
+          "bx": 34,
+          "by": -10,
+          "tx": 56,
+          "ty": 32,
+          "max_chars": 30
+        },
+        {
+          "type": "narration",
+          "text": "On the sunlit hill above the valley, Vex stands guard with a peaceful smile.",
+          "bx": 50,
+          "by": 107,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "RUSTLE~",
+          "x": 82,
+          "y": 24,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH12_P12_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 295,
+      "top_gutter": 68,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "UNTIL OUR NEXT ADVENTURE, SAN JIE CLASS—KEEP CODING WITH KINDNESS!!",
+          "bx": 23,
+          "by": -12,
+          "tx": 34,
+          "ty": 26,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "YOUR SEVENTEEN SCROLLS WILL SHINE OVER PYTHONIA FOREVER!",
+          "bx": 78,
+          "by": -12,
+          "tx": 74,
+          "ty": 46,
+          "max_chars": 21
+        },
+        {
+          "type": "narration",
+          "text": "FIN — HERO KAI × SAN JIE 17 GUARDIANS (JULY 2026). THANK YOU FOR READING!",
+          "bx": 50,
+          "by": 92,
+          "max_chars": 48
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SOAR~",
+          "x": 54,
+          "y": 24,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#38BDF8"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK  •  GRAND FINALE COMPLETE",
+        "concept": "Graduation Printout — Lists, Loops & Functions",
+        "lines": [
+          "def celebrate(class_name, count):",
+          "    return f'{class_name}: {count}/17 Guardians — Adventure Complete!'",
+          "print(celebrate('San Jie Class (July 2026)', 17))"
+        ],
+        "output": "San Jie Class (July 2026): 17/17 Guardians — Adventure Complete!"
+      }
+    }
+  ],
+  "end_banner": {
+    "kicker": "GRAND FINALE COMPLETE  •  HERO KAI × SAN JIE 17 GUARDIANS",
+    "title": "SEVENTEEN PENCILS. FOUR REALMS. ONE LIVING UNIVERSE.",
+    "subtitle": "San Jie Class (July 2026) — Forever Guardians of Kindness, Logic & Clean Code!"
+  }
+}

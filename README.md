@@ -40,7 +40,7 @@ This repository serves as the single source of truth (SSOT) for developing:
 | `02_Pet_Evolution_Sheets_All_18/` | Evolution sheets for all 18 guardian pets |
 | `03_Pet_Turnaround_Sheets_All_18/` | 3-stage pet turnaround sheets (54 sheets) |
 | `04_Student_Spellcaster_Cast_All_18/` | Student spellcaster cast master boards |
-| `05_Hero_Kai_SanJie_Bilingual_Comic/` | Bilingual comic episodes, 387 raw panels, compositing scripts, PDFs & Webtoon strips |
+| `05_Hero_Kai_SanJie_Bilingual_Comic/` | Bilingual comic episodes (v6.0/v6.5/v6.1), 548 raw panels, compositing scripts, standard & HQ PDFs, 800px Webtoon strips & WebP tiles |
 | `06_Student_Individual_Turnarounds_All_17/` | Individual character turnarounds for all 17 students |
 | `07_Pet_Props_And_Relics_Boards_All_18/` | Bilingual props & relics reference boards |
 | `08_New_Saga_NPC_Turnarounds/` | New saga NPC turnaround sheets |

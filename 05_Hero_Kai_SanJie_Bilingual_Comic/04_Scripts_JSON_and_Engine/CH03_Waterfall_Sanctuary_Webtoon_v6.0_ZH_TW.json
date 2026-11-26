@@ -1,0 +1,1556 @@
+{
+  "kicker": "WEBTOON V6.0 · 繁體中文導演剪輯版",
+  "title": "第三章：彩虹瀑布與翡翠聖殿",
+  "subtitle": "技能覺醒版 · 25張原畫 · 第三聖域：翠竹幽谷 (v6.0)",
+  "sections": [
+    {
+      "id": "c3_ex00_habitat_verdant",
+      "file": "BOOK_06_DIVIDER_VERDANT.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 92,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第三聖域・翠竹幽谷 —— #05 柯俊明、#07 梅旖仁、#13 李明慧、#14 李秋蓉的守護之地。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "翠霧綻放...",
+          "x": 18,
+          "y": 16,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p01_01",
+      "file": "CH03_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "穿過峽谷傳送門後，是彩虹瀑布聖殿——一座藏在水晶泉水與古老回聲中的秘境山谷。",
+          "bx": 27,
+          "by": -13,
+          "max_chars": 16
+        },
+        {
+          "type": "speech",
+          "text": "抓緊了，小火！求救訊號就來自那幾道瀑布！",
+          "bx": 76,
+          "by": -14,
+          "tx": 60,
+          "ty": 23,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼呼—！",
+          "x": 18,
+          "y": 20,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "微光閃爍...",
+          "x": 31,
+          "y": 76,
+          "rotate": -5,
+          "size": 22,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH03_P01_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 120,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "嘿！看這邊！歡迎來到瀑布聖殿！",
+          "bx": 23,
+          "by": -17,
+          "tx": 37,
+          "ty": 16,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "我是愷音，他是家正！Sticky 和 Berrie 一眼就看到你的紅龍了！",
+          "bx": 77,
+          "by": -15,
+          "tx": 65,
+          "ty": 19,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "揮手～",
+          "x": 50,
+          "y": 14,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#059669"
+        },
+        {
+          "kind": "mood",
+          "text": "彈跳！",
+          "x": 15,
+          "y": 54,
+          "rotate": -8,
+          "size": 20,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH03_P02_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "我是旖仁！Poppy 說今天的水晶泉水顯得特別不安……",
+          "bx": 26,
+          "by": -14,
+          "tx": 31,
+          "ty": 21,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "而我是凱祥！我和 OKX 偵測到瀑布後方有奇怪的符文干擾。",
+          "bx": 74,
+          "by": -15,
+          "tx": 74,
+          "ty": 13,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃閃發亮～",
+          "x": 53,
+          "y": 56,
+          "rotate": -6,
+          "size": 23,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH03_P02_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 38,
+        "cy": 48,
+        "color": "#E0F2FE",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "哇啊！！大門突然噴出一道水牆把我們沖退了！",
+          "bx": 36,
+          "by": -17,
+          "tx": 66,
+          "ty": 37,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "被封印住了！有人把聖殿拱門鎖起來了！",
+          "bx": 80,
+          "by": -15,
+          "tx": 83,
+          "ty": 36,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "SPLASH",
+            "CRASH!!"
+          ],
+          "x": 12,
+          "y": 24,
+          "rotate": -8,
+          "size": 40,
+          "step_x": 42,
+          "step_y": 40,
+          "fill": "#0284C7",
+          "text": "轟隆嘩啦！！"
+        }
+      ]
+    },
+    {
+      "id": "p02_02b_eye",
+      "file": "CH03_P02_02_v2_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "crop": [
+        0.55,
+        0.39,
+        0.91,
+        0.61
+      ],
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "全身濕透！！",
+          "x": 16,
+          "y": 24,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "咕嚕！",
+          "x": 86,
+          "y": 82,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#1D4ED8"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH03_P03_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "我是英雄凱，這位是小火！我們正在集結全部十七位守護者！",
+          "bx": 28,
+          "by": -15,
+          "tx": 34,
+          "ty": 29,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "算我們一份，凱！我們瀑布小隊隨時準備幫忙！",
+          "bx": 75,
+          "by": -15,
+          "tx": 65,
+          "ty": 33,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "元氣滿滿～",
+          "x": 50,
+          "y": 20,
+          "rotate": 4,
+          "size": 23,
+          "fill": "#16A34A"
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH03_P03_02_v2_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 154,
+      "bottom_gutter": 62,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "歡迎你們，年輕的編碼師。石窟裡的金色巨鐘已經陷入沉寂……",
+          "bx": 30,
+          "by": -23,
+          "tx": 33,
+          "ty": 6,
+          "max_chars": 12
+        },
+        {
+          "type": "whisper",
+          "text": "是聖殿長老！她的聲音就像純淨的流水一樣清澈……",
+          "bx": 98,
+          "by": -22,
+          "tx": 62,
+          "ty": 32,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "微光閃爍...",
+          "x": 16,
+          "y": 38,
+          "rotate": -6,
+          "size": 21,
+          "fill": "#15803D"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.22,
+          0.08,
+          0.5,
+          0.45
+        ],
+        "x": 556,
+        "y_off": 122,
+        "w": 216,
+        "h": 200,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "GLOW~",
+            "x": 76,
+            "y": 86,
+            "rotate": -6,
+            "size": 22,
+            "fill": "#D97706"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p03_02b_eye",
+      "file": "CH03_P03_02_v2_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 410,
+      "crop": [
+        0.54,
+        0.35,
+        0.92,
+        0.58
+      ],
+      "top_gutter": 95,
+      "bottom_gutter": 70,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "古老守護者溫柔的光芒，為林間空地注滿了沉靜的勇氣。",
+          "bx": 50,
+          "by": -20,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "驚嘆～",
+          "x": 85,
+          "y": 24,
+          "rotate": 5,
+          "size": 22,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH03_P04_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 126,
+      "bottom_gutter": 74,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "仔細聽……水波正在重複四拍子的脈動！就像迴圈一樣！",
+          "bx": 68,
+          "by": -20,
+          "tx": 61,
+          "ty": 8,
+          "max_chars": 12
+        },
+        {
+          "type": "narration",
+          "text": "透過沉著的專注，愷音聽見了喧囂之下隱藏的節奏。",
+          "bx": 34,
+          "by": 111,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滴答... 滴答...",
+          "x": 24,
+          "y": 64,
+          "rotate": -5,
+          "size": 32,
+          "fill": "#0D9488"
+        },
+        {
+          "kind": "mood",
+          "text": "傾聽～",
+          "x": 82,
+          "y": 24,
+          "rotate": 7,
+          "size": 22,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p04_01b_duo",
+      "layout": "split_duo",
+      "height": 450,
+      "top_gutter": 98,
+      "bottom_gutter": 24,
+      "left": {
+        "file": "CH03_P04_01_v2_RAW.jpg",
+        "crop": [
+          0.02,
+          0.54,
+          0.44,
+          0.98
+        ],
+        "balloons": [
+          {
+            "type": "narration",
+            "text": "四聲鐘響……四道節拍！",
+            "bx": 50,
+            "by": -12,
+            "max_chars": 12
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "叮咚... 叮咚...",
+            "x": 50,
+            "y": 22,
+            "rotate": -5,
+            "size": 28,
+            "fill": "#0D9488"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH03_P04_01_v2_RAW.jpg",
+        "crop": [
+          0.38,
+          0.14,
+          0.8,
+          0.78
+        ],
+        "balloons": [
+          {
+            "type": "speech",
+            "text": "每一件聖物都對應著泉水的一道節拍！",
+            "bx": 50,
+            "by": -12,
+            "tx": 55,
+            "ty": 14,
+            "max_chars": 12
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "原來如此！！",
+            "x": 82,
+            "y": 86,
+            "rotate": 7,
+            "size": 26,
+            "fill": "#DB2777"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p04_02",
+      "file": "CH03_P04_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "是一個「AND」條件！只要缺少任何一件聖物，拱門就會保持鎖定！",
+          "bx": 27,
+          "by": -15,
+          "tx": 34,
+          "ty": 18,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "我的密文魔方解碼成功了！大門需要四個聖物訊號全部為 True！",
+          "bx": 75,
+          "by": -15,
+          "tx": 68,
+          "ty": 16,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "嗡鳴～",
+          "x": 51,
+          "y": 28,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • GATE LOGIC",
+        "concept": "Boolean AND Conditions",
+        "lines": [
+          "lantern_lit = True    # Carlzen's Tide-Ember Lantern",
+          "teacup_pure = True    # Yi Ren's Dewdrop Petal Teacup",
+          "berries_ready = True  # Gisele's Star-Berry Basket",
+          "cube_synced = True    # Kai Xiang's Cipher Rune Cube",
+          "gate_open = lantern_lit and teacup_pure and berries_ready and cube_synced"
+        ],
+        "output": "gate_open -> True  [ALL 4 SANCTUARY RELICS ALIGNED!]"
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH03_P05_01_v2_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 104,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "潮汐餘燼燈籠與花瓣茶杯——就位！",
+          "bx": 22,
+          "by": -14,
+          "tx": 25,
+          "ty": 16,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "星莓花籃與密文魔方——啟動開門咒語！",
+          "bx": 78,
+          "by": -14,
+          "tx": 82,
+          "ty": 16,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚—！！",
+          "x": 52,
+          "y": 14,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH03_P05_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "瀑布如銀色布簾般分開，露出了古老的鐘鳴石室。",
+          "bx": 28,
+          "by": -13,
+          "max_chars": 16
+        },
+        {
+          "type": "speech",
+          "text": "成功了！快看洞穴裡面那些發光的金色燈籠！",
+          "bx": 76,
+          "by": -14,
+          "tx": 62,
+          "ty": 40,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "隆隆...",
+          "x": 20,
+          "y": 26,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#0369A1"
+        },
+        {
+          "kind": "mood",
+          "text": "敬畏～",
+          "x": 80,
+          "y": 30,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH03_P06_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 138,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "惡碼領主的暗影編碼師——把金色巨鐘困在腐化程式碼裡了！",
+          "bx": 26,
+          "by": -23,
+          "max_chars": 16
+        },
+        {
+          "type": "glitch",
+          "text": "只要這個無窮迴圈還在執行，你們的金色巨鐘就永遠別想再響起……",
+          "bx": 100,
+          "by": -24,
+          "tx": 78,
+          "ty": 14,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋滋—爆裂！",
+          "x": 42,
+          "y": 17,
+          "rotate": -7,
+          "size": 32,
+          "fill": "#9333EA"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.64,
+          0.18,
+          0.88,
+          0.68
+        ],
+        "x": 556,
+        "y_off": 118,
+        "w": 216,
+        "h": 210,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "BZZZT!",
+            "x": 32,
+            "y": 86,
+            "rotate": -8,
+            "size": 28,
+            "fill": "#9333EA"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE GLITCH • INFINITE LOOP",
+        "concept": "Broken while True Trap",
+        "lines": [
+          "bell_muted = True",
+          "while bell_muted:   # DANGER: No exit condition!",
+          "    spawn_glitch_bugs(count=12)",
+          "    drain_sanctuary_echo()"
+        ],
+        "output": "ERROR: SANCTUARY_BELL FROZEN IN INFINITE LOOP!"
+      }
+    },
+    {
+      "id": "p06_02",
+      "file": "CH03_P06_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 48,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "咿！別害怕——Sticky、Berrie、OKX，我們要好好守護我們的守護者！",
+          "bx": 27,
+          "by": -15,
+          "tx": 40,
+          "ty": 37,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "吼！！誰都不准欺負我們的瀑布聖殿！",
+          "bx": 76,
+          "by": -16,
+          "tx": 80,
+          "ty": 32,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "鬥志燃燒！",
+          "x": 54,
+          "y": 22,
+          "rotate": -5,
+          "size": 25,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH03_P07_01_v2_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 138,
+      "bottom_gutter": 36,
+      "speedlines": {
+        "cx": 50,
+        "cy": 36,
+        "color": "#D8B4FE",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "漩渦正在吸乾巨鐘的能量！我們必須聯手打破他的迴圈！",
+          "bx": 33,
+          "by": -18,
+          "tx": 53,
+          "ty": 22,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "我找到漏洞了——裡面根本沒有 break 中止敘述！",
+          "bx": 81,
+          "by": -16,
+          "tx": 84,
+          "ty": 22,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼嗡嗡！！",
+          "x": 18,
+          "y": 16,
+          "rotate": -9,
+          "size": 42,
+          "fill": "#7E22CE"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH03_P07_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 128,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "什、什麼？！我的錯誤護盾正在瓦解？！四個孩子怎麼可能同步得這麼快？！",
+          "bx": 32,
+          "by": -27,
+          "tx": 37,
+          "ty": 5,
+          "max_chars": 12
+        },
+        {
+          "type": "thought",
+          "text": "那股和諧的力量……感覺好溫暖……",
+          "bx": 106,
+          "by": -22,
+          "tx": 49,
+          "ty": 12,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "顫抖...",
+          "x": 16,
+          "y": 54,
+          "rotate": -8,
+          "size": 21,
+          "fill": "#7C3AED"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.27,
+          0.13,
+          0.48,
+          0.36
+        ],
+        "x": 556,
+        "y_off": 122,
+        "w": 216,
+        "h": 198,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "GASP!",
+            "x": 74,
+            "y": 84,
+            "rotate": 8,
+            "size": 30,
+            "fill": "#7C3AED"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p07_03",
+      "file": "CH03_P07_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 82,
+        "cy": 52,
+        "color": "#67E8F9",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "用 for 迴圈串聯四件聖物！光輝、晨露、符文與星莓！",
+          "bx": 23,
+          "by": -16,
+          "tx": 30,
+          "ty": 29,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "送出和諧脈衝——現在就擊碎錯誤漩渦！！",
+          "bx": 78,
+          "by": -16,
+          "tx": 56,
+          "ty": 33,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "鏗鏘！！",
+          "x": 77,
+          "y": 24,
+          "rotate": -8,
+          "size": 42,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • HARMONY LOOP",
+        "concept": "for Loops, Lists & break",
+        "lines": [
+          "relics = [\"Lantern\", \"Teacup\", \"Star-Berry\", \"Rune-Cube\"]",
+          "for relic in relics:",
+          "    cast_harmonic_ring(relic)",
+          "if vortex_power <= 0:",
+          "    break  # Shatter Malcode's infinite loop!"
+        ],
+        "output": "4 HARMONIC RINGS FIRED -> GLITCH VORTEX SHATTERED!"
+      }
+    },
+    {
+      "id": "p07_04",
+      "file": "CH03_P07_04_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 116,
+      "bottom_gutter": 110,
+      "speedlines": {
+        "cx": 54,
+        "cy": 30,
+        "color": "#FDE047",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "太棒了！！金色巨鐘重新響起來了！！",
+          "bx": 28,
+          "by": -16,
+          "tx": 44,
+          "ty": 48,
+          "max_chars": 12
+        },
+        {
+          "type": "glitch",
+          "text": "……這還沒完。惡碼領主會聽說這件事的。",
+          "bx": 72,
+          "by": 119,
+          "tx": 89,
+          "ty": 95,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "噹——！！",
+          "x": 76,
+          "y": 18,
+          "rotate": 8,
+          "size": 48,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p07_04b_duo",
+      "layout": "split_duo",
+      "height": 420,
+      "top_gutter": 96,
+      "bottom_gutter": 22,
+      "left": {
+        "file": "CH03_P07_04_RAW.jpg",
+        "crop": [
+          0.36,
+          0.44,
+          0.56,
+          0.94
+        ],
+        "balloons": [
+          {
+            "type": "shout",
+            "text": "我們打破迴圈了！！",
+            "bx": 50,
+            "by": -13,
+            "tx": 46,
+            "ty": 16,
+            "max_chars": 12
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "勝利！！",
+            "x": 52,
+            "y": 88,
+            "rotate": -5,
+            "size": 28,
+            "fill": "#EA580C"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH03_P07_04_RAW.jpg",
+        "crop": [
+          0.76,
+          0.46,
+          0.98,
+          0.96
+        ],
+        "balloons": [
+          {
+            "type": "glitch",
+            "text": "切……下次就不會這麼輕鬆了。",
+            "bx": 50,
+            "by": -12,
+            "tx": 60,
+            "ty": 28,
+            "max_chars": 12
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "呼呼...",
+            "x": 36,
+            "y": 84,
+            "rotate": 8,
+            "size": 26,
+            "fill": "#7E22CE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p07_05_portrait",
+      "file": "CH03_P07_05_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 920,
+      "crop": [
+        0.02,
+        0.02,
+        0.98,
+        0.98
+      ],
+      "top_gutter": 96,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在水晶瀑布的高處，金色巨鐘的歌聲再度迴盪整座山谷！",
+          "bx": 50,
+          "by": -5,
+          "max_chars": 16
+        },
+        {
+          "type": "shout",
+          "text": "我們辦到了，STICKY！！聖殿重獲自由了！！",
+          "bx": 22,
+          "by": 46,
+          "tx": 43,
+          "ty": 52,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "啵嚕—耶！！",
+          "bx": 84,
+          "by": 61,
+          "tx": 74,
+          "ty": 72,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "鐘鳴！！",
+          "x": 18,
+          "y": 16,
+          "rotate": -10,
+          "size": 48,
+          "fill": "#D97706"
+        },
+        {
+          "kind": "mood",
+          "text": "光輝閃耀～",
+          "x": 84,
+          "y": 24,
+          "rotate": 8,
+          "size": 26,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p07_05b_eye",
+      "file": "CH03_P07_04_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.09,
+        0.47,
+        0.39,
+        0.72
+      ],
+      "top_gutter": 92,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "快看那道彩虹光芒——我們的四件聖物真的同步成同一首旋律了！",
+          "bx": 50,
+          "by": -25,
+          "tx": 40,
+          "ty": 4,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "和諧～",
+          "x": 88,
+          "y": 82,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH03_P08_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "等等——他掉了一塊腐化資料碎片！凱祥，你的魔方能讀取嗎？",
+          "bx": 28,
+          "by": -15,
+          "tx": 41,
+          "ty": 23,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "掃描中！這是一份追蹤日誌——直接指向一座浮空天空聖殿！",
+          "bx": 75,
+          "by": -15,
+          "tx": 64,
+          "ty": 15,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "嗶—掃描！",
+          "x": 52,
+          "y": 56,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • SHARD DECODER",
+        "concept": "Dictionaries & Key Lookup",
+        "lines": [
+          "shard_log = {",
+          "    \"source\": \"Shadow_Coder\",",
+          "    \"next_target\": \"Floating_Bamboo_Sky_Isle\",",
+          "    \"threat_level\": \"HIGH\"",
+          "}",
+          "print(\"NEXT:\", shard_log[\"next_target\"])"
+        ],
+        "output": "NEXT: Floating_Bamboo_Sky_Isle"
+      }
+    },
+    {
+      "id": "p08_02",
+      "file": "CH03_P08_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "嗯～！！打完頭目戰後來份熱騰騰的素包子和花茶——史上最棒的獎勵！",
+          "bx": 28,
+          "by": -14,
+          "tx": 19,
+          "ty": 22,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "多吃一點，凱！新鮮星莓、甜玉米和植物性點心幫你路上補體力！",
+          "bx": 75,
+          "by": -14,
+          "tx": 70,
+          "ty": 19,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "好香～",
+          "x": 49,
+          "y": 14,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p08_03_portrait",
+      "file": "CH03_P08_03_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 920,
+      "crop": [
+        0.02,
+        0.02,
+        0.98,
+        0.98
+      ],
+      "top_gutter": 108,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "大家都有新鮮星莓！分享善意會讓我們整支小隊變得更強大！",
+          "bx": 34,
+          "by": -6,
+          "tx": 46,
+          "ty": 22,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "咿咿！史上最甜美的勝利野餐！",
+          "bx": 80,
+          "by": 54,
+          "tx": 74,
+          "ty": 67,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃閃發亮～",
+          "x": 80,
+          "y": 14,
+          "rotate": 7,
+          "size": 28,
+          "fill": "#DB2777"
+        },
+        {
+          "kind": "mood",
+          "text": "跳啊跳！",
+          "x": 84,
+          "y": 93,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p08_03b_eye",
+      "file": "CH03_P08_02_v2_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "crop": [
+        0.1,
+        0.24,
+        0.92,
+        0.56
+      ],
+      "top_gutter": 82,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "笑聲、熱茶與植物性美味點心，為每位守護者充飽了繼續前行的能量。",
+          "bx": 50,
+          "by": -21,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "溫馨～",
+          "x": 14,
+          "y": 82,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p09_01",
+      "file": "CH03_P09_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "瀑布又開始歌唱了……而且我們的精靈感覺已經變得更強了！",
+          "bx": 28,
+          "by": -14,
+          "tx": 28,
+          "ty": 16,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "就算暗影編碼師再回來，我們也會把聖殿的程式碼守護得乾乾淨淨！",
+          "bx": 75,
+          "by": -14,
+          "tx": 74,
+          "ty": 17,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "寧靜～",
+          "x": 50,
+          "y": 24,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p09_02",
+      "file": "CH03_P09_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 134,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "順著彩虹氣流前進吧，英雄凱。浮空之島上還有更多守護者正等著你！",
+          "bx": 28,
+          "by": -23,
+          "tx": 30,
+          "ty": 11,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "收到，長老！我馬上把這些座標記錄進魔法書裡！",
+          "bx": 100,
+          "by": -22,
+          "tx": 80,
+          "ty": 39,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "微光～",
+          "x": 54,
+          "y": 24,
+          "rotate": -5,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.38,
+          0.38,
+          0.7,
+          0.68
+        ],
+        "x": 556,
+        "y_off": 122,
+        "w": 216,
+        "h": 198,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "PING!",
+            "x": 74,
+            "y": 84,
+            "rotate": -6,
+            "size": 24,
+            "fill": "#059669"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • SKY NAVIGATION",
+        "concept": "Functions & Return Values",
+        "lines": [
+          "def plot_sky_course(origin, dest):",
+          "    return f\"COURSE LOCKED: {origin} -> {dest}\"",
+          "",
+          "nav = plot_sky_course(\"Waterfall_Sanctuary\", \"Crystal_Bamboo_Isle\")",
+          "print(nav)"
+        ],
+        "output": "COURSE LOCKED: Waterfall_Sanctuary -> Crystal_Bamboo_Isle"
+      }
+    },
+    {
+      "id": "p10_01",
+      "file": "CH03_P10_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 120,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "一路順風，凱和小火！只要需要瀑布小隊，隨時呼叫我們！",
+          "bx": 24,
+          "by": -17,
+          "tx": 26,
+          "ty": 19,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "我們會守護金色巨鐘，直到十七個人全部大團圓！",
+          "bx": 77,
+          "by": -15,
+          "tx": 77,
+          "ty": 21,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "再見囉！！",
+          "x": 50,
+          "y": 14,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH03_P10_02_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 124,
+      "bottom_gutter": 74,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "謝謝大家！我永遠不會忘記你們教我的和諧之力！",
+          "bx": 34,
+          "by": -19,
+          "tx": 34,
+          "ty": 10,
+          "max_chars": 12
+        },
+        {
+          "type": "narration",
+          "text": "又有四位守護者覺醒了——聖物閃耀，程式碼堅不可摧。",
+          "bx": 62,
+          "by": 111,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "振翅！振翅！",
+          "x": 16,
+          "y": 42,
+          "rotate": -10,
+          "size": 32,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH03_P11_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 114,
+      "bottom_gutter": 78,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "下一站，小火——浮空翠竹聖殿！",
+          "bx": 38,
+          "by": -15,
+          "tx": 37,
+          "ty": 39,
+          "max_chars": 12
+        },
+        {
+          "type": "narration",
+          "text": "在金色雲海的高處，一座水晶穹頂在翡翠竹林間閃閃發光……",
+          "bx": 50,
+          "by": 111,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "翱翔！！",
+          "x": 16,
+          "y": 22,
+          "rotate": -8,
+          "size": 44,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "閃耀～",
+          "x": 82,
+          "y": 11,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p11_01b_eye",
+      "file": "CH03_P11_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 235,
+      "crop": [
+        0.64,
+        0.04,
+        0.99,
+        0.48
+      ],
+      "top_gutter": 84,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "雲層彼端有新的守護者等著我們——而惡碼領主的下一個陷阱也正蠢蠢欲動……",
+          "bx": 50,
+          "by": -19,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "微光閃爍...",
+          "x": 18,
+          "y": 82,
+          "rotate": -5,
+          "size": 28,
+          "fill": "#0284C7"
+        }
+      ]
+    }
+  ],
+  "end_banner": {
+    "kicker": "第三章完結 · 彩虹瀑布聖殿",
+    "title": "下集預告：第四章 — 浮空翠竹之島！",
+    "subtitle": "在陽光灑落的雲海之上，一座水晶穹頂正等待著英雄凱與小火——還有新的守護者與惡碼領主潛伏的陰影……"
+  }
+}

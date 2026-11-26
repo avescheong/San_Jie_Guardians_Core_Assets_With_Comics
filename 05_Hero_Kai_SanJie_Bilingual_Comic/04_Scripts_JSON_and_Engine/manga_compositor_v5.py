@@ -182,7 +182,30 @@ def svg_speedlines(x, y, w, h, cx_pct=50, cy_pct=50, color="#FFFFFF", opacity=0.
     return "\n".join(lines)
 
 
+def _vis_len(s: str) -> float:
+    return sum(1.78 if ord(c) > 0x2E80 else 1.0 for c in s)
+
+
 def wrap_comic_lines(text: str, max_chars: int = 20):
+    if any(ord(c) > 0x2E80 for c in text):
+        limit = max(11.0, max_chars * 1.40)
+        tokens = re.findall(r'[A-Za-z0-9_.:/\-]+|\s+|.', text)
+        lines, cur = [], ""
+        no_start = set("，。！？、：；）」』…!?.,")
+        for tok in tokens:
+            if not cur and tok.isspace():
+                continue
+            if tok in no_start and cur:
+                cur += tok
+                continue
+            if cur and _vis_len(cur) + _vis_len(tok) > limit:
+                lines.append(cur.rstrip())
+                cur = "" if tok.isspace() else tok
+            else:
+                cur += tok
+        if cur.strip():
+            lines.append(cur.rstrip())
+        return lines or [text]
     words = text.split()
     lines, cur = [], ""
     for w in words:
@@ -196,6 +219,100 @@ def wrap_comic_lines(text: str, max_chars: int = 20):
     return lines
 
 
+
+def _balloon_geom(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x=18, clamp_max_x=782):
+    btype = b.get("type", "speech")
+    text = b["text"].upper()
+    bx = panel_x + panel_w * b["bx"] / 100.0
+    by = panel_y + panel_h * b["by"] / 100.0
+    max_chars = b.get("max_chars", 26 if btype == "narration" else 19)
+    lines = wrap_comic_lines(text, max_chars=max_chars)
+    font_size = b.get("font_size", 16.5 if btype != "narration" else 16.0)
+    line_h = font_size * 1.24
+
+    if btype == "narration":
+        max_avail = max(180, clamp_max_x - clamp_min_x - 12)
+        box_w = b.get("width", max(220, min(max_avail, max(_vis_len(l) for l in lines) * font_size * 0.62 + 54)))
+        box_h = len(lines) * line_h + 24
+        x0 = max(clamp_min_x, min(clamp_max_x - box_w, bx - box_w / 2))
+        y0 = by - box_h / 2
+        outer = [x0, y0, x0 + box_w, y0 + box_h]
+        tw = max(_vis_len(l) for l in lines) * font_size * 0.56
+        th = len(lines) * line_h
+        cx = x0 + box_w / 2
+        text_box = [cx - tw / 2, y0 + 10, cx + tw / 2, y0 + 10 + th]
+        return outer, text_box, bx, by, box_w / 2.0, box_h / 2.0
+
+    est_w = max(_vis_len(l) for l in lines) * font_size * 0.62
+    max_rx = (clamp_max_x - clamp_min_x) / 2.0 - 4
+    rx = min(max_rx, b.get("rx", max(92, est_w * 0.74 + 34)))
+    ry = b.get("ry", max(42, len(lines) * line_h * 0.68 + 18))
+    bx = max(clamp_min_x + rx, min(clamp_max_x - rx, bx))
+    mult_x = 1.12 if btype == "shout" else (1.11 if btype == "glitch" else 1.0)
+    mult_y = 1.15 if btype == "shout" else (1.13 if btype == "glitch" else 1.0)
+    outer = [bx - rx * mult_x, by - ry * mult_y, bx + rx * mult_x, by + ry * mult_y]
+    tw = est_w
+    th = len(lines) * line_h
+    text_box = [bx - tw / 2, by - th / 2, bx + tw / 2, by + th / 2]
+    return outer, text_box, bx, by, rx * mult_x, ry * mult_y
+
+
+def _boxes_overlap(a, b, pad=6.0):
+    return not (a[2] + pad <= b[0] or b[2] + pad <= a[0] or a[3] + pad <= b[1] or b[3] + pad <= a[1])
+
+
+def resolve_balloon_overlaps(balloons, panel_x, panel_y, panel_w, panel_h, clamp_min_x=18, clamp_max_x=782):
+    if len(balloons) < 2:
+        return balloons
+    res = [dict(b) for b in balloons]
+    for _pass in range(6):
+        changed = False
+        geoms = [_balloon_geom(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x, clamp_max_x) for b in res]
+        for i in range(len(res)):
+            for j in range(i + 1, len(res)):
+                out_i, tb_i, bx_i, by_i, rx_i, ry_i = geoms[i]
+                out_j, tb_j, bx_j, by_j, rx_j, ry_j = geoms[j]
+                if _boxes_overlap(out_j, tb_i, pad=6.0) or _boxes_overlap(out_i, tb_j, pad=6.0):
+                    # Try horizontal separation first
+                    if bx_i <= bx_j:
+                        left_idx, right_idx = i, j
+                        lx, rx_pos, l_rx, r_rx = bx_i, bx_j, rx_i, rx_j
+                    else:
+                        left_idx, right_idx = j, i
+                        lx, rx_pos, l_rx, r_rx = bx_j, bx_i, rx_j, rx_i
+                    new_lx = max(clamp_min_x + l_rx, lx - 28)
+                    new_rx = min(clamp_max_x - r_rx, rx_pos + 28)
+                    if (new_rx - new_lx) > (rx_pos - lx) + 8:
+                        res[left_idx]["bx"] = (new_lx - panel_x) / panel_w * 100.0
+                        res[right_idx]["bx"] = (new_rx - panel_x) / panel_w * 100.0
+                        changed = True
+                        geoms = [_balloon_geom(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x, clamp_max_x) for b in res]
+                        out_i, tb_i, bx_i, by_i, rx_i, ry_i = geoms[i]
+                        out_j, tb_j, bx_j, by_j, rx_j, ry_j = geoms[j]
+                    # If still overlapping text, stagger vertically
+                    if _boxes_overlap(out_j, tb_i, pad=6.0) or _boxes_overlap(out_i, tb_j, pad=6.0):
+                        if by_i <= by_j:
+                            top_idx, bot_idx = i, j
+                            t_out, t_tb, t_by = out_i, tb_i, by_i
+                            b_out, b_tb, b_by = out_j, tb_j, by_j
+                        else:
+                            top_idx, bot_idx = j, i
+                            t_out, t_tb, t_by = out_j, tb_j, by_j
+                            b_out, b_tb, b_by = out_i, tb_i, by_i
+                        # Need b_out[1] >= t_tb[3] + 8 AND t_out[3] <= b_tb[1] - 8
+                        need1 = (t_tb[3] + 8.0) - b_out[1]
+                        need2 = t_out[3] - (b_tb[1] - 8.0)
+                        need = max(0.0, need1, need2)
+                        if need > 0:
+                            shift = (need / 2.0) + 2.0
+                            res[top_idx]["by"] = ((t_by - shift) - panel_y) / panel_h * 100.0
+                            res[bot_idx]["by"] = ((b_by + shift) - panel_y) / panel_h * 100.0
+                            changed = True
+                            geoms = [_balloon_geom(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x, clamp_max_x) for b in res]
+        if not changed:
+            break
+    return res
+
 def render_balloon_svg(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x=18, clamp_max_x=782):
     btype = b.get("type", "speech")
     text = b["text"].upper()
@@ -208,7 +325,7 @@ def render_balloon_svg(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x=18, cl
 
     if btype == "narration":
         max_avail = max(180, clamp_max_x - clamp_min_x - 12)
-        box_w = b.get("width", max(220, min(max_avail, max(len(l) for l in lines) * font_size * 0.60 + 48)))
+        box_w = b.get("width", max(220, min(max_avail, max(_vis_len(l) for l in lines) * font_size * 0.62 + 54)))
         box_h = len(lines) * line_h + 24
         x0 = max(clamp_min_x, min(clamp_max_x - box_w, bx - box_w / 2))
         y0 = by - box_h / 2
@@ -220,7 +337,7 @@ def render_balloon_svg(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x=18, cl
             ty = start_y + idx * line_h
             text_svg.append(
                 f'<text x="{x0 + box_w/2:.1f}" y="{ty:.1f}" text-anchor="middle" '
-                f'font-family="Comic Neue, Comic Sans MS, sans-serif" font-weight="700" '
+                f'font-family="Comic Neue, Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-weight="700" '
                 f'font-size="{font_size}" fill="#141418" letter-spacing="0.5">{esc(ln)}</text>'
             )
         svg = f'''
@@ -233,9 +350,9 @@ def render_balloon_svg(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x=18, cl
         return svg, y0, y0 + box_h + 8
 
     # +12% horizontal breathing room per v5.2/v5.3 reference polish
-    est_w = max(len(l) for l in lines) * font_size * 0.60
+    est_w = max(_vis_len(l) for l in lines) * font_size * 0.62
     max_rx = (clamp_max_x - clamp_min_x) / 2.0 - 4
-    rx = min(max_rx, b.get("rx", max(92, est_w * 0.72 + 28)))
+    rx = min(max_rx, b.get("rx", max(92, est_w * 0.74 + 34)))
     ry = b.get("ry", max(42, len(lines) * line_h * 0.68 + 18))
     bx = max(clamp_min_x + rx, min(clamp_max_x - rx, bx))
 
@@ -298,7 +415,7 @@ def render_balloon_svg(b, panel_x, panel_y, panel_w, panel_h, clamp_min_x=18, cl
         ty = start_y + idx * line_h
         text_svg.append(
             f'<text x="{bx:.1f}" y="{ty:.1f}" text-anchor="middle" '
-            f'font-family="Comic Neue, Comic Sans MS, sans-serif" font-weight="700" '
+            f'font-family="Comic Neue, Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-weight="700" '
             f'font-size="{font_size}" fill="{text_color}" letter-spacing="0.5">{esc(ln)}</text>'
         )
 
@@ -442,7 +559,8 @@ def build_portrait_duo_html(sec, downloads_dir: Path):
     py = top_pad
     min_y, max_y = 0, top_pad + ph + bot_pad
     for _, side, px, pw, cmin, cmax in slots:
-        for b in side.get("balloons", []):
+        resolved_bs = resolve_balloon_overlaps(side.get("balloons", []), px, py, pw, ph, clamp_min_x=cmin, clamp_max_x=cmax)
+        for b in resolved_bs:
             _, t_y, b_y = render_balloon_svg(b, px, py, pw, ph, clamp_min_x=cmin, clamp_max_x=cmax)
             min_y = min(min_y, t_y - 12)
             max_y = max(max_y, b_y + 18)
@@ -471,7 +589,7 @@ def build_portrait_duo_html(sec, downloads_dir: Path):
         border_parts.append(f'<rect x="{px}" y="{py_adj}" width="{pw}" height="{ph}" fill="none" stroke="#18181B" stroke-width="2.8"/>')
         for s in side.get("sfx", []):
             sfx_parts.append(render_sfx_svg(s, px, py_adj, pw, ph))
-        for b in side.get("balloons", []):
+        for b in resolved_bs:
             svg, _, b_y = render_balloon_svg(b, px, py_adj, pw, ph, clamp_min_x=cmin, clamp_max_x=cmax)
             balloon_parts.append(svg)
             max_y = max(max_y, b_y + 18)
@@ -584,7 +702,8 @@ def build_webtoon_section_html(sec, downloads_dir: Path):
 
     balloon_svgs = []
     min_y, max_y = 0, total_h
-    for b in sec.get("balloons", []):
+    resolved_main = resolve_balloon_overlaps(sec.get("balloons", []), px, py, pw, ph)
+    for b in resolved_main:
         svg, t_y, b_y = render_balloon_svg(b, px, py, pw, ph)
         balloon_svgs.append(svg)
         min_y = min(min_y, t_y - 12)
@@ -595,7 +714,7 @@ def build_webtoon_section_html(sec, downloads_dir: Path):
     if shift_y > 0:
         balloon_svgs = []
         max_y = py_adj + ph + bot_pad
-        for b in sec.get("balloons", []):
+        for b in resolved_main:
             svg, _, b_y = render_balloon_svg(b, px, py_adj, pw, ph)
             balloon_svgs.append(svg)
             max_y = max(max_y, b_y + 20)

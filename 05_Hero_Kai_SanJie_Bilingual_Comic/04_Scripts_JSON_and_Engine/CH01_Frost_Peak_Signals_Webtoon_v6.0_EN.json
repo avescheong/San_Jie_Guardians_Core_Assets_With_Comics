@@ -1,0 +1,1577 @@
+{
+  "kicker": "WEBTOON V6.0 · ENGLISH DIRECTOR'S CUT",
+  "title": "CHAPTER 1: FROST-PEAK SIGNALS & THE FIRST SQUAD",
+  "subtitle": "Skill-Showcase Edition · 45 Unique Panels · Realm I: Frost-Sky Peaks (v6.0)",
+  "end_banner": {
+    "kicker": "END OF CHAPTER 1 · 4 OF 17 GUARDIANS REUNITED",
+    "title": "NEXT: CHAPTER 2 — GLACIER-EMBER CANYON & THE BROKEN BRIDGE",
+    "subtitle": "A green distress flare rises from the canyon below—more San Jie classmates need help!"
+  },
+  "sections": [
+    {
+      "id": "c1_ex00_habitat_frost_sky",
+      "file": "BOOK_04_DIVIDER_FROST_SKY.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 92,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Realm I · Frost-Sky Peaks — Home to #01 Ng Shuang, #04 Ong Yu Chen, #10 Tan Eg Siu & #17 Uvincc Long.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "AURORA...",
+          "x": 16,
+          "y": 16,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "c1_p01_01",
+      "file": "CH01_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 108,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Dawn broke over the Frost Peaks—the first stop in the search for the scattered San Jie class.",
+          "bx": 68,
+          "by": -14,
+          "max_chars": 34
+        },
+        {
+          "type": "speech",
+          "text": "Rest up while Ember naps. Our first signal is close!",
+          "bx": 24,
+          "by": -13,
+          "tx": 28,
+          "ty": 18,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "WARM~",
+          "x": 52,
+          "y": 64,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "c1_p01_02",
+      "file": "CH01_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Easy, Ember—Tempest Stag and Sky-Pup are still getting used to your size!",
+          "bx": 32,
+          "by": -14,
+          "tx": 32,
+          "ty": 18,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "PUFF~",
+          "x": 56,
+          "y": 50,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "c1_p01_03_p02_01_duo",
+      "layout": "portrait_duo",
+      "top_gutter": 116,
+      "bottom_gutter": 32,
+      "left": {
+        "file": "CH01_P01_03_RAW.jpg",
+        "crop": [
+          0.382,
+          0.0,
+          0.828,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "speech",
+            "text": "Look! My Solar-Wind Compass is pointing straight toward two golden beacons!",
+            "bx": 50,
+            "by": -14,
+            "tx": 72,
+            "ty": 14,
+            "max_chars": 18
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SHING~",
+            "x": 24,
+            "y": 28,
+            "rotate": -10,
+            "size": 28,
+            "fill": "#F59E0B"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH01_P02_01_RAW.jpg",
+        "crop": [
+          0.137,
+          0.0,
+          0.583,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "whisper",
+            "text": "If I ring the Aurora Prism Bell... maybe our classmates will hear the echo.",
+            "bx": 50,
+            "by": -14,
+            "tx": 34,
+            "ty": 20,
+            "max_chars": 18
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "CHIME~",
+            "x": 68,
+            "y": 28,
+            "rotate": -6,
+            "size": 28,
+            "fill": "#38BDF8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1_p02_02",
+      "file": "CH01_P02_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 95,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Even in the freezing snow, their new partners stayed fearless.",
+          "bx": 40,
+          "by": -14,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ACHOO!",
+          "x": 58,
+          "y": 26,
+          "rotate": 8,
+          "size": 34,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "mood",
+          "text": "GIGGLE",
+          "x": 28,
+          "y": 34,
+          "rotate": -8,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.22,
+          0.34,
+          0.56,
+          0.78
+        ],
+        "x": 546,
+        "y_off": 136,
+        "w": 224,
+        "h": 224,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "SO CUTE!",
+            "x": 50,
+            "y": 16,
+            "rotate": -5,
+            "size": 24,
+            "fill": "#EC4899"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1_p02_03",
+      "file": "CH01_P02_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Before we climb, let's practice casting with your Python Spellbooks!",
+          "bx": 28,
+          "by": -14,
+          "tx": 34,
+          "ty": 18,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "So every spell is just a clean Python function?",
+          "bx": 76,
+          "by": -14,
+          "tx": 58,
+          "ty": 22,
+          "max_chars": 20
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · LESSON 1.1",
+        "concept": "Defining a Spell Function",
+        "lines": [
+          "def cast_beacon(color):",
+          "    return f\"Signal [{color}] shining bright!\"",
+          "print(cast_beacon(\"Aurora Gold\"))"
+        ],
+        "output": "Signal [Aurora Gold] shining bright!"
+      }
+    },
+    {
+      "id": "c1_p03_01",
+      "file": "CH01_P03_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Whoa!! Why did my scroll spawn a glitch-bug?!",
+          "bx": 30,
+          "by": -14,
+          "tx": 34,
+          "ty": 20,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FZZZT!",
+          "x": 58,
+          "y": 18,
+          "rotate": 10,
+          "size": 38,
+          "fill": "#9333EA"
+        },
+        {
+          "kind": "sfx",
+          "text": "ARF!",
+          "x": 76,
+          "y": 62,
+          "rotate": -8,
+          "size": 28,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "c1_p03_02",
+      "file": "CH01_P03_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Aha! You missed a closing quote—one tiny typo breaks the spell!",
+          "bx": 28,
+          "by": -14,
+          "tx": 38,
+          "ty": 14,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Got it! Let's fix the syntax and run it again!",
+          "bx": 76,
+          "by": -14,
+          "tx": 70,
+          "ty": 22,
+          "max_chars": 19
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · DEBUGGER",
+        "concept": "Fixing a SyntaxError",
+        "lines": [
+          "# BUG:  cast_beacon(\"Gold)   <-- missing quote!",
+          "# FIX:  always close your quotes & parentheses",
+          "cast_beacon(\"Gold\")"
+        ],
+        "output": "SyntaxError fixed! Beacon pulse stabilized."
+      }
+    },
+    {
+      "id": "c1_p04_01",
+      "file": "CH01_P04_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 50,
+        "cy": 24,
+        "color": "#FEF08A",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Yes!! Twin Aurora Rings—everyone on this mountain will see that!",
+          "bx": 50,
+          "by": -14,
+          "tx": 50,
+          "ty": 28,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 80,
+          "y": 20,
+          "rotate": 8,
+          "size": 38,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "c1_p04_02",
+      "file": "CH01_P04_02_RAW.jpg",
+      "layout": "portrait_tall",
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Found them. Swarm that ridge before they link up!",
+          "bx": 50,
+          "by": -10,
+          "tx": 37.2,
+          "ty": 12,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLARE...",
+          "x": 20,
+          "y": 22,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ],
+      "crop": [
+        0.465,
+        0.0,
+        0.935,
+        1.0
+      ]
+    },
+    {
+      "id": "c1_p05_01",
+      "file": "CH01_P05_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 42,
+        "cy": 50,
+        "color": "#E9D5FF",
+        "opacity": 0.36
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Glitch-Bugs incoming! Hold the cliff edge!",
+          "bx": 52,
+          "by": -13,
+          "tx": 62,
+          "ty": 46,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SKREEE!!",
+          "x": 24,
+          "y": 20,
+          "rotate": -12,
+          "size": 44,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "c1_p05_02",
+      "file": "CH01_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Eg Siu, look! That golden aurora pillar—it's Kai and the others!",
+          "bx": 28,
+          "by": -14,
+          "tx": 30,
+          "ty": 32,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "My Dynamo Core is picking up their signal too! Let's move!",
+          "bx": 76,
+          "by": -14,
+          "tx": 78,
+          "ty": 38,
+          "max_chars": 21
+        }
+      ]
+    },
+    {
+      "id": "c1_p05_03",
+      "file": "CH01_P05_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 72,
+        "cy": 45,
+        "color": "#FEF08A",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Tempest Stag, Prism Chime! Sky-Pup, Solar Gust!",
+          "bx": 40,
+          "by": -14,
+          "tx": 40,
+          "ty": 22,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FWOOOSH!",
+          "x": 76,
+          "y": 78,
+          "rotate": -8,
+          "size": 40,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "skill_badge": "S1 BASIC · FROST CHIME | 霜鈴清音"
+    },
+    {
+      "id": "c1_p06_01",
+      "file": "CH01_P06_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Grab tight, Eg Siu! I've got the rope!",
+          "bx": 28,
+          "by": -14,
+          "tx": 26,
+          "ty": 16,
+          "max_chars": 19
+        },
+        {
+          "type": "shout",
+          "text": "Pull!! Almost across!",
+          "bx": 74,
+          "by": -14,
+          "tx": 72,
+          "ty": 34,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "HEAVE!",
+          "x": 48,
+          "y": 54,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#EA580C"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.04,
+          0.62,
+          0.34,
+          0.96
+        ],
+        "x": 546,
+        "y_off": 140,
+        "w": 224,
+        "h": 224,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "CHEERING!",
+            "x": 50,
+            "y": 16,
+            "rotate": -5,
+            "size": 24,
+            "fill": "#F59E0B"
+          }
+        ]
+      },
+      "skill_badge": "S1 BASIC · CLOUD PUFF DASH | 雲霧突進"
+    },
+    {
+      "id": "c1_p06_02",
+      "file": "CH01_P06_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Khang Kok! Eg Siu! You both made it!",
+          "bx": 30,
+          "by": -14,
+          "tx": 36,
+          "ty": 38,
+          "max_chars": 20
+        },
+        {
+          "type": "shout",
+          "text": "First squad reunited!!",
+          "bx": 74,
+          "by": -14,
+          "tx": 64,
+          "ty": 34,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SLAP!",
+          "x": 82,
+          "y": 24,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "c1_p07_01",
+      "file": "CH01_P07_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Four Guardians? No matter—let's see how your little Spellbooks handle a full swarm!",
+          "bx": 52,
+          "by": -14,
+          "tx": 65,
+          "ty": 18,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ZAP! ZAP!",
+          "x": 26,
+          "y": 76,
+          "rotate": -12,
+          "size": 32,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "c1_p07_02",
+      "file": "CH01_P07_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Link all four Spellbooks into one loop—now!",
+          "bx": 68,
+          "by": -14,
+          "tx": 68,
+          "ty": 12,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "Syncing Tempest, Sky-Pup, Bro, and Dan!",
+          "bx": 26,
+          "by": -14,
+          "tx": 24,
+          "ty": 34,
+          "max_chars": 20
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · LESSON 1.2",
+        "concept": "Team Combo For-Loop",
+        "lines": [
+          "squad_1 = [\"Tempest Stag\", \"Sky-Pup\", \"Bro\", \"Dan\"]",
+          "for pet in squad_1:",
+          "    pet_combo_beam(pet, power=100)"
+        ],
+        "output": "4x Elemental Synergy Beam activated!"
+      }
+    },
+    {
+      "id": "c1_p08_01",
+      "file": "CH01_P08_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 95,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 52,
+        "cy": 46,
+        "color": "#FFFFFF",
+        "opacity": 0.32
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Four Stage-1 partners unleashed one harmonized rainbow wave!",
+          "bx": 38,
+          "by": -12,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KA-ZAAAAP!!",
+          "x": 62,
+          "y": 24,
+          "rotate": -6,
+          "size": 46,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "c1_p08_02",
+      "file": "CH01_P08_02_RAW.jpg",
+      "layout": "portrait_tall",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "Impossible... they only just got here! How is their teamwork already this strong?!",
+          "bx": 48,
+          "by": -10,
+          "tx": 41.5,
+          "ty": 14,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GRIT...",
+          "x": 80,
+          "y": 36,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#7C3AED"
+        }
+      ],
+      "crop": [
+        0.385,
+        0.0,
+        0.855,
+        1.0
+      ]
+    },
+    {
+      "id": "c1_p08_03",
+      "file": "CH01_P08_03_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 68,
+        "cy": 48,
+        "color": "#FEF08A",
+        "opacity": 0.36
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Because in San Jie Class, nobody codes alone!!",
+          "bx": 34,
+          "by": -13,
+          "tx": 28,
+          "ty": 28,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHATTER!!",
+          "x": 66,
+          "y": 20,
+          "rotate": -8,
+          "size": 44,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "c1_p09_01",
+      "file": "CH01_P09_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Vex retreated! Who's ready for hot steamed buns and roasted corn?",
+          "bx": 28,
+          "by": -14,
+          "tx": 20,
+          "ty": 30,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "Best campfire dinner ever!",
+          "bx": 72,
+          "by": -14,
+          "tx": 52,
+          "ty": 30,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CRACKLE~",
+          "x": 48,
+          "y": 84,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "c1_p09_02",
+      "file": "CH01_P09_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 95,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Meanwhile, their four partners celebrated with a mountain fruit feast.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 36
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "MUNCH~",
+          "x": 20,
+          "y": 28,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#EC4899"
+        },
+        {
+          "kind": "mood",
+          "text": "HAPPY!",
+          "x": 80,
+          "y": 28,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "c1_p10_01",
+      "file": "CH01_P10_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Here's the Waygate on the map—if we cleanse it, we can reach the other biomes!",
+          "bx": 48,
+          "by": -14,
+          "tx": 50,
+          "ty": 22,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 48,
+          "y": 86,
+          "rotate": 0,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "c1_p10_02_p11_01_duo",
+      "layout": "portrait_duo",
+      "top_gutter": 116,
+      "bottom_gutter": 32,
+      "left": {
+        "file": "CH01_P10_02_RAW.jpg",
+        "crop": [
+          0.141,
+          0.0,
+          0.739,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "whisper",
+            "text": "Hang in there, everyone... my compass is locked right onto you.",
+            "bx": 50,
+            "by": -14,
+            "tx": 31.6,
+            "ty": 12,
+            "max_chars": 18
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "BEAM~",
+            "x": 78,
+            "y": 24,
+            "rotate": -14,
+            "size": 28,
+            "fill": "#F59E0B"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH01_P11_01_RAW.jpg",
+        "crop": [
+          0.201,
+          0.0,
+          0.799,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "speech",
+            "text": "One more morning chime, Tempest Stag—ready to head out?",
+            "bx": 50,
+            "by": -14,
+            "tx": 31.6,
+            "ty": 14,
+            "max_chars": 18
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "TING~",
+            "x": 72,
+            "y": 32,
+            "rotate": -6,
+            "size": 28,
+            "fill": "#38BDF8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1_p11_02",
+      "file": "CH01_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Strap tight—that pack's heavier than it looks!",
+          "bx": 28,
+          "by": -14,
+          "tx": 40,
+          "ty": 22,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Haha, thanks Khang Kok! Dan's charged up and ready!",
+          "bx": 74,
+          "by": -14,
+          "tx": 64,
+          "ty": 24,
+          "max_chars": 20
+        }
+      ]
+    },
+    {
+      "id": "c1_p12_01",
+      "file": "CH01_P12_01_RAW.jpg",
+      "layout": "portrait_cinematic",
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "The Frost Waygate... it's completely choked in Malcode's corruption vines!",
+          "bx": 36,
+          "by": -9,
+          "tx": 16.7,
+          "ty": 52,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CREEP...",
+          "x": 84,
+          "y": 20,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#7C3AED"
+        }
+      ],
+      "crop": [
+        0.33,
+        0.0,
+        0.81,
+        1.0
+      ]
+    },
+    {
+      "id": "c1_p12_02",
+      "file": "CH01_P12_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Stand back! Running a clean if-else purge spell!",
+          "bx": 30,
+          "by": -14,
+          "tx": 29,
+          "ty": 30,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Steady aim, Eg Siu—right into the arch keystone!",
+          "bx": 74,
+          "by": -14,
+          "tx": 42,
+          "ty": 28,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ZAAAAP!",
+          "x": 76,
+          "y": 38,
+          "rotate": -10,
+          "size": 38,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · LESSON 1.3",
+        "concept": "If-Else Purification Check",
+        "lines": [
+          "if gate.status == \"CORRUPTED\":",
+          "    gate.purge_vines(volt_power=90)",
+          "    gate.status = \"OPEN\""
+        ],
+        "output": "Frost Waygate purified! Portal energy restored."
+      }
+    },
+    {
+      "id": "c1_p13_01",
+      "file": "CH01_P13_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 72,
+        "cy": 48,
+        "color": "#BBF7D0",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "We did it!! The Waygate is open!!",
+          "bx": 40,
+          "by": -13,
+          "tx": 40,
+          "ty": 26,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHWOOOOSH!",
+          "x": 72,
+          "y": 20,
+          "rotate": -6,
+          "size": 40,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "c1_p13_02",
+      "file": "CH01_P13_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Well done, Guardians! More classmates are waiting beyond the Glacier-Ember Canyon!",
+          "bx": 66,
+          "by": -14,
+          "tx": 62,
+          "ty": 14,
+          "max_chars": 25
+        },
+        {
+          "type": "speech",
+          "text": "Elder! We're heading straight there!",
+          "bx": 24,
+          "by": -14,
+          "tx": 22,
+          "ty": 34,
+          "max_chars": 19
+        }
+      ]
+    },
+    {
+      "id": "c1_p14_01",
+      "file": "CH01_P14_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "You let four children cleanse the Waygate?! Do not fail me again, Vex!",
+          "bx": 32,
+          "by": -14,
+          "tx": 34,
+          "ty": 14,
+          "max_chars": 23
+        },
+        {
+          "type": "whisper",
+          "text": "...I won't.",
+          "bx": 76,
+          "by": -14,
+          "tx": 72,
+          "ty": 48,
+          "max_chars": 16
+        }
+      ]
+    },
+    {
+      "id": "c1_p14_02_p15_01_duo",
+      "layout": "portrait_duo",
+      "top_gutter": 124,
+      "bottom_gutter": 32,
+      "left": {
+        "file": "CH01_P14_02_RAW.jpg",
+        "crop": [
+          0.371,
+          0.0,
+          0.969,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "thought",
+            "text": "Nobody ever cheered when I finished a sketch... nobody ever pulled me across a cliff.",
+            "bx": 50,
+            "by": -15,
+            "tx": 53.3,
+            "ty": 16,
+            "max_chars": 19
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "RAIN...",
+            "x": 22,
+            "y": 20,
+            "rotate": -6,
+            "size": 22,
+            "fill": "#64748B"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH01_P15_01_RAW.jpg",
+        "crop": [
+          0.287,
+          0.0,
+          0.733,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "thought",
+            "text": "Wait... why did I feel jealous watching them laugh together?",
+            "bx": 50,
+            "by": -14,
+            "tx": 52.2,
+            "ty": 12,
+            "max_chars": 18
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "HESITATE...",
+            "x": 28,
+            "y": 88,
+            "rotate": -4,
+            "size": 22,
+            "fill": "#94A3B8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1_p15_02",
+      "file": "CH01_P15_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "Unleash the Static Storm over the clouds—ground that red dragon!",
+          "bx": 58,
+          "by": -14,
+          "tx": 62,
+          "ty": 16,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "LOOM...",
+          "x": 20,
+          "y": 22,
+          "rotate": -8,
+          "size": 32,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "c1_p16_01",
+      "file": "CH01_P16_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Alright, Squad 1—climb aboard Ember! Next stop, Glacier-Ember Canyon!",
+          "bx": 50,
+          "by": -14,
+          "tx": 50,
+          "ty": 34,
+          "max_chars": 26
+        }
+      ]
+    },
+    {
+      "id": "c1_p16_02",
+      "file": "CH01_P16_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Look how tiny the mountains are from up here!",
+          "bx": 26,
+          "by": -14,
+          "tx": 40,
+          "ty": 20,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Sky-Pup loves flying even more than I do!",
+          "bx": 76,
+          "by": -14,
+          "tx": 67,
+          "ty": 28,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "BREEZE~",
+          "x": 16,
+          "y": 24,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "skill_badge": "S1 BASIC · SKY-BREEZE DASH | 晴風疾奔"
+    },
+    {
+      "id": "c1_p17_01",
+      "file": "CH01_P17_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 95,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Ahead lay a breathtaking sight—molten cliffs meeting frozen waterfalls.",
+          "bx": 40,
+          "by": -12,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SOAR~",
+          "x": 20,
+          "y": 30,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "c1_p17_02",
+      "file": "CH01_P17_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Bro and Dan are unstoppable together—just wait 'til the rest of class sees them!",
+          "bx": 46,
+          "by": -14,
+          "tx": 42,
+          "ty": 20,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GRIN!",
+          "x": 84,
+          "y": 22,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "c1_p18_01",
+      "file": "CH01_P18_01_RAW.jpg",
+      "layout": "portrait_cinematic",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 80,
+        "cy": 42,
+        "color": "#E9D5FF",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Hold on!! A Glitch Static Storm just appeared out of nowhere!",
+          "bx": 46,
+          "by": -10,
+          "tx": 41.7,
+          "ty": 22,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOW!!",
+          "x": 78,
+          "y": 18,
+          "rotate": 8,
+          "size": 42,
+          "fill": "#A855F7"
+        }
+      ],
+      "crop": [
+        0.28,
+        0.0,
+        0.76,
+        1.0
+      ]
+    },
+    {
+      "id": "c1_p18_02",
+      "file": "CH01_P18_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Ember can't dodge all that lightning—we need a shield!",
+          "bx": 30,
+          "by": -14,
+          "tx": 46,
+          "ty": 24,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "My compass is spinning! Eg Siu, can Dan ground the bolts?!",
+          "bx": 76,
+          "by": -14,
+          "tx": 64,
+          "ty": 26,
+          "max_chars": 19
+        }
+      ]
+    },
+    {
+      "id": "c1_p18_03",
+      "file": "CH01_P18_03_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 112,
+      "bottom_gutter": 22,
+      "speedlines": {
+        "cx": 54,
+        "cy": 26,
+        "color": "#FEF08A",
+        "opacity": 0.36
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Dynamo Core—catch every bolt with try-except!!",
+          "bx": 48,
+          "by": -14,
+          "tx": 54,
+          "ty": 26,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZZ-SHING!!",
+          "x": 22,
+          "y": 26,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#F59E0B"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.44,
+          0.08,
+          0.72,
+          0.44
+        ],
+        "x": 546,
+        "y_off": 138,
+        "w": 224,
+        "h": 224,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "ABSORB!",
+            "x": 50,
+            "y": 16,
+            "rotate": -6,
+            "size": 26,
+            "fill": "#F59E0B"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · LESSON 1.4",
+        "concept": "try / except Storm Shield",
+        "lines": [
+          "try:",
+          "    fly_through(\"Static_Storm\")",
+          "except StaticLightningError:",
+          "    dan.absorb_and_redirect(dynamo_core)"
+        ],
+        "output": "Zero damage! Storm energy converted into safe boost!"
+      },
+      "skill_badge": "S1 BASIC · EGGSHELL SPARK-POP | 蛋殼微電"
+    },
+    {
+      "id": "c1_p19_01",
+      "file": "CH01_P19_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 95,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Breaking through the clouds, Glacier-Ember Canyon opened beneath them in golden sunlight.",
+          "bx": 42,
+          "by": -12,
+          "max_chars": 36
+        }
+      ]
+    },
+    {
+      "id": "c1_p19_02",
+      "file": "CH01_P19_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "There!! A broken stone bridge—and a green distress flare!",
+          "bx": 42,
+          "by": -14,
+          "tx": 34,
+          "ty": 26,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FWISH!",
+          "x": 78,
+          "y": 44,
+          "rotate": 8,
+          "size": 32,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "c1_p20_01",
+      "file": "CH01_P20_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 108,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Hold on, Squad 2—we're diving in!!",
+          "bx": 56,
+          "by": -13,
+          "tx": 46,
+          "ty": 34,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SWOOOOP!!",
+          "x": 22,
+          "y": 54,
+          "rotate": -12,
+          "size": 44,
+          "fill": "#DC2626"
+        }
+      ]
+    }
+  ]
+}

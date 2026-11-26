@@ -1,0 +1,86 @@
+{
+  "schema_version": "6.0.0",
+  "project": "San Jie Class (July 2026) Hero Kai x 17 Guardians",
+  "updated": "2026-11-25",
+  "canon_locks": {
+    "roster_count": 17,
+    "excluded_names": ["Ko Zi Xing", "Tan Jie Khe Jacob", "Jacob"],
+    "world_rules": {
+      "weapons_allowed": false,
+      "diet": "100% plant-based",
+      "virtues": ["Love Self (自愛)", "Love Others (愛人)", "Love Earth (愛大地)"],
+      "forbidden_terms": ["meat", "sword in Kai", "gun", "steak", "chicken", "pork", "beef", "Ko Zi Xing", "Jacob"]
+    },
+    "companion_continuity": {
+      "hero_kai_active_companion": "Ember (Baby Red Dragon)",
+      "string_status": "Stays behind at Pythonia Cottage to care for sick Grandma Looma (NO glasses, silver-grey low nape bun, olive vest, cream apron)"
+    },
+    "glasses_lock_ids": ["01", "09", "10", "13", "14", "15"],
+    "stage_lock_by_act": {
+      "CH00A": "S0_Sketch",
+      "CH00B": "S0_Egg_to_S1_Baby",
+      "CH01": "S1_Baby",
+      "CH02": "S1_Baby",
+      "CH03": "S1_Baby",
+      "CH04": "S1_Baby",
+      "CH05": "S2_Site",
+      "CH06": "S2_Site",
+      "CH07": "S2_Site",
+      "CH08": "S2_Site",
+      "CH09": "S3_Grand",
+      "CH10": "S3_Grand",
+      "CH11": "S3_Grand",
+      "CH11.5": "S3_Grand_Squad_Combo",
+      "CH12": "S3_Grand_17_Resonance"
+    }
+  },
+  "realms": {
+    "R1_FROST_SKY": {
+      "name_en": "Realm I: Frost & Sky (Frost-Sky Peaks)",
+      "name_zh": "第一聖域：極光雪嶺",
+      "squad_combo_ultimate": "Aurora Prism Sky Convergence",
+      "members": ["01", "04", "10", "17"],
+      "hyperframe_folder_id": "11M0KcPIDEuTftPd8h8VhmhbDD9rlozqb"
+    },
+    "R2_FORGE_TIDE": {
+      "name_en": "Realm II: Forge & Tide (Golden Forge Canyon)",
+      "name_zh": "第二聖域：日熔潮谷",
+      "squad_combo_ultimate": "Forge & Tide Resonance",
+      "members": ["02", "03", "07", "11"],
+      "hyperframe_folder_id": "11M0KcPIDEuTftPd8h8VhmhbDD9rlozqb"
+    },
+    "R3_VERDANT": {
+      "name_en": "Realm III: Verdant (Verdant Bamboo Grove)",
+      "name_zh": "第三聖域：翡翠竹林",
+      "squad_combo_ultimate": "Elder-Grove Blossom Symphony",
+      "members": ["05", "06", "13", "14"],
+      "hyperframe_folder_id": "11M0KcPIDEuTftPd8h8VhmhbDD9rlozqb"
+    },
+    "R4_CELESTIAL": {
+      "name_en": "Realm IV: Celestial (Celestial Observatory)",
+      "name_zh": "第四聖域：星穹觀星閣",
+      "squad_combo_ultimate": "Celestial Archive Convergence",
+      "members": ["08", "09", "12", "15", "16"],
+      "hyperframe_folder_id": "11M0KcPIDEuTftPd8h8VhmhbDD9rlozqb"
+    }
+  },
+  "guardians": [
+    {"id": "01", "student_en": "Ng Shuang", "student_zh": "吴双", "realm": "R1_FROST_SKY", "habitat": "Alpine Aurora Peak", "glasses": true, "virtue": "Love Earth", "pet": "Tempest Stag", "s0": "Frost-Spark Antler Egg", "s1": "Spark-Fawn", "s2": "Winged Lightning Stag", "s3": "Astral Tempest Sovereign", "skills": {"s1": "Frost Chime", "s2": "Tri-Element Gale", "s3": "Prism Mirror Veil", "ultimate": "Aurora Prism Tempest"}},
+    {"id": "02", "student_en": "Lim Dao Yang", "student_zh": "林道羏", "realm": "R2_FORGE_TIDE", "habitat": "Sun-Forge Lantern Valley", "glasses": false, "virtue": "Love Others", "pet": "BARKLEY", "s0": "Striped-Ember Egg", "s1": "Little Bark-Drake", "s2": "Fiery Striped-Horn Barkley", "s3": "Sun-Forge Sovereign Barkley", "skills": {"s1": "Hearth Spark", "s2": "Striped-Horn Charge", "ultimate": "Sun-Forge Lotus Aegis"}},
+    {"id": "03", "student_en": "Carlzen Lim Jia Tzen", "student_zh": "林家诚", "realm": "R2_FORGE_TIDE", "habitat": "Crystal Waterfall Grotto", "glasses": false, "virtue": "Love Self", "pet": "Sticky", "s0": "Bubble-Prism Egg", "s1": "Droplet Stick-Sprite", "s2": "Crystal-Tail Water Stickman", "s3": "Tidal Prism Guardian Sticky", "skills": {"s1": "Bubble Bounce", "s2": "Steam-Prism Dash", "ultimate": "Tidal Prism Purification"}},
+    {"id": "04", "student_en": "Ong Yu Chen", "student_zh": "洪语晨", "realm": "R1_FROST_SKY", "habitat": "Glacier-Ember Canyon", "glasses": false, "virtue": "Love Others", "pet": "Ignis-Frost Pup", "s0": "Hearth-Crystal Egg", "s1": "Fluffy Spark-Pup", "s2": "Horned Flame-Crystal Pup", "s3": "Solar-Frost Hound Guardian", "skills": {"s1": "Ember-Tail Wag", "s2": "Crystal Frost-Bridge", "s3": "Thermal Hug Pulse", "ultimate": "Aurora Twin-Element Wave"}},
+    {"id": "05", "student_en": "Kua Jun Ming", "student_zh": "葛峻铭", "realm": "R3_VERDANT", "habitat": "Emerald Bamboo Sanctuary", "glasses": false, "virtue": "Love Earth", "pet": "Javin Jr", "s0": "Acorn-Bolt Egg", "s1": "Sprout-Cheek Apprentice", "s2": "Forest Mage Javin Jr", "s3": "Grand Verdant Archmage", "skills": {"s1": "Acorn-Bolt Spark", "s2": "Vine-Blossom Wall", "s3": "Archmage Meadow Pulse", "ultimate": "Verdant Bamboo Aegis Dome"}},
+    {"id": "06", "student_en": "Ooi Yu Bhor", "student_zh": "黄煜博", "realm": "R3_VERDANT", "habitat": "Celestial Hilltop Observatory", "glasses": false, "virtue": "Love Self", "pet": "DOYB", "s0": "Star-Hat Ember Egg", "s1": "Winking Ember-Wyrm", "s2": "Wizard-Hat Flame-Plume DOYB", "s3": "Astral Grimoire Phoenix-Drake", "skills": {"s1": "Rune-Wink Spark", "s2": "Chrono Ember Trail", "s3": "Astrolabe Time-Rewind", "ultimate": "Celestial Astrolabe Nova"}},
+    {"id": "07", "student_en": "Boey Yi Ren", "student_zh": "梅译仁", "realm": "R2_FORGE_TIDE", "habitat": "Cherry Blossom Sanctuary", "glasses": false, "virtue": "Love Others", "pet": "Poppy", "s0": "Ribbon-Spark Egg", "s1": "Ember-Bow Kit", "s2": "Flame-Wing Star-Crystal Poppy", "s3": "Seraphic Starfire Kitsune", "skills": {"s1": "Petal Dew", "s2": "Ribbon Starlight", "ultimate": "Seraphic Blossom Starfall"}},
+    {"id": "08", "student_en": "Lee Khang Kok", "student_zh": "李强国", "realm": "R4_CELESTIAL", "habitat": "Golden Cloud Sky-Cliffs", "glasses": false, "virtue": "Love Others", "pet": "Bro", "s0": "Cloud-Loong Egg", "s1": "Little Cloud-Loong", "s2": "Crimson Winged Eastern Dragon Bro", "s3": "Celestial Dawn-Winged Sovereign Loong", "skills": {"s1": "Cloud Puff Dash", "s2": "Grappling Flame Line", "ultimate": "Celestial Vanguard Gale"}},
+    {"id": "09", "student_en": "Gisele Khoo Kai Yin", "student_zh": "邱恺音", "realm": "R4_CELESTIAL", "habitat": "Star-Berry Fairy Orchard", "glasses": true, "virtue": "Love Others", "pet": "Berrie", "s0": "Star-Berry Egg", "s1": "Ribbon-Berry Kit", "s2": "Fairy-Winged Berrie", "s3": "Starlight Orchard Sylph Berrie", "skills": {"s1": "Berry Sparkle", "s2": "Fairy Wing Breeze", "ultimate": "Cornucopia Star-Berry Nova"}},
+    {"id": "10", "student_en": "Tan Eg Siu", "student_zh": "陈奕修", "realm": "R1_FROST_SKY", "habitat": "Thunder-Cliff Lighthouse", "glasses": true, "virtue": "Love Self", "pet": "Volt-Drake", "s0": "Crown-Spark Egg", "s1": "Crackling Egg-Drake", "s2": "Crowned Electric Dragon-Mouse", "s3": "Thunder-Crown Sky Sovereign", "skills": {"s1": "Eggshell Spark-Pop", "s2": "Star-Crown Arc Wing", "s3": "Lighthouse Overdrive", "ultimate": "Sovereign Thunder Beacon"}},
+    {"id": "11", "student_en": "Ooi Kai Xiang", "student_zh": "黃楷翔", "realm": "R2_FORGE_TIDE", "habitat": "Floating Rune Library", "glasses": false, "virtue": "Love Self", "pet": "OKX", "s0": "Cipher-Spark Egg", "s1": "Scholar-Spark Hatchling", "s2": "Top-Hat Scholar Dragon OKX", "s3": "Grand Alchemist-Scholar Dragon", "skills": {"s1": "Logic Pulse", "s2": "Rune Quill Strike", "ultimate": "Holographic Matrix Unlock"}},
+    {"id": "12", "student_en": "Chong Jing Cheng", "student_zh": "张敬诚", "realm": "R4_CELESTIAL", "habitat": "Twilight Atelier Courtyard", "glasses": false, "virtue": "Love Self", "pet": "Mimik-Spark", "s0": "Stitch-Light Egg", "s1": "Patchwork Spark-Plush", "s2": "Crystal-Tail Stitched Plush", "s3": "Phantom Prism-Weaver Guardian", "skills": {"s1": "Sketch Spark", "s2": "Stitch-Ribbon Snare", "ultimate": "Star-Weave Living Sketch"}},
+    {"id": "13", "student_en": "Lee Ming Hui", "student_zh": "李明穗", "realm": "R3_VERDANT", "habitat": "Whispering Emerald Orchard", "glasses": true, "virtue": "Love Earth", "pet": "Sylvan-Fox", "s0": "Moss-Gem Egg", "s1": "Dewdrop Fox-Cub", "s2": "Emerald-Root Crystal Fox", "s3": "Elder Grove Sanctuary Fox", "skills": {"s1": "Dewdrop Sprout Toss", "s2": "Emerald Root Cradle", "s3": "Orchard Heart-Crystal Glow", "ultimate": "Elder-Grove Verdant Bloom"}},
+    {"id": "14", "student_en": "Lee Qiu Rong", "student_zh": "李秋容", "realm": "R3_VERDANT", "habitat": "Moonlit Willow Silver Lake", "glasses": true, "virtue": "Love Earth", "pet": "Miku", "s0": "Mint-Moon Egg", "s1": "Moon-Ribbon Kit", "s2": "Moonlit Mint-Crystal Miku", "s3": "Lunar Blossom Sovereign Miku", "skills": {"s1": "Mint-Ribbon Ripple", "s2": "Willow Chime Barrier", "s3": "Aurora Ribbon Waltz", "ultimate": "Lunar-Chime Harmony Lullaby"}},
+    {"id": "15", "student_en": "Cheah Hao Fung", "student_zh": "谢昊峰", "realm": "R4_CELESTIAL", "habitat": "Briar-Root Forest Canyon", "glasses": true, "virtue": "Love Others", "pet": "Emerald-X Mecha", "s0": "Eco-Sprout Egg", "s1": "Mini X-Bot Sprout", "s2": "Emerald-Flame Winged Mecha", "s3": "Aegis Eco-Titan Prime", "skills": {"s1": "Leaf-Spark Scan", "s2": "Eco-Rune Slash", "ultimate": "Emerald Restoration Wave"}},
+    {"id": "16", "student_en": "Chan Shi Ye", "student_zh": "陈施晔", "realm": "R4_CELESTIAL", "habitat": "Twilight Sky Chasm", "glasses": false, "virtue": "Love Self", "pet": "Star-Yarn Caticorn", "s0": "Star-Yarn Egg", "s1": "Teardrop Yarn-Kitten", "s2": "Rainbow-Horn Yarn Caticorn", "s3": "Nebula Loom Celestial Caticorn", "skills": {"s1": "Yarn Roll", "s2": "Starlight Stitch", "ultimate": "Nebula Rainbow Sky-Bridge"}},
+    {"id": "17", "student_en": "Uvincc Long Chieh Eik", "student_zh": "龙学议", "realm": "R1_FROST_SKY", "habitat": "Golden Cumulus Sky-Ridge", "glasses": false, "virtue": "Love Others", "pet": "Solar-Breeze Sky-Pup", "s0": "Sun-Breeze Compass Egg", "s1": "Breeze-Tuft Pup", "s2": "Solar-Breeze Sky-Pup", "s3": "Solar-Breeze Celestial Hound", "skills": {"s1": "Sky-Breeze Dash", "s2": "Eight-Point Star Gale", "s3": "Cloud-Cushion Rescue", "ultimate": "Solar-Wind Starlight Slipstream"}}
+  ]
+}

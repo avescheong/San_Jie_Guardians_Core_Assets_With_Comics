@@ -1,0 +1,1637 @@
+{
+  "kicker": "WEBTOON V6.0 · 繁體中文導演剪輯版",
+  "title": "第七章：荊棘九頭蛇與五重進化",
+  "subtitle": "技能覺醒版 · 28張原畫 · 五重進化覺醒 (v6.0)",
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH07_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 94,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在翡翠瀑布峽谷深處，漆黑的荊棘藤蔓正緊緊纏繞著神聖的水晶之河……",
+          "bx": 27,
+          "by": -10,
+          "max_chars": 34
+        },
+        {
+          "type": "speech",
+          "text": "抓緊了，小火！五位聖殿守護者就在下方！",
+          "bx": 74,
+          "by": -10,
+          "tx": 53,
+          "ty": 12,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼呼——！",
+          "x": 20,
+          "y": 24,
+          "rotate": -12,
+          "size": 44,
+          "fill": "#0EA5E9"
+        },
+        {
+          "kind": "mood",
+          "text": "危機逼近……",
+          "x": 66,
+          "y": 86,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#7E22CE"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH07_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 86,
+      "bottom_gutter": 58,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "家誠、峻銘、愷音、明穗、昊峰——我們需要五件聖物齊聚！",
+          "bx": 23,
+          "by": -9,
+          "tx": 39,
+          "ty": 30,
+          "max_chars": 25
+        },
+        {
+          "type": "speech",
+          "text": "翡翠 X 的掃描器已經在下游偵測到巨大的故障能量峰值。",
+          "bx": 77,
+          "by": -9,
+          "tx": 81,
+          "ty": 39,
+          "max_chars": 25
+        },
+        {
+          "type": "narration",
+          "text": "Sticky、Javin Jr、Berrie、森狐與翡翠 X 機甲並肩列陣！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 54
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "準備就緒！",
+          "x": 16,
+          "y": 26,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#15803D"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH07_P02_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 34,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "小心，Sticky！那些黑滴落下的溪水變得冰冷刺骨！",
+          "bx": 26,
+          "by": -13,
+          "tx": 27,
+          "ty": 34,
+          "max_chars": 23
+        },
+        {
+          "type": "whisper",
+          "text": "噓……看那些漣漪。那不是泥沙——是魔碼的枯萎程式碼。",
+          "bx": 75,
+          "by": -13,
+          "tx": 78,
+          "ty": 29,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滴……答……",
+          "x": 42,
+          "y": 87,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#6B21A8"
+        },
+        {
+          "kind": "mood",
+          "text": "不安",
+          "x": 46,
+          "y": 34,
+          "rotate": 7,
+          "size": 22,
+          "fill": "#475569"
+        }
+      ],
+      "height": 430
+    },
+    {
+      "id": "p02_02",
+      "file": "CH07_P02_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "我的竹簡和這些刻紋完全吻合——三把元素鑰匙就能解開封印！",
+          "bx": 27,
+          "by": -13,
+          "tx": 21,
+          "ty": 46,
+          "max_chars": 24
+        },
+        {
+          "type": "speech",
+          "text": "昊峰，掃描符文地圖！我們能用一個字典查出所有機關鎖！",
+          "bx": 73,
+          "by": -13,
+          "tx": 53,
+          "ty": 41,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋滋——！",
+          "x": 88,
+          "y": 60,
+          "rotate": 10,
+          "size": 34,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "mood",
+          "text": "掃描中",
+          "x": 64,
+          "y": 38,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#059669"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 #1",
+        "concept": "字典查詢 — 解碼封印之門",
+        "lines": [
+          "rune_keys = {'water': 'Sticky', 'bamboo': 'Javin Jr', 'seed': 'Sylvan-Fox'}",
+          "for element in ['water', 'bamboo', 'seed']:",
+          "    print(f'Unlocking {element} seal -> {rune_keys[element]}')"
+        ],
+        "output": "解鎖水之印 -> Sticky | 竹之印 -> Javin Jr | 種子之印 -> 森狐"
+      },
+      "height": 425
+    },
+    {
+      "id": "p03_01",
+      "file": "CH07_P03_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 102,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 38,
+        "cy": 28,
+        "color": "#E879F9",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "突然間，峽谷轟然炸裂——三頭荊棘水蛇從瀑布中破水而出！",
+          "bx": 24,
+          "by": -10,
+          "max_chars": 28
+        },
+        {
+          "type": "shout",
+          "text": "哇！！快退後，小火——那些蓮花巨顎正滴落腐化藤蔓！",
+          "bx": 98,
+          "by": -12,
+          "tx": 64,
+          "ty": 47,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟然破水！！",
+          "x": 30,
+          "y": 86,
+          "rotate": -8,
+          "size": 42,
+          "fill": "#A21CAF"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.25,
+          0.04,
+          0.5,
+          0.38
+        ],
+        "x": 546,
+        "y_off": 110,
+        "w": 224,
+        "h": 210,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "嘶吼！！",
+            "x": 50,
+            "y": 86,
+            "rotate": -6,
+            "size": 30,
+            "fill": "#DC2626"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p03_02",
+      "file": "CH07_P03_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在雲霧繚繞的斷崖高處，一名披風旅人靜靜凝視著紫色風暴……",
+          "bx": 27,
+          "by": -11,
+          "max_chars": 30
+        },
+        {
+          "type": "thought",
+          "text": "五件尚未覺醒的聖物對上荊棘水蛇……看看凱的小隊撐不撐得住。",
+          "bx": 75,
+          "by": -11,
+          "tx": 67,
+          "ty": 8,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "劈啪作響……",
+          "x": 42,
+          "y": 68,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#9333EA"
+        },
+        {
+          "kind": "mood",
+          "text": "寂靜……",
+          "x": 54,
+          "y": 26,
+          "rotate": 5,
+          "size": 22,
+          "fill": "#334155"
+        }
+      ]
+    },
+    {
+      "id": "p03_02_eye",
+      "file": "CH07_P03_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "top_gutter": 74,
+      "bottom_gutter": 14,
+      "crop": [
+        0.46,
+        0.08,
+        0.88,
+        0.42
+      ],
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "讓我見識一下，五位年輕的程式師究竟能做到什麼地步……",
+          "bx": 34,
+          "by": -19,
+          "tx": 58,
+          "ty": 14,
+          "max_chars": 32
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "凝視中……",
+          "x": 82,
+          "y": 76,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#7E22CE"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH07_P04_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 18,
+        "cy": 52,
+        "color": "#86EFAC",
+        "opacity": 0.45
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Javin Jr，展開竹林神盾！別讓任何一根荊棘穿過去！",
+          "bx": 30,
+          "by": -12,
+          "tx": 41,
+          "ty": 24,
+          "max_chars": 25
+        },
+        {
+          "type": "speech",
+          "text": "退到我身後，愷音！翡翠 X 正從左側包抄藤蔓！",
+          "bx": 76,
+          "by": -11,
+          "tx": 60,
+          "ty": 18,
+          "max_chars": 25
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "鏗鏘！！",
+          "x": 19,
+          "y": 48,
+          "rotate": -14,
+          "size": 46,
+          "fill": "#16A34A"
+        },
+        {
+          "kind": "mood",
+          "text": "防禦！",
+          "x": 85,
+          "y": 22,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#BE185D"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH07_P04_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 100,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "我的潮汐餘燼燈籠發光了！瀑布光束正在回應我們的聖物！",
+          "bx": 28,
+          "by": -11,
+          "tx": 31,
+          "ty": 33,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "我的種子布袋也是！一起高舉——我們的夥伴準備進化了！",
+          "bx": 74,
+          "by": -11,
+          "tx": 72,
+          "ty": 35,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "閃耀！！",
+          "x": 50,
+          "y": 16,
+          "rotate": -4,
+          "size": 42,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "共鳴！",
+          "x": 16,
+          "y": 22,
+          "rotate": -9,
+          "size": 22,
+          "fill": "#0D9488"
+        }
+      ]
+    },
+    {
+      "id": "p04_02_eye",
+      "file": "CH07_P04_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "top_gutter": 68,
+      "bottom_gutter": 14,
+      "crop": [
+        0.18,
+        0.42,
+        0.84,
+        0.78
+      ],
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "翡翠光芒同時貫穿每一件聖物！",
+          "bx": 50,
+          "by": -18,
+          "max_chars": 52
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嗡鳴！！",
+          "x": 82,
+          "y": 54,
+          "rotate": -7,
+          "size": 34,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p05_01",
+      "file": "CH07_P05_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 114,
+      "bottom_gutter": 22,
+      "speedlines": {
+        "cx": 50,
+        "cy": 35,
+        "color": "#FEF08A",
+        "opacity": 0.45
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "潮汐餘燼燈籠與竹簡——同步啟動！！",
+          "bx": 28,
+          "by": -13,
+          "tx": 31,
+          "ty": 36,
+          "max_chars": 23
+        },
+        {
+          "type": "shout",
+          "text": "星莓花籃——和我們一起點亮峽谷吧，Berrie！！",
+          "bx": 75,
+          "by": -13,
+          "tx": 72,
+          "ty": 40,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼——！！",
+          "x": 50,
+          "y": 15,
+          "rotate": -6,
+          "size": 48,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "同步！",
+          "x": 13,
+          "y": 60,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 #2",
+        "concept": "For 迴圈 + zip() — 三重聖物同步",
+        "lines": [
+          "pets = ['Sticky', 'Javin Jr', 'Berrie']",
+          "relics = ['Tide-Ember Lantern', 'Bamboo Scroll', 'Star-Berry Basket']",
+          "for pet, relic in zip(pets, relics):",
+          "    print(f'{pet} resonates with {relic} -> COCOON OPEN!')"
+        ],
+        "output": "Sticky、Javin Jr 與 Berrie 已同步 -> 三重進化光繭！"
+      }
+    },
+    {
+      "id": "p05_02",
+      "file": "CH07_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "潮汐烈焰、翡翠竹葉與星辰花瓣，將三位小夥伴包覆進璀璨光繭……",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼呼——！！",
+          "x": 50,
+          "y": 16,
+          "rotate": -4,
+          "size": 44,
+          "fill": "#16A34A"
+        },
+        {
+          "kind": "mood",
+          "text": "進化中……",
+          "x": 78,
+          "y": 87,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#DB2777"
+        }
+      ],
+      "height": 430
+    },
+    {
+      "id": "p06_01",
+      "file": "CH07_P06_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 96,
+      "bottom_gutter": 16,
+      "speedlines": {
+        "cx": 50,
+        "cy": 48,
+        "color": "#FFFFFF",
+        "opacity": 0.5
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "光芒震碎光繭——Sticky、Javin Jr 與 Berrie 展開二階守護形態！",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "覺醒！！",
+          "x": 50,
+          "y": 17,
+          "rotate": -6,
+          "size": 52,
+          "fill": "#0EA5E9"
+        },
+        {
+          "kind": "mood",
+          "text": "閃耀！",
+          "x": 85,
+          "y": 18,
+          "rotate": 10,
+          "size": 26,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH07_P06_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 100,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "快看 Javin Jr 的葉冠帽和符文法杖——我們現在所向無敵了！",
+          "bx": 30,
+          "by": -11,
+          "tx": 50,
+          "ty": 24,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "還有 Berrie 的閃亮妖精翅膀！輪到你們了，明穗和昊峰！",
+          "bx": 75,
+          "by": -11,
+          "tx": 71,
+          "ty": 26,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "驕傲！",
+          "x": 15,
+          "y": 18,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "閃閃發亮～",
+          "x": 88,
+          "y": 24,
+          "rotate": 9,
+          "size": 22,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p06_02_eye",
+      "file": "CH07_P06_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "top_gutter": 68,
+      "bottom_gutter": 14,
+      "crop": [
+        0.22,
+        0.28,
+        0.78,
+        0.64
+      ],
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "三位新進化的二階守護獸照亮了整座瀑布！",
+          "bx": 50,
+          "by": -18,
+          "max_chars": 54
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "閃光！！",
+          "x": 84,
+          "y": 52,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p06_02B_portrait",
+      "file": "CH07_P06_02B_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 880,
+      "top_gutter": 0,
+      "bottom_gutter": 6,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "這頂帽子太帥了，Javin Jr！竹林神盾加上森林魔法——我們來掩護大家！",
+          "bx": 28,
+          "by": 10,
+          "tx": 31,
+          "ty": 29,
+          "max_chars": 24
+        },
+        {
+          "type": "narration",
+          "text": "第二階段羈絆：葛峻銘與森林法師 Javin Jr！",
+          "bx": 73,
+          "by": 10,
+          "max_chars": 28
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "碰拳！！",
+          "x": 54,
+          "y": 46,
+          "rotate": -10,
+          "size": 38,
+          "fill": "#16A34A"
+        },
+        {
+          "kind": "mood",
+          "text": "燦爛笑容～",
+          "x": 80,
+          "y": 24,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH07_P07_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 82,
+      "bottom_gutter": 6,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "翡翠根脈種子袋——讓森林之心托起你吧，森狐！",
+          "bx": 24,
+          "by": -9,
+          "tx": 26,
+          "ty": 34,
+          "max_chars": 26
+        },
+        {
+          "type": "shout",
+          "text": "翡翠 X 機甲！執行完全生態符文升級——就是現在！！",
+          "bx": 76,
+          "by": -9,
+          "tx": 66,
+          "ty": 39,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嗡轟——！！",
+          "x": 87,
+          "y": 58,
+          "rotate": 10,
+          "size": 40,
+          "fill": "#E11D48"
+        },
+        {
+          "kind": "mood",
+          "text": "升華！",
+          "x": 49,
+          "y": 20,
+          "rotate": -7,
+          "size": 24,
+          "fill": "#16A34A"
+        }
+      ],
+      "height": 410
+    },
+    {
+      "id": "p07_01B",
+      "file": "CH07_P07_01B_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在水晶洞窟內，生機盎然的翡翠藤蔓與數位符文板交織出雙重進化！",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚鳴！！",
+          "x": 50,
+          "y": 22,
+          "rotate": -6,
+          "size": 46,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "mood",
+          "text": "升級中……",
+          "x": 84,
+          "y": 86,
+          "rotate": -5,
+          "size": 22,
+          "fill": "#059669"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 #3",
+        "concept": "函式與回傳值 — 雙重進化程序",
+        "lines": [
+          "def evolve_guardian(pet_name, stage=1):",
+          "    if stage < 2:",
+          "        return f'{pet_name} -> STAGE 2 AWAKENED!'",
+          "print(evolve_guardian('Sylvan-Fox'), '|', evolve_guardian('Emerald-X'))"
+        ],
+        "output": "森狐 -> 第 2 階段覺醒！ | 翡翠 X -> 第 2 階段覺醒！"
+      },
+      "height": 430
+    },
+    {
+      "id": "p07_02",
+      "file": "CH07_P07_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 106,
+      "bottom_gutter": 26,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#6EE7B7",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "水晶尾森狐與展翼裝甲翡翠 X 機甲，手持生態符文巨劍隆重登場！",
+          "bx": 36,
+          "by": -13,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "鏗鏘登場！！",
+          "x": 48,
+          "y": 86,
+          "rotate": -6,
+          "size": 44,
+          "fill": "#059669"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.56,
+          0.14,
+          0.9,
+          0.56
+        ],
+        "x": 546,
+        "y_off": 110,
+        "w": 224,
+        "h": 210,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "上線完畢！！",
+            "x": 50,
+            "y": 86,
+            "rotate": -5,
+            "size": 30,
+            "fill": "#E11D48"
+          }
+        ]
+      },
+      "height": 390
+    },
+    {
+      "id": "p08_01",
+      "file": "CH07_P08_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 86,
+      "bottom_gutter": 6,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "森狐，你的翡翠水晶尾巴就像整座森林一樣閃耀！",
+          "bx": 24,
+          "by": -9,
+          "tx": 24,
+          "ty": 30,
+          "max_chars": 24
+        },
+        {
+          "type": "speech",
+          "text": "全套裝甲、能量雙翼加上生態符文巨劍……我們來終結這場戰鬥！",
+          "bx": 76,
+          "by": -9,
+          "tx": 69,
+          "ty": 30,
+          "max_chars": 24
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "讚嘆……",
+          "x": 50,
+          "y": 22,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#047857"
+        }
+      ],
+      "height": 410
+    },
+    {
+      "id": "p08_01B_portrait",
+      "file": "CH07_P08_01B_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 880,
+      "top_gutter": 0,
+      "bottom_gutter": 6,
+      "speedlines": {
+        "cx": 52,
+        "cy": 38,
+        "color": "#6EE7B7",
+        "opacity": 0.32
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "生態符文巨劍——啟動完畢！！準備斬除那些荊棘了，翡翠 X！！",
+          "bx": 28,
+          "by": 13,
+          "tx": 41,
+          "ty": 43,
+          "max_chars": 22
+        },
+        {
+          "type": "narration",
+          "text": "第二階段覺醒：謝昊峰與翡翠 X 機甲！",
+          "bx": 74,
+          "by": 9,
+          "max_chars": 28
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚——！！",
+          "x": 22,
+          "y": 32,
+          "rotate": -12,
+          "size": 44,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "mood",
+          "text": "戰力全開！",
+          "x": 82,
+          "y": 89,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p08_02",
+      "file": "CH07_P08_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 92,
+      "bottom_gutter": 8,
+      "speedlines": {
+        "cx": 74,
+        "cy": 36,
+        "color": "#F0ABFC",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "全體五位進化守護者——陣型鎖定！淨化這座峽谷吧！！",
+          "bx": 23,
+          "by": -9,
+          "tx": 19,
+          "ty": 35,
+          "max_chars": 20
+        },
+        {
+          "type": "glitch",
+          "text": "錯誤！！偵測到五個進化訊號……通通吞噬掉！！",
+          "bx": 77,
+          "by": -9,
+          "tx": 75,
+          "ty": 10,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "吼嗚嗚！！",
+          "x": 76,
+          "y": 87,
+          "rotate": -7,
+          "size": 50,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p09_01",
+      "file": "CH07_P09_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 90,
+      "bottom_gutter": 8,
+      "speedlines": {
+        "cx": 46,
+        "cy": 54,
+        "color": "#7DD3FC",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "Sticky，把河岸邊的枯萎污穢通通沖洗乾淨！！",
+          "bx": 24,
+          "by": -9,
+          "tx": 17,
+          "ty": 26,
+          "max_chars": 20
+        },
+        {
+          "type": "shout",
+          "text": "Javin Jr，編織竹林穹頂——擋下每一根暗黑尖刺！！",
+          "bx": 77,
+          "by": -9,
+          "tx": 68,
+          "ty": 36,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嘩啦大浪！！",
+          "x": 47,
+          "y": 85,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "sfx",
+          "text": "咚咚擋下！",
+          "x": 88,
+          "y": 24,
+          "rotate": 12,
+          "size": 32,
+          "fill": "#15803D"
+        }
+      ]
+    },
+    {
+      "id": "p09_01_eye",
+      "file": "CH07_P08_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 165,
+      "top_gutter": 60,
+      "bottom_gutter": 8,
+      "crop": [
+        0.54,
+        0.14,
+        0.96,
+        0.5
+      ],
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "不可能！！我的荊棘藤蔓竟然被逼退了！！",
+          "bx": 50,
+          "by": -19,
+          "tx": 74,
+          "ty": 24,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "碎裂！！",
+          "x": 18,
+          "y": 54,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p09_02",
+      "file": "CH07_P09_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 94,
+      "bottom_gutter": 76,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "森狐，用青苔穩固地面！昊峰，從高空斬下去！",
+          "bx": 48,
+          "by": -10,
+          "tx": 55,
+          "ty": 43,
+          "max_chars": 30
+        },
+        {
+          "type": "speech",
+          "text": "上吧，Berrie！用星莓治癒粉塵灑滿整座洞窟！",
+          "bx": 28,
+          "by": 109,
+          "tx": 13,
+          "ty": 94,
+          "max_chars": 28
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "斬擊！！",
+          "x": 76,
+          "y": 18,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "mood",
+          "text": "綻放～",
+          "x": 38,
+          "y": 86,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#16A34A"
+        }
+      ]
+    },
+    {
+      "id": "p10_01",
+      "file": "CH07_P10_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 90,
+      "bottom_gutter": 12,
+      "speedlines": {
+        "cx": 40,
+        "cy": 46,
+        "color": "#38BDF8",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Sticky 的雙生水精靈將水蛇困進淨化漩渦——打開了完美的一擊破口！",
+          "bx": 34,
+          "by": -10,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "旋轉漩渦！！",
+          "x": 34,
+          "y": 86,
+          "rotate": -8,
+          "size": 44,
+          "fill": "#0284C7"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.72,
+          0.5,
+          0.96,
+          0.92
+        ],
+        "x": 546,
+        "y_off": 110,
+        "w": 224,
+        "h": 210,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "鎖定目標！",
+            "x": 50,
+            "y": 86,
+            "rotate": -6,
+            "size": 28,
+            "fill": "#10B981"
+          }
+        ]
+      },
+      "height": 355
+    },
+    {
+      "id": "p10_01_eye",
+      "file": "CH07_P10_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "top_gutter": 64,
+      "bottom_gutter": 12,
+      "crop": [
+        0.16,
+        0.24,
+        0.68,
+        0.62
+      ],
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "就是現在，昊峰——核心門戶大開了！！",
+          "bx": 50,
+          "by": -19,
+          "tx": 34,
+          "ty": 22,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "能量湧現！！",
+          "x": 84,
+          "y": 54,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p10_01B",
+      "file": "CH07_P10_01B_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 102,
+      "bottom_gutter": 16,
+      "speedlines": {
+        "cx": 72,
+        "cy": 48,
+        "color": "#86EFAC",
+        "opacity": 0.45
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "全隊同心協力，翡翠 X 將熾熱的生態符文巨劍貫穿核心！",
+          "bx": 28,
+          "by": -11,
+          "max_chars": 32
+        },
+        {
+          "type": "glitch",
+          "text": "不！！腐化迴圈已終止——枯萎藤蔓正在消融！！",
+          "bx": 75,
+          "by": -12,
+          "tx": 78,
+          "ty": 11,
+          "max_chars": 25
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "錚！",
+            "淨化！"
+          ],
+          "x": 12,
+          "y": 18,
+          "rotate": -10,
+          "size": 40,
+          "fill": "#10B981",
+          "step_x": 150,
+          "step_y": 24
+        },
+        {
+          "kind": "mood",
+          "text": "淨化完成！！",
+          "x": 76,
+          "y": 86,
+          "rotate": -5,
+          "size": 28,
+          "fill": "#EC4899"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 #4",
+        "concept": "條件式與 While 迴圈 — 五重淨化斬擊",
+        "lines": [
+          "blight_hp = 100",
+          "squad_ready = True  # Sticky, Javin Jr, Berrie, Sylvan-Fox, Emerald-X",
+          "while blight_hp > 0 and squad_ready:",
+          "    blight_hp -= 50  # Eco-Rune Greatsword + Fourfold Assist!",
+          "print('GORGE STATUS: 100% PURIFIED IN BLOSSOMS!')"
+        ],
+        "output": "峽谷狀態：100% 繁花淨化完畢！"
+      }
+    },
+    {
+      "id": "p10_02",
+      "file": "CH07_P10_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 96,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "一道彩虹橫跨重獲新生的瀑布，一片翠綠新葉隨風飄過……",
+          "bx": 27,
+          "by": -11,
+          "max_chars": 32
+        },
+        {
+          "type": "thought",
+          "text": "不只是蠻力——他們像同一個小隊般並肩編碼。凱真的找對守護者了。",
+          "bx": 75,
+          "by": -11,
+          "tx": 66,
+          "ty": 8,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "寧靜……",
+          "x": 46,
+          "y": 20,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#0EA5E9"
+        },
+        {
+          "kind": "mood",
+          "text": "飄落～",
+          "x": 55,
+          "y": 36,
+          "rotate": 8,
+          "size": 20,
+          "fill": "#16A34A"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p11_01",
+      "file": "CH07_P11_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 94,
+      "bottom_gutter": 68,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "一天之內五場二階進化！大家徹底拯救了整座瀑布！",
+          "bx": 30,
+          "by": -10,
+          "tx": 44,
+          "ty": 26,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "大家開動吧——新鮮星莓、甜美芒果，還有熱騰騰的蓮花素包！",
+          "bx": 74,
+          "by": -10,
+          "tx": 59,
+          "ty": 27,
+          "max_chars": 26
+        },
+        {
+          "type": "narration",
+          "text": "峽谷恢復生機後，小隊在竹林溪畔共享歡樂的植物系慶功宴。",
+          "bx": 50,
+          "by": 109,
+          "max_chars": 54
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "乾杯！",
+          "x": 86,
+          "y": 22,
+          "rotate": 9,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH07_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 82,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "與此同時，五位剛進化的夥伴忙著吃水果嬉水——而小火正在打盹！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 52
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "撲通水花～",
+          "x": 18,
+          "y": 85,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "呼呼大睡……",
+          "x": 83,
+          "y": 19,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#DC2626"
+        },
+        {
+          "kind": "mood",
+          "text": "好開心～",
+          "x": 49,
+          "y": 32,
+          "rotate": -5,
+          "size": 22,
+          "fill": "#16A34A"
+        }
+      ]
+    },
+    {
+      "id": "p11_02_eye",
+      "file": "CH07_P11_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 170,
+      "top_gutter": 64,
+      "bottom_gutter": 12,
+      "crop": [
+        0.52,
+        0.14,
+        0.96,
+        0.56
+      ],
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "唔……拯救整座峽谷後的芒果美夢……",
+          "bx": 48,
+          "by": -18,
+          "tx": 74,
+          "ty": 28,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "打呼～",
+          "x": 18,
+          "y": 54,
+          "rotate": -8,
+          "size": 26,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH07_P12_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 78,
+      "bottom_gutter": 6,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "看湖對岸，小火……浮在空中的是不是符文圖書館？",
+          "bx": 25,
+          "by": -9,
+          "tx": 30,
+          "ty": 26,
+          "max_chars": 26
+        },
+        {
+          "type": "narration",
+          "text": "午夜星辰之下，一道奇異的青紫色極光正從遠方天際召喚著……",
+          "bx": 76,
+          "by": -9,
+          "max_chars": 30
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "微光閃爍……",
+          "x": 63,
+          "y": 18,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "mood",
+          "text": "神秘",
+          "x": 79,
+          "y": 60,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ],
+      "height": 390
+    },
+    {
+      "id": "p12_02",
+      "file": "CH07_P12_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 86,
+      "bottom_gutter": 6,
+      "speedlines": {
+        "cx": 78,
+        "cy": 50,
+        "color": "#C084FC",
+        "opacity": 0.45
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "愚蠢的小鬼！！趁現在好好慶祝瀑布吧——我的下一個故障目標就是符文圖書館與月光湖！！",
+          "bx": 52,
+          "by": -15,
+          "tx": 35,
+          "ty": 7,
+          "max_chars": 52
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "喀啦滋滋！！",
+          "x": 45,
+          "y": 86,
+          "rotate": -7,
+          "size": 42,
+          "fill": "#9333EA"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.63,
+          0.22,
+          0.94,
+          0.78
+        ],
+        "x": 546,
+        "y_off": 110,
+        "w": 224,
+        "h": 210,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "故障入侵！！",
+            "x": 50,
+            "y": 86,
+            "rotate": -6,
+            "size": 30,
+            "fill": "#06B6D4"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "villain",
+        "badge": "魔碼故障 #5",
+        "concept": "try / except — 傳送門腐化協議",
+        "lines": [
+          "targets = ['Floating Rune Library', 'Moonlit Willow Silver Lake']",
+          "try:",
+          "    inject_glitch(targets, power=9999)",
+          "except GuardianFirewall:",
+          "    print('ALERT: Ooi Kai Xiang & Lee Qiu Rong detected ahead!')"
+        ],
+        "output": "傳送門已開啟 -> 下一個目的地：第八章！"
+      },
+      "height": 320
+    }
+  ],
+  "end_banner": {
+    "kicker": "第七章完結 · 第二幕未完待續",
+    "title": "下回：第八章 — 浮空符文圖書館與月光湖！",
+    "subtitle": "魔碼領主的傳送門正朝向黃楷翔（OKX）與李秋容（Miku）開啟……"
+  }
+}

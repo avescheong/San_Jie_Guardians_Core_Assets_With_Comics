@@ -1,0 +1,1488 @@
+{
+  "kicker": "凱與三屆十七守護者 • 第二幕最終章 • WEBTOON V6.0 繁體中文導演剪輯版",
+  "title": "第八章：浮空符文圖書館",
+  "subtitle": "四位學者覺醒 — 黃楷翔、張敬誠、李秋容與陳施晔 (v6.0)",
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH08_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 72,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二幕最終章 — 月光銀湖上方的浮空符文圖書館。",
+          "bx": 28,
+          "by": 2,
+          "max_chars": 22
+        },
+        {
+          "type": "speech",
+          "text": "抓緊了，小火！那道紫色閃電正撕裂整座檔案館！",
+          "bx": 76,
+          "by": -9,
+          "tx": 66,
+          "ty": 32,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆隆！！",
+          "x": 24,
+          "y": 29,
+          "rotate": -10,
+          "size": 46,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH08_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 78,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "圖書館的符文今晚感覺很不對勁，OKX。有什麼正在打亂檔案！",
+          "bx": 26,
+          "by": -9,
+          "tx": 24,
+          "ty": 36,
+          "max_chars": 13
+        },
+        {
+          "type": "speech",
+          "text": "別擔心，楷翔！Miku和星紗貓角獸就在我們身邊！",
+          "bx": 74,
+          "by": -9,
+          "tx": 59,
+          "ty": 36,
+          "max_chars": 16
+        },
+        {
+          "type": "narration",
+          "text": "那天傍晚稍早，四位守護者正巡邏在陽光灑落的檔案館大橋上。",
+          "bx": 50,
+          "by": 100,
+          "max_chars": 28
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "微風輕拂～",
+          "x": 12,
+          "y": 24,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH08_P02_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "楷翔！敬誠！秋容！施晔！魔碼領主的故障軍團正在逼近！",
+          "bx": 30,
+          "by": -15,
+          "tx": 40,
+          "ty": 24,
+          "max_chars": 15
+        },
+        {
+          "type": "speech",
+          "text": "我們感覺到符文在閃爍了！我們四個的夥伴都已準備就緒！",
+          "bx": 76,
+          "by": -15,
+          "tx": 73,
+          "ty": 36,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "呼嚕嚕…",
+          "x": 19,
+          "y": 24,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH08_P02_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 96,
+      "bottom_gutter": 42,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "密碼貓頭鷹已經甦醒……就看看這四個人能否重寫鎖碼吧。",
+          "bx": 68,
+          "by": -14,
+          "tx": 72,
+          "ty": 11,
+          "max_chars": 14
+        },
+        {
+          "type": "narration",
+          "text": "在傾頹的迴廊暗處，一名沉默的觀察者靜靜注視著銀湖……",
+          "bx": 38,
+          "by": 104,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "嗡嗡…",
+          "x": 27,
+          "y": 57,
+          "rotate": -5,
+          "size": 22,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p02_02_eye",
+      "file": "CH08_P02_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "crop": [
+        0.3,
+        0.14,
+        0.9,
+        0.36
+      ],
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "凝視…",
+          "x": 22,
+          "y": 50,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH08_P03_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 86,
+      "bottom_gutter": 74,
+      "speedlines": {
+        "cx": 65,
+        "cy": 34,
+        "color": "#E879F9",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "檔案損毀率：99%。正在刪除所有知識卷軸！！",
+          "bx": 66,
+          "by": -11,
+          "tx": 65,
+          "ty": 10,
+          "max_chars": 14
+        },
+        {
+          "type": "shout",
+          "text": "怎麼可能！牠正在打亂圖書館的主密碼！",
+          "bx": 30,
+          "by": 108,
+          "tx": 32,
+          "ty": 94,
+          "max_chars": 13
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "尖嘯！",
+            "滋滋作響！"
+          ],
+          "x": 9,
+          "y": 20,
+          "step_x": 36,
+          "step_y": 46,
+          "rotate": -10,
+          "size": 40,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH08_P03_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 98,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "我的密碼方塊讀出了牠的程式碼！牠正在用字典替換每一個鍵值！",
+          "bx": 20,
+          "by": -13,
+          "tx": 36,
+          "ty": 21,
+          "max_chars": 14
+        },
+        {
+          "type": "speech",
+          "text": "我用素描本把破損的鍵值畫下來 — 我們一起解碼！",
+          "bx": 104,
+          "by": -13,
+          "tx": 64,
+          "ty": 24,
+          "max_chars": 14
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.2,
+          0.14,
+          0.54,
+          0.56
+        ],
+        "x": 552,
+        "y_off": 146,
+        "w": 222,
+        "h": 196,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "掃描！",
+            "x": 28,
+            "y": 18,
+            "rotate": -10,
+            "size": 28,
+            "fill": "#0284C7"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 • 法術 #1",
+        "concept": "字典 (dict) 與安全 .get() 查詢",
+        "lines": [
+          "# 黃楷翔與張敬誠 — 密碼方塊解碼器",
+          "rune_map = {\"X7\": \"LIGHT\", \"Q9\": \"SHIELD\", \"Z3\": \"RESTORE\"}",
+          "signal = rune_map.get(\"Z3\", \"UNKNOWN\")",
+          "print(\"Decoded Rune:\", signal)"
+        ],
+        "output": "Decoded Rune: RESTORE"
+      }
+    },
+    {
+      "id": "p04_01",
+      "file": "CH08_P04_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "退後，故障觸鬚！我的風鈴弓會守住這條防線！",
+          "bx": 28,
+          "by": -15,
+          "tx": 36,
+          "ty": 21,
+          "max_chars": 13
+        },
+        {
+          "type": "speech",
+          "text": "卷軸正在散開！我用星紗把它們重新編織固定！",
+          "bx": 74,
+          "by": -15,
+          "tx": 64,
+          "ty": 29,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚！！",
+          "x": 49,
+          "y": 17,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#0D9488"
+        },
+        {
+          "kind": "mood",
+          "text": "啪滋！",
+          "x": 87,
+          "y": 35,
+          "rotate": 12,
+          "size": 24,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH08_P04_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 52,
+      "bottom_gutter": 90,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第一步：聖物共鳴！邏輯與創造力點亮整座檔案館！",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 27
+        },
+        {
+          "type": "shout",
+          "text": "OKX，感受這組密碼！",
+          "bx": 26,
+          "by": 114,
+          "tx": 36,
+          "ty": 94,
+          "max_chars": 13
+        },
+        {
+          "type": "shout",
+          "text": "虛假元卡丘，閃耀吧！",
+          "bx": 74,
+          "by": 114,
+          "tx": 65,
+          "ty": 94,
+          "max_chars": 13
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟！！",
+          "x": 51,
+          "y": 14,
+          "rotate": -4,
+          "size": 38,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p04_02_eye",
+      "file": "CH08_P04_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 180,
+      "crop": [
+        0.22,
+        0.42,
+        0.8,
+        0.68
+      ],
+      "top_gutter": 16,
+      "bottom_gutter": 16,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "同步！！",
+          "x": 50,
+          "y": 28,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p04_02b",
+      "file": "CH08_P04_02B_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 90,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二步：光芒繭衣包裹住兩位夥伴，重寫牠們的進化數據……",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 28
+        },
+        {
+          "type": "whisper",
+          "text": "我的翅膀……變得好溫暖！",
+          "bx": 28,
+          "by": 112,
+          "tx": 30,
+          "ty": 79,
+          "max_chars": 13
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃爍～",
+          "x": 52,
+          "y": 30,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p05_01",
+      "file": "CH08_P05_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 56,
+      "bottom_gutter": 20,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FDE047",
+        "opacity": 0.32
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二階段進化完成 — 學者火龍與晶石火花覺醒！",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 28
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "烈焰！！",
+          "x": 16,
+          "y": 20,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "sfx",
+          "text": "霹啪！！",
+          "x": 85,
+          "y": 20,
+          "rotate": 10,
+          "size": 42,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p05_01_eye",
+      "file": "CH08_P05_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "crop": [
+        0.1,
+        0.24,
+        0.9,
+        0.54
+      ],
+      "top_gutter": 22,
+      "bottom_gutter": 22,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚亮！！",
+          "x": 50,
+          "y": 50,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH08_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 78,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "哇，OKX！那頂火焰高禮帽超帥的！",
+          "bx": 28,
+          "by": -11,
+          "tx": 24,
+          "ty": 22,
+          "max_chars": 14
+        },
+        {
+          "type": "speech",
+          "text": "虛假元卡丘也有水晶護甲了！準備開戰！",
+          "bx": 72,
+          "by": -11,
+          "tx": 67,
+          "ty": 23,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "得意～",
+          "x": 46,
+          "y": 43,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p05_03_portrait",
+      "file": "CH08_P05_03_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 820,
+      "top_gutter": 10,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "OKX的密碼方塊鎖定了檔案館裡的每一座浮空書架！",
+          "bx": 50,
+          "by": 4,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "我看見整個矩陣了，OKX！每個書架都有乾淨鍵值！",
+          "bx": 30,
+          "by": 17,
+          "tx": 44,
+          "ty": 41,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "解碼！！",
+          "x": 79,
+          "y": 14,
+          "rotate": 8,
+          "size": 44,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "嗡鳴～",
+          "x": 15,
+          "y": 35,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH08_P06_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 94,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "與此同時，和諧與奇蹟點燃了第二場雙重覺醒……",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 27
+        },
+        {
+          "type": "speech",
+          "text": "隨著月光歌唱吧，Miku！",
+          "bx": 26,
+          "by": 113,
+          "tx": 24,
+          "ty": 94,
+          "max_chars": 13
+        },
+        {
+          "type": "speech",
+          "text": "編織星辰吧，星紗貓角獸！",
+          "bx": 74,
+          "by": 113,
+          "tx": 76,
+          "ty": 94,
+          "max_chars": 13
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p06_01b",
+      "file": "CH08_P06_01B_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "月光風鈴與星雲絲線旋轉編織成第二階段型態！",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "叮鈴～",
+          "x": 15,
+          "y": 24,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#059669"
+        },
+        {
+          "kind": "mood",
+          "text": "閃耀！",
+          "x": 86,
+          "y": 24,
+          "rotate": 10,
+          "size": 24,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p06_01b_eye",
+      "file": "CH08_P06_01B_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 200,
+      "crop": [
+        0.14,
+        0.26,
+        0.92,
+        0.56
+      ],
+      "top_gutter": 24,
+      "bottom_gutter": 24,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "璀璨～",
+          "x": 50,
+          "y": 78,
+          "rotate": 0,
+          "size": 24,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH08_P06_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 54,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FFFFFF",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "翡翠水晶翼與星雲星光 — 第二階段進化完成！",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚亮！！",
+          "x": 17,
+          "y": 84,
+          "rotate": -8,
+          "size": 42,
+          "fill": "#059669"
+        },
+        {
+          "kind": "sfx",
+          "text": "炫目！！",
+          "x": 83,
+          "y": 84,
+          "rotate": 8,
+          "size": 42,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p07_03_portrait",
+      "file": "CH08_P07_03_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 890,
+      "top_gutter": 12,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "月光風鈴在銀湖上方盤旋 — 安撫每一頁混亂的書頁！",
+          "bx": 50,
+          "by": 4,
+          "max_chars": 28
+        },
+        {
+          "type": "speech",
+          "text": "聽這段和聲，Miku！我們的緞帶將束縛整座檔案館！",
+          "bx": 72,
+          "by": 16,
+          "tx": 57,
+          "ty": 48,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "叮鈴～！！",
+          "x": 22,
+          "y": 15,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#059669"
+        },
+        {
+          "kind": "mood",
+          "text": "搖籃曲～",
+          "x": 83,
+          "y": 36,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#8B5CF6"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH08_P07_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Miku！妳的水晶翅膀跟銀湖一樣閃耀動人！",
+          "bx": 28,
+          "by": -15,
+          "tx": 26,
+          "ty": 16,
+          "max_chars": 14
+        },
+        {
+          "type": "speech",
+          "text": "而星紗貓角獸能重新編織每一座斷裂的橋樑！",
+          "bx": 74,
+          "by": -15,
+          "tx": 72,
+          "ty": 22,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "微光～",
+          "x": 50,
+          "y": 22,
+          "rotate": 0,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH08_P07_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 20,
+      "speedlines": {
+        "cx": 42,
+        "cy": 50,
+        "color": "#FDE047",
+        "opacity": 0.28
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "四位第二階段夥伴全數上線！向檔案館發動衝鋒！",
+          "bx": 38,
+          "by": -14,
+          "tx": 41,
+          "ty": 32,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "急衝！",
+            "呼嘯！"
+          ],
+          "x": 67,
+          "y": 20,
+          "step_x": 34,
+          "step_y": 40,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p07_02_eye",
+      "file": "CH08_P07_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "crop": [
+        0.22,
+        0.28,
+        0.86,
+        0.58
+      ],
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "衝鋒！！",
+          "x": 85,
+          "y": 28,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH08_P08_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "OKX，噴出解析烈焰，清除腐化層！",
+          "bx": 28,
+          "by": -15,
+          "tx": 25,
+          "ty": 24,
+          "max_chars": 11
+        },
+        {
+          "type": "speech",
+          "text": "虛假元卡丘，緊接著連鎖你的水晶電擊！",
+          "bx": 74,
+          "by": -15,
+          "tx": 80,
+          "ty": 24,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "吼喔喔！！",
+          "x": 52,
+          "y": 31,
+          "rotate": -6,
+          "size": 36,
+          "fill": "#EA580C"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 • 法術 #2",
+        "concept": "可重用函式 (def) 與回傳值",
+        "lines": [
+          "# 連攜法術函式 — 烈焰 + 水晶火花",
+          "def cast_combo(pet_a, pet_b, power):",
+          "    return f\"{pet_a} + {pet_b} STRIKE ({power * 2} DMG)!\"",
+          "print(cast_combo(\"OKX\", \"Mimik-Spark\", 45))"
+        ],
+        "output": "OKX + Mimik-Spark STRIKE (90 DMG)!"
+      }
+    },
+    {
+      "id": "p08_01b",
+      "file": "CH08_P08_01B_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 118,
+      "bottom_gutter": 52,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "直接命中密碼核心！繼續保持攻勢！",
+          "bx": 22,
+          "by": -17,
+          "tx": 30,
+          "ty": 40,
+          "max_chars": 13
+        },
+        {
+          "type": "glitch",
+          "text": "錯-誤！！防火牆已被突破！！",
+          "bx": 104,
+          "by": -17,
+          "tx": 63,
+          "ty": 14,
+          "max_chars": 13
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋轟！！",
+          "x": 46,
+          "y": 86,
+          "rotate": -6,
+          "size": 34,
+          "fill": "#0284C7"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.46,
+          0.05,
+          0.78,
+          0.42
+        ],
+        "x": 552,
+        "y_off": 146,
+        "w": 222,
+        "h": 196,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "劈啪！",
+            "x": 52,
+            "y": 84,
+            "rotate": -8,
+            "size": 26,
+            "fill": "#9333EA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p08_02",
+      "file": "CH08_P08_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 74,
+      "bottom_gutter": 56,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "彩虹星雲橋 — 把每一條絲線繞上牠的翅膀！",
+          "bx": 28,
+          "by": -9,
+          "tx": 14,
+          "ty": 36,
+          "max_chars": 16
+        },
+        {
+          "type": "speech",
+          "text": "Miku，鎖定月緞錨點！別讓牠逃走！",
+          "bx": 34,
+          "by": 105,
+          "tx": 28,
+          "ty": 92,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼呼呼！！",
+          "x": 46,
+          "y": 19,
+          "rotate": -8,
+          "size": 38,
+          "fill": "#DB2777"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 • 法術 #3",
+        "concept": "使用 for 迴圈走訪串列 (List)",
+        "lines": [
+          "# 李秋容與陳施晔 — 和聲緞帶迴圈",
+          "anchors = [\"North-Pillar\", \"Moon-Arch\", \"Sky-Bridge\"]",
+          "for point in anchors:",
+          "    print(\"Binding & Restoring:\", point)"
+        ],
+        "output": "Binding & Restoring: North-Pillar -> Moon-Arch -> Sky-Bridge"
+      }
+    },
+    {
+      "id": "p09_01",
+      "file": "CH08_P09_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 36,
+      "bottom_gutter": 58,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "四道守護者訊號同步鎖定 — 準備發動主淨化！",
+          "bx": 50,
+          "by": 2,
+          "max_chars": 28
+        },
+        {
+          "type": "shout",
+          "text": "大家，把法術和小火連結起來！一起淨化那隻貓頭鷹！",
+          "bx": 50,
+          "by": 106,
+          "tx": 50,
+          "ty": 94,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "共鳴！",
+          "x": 20,
+          "y": 24,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p09_02",
+      "file": "CH08_P09_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 92,
+      "bottom_gutter": 74,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "系統已鎖定……無法繼續腐化……！",
+          "bx": 68,
+          "by": -12,
+          "tx": 65,
+          "ty": 10,
+          "max_chars": 13
+        },
+        {
+          "type": "speech",
+          "text": "我們用主符文環把牠困住了！現在完成最後解碼！",
+          "bx": 34,
+          "by": 109,
+          "tx": 34,
+          "ty": 94,
+          "max_chars": 15
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚鎖！！",
+          "x": 24,
+          "y": 22,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#0D9488"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.5,
+          0.08,
+          0.8,
+          0.5
+        ],
+        "x": 552,
+        "y_off": 146,
+        "w": 222,
+        "h": 196,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "束縛！！",
+            "x": 50,
+            "y": 84,
+            "rotate": 6,
+            "size": 28,
+            "fill": "#059669"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p09_02b",
+      "file": "CH08_P09_02B_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 22,
+      "bottom_gutter": 76,
+      "speedlines": {
+        "cx": 50,
+        "cy": 36,
+        "color": "#38BDF8",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "四重檔案淨化 — 修復浮空圖書館！！",
+          "bx": 50,
+          "by": 109,
+          "tx": 50,
+          "ty": 94,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "碎裂！！",
+          "x": 79,
+          "y": 17,
+          "rotate": 8,
+          "size": 40,
+          "fill": "#0284C7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 • 法術 #4",
+        "concept": "條件判斷 (if / else) 與完整性閘門",
+        "lines": [
+          "# 四重檔案淨化 — 完整性驗證",
+          "glitch_level = 0",
+          "if glitch_level == 0:",
+          "    print(\"ARCHIVE RESTORED: All 4 Relics Verified!\")",
+          "else:",
+          "    print(\"Keep decoding...\")"
+        ],
+        "output": "ARCHIVE RESTORED: All 4 Relics Verified!"
+      }
+    },
+    {
+      "id": "p10_01",
+      "file": "CH08_P10_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 56,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "紫色風暴消散了。金色提燈再度點亮浮空拱橋。",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 29
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "寧靜～",
+          "x": 82,
+          "y": 24,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#059669"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH08_P10_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 48,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "又有四位守護者覺醒了……最終幕就快來臨。",
+          "bx": 68,
+          "by": -14,
+          "tx": 64,
+          "ty": 20,
+          "max_chars": 14
+        },
+        {
+          "type": "narration",
+          "text": "破曉時分，沉默的觀察者轉身望向遠方的高塔尖頂……",
+          "bx": 38,
+          "by": 104,
+          "max_chars": 27
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p10_02_eye",
+      "file": "CH08_P10_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "crop": [
+        0.12,
+        0.14,
+        0.88,
+        0.42
+      ],
+      "top_gutter": 20,
+      "bottom_gutter": 20,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "破曉…",
+          "x": 42,
+          "y": 48,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH08_P11_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "敬四位全新的第二階段守護者！這些熱騰騰的包子與西瓜太讚了！",
+          "bx": 28,
+          "by": -15,
+          "tx": 25,
+          "ty": 30,
+          "max_chars": 15
+        },
+        {
+          "type": "speech",
+          "text": "而且圖書館裡零故障！這是最棒的讀書休息時間！",
+          "bx": 72,
+          "by": -15,
+          "tx": 54,
+          "ty": 28,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "真香～",
+          "x": 52,
+          "y": 86,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH08_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在垂柳岸邊，五隻夥伴在螢火蟲的星光下安心歇息……",
+          "bx": 50,
+          "by": -4,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "暖洋洋～",
+          "x": 24,
+          "y": 42,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "mood",
+          "text": "呼嚕～",
+          "x": 88,
+          "y": 50,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p11_02_eye",
+      "file": "CH08_P11_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 200,
+      "crop": [
+        0.06,
+        0.52,
+        0.94,
+        0.84
+      ],
+      "top_gutter": 24,
+      "bottom_gutter": 24,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "呼～",
+          "x": 18,
+          "y": 28,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH08_P12_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 66,
+      "bottom_gutter": 4,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "第二幕結束了！十七位守護者全部就緒 — 下一站，最終要塞！",
+          "bx": 32,
+          "by": -9,
+          "tx": 50,
+          "ty": 34,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "看那雲海彼端……那一定就是魔碼領主的堡壘！",
+          "bx": 82,
+          "by": -9,
+          "tx": 83,
+          "ty": 36,
+          "max_chars": 15
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "陰雲壓境…",
+          "x": 66,
+          "y": 14,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#475569"
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH08_P12_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 64,
+      "bottom_gutter": 4,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "原來十七位守護者全都覺醒了……就讓他們來到我的要塞吧！",
+          "bx": 33,
+          "by": -10,
+          "tx": 38,
+          "ty": 15,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆！！",
+          "x": 81,
+          "y": 25,
+          "rotate": 8,
+          "size": 36,
+          "fill": "#9333EA"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.24,
+          0.14,
+          0.52,
+          0.46
+        ],
+        "x": 552,
+        "y_off": 146,
+        "w": 222,
+        "h": 196,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "怒視！！",
+            "x": 50,
+            "y": 84,
+            "rotate": -6,
+            "size": 28,
+            "fill": "#DC2626"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "villain",
+        "badge": "魔碼蟲引擎 • 第三幕威脅",
+        "concept": "while 迴圈與跳脫迴圈 (break)",
+        "lines": [
+          "# 魔碼領主的要塞防火牆 — 第三幕預告",
+          "citadel_locked = True",
+          "while citadel_locked:",
+          "    deploy_bug_swarm(\"ACT_3_FINAL_SIEGE\")",
+          "    break  # 唯有十七位守護者齊心才能觸發 break！"
+        ],
+        "output": "WARNING: Act 3 Siege Protocol Armed -> Continue in Chapter 9!"
+      }
+    }
+  ],
+  "end_banner": {
+    "kicker": "第二幕完結 • 第三幕未完待續",
+    "title": "下回：第九章 — 無限迴圈的黑暗要塞",
+    "subtitle": "三屆十七位守護者將與凱及小火全面集結，進軍魔碼領主的黑暗堡壘！"
+  }
+}

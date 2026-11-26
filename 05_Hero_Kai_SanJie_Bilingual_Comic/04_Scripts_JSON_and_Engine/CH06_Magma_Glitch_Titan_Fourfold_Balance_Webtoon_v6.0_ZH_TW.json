@@ -1,0 +1,1566 @@
+{
+  "kicker": "WEBTOON V6.0 · 繁體中文導演剪輯版",
+  "title": "第六章：熔岩故障泰坦與四重平衡",
+  "subtitle": "技能覺醒版 · 29張原畫 · 四重平衡覺醒 (v6.0)",
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH06_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 84,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在冰川斷崖與熔岩交會之處，紫色故障閃電撕裂了峽谷夜空。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "喀啦——！",
+          "x": 24,
+          "y": 22,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#7E22CE"
+        },
+        {
+          "kind": "mood",
+          "text": "火山轟鳴",
+          "x": 78,
+          "y": 80,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH06_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 116,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "抓緊了，小火！這裡的熱能平衡正在崩潰——四位守護者已經在山脊上了！",
+          "bx": 38,
+          "by": -14,
+          "tx": 46,
+          "ty": 7,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼呼——！",
+          "x": 82,
+          "y": 22,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#DC2626"
+        },
+        {
+          "kind": "mood",
+          "text": "蒸氣瀰漫",
+          "x": 16,
+          "y": 78,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH06_P02_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "語晨，熔岩正湧上冰牆！這太不自然了！",
+          "bx": 24,
+          "by": -14,
+          "tx": 21,
+          "ty": 8,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "道肜，火冰狗也感覺到了——整座峽谷都失去平衡了！",
+          "bx": 68,
+          "by": -14,
+          "tx": 37,
+          "ty": 14,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嘶嘶作響……",
+          "x": 78,
+          "y": 74,
+          "rotate": -6,
+          "size": 36,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "緊繃",
+          "x": 78,
+          "y": 24,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#1E3A8A"
+        }
+      ]
+    },
+    {
+      "id": "p02_01_eye",
+      "file": "CH06_P02_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "top_gutter": 16,
+      "bottom_gutter": 16,
+      "crop": [
+        0.12,
+        0.13,
+        0.45,
+        0.34
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "警戒！",
+          "x": 12,
+          "y": 28,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH06_P02_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "譯仁，我的星辰時光羅盤鎖定了石橋——有個龐然大物正在甦醒！",
+          "bx": 28,
+          "by": -14,
+          "tx": 39,
+          "ty": 12,
+          "max_chars": 22
+        },
+        {
+          "type": "whisper",
+          "text": "跟緊一點，波比……連飄落的火山灰都帶著故障程式碼的嗡鳴。",
+          "bx": 74,
+          "by": -14,
+          "tx": 63,
+          "ty": 15,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "落灰……",
+          "x": 16,
+          "y": 24,
+          "rotate": -8,
+          "size": 22,
+          "fill": "#475569"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH06_P03_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 122,
+      "bottom_gutter": 30,
+      "speedlines": {
+        "cx": 38,
+        "cy": 38,
+        "color": "#F97316",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "吼嗚嗚嗚——！！",
+          "bx": 24,
+          "by": -14,
+          "tx": 36,
+          "ty": 6,
+          "max_chars": 20
+        },
+        {
+          "type": "glitch",
+          "text": "魔碼領主的過熱迴圈已啟動。碾碎那座橋吧，熔岩故障泰坦！",
+          "bx": 72,
+          "by": -14,
+          "tx": 85,
+          "ty": 4,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "轟隆",
+            "轟隆",
+            "喀啦轟！"
+          ],
+          "x": 54,
+          "y": 54,
+          "step_x": 36,
+          "step_y": 38,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#DC2626"
+        },
+        {
+          "kind": "mood",
+          "text": "大地震動！！",
+          "x": 16,
+          "y": 78,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#7E22CE"
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH06_P03_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 116,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "快退到我們身後，巴克利和火冰狗！翡翠神盾——全力防禦！",
+          "bx": 38,
+          "by": -15,
+          "tx": 40,
+          "ty": 12,
+          "max_chars": 23
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋啪——！！",
+          "x": 74,
+          "y": 24,
+          "rotate": -12,
+          "size": 36,
+          "fill": "#10B981"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.28,
+          0.12,
+          0.56,
+          0.44
+        ],
+        "x": 548,
+        "y_off": 135,
+        "w": 222,
+        "h": 222,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "神盾！！",
+            "x": 54,
+            "y": 86,
+            "rotate": -6,
+            "size": 32,
+            "fill": "#059669"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 — 英雄凱",
+        "concept": "條件守衛 (if / elif)",
+        "lines": [
+          "if hazard == \"magma_surge\":",
+          "    cast_shield(\"emerald_aegis\", power=95)",
+          "elif hazard == \"glitch_bolt\":",
+          "    reflect_code(target=\"titan_core\")"
+        ],
+        "output": "翡翠神盾啟動：已偏折熔岩與故障電擊！"
+      }
+    },
+    {
+      "id": "p04_01",
+      "file": "CH06_P04_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "小心！腳下的石橋快裂開了！",
+          "bx": 26,
+          "by": -14,
+          "tx": 37,
+          "ty": 12,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "我抓穩妳了，語晨！巴克利，快和火冰狗一起冷卻橋緣！",
+          "bx": 70,
+          "by": -14,
+          "tx": 56,
+          "ty": 9,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "碎裂！！",
+          "x": 18,
+          "y": 78,
+          "rotate": -14,
+          "size": 40,
+          "fill": "#DC2626"
+        },
+        {
+          "kind": "mood",
+          "text": "震動！",
+          "x": 84,
+          "y": 24,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p04_01_eye",
+      "file": "CH06_P04_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "top_gutter": 16,
+      "bottom_gutter": 16,
+      "crop": [
+        0.28,
+        0.16,
+        0.66,
+        0.38
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "撐住！",
+          "x": 51,
+          "y": 80,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH06_P04_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "我看出規律了，譯仁！泰坦被困在過熱迴圈裡——它的核心需要降溫！",
+          "bx": 28,
+          "by": -14,
+          "tx": 25,
+          "ty": 9,
+          "max_chars": 23
+        },
+        {
+          "type": "speech",
+          "text": "在我們修復之前，波比的露珠護盾能守護每一株嫩芽！",
+          "bx": 74,
+          "by": -14,
+          "tx": 76,
+          "ty": 22,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "微光閃爍～",
+          "x": 45,
+          "y": 26,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "溫柔光輝",
+          "x": 70,
+          "y": 84,
+          "rotate": 4,
+          "size": 20,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p05_01",
+      "file": "CH06_P05_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 128,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "巴克利的溫暖加上冰霜……",
+          "bx": 15,
+          "by": -15,
+          "tx": 29,
+          "ty": 15,
+          "max_chars": 20,
+          "font_size": 14.5
+        },
+        {
+          "type": "speech",
+          "text": "不能以火攻火——我們需要一個平衡迴圈！",
+          "bx": 51,
+          "by": -15,
+          "tx": 50,
+          "ty": 13,
+          "max_chars": 20,
+          "font_size": 14.5
+        },
+        {
+          "type": "speech",
+          "text": "我們一起讓它穩定下來！",
+          "bx": 86,
+          "by": -15,
+          "tx": 72,
+          "ty": 20,
+          "max_chars": 20,
+          "font_size": 14.5
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "沙沙繪陣～",
+          "x": 50,
+          "y": 86,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#D97706"
+        },
+        {
+          "kind": "mood",
+          "text": "全神貫注",
+          "x": 14,
+          "y": 22,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#1E3A8A"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 — 熱能戰術",
+        "concept": "While 迴圈 — 冷卻過熱核心",
+        "lines": [
+          "temp = 1200  # Magma-Glitch Overheat",
+          "while temp > 300:",
+          "    temp -= balance_pulse(\"Barkley\", \"IgnisFrost\")",
+          "print(\"Thermal stability restored!\")"
+        ],
+        "output": "冷卻循環已鎖定：目標溫度 = 300°C"
+      }
+    },
+    {
+      "id": "p05_02",
+      "file": "CH06_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "只要我的星辰時光羅盤同步節奏，譯仁的露珠就能淨化核心！",
+          "bx": 50,
+          "by": -14,
+          "tx": 71,
+          "ty": 17,
+          "max_chars": 23
+        },
+        {
+          "type": "speech",
+          "text": "我們的聖物已經開始共鳴了！",
+          "bx": 84,
+          "by": -14,
+          "tx": 83,
+          "ty": 22,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嗡鳴～",
+          "x": 24,
+          "y": 32,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "共鳴",
+          "x": 24,
+          "y": 74,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH06_P06_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "我們的勇氣絕不會融化，巴克利！回應爐心徽章吧！",
+          "bx": 26,
+          "by": -14,
+          "tx": 24,
+          "ty": 11,
+          "max_chars": 21
+        },
+        {
+          "type": "shout",
+          "text": "冰火和鳴——與我一同覺醒吧，火冰狗！",
+          "bx": 74,
+          "by": -14,
+          "tx": 78,
+          "ty": 9,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟燃！",
+          "x": 50,
+          "y": 24,
+          "rotate": -6,
+          "size": 38,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "美德同步",
+          "x": 50,
+          "y": 78,
+          "rotate": 4,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p06_01_eye",
+      "file": "CH06_P06_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "top_gutter": 16,
+      "bottom_gutter": 16,
+      "crop": [
+        0.12,
+        0.26,
+        0.44,
+        0.56
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "點燃！！",
+          "x": 82,
+          "y": 54,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH06_P06_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 84,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 50,
+        "cy": 48,
+        "color": "#FDE047",
+        "opacity": 0.28
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "兩顆心靈、兩種元素——被金色爐火與結晶冰霜層層包覆。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "閃耀！！",
+          "x": 50,
+          "y": 18,
+          "rotate": -5,
+          "size": 40,
+          "fill": "#D97706"
+        },
+        {
+          "kind": "mood",
+          "text": "進化中……",
+          "x": 50,
+          "y": 84,
+          "rotate": 0,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH06_P07_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 70,
+      "bottom_gutter": 12,
+      "speedlines": {
+        "cx": 50,
+        "cy": 22,
+        "color": "#FDE047",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二階段覺醒！巴克利的爐火雙翼與火冰狗的水晶冠飾燦爛綻放！",
+          "bx": 50,
+          "by": -6,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "烈焰綻放！！",
+          "x": 50,
+          "y": 86,
+          "rotate": -6,
+          "size": 44,
+          "fill": "#EA580C"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p07_03_portrait",
+      "file": "CH06_P07_03_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 880,
+      "top_gutter": 48,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "洪語晨與二階火冰狗將烈焰與冰川編織成純粹的平衡！",
+          "bx": 50,
+          "by": 1,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "平衡！！",
+          "x": 76,
+          "y": 15,
+          "rotate": -8,
+          "size": 38,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "和諧～",
+          "x": 20,
+          "y": 88,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH06_P07_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "哇，巴克利——你的翅膀好巨大！我們準備好守護大家了！",
+          "bx": 26,
+          "by": -14,
+          "tx": 22,
+          "ty": 10,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "你辦到了，火冰狗！現在去幫那尊泰坦降溫吧！",
+          "bx": 72,
+          "by": -14,
+          "tx": 66,
+          "ty": 10,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃閃發光～",
+          "x": 50,
+          "y": 18,
+          "rotate": 0,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH06_P08_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "輪到我們了，DOYB！鎖定星辰時光訊號！",
+          "bx": 22,
+          "by": -14,
+          "tx": 16,
+          "ty": 35,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "盡情綻放吧，波比！讓每片花瓣都承載我們的溫柔！",
+          "bx": 66,
+          "by": -14,
+          "tx": 70,
+          "ty": 32,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "盤旋～",
+          "x": 50,
+          "y": 26,
+          "rotate": -8,
+          "size": 32,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p08_01_eye",
+      "file": "CH06_P08_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 175,
+      "top_gutter": 16,
+      "bottom_gutter": 16,
+      "crop": [
+        0.14,
+        0.38,
+        0.42,
+        0.62
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滴答鎖定！",
+          "x": 80,
+          "y": 54,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#2563EB"
+        }
+      ]
+    },
+    {
+      "id": "p08_01b",
+      "file": "CH06_P08_01B_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 84,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "星辰鐘錶與露珠花瓣在夜空中交織共舞。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "叮鈴",
+            "閃耀",
+            "綻放！"
+          ],
+          "x": 10,
+          "y": 18,
+          "step_x": 34,
+          "step_y": 32,
+          "rotate": -8,
+          "size": 28,
+          "fill": "#2563EB"
+        },
+        {
+          "kind": "mood",
+          "text": "星光～",
+          "x": 86,
+          "y": 20,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p08_01c",
+      "file": "CH06_P08_01C_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 86,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#F472B6",
+        "opacity": 0.25
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "星光雙翼展開、銀河符文點亮——另外兩位二階守護獸誕生了！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "璀璨！！",
+          "x": 50,
+          "y": 18,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#9333EA"
+        },
+        {
+          "kind": "mood",
+          "text": "光輝四射",
+          "x": 16,
+          "y": 86,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p08_01c_eye",
+      "file": "CH06_P08_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "crop": [
+        0.56,
+        0.34,
+        0.84,
+        0.58
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "綻放中～",
+          "x": 18,
+          "y": 54,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p08_03_portrait",
+      "file": "CH06_P08_03_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 880,
+      "top_gutter": 8,
+      "bottom_gutter": 6,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "梅譯仁的露珠花瓣茶杯與二階波比，將火山岩化作繁花！",
+          "bx": 50,
+          "by": 5,
+          "max_chars": 46
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "繁花盛開！！",
+          "x": 24,
+          "y": 18,
+          "rotate": -8,
+          "size": 38,
+          "fill": "#DB2777"
+        },
+        {
+          "kind": "mood",
+          "text": "柔光～",
+          "x": 80,
+          "y": 88,
+          "rotate": 4,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p08_02",
+      "file": "CH06_P08_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 96,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "看看你，DOYB！你的星辰帽就像超新星一樣閃耀！",
+          "bx": 24,
+          "by": -13,
+          "tx": 21,
+          "ty": 26,
+          "max_chars": 24,
+          "font_size": 14.8
+        },
+        {
+          "type": "speech",
+          "text": "喔，波比——你好美！我們一定能治癒整座峽谷！",
+          "bx": 76,
+          "by": -13,
+          "tx": 81,
+          "ty": 25,
+          "max_chars": 24,
+          "font_size": 14.8
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "驚嘆～",
+          "x": 50,
+          "y": 20,
+          "rotate": 0,
+          "size": 24,
+          "fill": "#DB2777"
+        }
+      ],
+      "height": 410
+    },
+    {
+      "id": "p09_01",
+      "file": "CH06_P09_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 88,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "巴克利的穩定暖流遇上火冰狗的冷卻弧光——將狂暴熔岩化作彩虹水霧。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嘶呼——！！",
+          "x": 50,
+          "y": 76,
+          "rotate": -8,
+          "size": 40,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "完美平衡",
+          "x": 50,
+          "y": 18,
+          "rotate": 4,
+          "size": 22,
+          "fill": "#D97706"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 — 四重和諧",
+        "concept": "帶參數的函式",
+        "lines": [
+          "def sync_element(partner, virtue, power):",
+          "    return f\"{partner}:{virtue}({power})\"",
+          "beam = [sync_element(\"Barkley\", \"Warmth\", 90),",
+          "        sync_element(\"IgnisFrost\", \"Balance\", 90)]"
+        ],
+        "output": "熱平衡光束：100% 同步完成！"
+      }
+    },
+    {
+      "id": "p09_02",
+      "file": "CH06_P09_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 78,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "DOYB 的時光環鎖定泰坦的發條核心，而波比的花瓣清除了所有故障！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嗡轉！！",
+          "x": 42,
+          "y": 84,
+          "rotate": -10,
+          "size": 38,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "淨化～",
+          "x": 84,
+          "y": 22,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#DB2777"
+        }
+      ]
+    },
+    {
+      "id": "p10_01_eye",
+      "file": "CH06_P10_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 155,
+      "top_gutter": 10,
+      "bottom_gutter": 10,
+      "crop": [
+        0.36,
+        0.2,
+        0.64,
+        0.48
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "淨化中！",
+          "x": 82,
+          "y": 54,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p10_01",
+      "file": "CH06_P10_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 132,
+      "bottom_gutter": 84,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "不可能！他們不是在摧毀泰坦——而是在治癒它的核心？！",
+          "bx": 66,
+          "by": -18,
+          "tx": 86,
+          "ty": 4,
+          "max_chars": 24,
+          "font_size": 15.5
+        },
+        {
+          "type": "narration",
+          "text": "翡翠蓮瓣在熔岩裝甲上層層綻放。",
+          "bx": 34,
+          "by": 112,
+          "max_chars": 28,
+          "font_size": 15.0
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "震驚！",
+          "x": 80,
+          "y": 38,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#7E22CE"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.4,
+          0.28,
+          0.62,
+          0.56
+        ],
+        "x": 548,
+        "y_off": 140,
+        "w": 222,
+        "h": 222,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "盛開！",
+            "x": 52,
+            "y": 86,
+            "rotate": -6,
+            "size": 30,
+            "fill": "#10B981"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p10_01b",
+      "file": "CH06_P10_01B_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 90,
+      "bottom_gutter": 26,
+      "speedlines": {
+        "cx": 56,
+        "cy": 42,
+        "color": "#FDE047",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "四位二階守護獸齊心出擊——永遠打破了魔碼領主的過熱迴圈！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟鳴閃耀！！",
+          "x": 50,
+          "y": 88,
+          "rotate": -5,
+          "size": 44,
+          "fill": "#D97706"
+        },
+        {
+          "kind": "mood",
+          "text": "和諧！",
+          "x": 58,
+          "y": 14,
+          "rotate": 4,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON 魔法書 — 四重終結技",
+        "concept": "串列生成式與 all()",
+        "lines": [
+          "guardians = [\"Barkley\", \"IgnisFrost\", \"DOYB\", \"Poppy\"]",
+          "purified = [cleanse(core, pet) for pet in guardians]",
+          "if all(purified):",
+          "    titan.status = \"PEACEFUL_GUARDIAN\""
+        ],
+        "output": "過熱迴圈已打破！峽谷恢復生機！"
+      }
+    },
+    {
+      "id": "p10_02",
+      "file": "CH06_P10_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 118,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "他們沒有砸碎它，而是救了它……也許魔碼領主看錯他們了。",
+          "bx": 54,
+          "by": -14,
+          "tx": 74,
+          "ty": 8,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "靜默敬畏……",
+          "x": 24,
+          "y": 22,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#0284C7"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.68,
+          0.08,
+          0.85,
+          0.3
+        ],
+        "x": 548,
+        "y_off": 140,
+        "w": 222,
+        "h": 222,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "猶豫……",
+            "x": 52,
+            "y": 86,
+            "rotate": -4,
+            "size": 22,
+            "fill": "#475569"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p11_01",
+      "file": "CH06_P11_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 128,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "太棒了！大家快來吃熱騰騰的素包子和烤玉米！",
+          "bx": 19,
+          "by": -15,
+          "tx": 24,
+          "ty": 24,
+          "max_chars": 20,
+          "font_size": 14.5
+        },
+        {
+          "type": "speech",
+          "text": "譯仁的莓果塔在極光下吃起來更美味了！",
+          "bx": 56,
+          "by": -15,
+          "tx": 54,
+          "ty": 24,
+          "max_chars": 20,
+          "font_size": 14.5
+        },
+        {
+          "type": "speech",
+          "text": "大家開動吧！",
+          "bx": 87,
+          "by": -15,
+          "tx": 78,
+          "ty": 31,
+          "max_chars": 20,
+          "font_size": 14.5
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "劈啪作響～",
+          "x": 50,
+          "y": 76,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "溫暖",
+          "x": 12,
+          "y": 20,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p11_01_eye",
+      "file": "CH06_P11_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "crop": [
+        0.2,
+        0.25,
+        0.86,
+        0.49
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "歡樂～",
+          "x": 45,
+          "y": 22,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH06_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 88,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "四位剛覺醒的夥伴並肩歇息——彼此的羈絆比任何風暴都堅固。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 44
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "溫馨～",
+          "x": 54,
+          "y": 22,
+          "rotate": -5,
+          "size": 26,
+          "fill": "#D97706"
+        },
+        {
+          "kind": "mood",
+          "text": "螢火蟲",
+          "x": 86,
+          "y": 18,
+          "rotate": 6,
+          "size": 20,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH06_P12_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 116,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "看東方，小火！翠竹聖殿正發出翡翠信標呼喚我們——還有更多守護者需要幫助！",
+          "bx": 38,
+          "by": -14,
+          "tx": 43,
+          "ty": 6,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼呼！",
+          "x": 20,
+          "y": 22,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#0284C7"
+        },
+        {
+          "kind": "mood",
+          "text": "新訊號！",
+          "x": 78,
+          "y": 80,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p12_01_eye",
+      "file": "CH06_P12_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 185,
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "crop": [
+        0.16,
+        0.16,
+        0.56,
+        0.42
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "危機逼近……",
+          "x": 82,
+          "y": 54,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#7E22CE"
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH06_P12_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 142,
+      "bottom_gutter": 26,
+      "speedlines": {
+        "cx": 30,
+        "cy": 38,
+        "color": "#C084FC",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "竟然淨化了我的泰坦……無所謂！甦醒吧，翠竹暗影巨蟒——用無限遞迴盤踞他們的下一個聖殿！",
+          "bx": 46,
+          "by": -20,
+          "tx": 31,
+          "ty": 4,
+          "max_chars": 28,
+          "font_size": 15.5
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "不祥氣息……",
+          "x": 16,
+          "y": 42,
+          "rotate": -8,
+          "size": 22,
+          "fill": "#7E22CE"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.64,
+          0.24,
+          0.86,
+          0.54
+        ],
+        "x": 548,
+        "y_off": 138,
+        "w": 222,
+        "h": 222,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "嘶嘶嘶！！",
+            "x": 52,
+            "y": 86,
+            "rotate": -6,
+            "size": 32,
+            "fill": "#9333EA"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "villain",
+        "badge": "魔碼故障引擎 — 第七章威脅",
+        "concept": "反派臭蟲 — 無限遞迴",
+        "lines": [
+          "def coil_bamboo_sanctuary(depth):",
+          "    summon_shadow_serpent(depth)",
+          "    return coil_bamboo_sanctuary(depth + 1)  # No base case!"
+        ],
+        "output": "警告：RecursionError — 翠竹聖殿已被封鎖！"
+      }
+    }
+  ],
+  "end_banner": {
+    "kicker": "未完待續 · 第七章",
+    "title": "翠竹聖殿與暗影巨蟒",
+    "subtitle": "下回預告：凱飛向翡翠信標，而魔碼領主將無限遞迴暗影巨蟒放進月夜竹林！"
+  }
+}

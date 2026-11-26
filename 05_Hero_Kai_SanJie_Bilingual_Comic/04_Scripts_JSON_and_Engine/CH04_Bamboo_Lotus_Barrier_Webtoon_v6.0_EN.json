@@ -1,0 +1,1414 @@
+{
+  "kicker": "WEBTOON V6.0 · ENGLISH DIRECTOR'S CUT",
+  "title": "CHAPTER 4: THE BAMBOO LOTUS BARRIER",
+  "subtitle": "Skill-Showcase Edition · 28 Unique Panels · Realm IV: Celestial Observatory (v6.0)",
+  "sections": [
+    {
+      "id": "c4_ex00_habitat_celestial",
+      "file": "BOOK_07_DIVIDER_CELESTIAL.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 92,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "Realm IV · Celestial Observatory — Home to #08 Lee Khang Kok, #09 Gisele Khoo, #12 Chong Jing Cheng, #15 Cheah Hao Fung & #16 Chan Shi Ye.",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 42
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "STARLIGHT...",
+          "x": 18,
+          "y": 16,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#8B5CF6"
+        }
+      ]
+    },
+    {
+      "id": "p01_01",
+      "file": "CH04_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 74,
+      "bottom_gutter": 74,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "DEEP IN THE MISTY HILLS LIES THE WHISPERING BAMBOO SANCTUARY...",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 36
+        },
+        {
+          "type": "narration",
+          "text": "A LIVING GROVE OF LANTERNS, STREAMS, AND FIVE QUIET GUARDIANS.",
+          "bx": 50,
+          "by": 110,
+          "max_chars": 36
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SERENE...",
+          "x": 22,
+          "y": 24,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#15803D"
+        }
+      ],
+      "height": 430
+    },
+    {
+      "id": "p01_02",
+      "file": "CH04_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "THERE IT IS, EMBER! THE FOURTH BEACON!",
+          "bx": 28,
+          "by": -14,
+          "tx": 57,
+          "ty": 9,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "WHOOOSH!",
+          "x": 20,
+          "y": 38,
+          "rotate": -10,
+          "size": 40,
+          "fill": "#EA580C"
+        },
+        {
+          "kind": "mood",
+          "text": "PULSE...",
+          "x": 34,
+          "y": 78,
+          "rotate": -5,
+          "size": 20,
+          "fill": "#10B981"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p02_01",
+      "file": "CH04_P02_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 120,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "BELOW THE CANOPY, LEE MING HUI TENDS THE GROVE.",
+          "bx": 26,
+          "by": -15,
+          "max_chars": 24
+        },
+        {
+          "type": "speech",
+          "text": "EASY, SYLVAN-FOX. THIS SPROUT IS HUMMING WITH ENERGY.",
+          "bx": 75,
+          "by": -16,
+          "tx": 60,
+          "ty": 10,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SPARKLE~",
+          "x": 36,
+          "y": 40,
+          "rotate": -8,
+          "size": 22,
+          "fill": "#16A34A"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p02_02",
+      "file": "CH04_P02_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 120,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "WATERWHEEL FLOW IS STEADY. HOW ARE THE SENSORS, EMERALD-X?",
+          "bx": 28,
+          "by": -16,
+          "tx": 46,
+          "ty": 7,
+          "max_chars": 21
+        },
+        {
+          "type": "thought",
+          "text": "BEEP! SIGNAL SPIKE DETECTED IN SECTOR FOUR!",
+          "bx": 76,
+          "by": -16,
+          "tx": 78,
+          "ty": 32,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "CLACK-SPIN!",
+          "x": 19,
+          "y": 46,
+          "rotate": -9,
+          "size": 30,
+          "fill": "#0284C7"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p02_02_eye",
+      "file": "CH04_P02_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "crop": [
+        0.54,
+        0.28,
+        0.96,
+        0.62
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BEEP-BEEP!",
+          "x": 22,
+          "y": 55,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#DC2626"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH04_P03_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 118,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "MIKU'S RIBBONS ARE GLOWING BRIGHTER TONIGHT.",
+          "bx": 27,
+          "by": -16,
+          "tx": 34,
+          "ty": 6,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "STAR-YARN FEELS IT TOO! SOMEONE'S COMING!",
+          "bx": 74,
+          "by": -16,
+          "tx": 74,
+          "ty": 17,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CHIME~",
+          "x": 14,
+          "y": 54,
+          "rotate": -8,
+          "size": 22,
+          "fill": "#7C3AED"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p03_02",
+      "file": "CH04_P03_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 137,
+      "bottom_gutter": 54,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "WAIT... THAT PURPLE FOG ISN'T NORMAL MIST.",
+          "bx": 34,
+          "by": -16,
+          "tx": 60,
+          "ty": 8,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "EERIE...",
+          "x": 85,
+          "y": 24,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#9333EA"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p03_02_eye",
+      "file": "CH04_P03_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 410,
+      "top_gutter": 95,
+      "bottom_gutter": 70,
+      "crop": [
+        0.22,
+        0.16,
+        0.86,
+        0.48
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "CREEPING MIST...",
+          "x": 74,
+          "y": 56,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH04_P04_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 74,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "HELLO, BAMBOO GUARDIANS! WE SAW YOUR BEACON!",
+          "bx": 50,
+          "by": -14,
+          "tx": 62,
+          "ty": 15,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "A DRAGON RIDER?!",
+          "bx": 22,
+          "by": 110,
+          "tx": 24,
+          "ty": 94,
+          "max_chars": 16
+        },
+        {
+          "type": "speech",
+          "text": "THAT MUST BE HERO KAI!",
+          "bx": 78,
+          "by": 110,
+          "tx": 79,
+          "ty": 94,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FLAP-WOOSH!",
+          "x": 19,
+          "y": 22,
+          "rotate": -10,
+          "size": 32,
+          "fill": "#DC2626"
+        }
+      ],
+      "height": 410
+    },
+    {
+      "id": "p04_02",
+      "file": "CH04_P04_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 114,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "OUR SANCTUARY CRYSTALS STARTED PULSING AN HOUR AGO.",
+          "bx": 26,
+          "by": -15,
+          "tx": 31,
+          "ty": 23,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "LORD MALCODE'S SWARM IS TRACKING EVERY BEACON!",
+          "bx": 74,
+          "by": -15,
+          "tx": 46,
+          "ty": 19,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "HUDDLE!",
+          "x": 86,
+          "y": 42,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#D97706"
+        }
+      ],
+      "height": 410
+    },
+    {
+      "id": "p04_02_eye",
+      "file": "CH04_P04_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 168,
+      "top_gutter": 10,
+      "bottom_gutter": 10,
+      "crop": [
+        0.16,
+        0.16,
+        0.84,
+        0.44
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "LOCKED IN!",
+          "x": 82,
+          "y": 54,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p05_01",
+      "file": "CH04_P05_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 124,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "LET'S SCAN ALL THREE CRYSTALS WITH A PYTHON LOOP!",
+          "bx": 26,
+          "by": -16,
+          "tx": 31,
+          "ty": 7,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "CRYSTAL THREE'S SIGNAL IS TURNING PURPLE—IT'S A GLITCH!",
+          "bx": 74,
+          "by": -16,
+          "tx": 68,
+          "ty": 7,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BZZT-HUM!",
+          "x": 50,
+          "y": 86,
+          "rotate": -4,
+          "size": 28,
+          "fill": "#A855F7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • HERO KAI & HAO FUNG",
+        "concept": "for Loop + if/else Diagnostics",
+        "lines": [
+          "crystals = ['green', 'emerald', 'glitch_purple']",
+          "for i, aura in enumerate(crystals, start=1):",
+          "    if aura == 'glitch_purple':",
+          "        print(f'ALERT: Glitch on Crystal {i}!')"
+        ],
+        "output": "ALERT: Glitch on Crystal 3!"
+      },
+      "height": 425
+    },
+    {
+      "id": "p05_02",
+      "file": "CH04_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 124,
+      "bottom_gutter": 30,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "IF THE BUGS BREACH THE GROVE, WE NEED A UNIFIED SHIELD.",
+          "bx": 26,
+          "by": -16,
+          "tx": 25,
+          "ty": 24,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "MY SKETCH-SCROLL CAN PROJECT ONE—I JUST NEED PRACTICE!",
+          "bx": 74,
+          "by": -16,
+          "tx": 76,
+          "ty": 26,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "STEEP...",
+          "x": 57,
+          "y": 46,
+          "rotate": -5,
+          "size": 20,
+          "fill": "#059669"
+        }
+      ],
+      "height": 425
+    },
+    {
+      "id": "p06_01",
+      "file": "CH04_P06_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "WHOA! MY SHIELD KEEPS FLICKERING OUT!",
+          "bx": 26,
+          "by": -14,
+          "tx": 34,
+          "ty": 18,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "DON'T WORRY, JING CHENG! NO GUARDIAN HAS TO HOLD IT ALONE.",
+          "bx": 74,
+          "by": -14,
+          "tx": 67,
+          "ty": 19,
+          "max_chars": 22
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "POOF!",
+          "x": 52,
+          "y": 60,
+          "rotate": -10,
+          "size": 32,
+          "fill": "#16A34A"
+        },
+        {
+          "kind": "mood",
+          "text": "SWEAT!",
+          "x": 18,
+          "y": 40,
+          "rotate": -12,
+          "size": 20,
+          "fill": "#2563EB"
+        }
+      ],
+      "height": 405
+    },
+    {
+      "id": "p06_01b",
+      "file": "CH04_P06_01B_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 830,
+      "top_gutter": 10,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "HAHA, MIMIK-SPARK! IF WE SKETCH TOGETHER, MY SHIELD WON'T FLICKER!",
+          "bx": 50,
+          "by": 11,
+          "tx": 50,
+          "ty": 41,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ZAP-SPARK~!",
+          "x": 81,
+          "y": 44,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#EAB308"
+        },
+        {
+          "kind": "mood",
+          "text": "GLOW~",
+          "x": 22,
+          "y": 64,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH04_P06_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 120,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "MEANWHILE, ABOVE THE EASTERN RIDGE...",
+          "bx": 25,
+          "by": -14,
+          "max_chars": 24
+        },
+        {
+          "type": "glitch",
+          "text": "FIVE LITTLE GUARDIANS? SWARM, DISRUPT THEIR GROVE!",
+          "bx": 74,
+          "by": -15,
+          "tx": 62,
+          "ty": 7,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "BZZZ!",
+            "BZZZ!"
+          ],
+          "x": 14,
+          "y": 32,
+          "rotate": -8,
+          "size": 34,
+          "step_x": 42,
+          "step_y": 44,
+          "fill": "#9333EA"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "GLITCH SCRIPT • SHADOW SCOUT",
+        "concept": "while Loop Swarm Spawner",
+        "lines": [
+          "beetles = 0",
+          "while beetles < 6:",
+          "    beetles += 1",
+          "    deploy_glitch_beetle(target='Bamboo_Grove')"
+        ],
+        "output": "6 Glitch-Beetles locked onto Bamboo_Grove!"
+      },
+      "height": 445
+    },
+    {
+      "id": "p07_01",
+      "file": "CH04_P07_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 120,
+      "bottom_gutter": 32,
+      "speedlines": {
+        "cx": 38,
+        "cy": 48,
+        "color": "#E879F9",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "CRASH THEIR SANCTUARY WITH GLITCH LIGHTNING!",
+          "bx": 38,
+          "by": -16,
+          "tx": 58,
+          "ty": 4,
+          "max_chars": 20
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KOOOM!!",
+          "x": 28,
+          "y": 78,
+          "rotate": -12,
+          "size": 38,
+          "fill": "#C026D3"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.48,
+          0.14,
+          0.74,
+          0.44
+        ],
+        "x": 545,
+        "y_off": 148,
+        "w": 226,
+        "h": 216,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "ZAP!!",
+            "x": 72,
+            "y": 86,
+            "rotate": -8,
+            "size": 28,
+            "fill": "#A855F7"
+          }
+        ]
+      },
+      "height": 365
+    },
+    {
+      "id": "p07_02",
+      "file": "CH04_P07_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 74,
+      "speedlines": {
+        "cx": 74,
+        "cy": 36,
+        "color": "#FDE047",
+        "opacity": 0.24
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "GET BACK! YOU'RE NOT TOUCHING THIS GROVE!",
+          "bx": 34,
+          "by": -14,
+          "tx": 38,
+          "ty": 19,
+          "max_chars": 19
+        },
+        {
+          "type": "speech",
+          "text": "YIP! YIP!",
+          "bx": 68,
+          "by": 110,
+          "tx": 62,
+          "ty": 92,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ZZZAP!",
+          "x": 80,
+          "y": 78,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#9333EA"
+        }
+      ],
+      "height": 410
+    },
+    {
+      "id": "p08_01",
+      "file": "CH04_P08_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 110,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "HOLD MY HAND, SHI YE! STEADY THE LANTERNS!",
+          "bx": 26,
+          "by": -14,
+          "tx": 39,
+          "ty": 19,
+          "max_chars": 20
+        },
+        {
+          "type": "shout",
+          "text": "MIKU AND STAR-YARN—WEAVE TOGETHER!",
+          "bx": 74,
+          "by": -14,
+          "tx": 60,
+          "ty": 21,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SWIRRRRL!",
+          "x": 19,
+          "y": 32,
+          "rotate": -12,
+          "size": 32,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "height": 410
+    },
+    {
+      "id": "p08_01_eye",
+      "file": "CH04_P08_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 168,
+      "top_gutter": 10,
+      "bottom_gutter": 10,
+      "crop": [
+        0.22,
+        0.16,
+        0.78,
+        0.44
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "IN UNISON!",
+          "x": 82,
+          "y": 54,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p08_02",
+      "file": "CH04_P08_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 122,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "TOO MANY TO FIGHT ALONE! TO THE PEDESTAL!",
+          "bx": 22,
+          "by": -16,
+          "tx": 35,
+          "ty": 23,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "WE HAVE TO LINK ALL FIVE RELICS AT ONCE!",
+          "bx": 98,
+          "by": -16,
+          "tx": 46,
+          "ty": 16,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SKREEECH!",
+          "x": 74,
+          "y": 54,
+          "rotate": -8,
+          "size": 30,
+          "fill": "#9333EA"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.24,
+          0.24,
+          0.44,
+          0.54
+        ],
+        "x": 545,
+        "y_off": 148,
+        "w": 226,
+        "h": 216,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "LOCKED IN!",
+            "x": 52,
+            "y": 88,
+            "rotate": -6,
+            "size": 22,
+            "fill": "#EA580C"
+          }
+        ]
+      },
+      "height": 365
+    },
+    {
+      "id": "p08_02b",
+      "file": "CH04_P08_02B_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 120,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FFFFFF",
+        "opacity": 0.32
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "NICE ZAP, MIMIK-SPARK! KEEP RUNNING!",
+          "bx": 23,
+          "by": -16,
+          "tx": 48,
+          "ty": 20,
+          "max_chars": 18
+        },
+        {
+          "type": "shout",
+          "text": "EMERALD-X, COVER OUR FLANK!",
+          "bx": 78,
+          "by": -16,
+          "tx": 68,
+          "ty": 21,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "ZAP-PEW!!",
+          "x": 16,
+          "y": 68,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • JING CHENG & HAO FUNG",
+        "concept": "Reusable Functions (def)",
+        "lines": [
+          "def cover_flank(pet, skill):",
+          "    return f'{pet} casts {skill} — path clear!'",
+          "print(cover_flank('Mimik-Spark', 'Volt-Zap'))",
+          "print(cover_flank('Emerald-X', 'Eco-Beam'))"
+        ],
+        "output": "Mimik-Spark casts Volt-Zap — path clear! | Emerald-X casts Eco-Beam — path clear!"
+      },
+      "height": 430
+    },
+    {
+      "id": "p09_01",
+      "file": "CH04_P09_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 122,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "ALL FIVE GUARDIANS—SYNC YOUR RELICS ON THREE!",
+          "bx": 26,
+          "by": -16,
+          "tx": 28,
+          "ty": 11,
+          "max_chars": 20
+        },
+        {
+          "type": "shout",
+          "text": "ONE... TWO... THREE—ACTIVATE!",
+          "bx": 75,
+          "by": -16,
+          "tx": 60,
+          "ty": 15,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHIIING!!",
+          "x": 50,
+          "y": 66,
+          "rotate": -6,
+          "size": 32,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • FIVE GUARDIANS SYNC",
+        "concept": "Lists & all() Boolean Gate",
+        "lines": [
+          "relics_ready = [True, True, True, True, True]",
+          "if all(relics_ready) and len(relics_ready) == 5:",
+          "    launch_lotus_barrier(power='MAX')"
+        ],
+        "output": "ALL 5 RELICS SYNCED! Launching Emerald Lotus Barrier..."
+      },
+      "height": 425
+    },
+    {
+      "id": "p09_02",
+      "file": "CH04_P09_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 88,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FIVE PETS. FIVE VIRTUES. ONE UNBREAKABLE RESONANCE!",
+          "bx": 50,
+          "by": -11,
+          "max_chars": 36
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "BLOOOOOM!!",
+          "x": 50,
+          "y": 32,
+          "rotate": -5,
+          "size": 46,
+          "fill": "#059669"
+        },
+        {
+          "kind": "mood",
+          "text": "RADIANT!",
+          "x": 18,
+          "y": 54,
+          "rotate": -10,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 450
+    },
+    {
+      "id": "p09_02b",
+      "file": "CH04_P09_02B_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 112,
+      "bottom_gutter": 18,
+      "speedlines": {
+        "cx": 40,
+        "cy": 60,
+        "color": "#86EFAC",
+        "opacity": 0.36
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "EMERALD LOTUS BARRIER—MAXIMUM POWER!",
+          "bx": 22,
+          "by": -16,
+          "tx": 40,
+          "ty": 18,
+          "max_chars": 18
+        },
+        {
+          "type": "glitch",
+          "text": "NO! THEIR SYNCED CODE REPELLED THE ENTIRE SWARM!",
+          "bx": 98,
+          "by": -16,
+          "tx": 88,
+          "ty": 30,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "FWOOOSH!!",
+          "x": 32,
+          "y": 32,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#10B981"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.76,
+          0.22,
+          0.98,
+          0.58
+        ],
+        "x": 545,
+        "y_off": 126,
+        "w": 226,
+        "h": 216,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "GAH!!",
+            "x": 68,
+            "y": 86,
+            "rotate": -8,
+            "size": 30,
+            "fill": "#9333EA"
+          }
+        ]
+      },
+      "height": 340
+    },
+    {
+      "id": "p09_02c",
+      "file": "CH04_P09_02C_PORTRAIT_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 885,
+      "top_gutter": 10,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "TOWERING ABOVE THE CANOPY, THE EMERALD LOTUS BARRIER BLOOMS TO THE SKY!",
+          "bx": 50,
+          "by": 5,
+          "max_chars": 38
+        },
+        {
+          "type": "shout",
+          "text": "IT'S HOLDING! EVERY PETAL IS SHINING!",
+          "bx": 19,
+          "by": 78,
+          "tx": 39,
+          "ty": 63,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "SHAA-BOOM!!",
+          "x": 80,
+          "y": 15,
+          "rotate": 8,
+          "size": 34,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "mood",
+          "text": "RADIANT~",
+          "x": 82,
+          "y": 65,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p10_01",
+      "file": "CH04_P10_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 86,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "THE GLITCH SWARM SHATTERED AGAINST THE LOTUS DOME—AND PEACE RETURNED TO THE GROVE.",
+          "bx": 50,
+          "by": -12,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "SHIMMER...",
+          "x": 24,
+          "y": 38,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ],
+      "height": 435
+    },
+    {
+      "id": "p10_02",
+      "file": "CH04_P10_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 122,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "MY LORD... THE FIVE BAMBOO GUARDIANS COMBINED THEIR SPELLS.",
+          "bx": 26,
+          "by": -16,
+          "tx": 35,
+          "ty": 29,
+          "max_chars": 21
+        },
+        {
+          "type": "glitch",
+          "text": "LET THEM CELEBRATE. I WILL CRUSH THEIR NEXT REALM MYSELF.",
+          "bx": 74,
+          "by": -16,
+          "tx": 66,
+          "ty": 4,
+          "max_chars": 21
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "MENACING...",
+          "x": 18,
+          "y": 20,
+          "rotate": -8,
+          "size": 22,
+          "fill": "#A855F7"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p10_02_eye",
+      "file": "CH04_P10_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "crop": [
+        0.44,
+        0.04,
+        0.86,
+        0.36
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "OMINOUS...",
+          "x": 20,
+          "y": 54,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH04_P11_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 120,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "STEAMED VEGGIE BUNS AND HERBAL TEA—YOU ALL EARNED THIS FEAST!",
+          "bx": 27,
+          "by": -16,
+          "tx": 24,
+          "ty": 25,
+          "max_chars": 21
+        },
+        {
+          "type": "speech",
+          "text": "MMPH! BEST VICTORY SNACK EVER!",
+          "bx": 76,
+          "by": -16,
+          "tx": 81,
+          "ty": 34,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "YUM~!",
+          "x": 50,
+          "y": 86,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p11_02",
+      "file": "CH04_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 116,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "SNORT~ HEAD PATS ARE ALMOST AS GOOD AS WARM TEA...",
+          "bx": 27,
+          "by": -16,
+          "tx": 46,
+          "ty": 42,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "THANK YOU FOR FLYING ALL THIS WAY, EMBER.",
+          "bx": 74,
+          "by": -16,
+          "tx": 74,
+          "ty": 26,
+          "max_chars": 19
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "AWWW~",
+          "x": 18,
+          "y": 26,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ],
+      "height": 415
+    },
+    {
+      "id": "p11_02_eye",
+      "file": "CH04_P11_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 195,
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "crop": [
+        0.24,
+        0.24,
+        0.78,
+        0.58
+      ],
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "WARM & COZY~",
+          "x": 22,
+          "y": 24,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH04_P12_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 56,
+      "bottom_gutter": 56,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "FOUR BEACONS NOW SHINE AS ONE ACROSS THE REALM OF PYTHONIA.",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 36
+        },
+        {
+          "type": "speech",
+          "text": "OUR ALLIANCE IS GROWING STRONGER. NEXT STOP—THE FIFTH SANCTUARY!",
+          "bx": 50,
+          "by": 109,
+          "tx": 34,
+          "ty": 94,
+          "max_chars": 38
+        }
+      ],
+      "sfx": [],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK • ALLIANCE TRACKER",
+        "concept": "Dictionaries (dict) State Tracking",
+        "lines": [
+          "beacons = {'frost_peak': True, 'canyon': True, 'grotto': True}",
+          "beacons['bamboo_sanctuary'] = True",
+          "print('Beacons United:', sum(beacons.values()))"
+        ],
+        "output": "Beacons United: 4"
+      },
+      "height": 375
+    },
+    {
+      "id": "p12_02",
+      "file": "CH04_P12_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 76,
+      "bottom_gutter": 4,
+      "speedlines": {
+        "cx": 50,
+        "cy": 38,
+        "color": "#E879F9",
+        "opacity": 0.32
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "LIGHT ALL THE BEACONS YOU WISH... MY CORRUPTION STORM IS ONLY BEGINNING!",
+          "bx": 50,
+          "by": -12,
+          "tx": 50,
+          "ty": 4,
+          "max_chars": 40
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-KRAKK!!",
+          "x": 20,
+          "y": 42,
+          "rotate": -12,
+          "size": 38,
+          "fill": "#C026D3"
+        }
+      ],
+      "height": 375
+    }
+  ],
+  "end_banner": {
+    "kicker": "END OF CHAPTER 4 • TO BE CONTINUED",
+    "title": "NEXT: CHAPTER 5 — ECHOES OF THE NEXT SANCTUARY",
+    "subtitle": "Four beacons blaze across Pythonia, yet Lord Malcode's corruption storm gathers on the horizon!"
+  }
+}

@@ -1,0 +1,3285 @@
+{
+  "kicker": "英雄凱 × 三捷班十七守護靈 · 導演剪輯版 v6.0（繁體中文）",
+  "title": "序章：十七道召喚卷軸",
+  "subtitle": "四大聖域・同一座活生生的宇宙 · 九十五格完整導演剪輯版（v6.0）",
+  "end_banner": {
+    "kicker": "序章完結 · 十七位守護者全面覺醒",
+    "title": "下集預告：第一章 — 靜電懸崖與第一道訊號",
+    "subtitle": "英雄凱、吳雙與龍學議追隨第一道閃耀的魔法書信標，勇敢飛向風暴……"
+  },
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH00_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 88,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "一切都從三捷班開始——那個充滿 Python 程式與素描本的溫暖午後。",
+          "bx": 24,
+          "by": -14,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "今天，畫出你夢想中的夥伴——再用程式碼讓牠們活起來！",
+          "bx": 77,
+          "by": -12,
+          "tx": 47,
+          "ty": 37,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "熱鬧討論",
+          "x": 82,
+          "y": 82,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ],
+      "height": 370
+    },
+    {
+      "id": "ex01_sketchbook",
+      "file": "CH00_EX01_Sketchbook_Hands_Python_RAW.jpg",
+      "layout": "framed",
+      "height": 345,
+      "top_gutter": 66,
+      "bottom_gutter": 8,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "一行又一行的 Python，讓教室裡的素描開始閃耀星光。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "沙沙作畫...",
+          "x": 76,
+          "y": 14,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "Python 魔法書 · 第一咒",
+        "concept": "變數與 print()",
+        "lines": [
+          "hero = \"Hero Kai\"",
+          "partner = \"Tempest Stag\"",
+          "print(\"Welcome to Pythonia,\", partner)"
+        ],
+        "output": "Welcome to Pythonia, Tempest Stag"
+      }
+    },
+    {
+      "id": "p01_02",
+      "file": "CH00_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "做得好！只要一行乾淨的 Python，你的英雄就動起來了。",
+          "bx": 24,
+          "by": -14,
+          "tx": 36,
+          "ty": 16,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "哇……快看螢幕！真的成功了！",
+          "bx": 76,
+          "by": -14,
+          "tx": 61,
+          "ty": 24,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "噠！噠！",
+          "x": 82,
+          "y": 84,
+          "rotate": -7,
+          "size": 32,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "ex02_v2_teacher_cheong",
+      "file": "CH00_EX02_v2_TeacherCheong_Coaching_RAW.jpg",
+      "layout": "framed",
+      "height": 520,
+      "top_gutter": 110,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "試著執行程式看看——每位厲害的工程師都是從第一行開始的！",
+          "bx": 26,
+          "by": -15,
+          "tx": 34,
+          "ty": 15,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "哇，鍾老師——它真的在我的螢幕上動起來了！",
+          "bx": 76,
+          "by": -15,
+          "tx": 56,
+          "ty": 43,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "專注...",
+          "x": 13,
+          "y": 14,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "ex08_teacher_onn",
+      "file": "CH00_EX08_TeacherOnn_Coaching_RAW.jpg",
+      "layout": "framed",
+      "height": 568,
+      "top_gutter": 118,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "溫老師，為什麼我們的精靈走到邊界就停住了？",
+          "bx": 26,
+          "by": -15,
+          "tx": 35,
+          "ty": 19,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "檢查一下縮排——一步一步來，你們一定可以的！",
+          "bx": 75,
+          "by": -15,
+          "tx": 66,
+          "ty": 15,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "啊哈！",
+          "x": 91,
+          "y": 24,
+          "rotate": 8,
+          "size": 26,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "ex07_whole_class",
+      "file": "CH00_EX07_Whole_Class_Photo_Real_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 446,
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "十七位小小守護者與老師們——齊聚在三捷班的英雄凱旗幟下。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "笑一個！",
+          "x": 12,
+          "y": 14,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "sfx",
+          "text": "咔嚓！",
+          "x": 90,
+          "y": 14,
+          "rotate": 10,
+          "size": 32,
+          "fill": "#2563EB"
+        }
+      ]
+    },
+    {
+      "id": "p01_03",
+      "file": "CH00_P01_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 96,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "十七位好朋友、十七個親手繪製的夢想，以及一堂難忘的課。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "笑一個！",
+          "x": 14,
+          "y": 14,
+          "rotate": -12,
+          "size": 36,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "sfx",
+          "text": "咔嚓！",
+          "x": 87,
+          "y": 15,
+          "rotate": 10,
+          "size": 34,
+          "fill": "#2563EB"
+        }
+      ],
+      "height": 520
+    },
+    {
+      "id": "p01_04",
+      "file": "CH00_P01_04_TEACHERS_REAL_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 98,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在每位小小程式師身後，都有老師與志工用心陪伴引導。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "歡呼！",
+          "x": 12,
+          "y": 14,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 560
+    },
+    {
+      "id": "p02_01",
+      "file": "CH00_P02_01_REAL_PORTRAIT_RAW.jpg",
+      "layout": "portrait_tall",
+      "top_gutter": 115,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "放學鐘聲響起——大家收好素描本準備回家。",
+          "bx": 22,
+          "by": -11,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "我今晚一定要把火冰狗畫完！",
+          "bx": 86,
+          "by": -11,
+          "tx": 54,
+          "ty": 33,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "叮鈴～",
+          "x": 18,
+          "y": 14,
+          "rotate": -8,
+          "size": 38,
+          "fill": "#2563EB"
+        }
+      ],
+      "height": 1180
+    },
+    {
+      "id": "ex09_pythonia_map",
+      "file": "CH00_EX09_Pythonia_Four_Realms_Map_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 560,
+      "top_gutter": 104,
+      "bottom_gutter": 64,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二幕 · 踏入 Pythonia —— 連結著金色程式溪流的四大聖域。",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 26
+        },
+        {
+          "type": "narration",
+          "text": "北方 · 極光雪嶺",
+          "bx": 49,
+          "by": 7,
+          "max_chars": 26,
+          "font_size": 13.5
+        },
+        {
+          "type": "narration",
+          "text": "西方 · 日熔山谷與水晶石窟",
+          "bx": 20,
+          "by": 89,
+          "max_chars": 24,
+          "font_size": 13.0
+        },
+        {
+          "type": "narration",
+          "text": "東方 · 浮空雲端圖書館",
+          "bx": 82,
+          "by": 62,
+          "max_chars": 20,
+          "font_size": 13.0
+        },
+        {
+          "type": "narration",
+          "text": "南方 · 翡翠竹林與櫻花聖殿",
+          "bx": 56,
+          "by": 106,
+          "max_chars": 26,
+          "font_size": 13.5
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_book03_world_map",
+      "file": "BOOK_03_WORLD_MAP_4REALMS.jpg",
+      "layout": "full_bleed",
+      "height": 430,
+      "top_gutter": 96,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "四大聖域各具風貌——卻因共同的善意與程式碼，緊密相連成同一座活生生的宇宙。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v57_bridge_02_lotus_fountain",
+      "layout": "full_bleed",
+      "file": "CH00_v57_BRIDGE_02_Lotus_Fountain_Realms.jpg",
+      "height": 450,
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "從翡翠蓮花噴泉湧出的四道金色程式光流，溫柔地滋養著四大聖域。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34,
+          "width": 710
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "gitaigo",
+          "text": "閃耀～",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "v60_b1_01_lotus_heart",
+      "file": "CH00_V6_B1_01_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "一條光流黯淡，四域同感其痛；一處重新綻放，整座宇宙也隨之復甦。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "和諧共振",
+          "x": 84,
+          "y": 18,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "v60_b1_02_starlight_library",
+      "file": "CH00_V6_B1_02_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在星光圖書館裡，四座古老的聖域石柱正隨著每一次善行同步脈動。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_b1_03_four_virtues",
+      "file": "CH00_V6_B1_03_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 420,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "愛大地、愛人、自愛——三心美德將霜雪、鍛火、翠林與星辰織成一體。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 36
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_book04_divider_r1",
+      "file": "BOOK_04_DIVIDER_FROST_SKY.jpg",
+      "layout": "portrait_tall",
+      "height": 960,
+      "top_gutter": 92,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第一域・霜天極境——清澈的極光之風在雪峰間傳遞純淨訊號。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 30
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_b1_04_sky_deer",
+      "file": "CH00_V6_B1_04_RAW.jpg",
+      "layout": "framed",
+      "height": 560,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "願北方極光永遠指引善良的心找到回家的路。",
+          "bx": 50,
+          "by": -14,
+          "tx": 46,
+          "ty": 28,
+          "max_chars": 22
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v56_r1_frost_sky",
+      "file": "SQUAD_HYPER_R1_FrostSky_KF0.jpg",
+      "layout": "framed",
+      "height": 480,
+      "top_gutter": 56,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第一聖域 · 極光雪嶺 —— #01 吳雙、#04 洪語晨、#10 陳奕修、#17 龍學議的守護之地。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "極光閃耀...",
+          "x": 18,
+          "y": 20,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "v60_book05_divider_r2",
+      "file": "BOOK_05_DIVIDER_FORGE_TIDE.jpg",
+      "layout": "portrait_tall",
+      "height": 960,
+      "top_gutter": 92,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二域・金鍛潮峽——溫暖爐火與水晶飛瀑在此鍛造出勇敢的創意。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 30
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_b1_05_waterfall_guardian",
+      "file": "CH00_V6_B1_05_RAW.jpg",
+      "layout": "framed",
+      "height": 560,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "靜心傾聽吧——每一道奔流的水聲都記著真實。",
+          "bx": 50,
+          "by": -14,
+          "tx": 50,
+          "ty": 26,
+          "max_chars": 22
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v56_r2_forge_tide",
+      "file": "SQUAD_HYPER_R2_ForgeTide_KF0.jpg",
+      "layout": "framed",
+      "height": 480,
+      "top_gutter": 56,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二聖域 · 日熔潮谷 —— #02 林道羏、#03 林家誠、#06 黃煜博、#11 黃楷翔的守護之地。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "水聲奔騰...",
+          "x": 80,
+          "y": 20,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "v60_book06_divider_r3",
+      "file": "BOOK_06_DIVIDER_VERDANT.jpg",
+      "layout": "portrait_tall",
+      "height": 960,
+      "top_gutter": 92,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第三域・翡翠竹林——蒼翠竹影與櫻花溫柔守護著靜心與耐心。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 30
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_b1_06_mirror_sage",
+      "file": "CH00_V6_B1_06_RAW.jpg",
+      "layout": "framed",
+      "height": 560,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "真正的智慧，會映照出你對森林付出的每一分善意。",
+          "bx": 50,
+          "by": -14,
+          "tx": 50,
+          "ty": 26,
+          "max_chars": 22
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v56_r3_verdant",
+      "file": "SQUAD_HYPER_R3_VerdantGrove_KF0.jpg",
+      "layout": "framed",
+      "height": 480,
+      "top_gutter": 56,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第三聖域 · 翡翠竹林 —— #05 葛峻銘、#07 梅譯仁、#13 李明穗、#14 李秋容的守護之地。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "翠竹靜謐...",
+          "x": 18,
+          "y": 20,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#16A34A"
+        }
+      ]
+    },
+    {
+      "id": "v60_book07_divider_r4",
+      "file": "BOOK_07_DIVIDER_CELESTIAL.jpg",
+      "layout": "portrait_tall",
+      "height": 960,
+      "top_gutter": 92,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第四域・星穹秘閣——星光絲線將每段記憶編織成永恆的星座。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 30
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_b1_07_star_weaver",
+      "file": "CH00_V6_B1_07_RAW.jpg",
+      "layout": "framed",
+      "height": 560,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "每位小小程式設計師的夢想，都在星穹裡閃閃發亮。",
+          "bx": 50,
+          "by": -14,
+          "tx": 50,
+          "ty": 26,
+          "max_chars": 22
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v56_r4_celestial",
+      "file": "SQUAD_HYPER_R4_Celestial_KF0.jpg",
+      "layout": "framed",
+      "height": 480,
+      "top_gutter": 56,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第四聖域 · 星穹觀星閣 —— #08 李強國、#09 邱愷音、#12 張敬誠、#15 謝昊峰、#16 陳施曄的守護之地。",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "星光璀璨...",
+          "x": 80,
+          "y": 20,
+          "rotate": 6,
+          "size": 24,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "v60_b1_08_ancient_oath",
+      "file": "CH00_V6_B1_08_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 430,
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "只要同心協力，四大聖域就會永遠閃耀如一！",
+          "bx": 30,
+          "by": -14,
+          "tx": 28,
+          "ty": 30,
+          "max_chars": 20
+        },
+        {
+          "type": "narration",
+          "text": "千百年來，光明長老與四位聖域守護者始終守著這份誓約。",
+          "bx": 72,
+          "by": -14,
+          "max_chars": 24
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v56_new_04_string_looma",
+      "file": "CH00B_NEW_01.jpg",
+      "layout": "framed",
+      "height": 580,
+      "top_gutter": 120,
+      "bottom_gutter": 40,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在織林小屋裡，織夢奶奶發燒臥床——忠心的阿繩決定留下來照顧她。",
+          "bx": 27,
+          "by": -14,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "好好照顧織夢奶奶喔，阿繩！我很快就會回來！",
+          "bx": 77,
+          "by": -14,
+          "tx": 70,
+          "ty": 14,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "溫暖...",
+          "x": 16,
+          "y": 22,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "v56_new_05_string_door_ember",
+      "file": "CH00B_NEW_02.jpg",
+      "layout": "framed",
+      "height": 560,
+      "top_gutter": 116,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "汪！汪！（交給我！）",
+          "bx": 22,
+          "by": -14,
+          "tx": 24,
+          "ty": 56,
+          "max_chars": 16
+        },
+        {
+          "type": "speech",
+          "text": "守好家門喔，阿繩！小火——準備好巡邏天空了嗎？",
+          "bx": 74,
+          "by": -14,
+          "tx": 47,
+          "ty": 14,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "拍翅！",
+          "x": 84,
+          "y": 16,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH00_P03_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 100,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "雲端彼方，是由善良與程式碼驅動的奇幻世界——Pythonia。",
+          "bx": 30,
+          "by": -13,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "多麼平靜的早晨啊，小火！我們去巡視邊境高塔吧！",
+          "bx": 76,
+          "by": -13,
+          "tx": 46,
+          "ty": 25,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "翱翔～",
+          "x": 16,
+          "y": 76,
+          "rotate": -10,
+          "size": 40,
+          "fill": "#0EA5E9"
+        }
+      ],
+      "height": 450
+    },
+    {
+      "id": "p03_02",
+      "file": "CH00_P03_02_RAW.jpg",
+      "layout": "framed",
+      "height": 460,
+      "top_gutter": 100,
+      "bottom_gutter": 36,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "一顆破碎的核心……依然跳動著黑暗程式碼……",
+          "bx": 48,
+          "by": -12,
+          "tx": 49,
+          "ty": 28,
+          "max_chars": 18
+        },
+        {
+          "type": "narration",
+          "text": "然而在幽暗廢墟裡，孤單的程式師維克斯發現了禁忌之物。",
+          "bx": 50,
+          "by": 109,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "脈動...",
+          "x": 28,
+          "y": 54,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH00_P04_01_RAW.jpg",
+      "layout": "framed",
+      "height": 460,
+      "top_gutter": 100,
+      "bottom_gutter": 36,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "大家都有團隊……大家都有夥伴……",
+          "bx": 34,
+          "by": -12,
+          "tx": 34,
+          "ty": 22,
+          "max_chars": 18
+        },
+        {
+          "type": "thought",
+          "text": "從來沒有人邀請我加入。",
+          "bx": 64,
+          "by": 109,
+          "tx": 40,
+          "ty": 72,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "滴答... 滴答...",
+          "x": 76,
+          "y": 86,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#64748B"
+        }
+      ]
+    },
+    {
+      "id": "v57_portrait_01_vex_dark_core",
+      "layout": "portrait_cinematic",
+      "file": "CH00_v57_PORTRAIT_01_Vex_Dark_Core.jpg",
+      "height": 1240,
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在長滿青苔的遺跡深處，VEX 發現了閃爍著禁忌靜電的裂痕暗黑核心。",
+          "bx": 50,
+          "by": -5,
+          "max_chars": 34,
+          "width": 690
+        },
+        {
+          "type": "thought",
+          "text": "既然沒人願意跟我\n一起寫程式……\n我就自己創造力量！",
+          "bx": 68,
+          "by": 28,
+          "tx": 66,
+          "ty": 44,
+          "max_chars": 18,
+          "rx": 145,
+          "ry": 64
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "劈啪！！",
+          "x": 26,
+          "y": 24,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "v60_b2_01_silver_key",
+      "file": "CH00_V6_B2_01_RAW.jpg",
+      "layout": "framed",
+      "height": 760,
+      "top_gutter": 104,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "銀色後門之鑰……只要一行覆寫指令，就能解開所有封印。",
+          "bx": 50,
+          "by": -14,
+          "tx": 48,
+          "ty": 28,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "禁忌後門 · 銀色之鑰",
+        "concept": "Root 強制覆寫",
+        "lines": [
+          "backdoor_key = \"OVERRIDE_SEAL\"",
+          "realms_firewall.unlock(backdoor_key)"
+        ],
+        "output": "警告：古老蟲王封印已被解除！"
+      }
+    },
+    {
+      "id": "p04_02",
+      "file": "CH00_P04_02_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.29,
+        0.0,
+        0.77,
+        1.0
+      ],
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "既然這個世界不給我夥伴——我就自己寫一個！",
+          "bx": 38,
+          "by": -11,
+          "tx": 58,
+          "ty": 11,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "劈啪！",
+          "x": 24,
+          "y": 42,
+          "rotate": -12,
+          "size": 38,
+          "fill": "#C084FC"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "腐化咒語 · 警告",
+        "concept": "危險覆寫",
+        "lines": [
+          "dark_core = load_forbidden(\"Lord_Malcode\")",
+          "dark_core.safety_lock = False  # DANGER!",
+          "summon(dark_core)"
+        ],
+        "output": "嚴重錯誤：防火牆遭突破 — 蟲王甦醒中！"
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH00_P05_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 480,
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 58,
+        "cy": 38,
+        "color": "#E9D5FF",
+        "opacity": 0.36
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "等等——太強大了！！我停不下來！",
+          "bx": 26,
+          "by": -14,
+          "tx": 30,
+          "ty": 41,
+          "max_chars": 18
+        },
+        {
+          "type": "glitch",
+          "text": "終於自由了！讓大崩潰開始吧！",
+          "bx": 74,
+          "by": -14,
+          "tx": 60,
+          "ty": 12,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆！！",
+          "x": 83,
+          "y": 84,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "v60_b2_02_key_awakens",
+      "file": "CH00_V6_B2_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 430,
+      "top_gutter": 104,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "你的銀色鑰匙打開了牢籠——現在四道光流歸我了！",
+          "bx": 72,
+          "by": -14,
+          "tx": 64,
+          "ty": 26,
+          "max_chars": 20
+        },
+        {
+          "type": "shout",
+          "text": "不——別過來！！",
+          "bx": 24,
+          "by": -14,
+          "tx": 28,
+          "ty": 48,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟碎！！",
+          "x": 48,
+          "y": 24,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "v60_b2_03_four_guardians_corrupted",
+      "file": "CH00_V6_B2_03_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 430,
+      "top_gutter": 104,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "紫色亂碼順著四道金流洶湧擴散——將四位聖域守護者全數困入暗影！",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋滋作響！！",
+          "x": 82,
+          "y": 18,
+          "rotate": 6,
+          "size": 32,
+          "fill": "#7C3AED"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH00_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 102,
+      "bottom_gutter": 88,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "小火，快看！十七顆流星——是古老的召喚！",
+          "bx": 72,
+          "by": -14,
+          "tx": 66,
+          "ty": 42,
+          "max_chars": 18
+        },
+        {
+          "type": "narration",
+          "text": "為了對抗黑暗，Pythonia 召喚了十七位新守護者。",
+          "bx": 38,
+          "by": 112,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼嘯！",
+          "x": 24,
+          "y": 28,
+          "rotate": -14,
+          "size": 42,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 445
+    },
+    {
+      "id": "p02_02",
+      "file": "CH00_P02_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 88,
+      "bottom_gutter": 88,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "夜幕深處，就在十七位學生沉睡時……",
+          "bx": 30,
+          "by": -11,
+          "max_chars": 26
+        },
+        {
+          "type": "narration",
+          "text": "……他們的素描本應和著十七顆星辰亮了起來。",
+          "bx": 70,
+          "by": 111,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "微光～",
+          "x": 46,
+          "y": 38,
+          "rotate": -6,
+          "size": 38,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "mood",
+          "text": "閃爍",
+          "x": 82,
+          "y": 54,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#60A5FA"
+        }
+      ],
+      "height": 505
+    },
+    {
+      "id": "v57_bridge_01_ngshuang_lotus_portal",
+      "layout": "full_bleed",
+      "file": "CH00_v57_BRIDGE_01_NgShuang_Lotus_Portal.jpg",
+      "height": 450,
+      "top_gutter": 104,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在檳城的月夜臥室裡，吳雙的素描本綻放出璀璨的翡翠蓮花傳送門！",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34,
+          "width": 700
+        },
+        {
+          "type": "speech",
+          "text": "我的畫作在發光！",
+          "bx": 76,
+          "by": 12,
+          "tx": 67,
+          "ty": 25,
+          "max_chars": 10
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼嗡——！！",
+          "x": 24,
+          "y": 18,
+          "rotate": -7,
+          "size": 38,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "ex06_starlight_portal",
+      "file": "CH00_EX06_Starlight_Portal_Summoning_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 515,
+      "top_gutter": 96,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "星光緞帶從翻開的畫本旋出，直衝夜空！",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "咻呼～",
+          "x": 70,
+          "y": 18,
+          "rotate": -8,
+          "size": 40,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "mood",
+          "text": "閃耀",
+          "x": 85,
+          "y": 80,
+          "rotate": 5,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "v56_new_01_nighttime_portal",
+      "file": "CH00_v56_NEW_01_Nighttime_Portal_Vortex_RAW.jpg",
+      "layout": "framed",
+      "height": 425,
+      "top_gutter": 104,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "一道翠綠金輝的蓮花程式漩渦，從吳雙的素描本中綻放開來！",
+          "bx": 28,
+          "by": -14,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "哇——我的畫本把我們吸進 Pythonia 了！！",
+          "bx": 75,
+          "by": -14,
+          "tx": 66,
+          "ty": 15,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼嗡！！",
+          "x": 20,
+          "y": 24,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "v56_new_02_vortex_flight",
+      "file": "CH00_v56_NEW_02_Vortex_Flight_Other_Kids_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 430,
+      "top_gutter": 106,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "我們真的在星光程式碼裡飛行耶！！",
+          "bx": 23,
+          "by": -14,
+          "tx": 36,
+          "ty": 20,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "道羏！家誠！峻銘！抓緊你們的素描本！！",
+          "bx": 77,
+          "by": -14,
+          "tx": 86,
+          "ty": 26,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "旋轉～",
+          "x": 50,
+          "y": 88,
+          "rotate": -6,
+          "size": 32,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "v60_b2_04_starlight_bridge",
+      "file": "CH00_V6_B2_04_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 430,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在溫暖蓮瓣的指引下，十七位同學並肩踏上了星光長橋。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "飛翔～",
+          "x": 16,
+          "y": 20,
+          "rotate": -8,
+          "size": 26,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH00_P06_01_v2_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 52,
+        "cy": 50,
+        "color": "#FFFFFF",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "哇啊！！我們在星光中穿梭！",
+          "bx": 24,
+          "by": -14,
+          "tx": 32,
+          "ty": 50,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "我的羅盤轉得停不下來！",
+          "bx": 76,
+          "by": -14,
+          "tx": 72,
+          "ty": 42,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "咻！",
+          "x": 18,
+          "y": 24,
+          "rotate": -12,
+          "size": 38,
+          "fill": "#38BDF8"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "Python 魔法書 · 第二咒",
+        "concept": "for 迴圈傳送",
+        "lines": [
+          "for guardian in san_jie_17:",
+          "    teleport(guardian, \"Pythonia_Meadow\")"
+        ],
+        "output": "17/17 位守護者已平安抵達 Pythonia！"
+      },
+      "height": 430
+    },
+    {
+      "id": "v56_new_03_meadow_landing",
+      "file": "CH00_v56_NEW_03_Meadow_Soft_Landing_Other_Kids_RAW.jpg",
+      "layout": "framed",
+      "height": 425,
+      "top_gutter": 104,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "發光的蓮花花瓣溫柔接住了每一位降落在草原上的同學。",
+          "bx": 26,
+          "by": -14,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "我們到了——強國、愷音、敬誠、施曄！等等……那團紫色風暴是什麼？",
+          "bx": 76,
+          "by": -14,
+          "tx": 70,
+          "ty": 32,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "飄落～",
+          "x": 16,
+          "y": 78,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH00_P06_02_v2_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 520,
+      "top_gutter": 105,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "歡迎來到 Pythonia！我是凱——這是小火！",
+          "bx": 25,
+          "by": -14,
+          "tx": 24,
+          "ty": 28,
+          "max_chars": 18
+        },
+        {
+          "type": "shout",
+          "text": "不會吧！！是真的龍耶！！",
+          "bx": 75,
+          "by": -14,
+          "tx": 70,
+          "ty": 34,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃耀",
+          "x": 52,
+          "y": 24,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "v60_b2_05_kai_welcomes_17",
+      "file": "CH00_V6_B2_05_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "十七位守護者都平安抵達了！歡迎來到派森尼亞！",
+          "bx": 30,
+          "by": -14,
+          "tx": 26,
+          "ty": 32,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "我們真的來了——大家一個都沒少！",
+          "bx": 76,
+          "by": -14,
+          "tx": 70,
+          "ty": 36,
+          "max_chars": 18
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p06_03",
+      "file": "CH00_P06_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "預言成真了——十七位全都抵達了！",
+          "bx": 24,
+          "by": -14,
+          "tx": 20,
+          "ty": 34,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "等等……全班同學都來了嗎？！",
+          "bx": 74,
+          "by": -14,
+          "tx": 52,
+          "ty": 46,
+          "max_chars": 18
+        }
+      ],
+      "height": 430
+    },
+    {
+      "id": "p06_04",
+      "file": "CH00_P06_04_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "大家！我們平安降落了！",
+          "bx": 24,
+          "by": -14,
+          "tx": 28,
+          "ty": 32,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "快看上面——紅龍在為我們引路！",
+          "bx": 74,
+          "by": -14,
+          "tx": 44,
+          "ty": 38,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "拍翅！拍翅！",
+          "x": 82,
+          "y": 30,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#DC2626"
+        }
+      ],
+      "height": 510
+    },
+    {
+      "id": "p06_05",
+      "file": "CH00_P06_05_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 115,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "這座村莊簡直跟我們畫的故事書一模一樣！",
+          "bx": 26,
+          "by": -14,
+          "tx": 20,
+          "ty": 38,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "跟著提燈的光芒走吧，小小咒語師們！",
+          "bx": 76,
+          "by": -14,
+          "tx": 84,
+          "ty": 34,
+          "max_chars": 18
+        }
+      ],
+      "height": 560
+    },
+    {
+      "id": "p06_06",
+      "file": "CH00_P06_06_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 100,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "等等——連我們的裝備都跟草稿畫的一樣！",
+          "bx": 28,
+          "by": -14,
+          "tx": 47,
+          "ty": 36,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "十七位到齊了！快來看看林間空地有什麼在等你們！",
+          "bx": 76,
+          "by": -14,
+          "tx": 82,
+          "ty": 34,
+          "max_chars": 18
+        }
+      ],
+      "height": 440
+    },
+    {
+      "id": "v60_b2_06_lumina_scrolls",
+      "file": "CH00_V6_B2_06_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "你們的畫作回應了四大聖域的呼喚。現在去見見等待你們的夥伴吧！",
+          "bx": 36,
+          "by": -14,
+          "tx": 34,
+          "ty": 28,
+          "max_chars": 26
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "ex03_glade_reveal",
+      "file": "CH00_EX03_Seventeen_Eggs_Glade_Glow_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 480,
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "暮色降臨，凱帶領大家走進月光靈蛋林地。",
+          "bx": 28,
+          "by": -13,
+          "max_chars": 26
+        },
+        {
+          "type": "speech",
+          "text": "看啊——十七顆遠古靈蛋，正為你們班閃耀著光芒！",
+          "bx": 76,
+          "by": -13,
+          "tx": 44,
+          "ty": 32,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "微光～",
+          "x": 78,
+          "y": 24,
+          "rotate": -6,
+          "size": 38,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH00_P07_01_RAW.jpg",
+      "layout": "framed",
+      "height": 480,
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "好溫暖……裡面好像有小小心跳！",
+          "bx": 26,
+          "by": -14,
+          "tx": 32,
+          "ty": 10,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "我這顆上面有我羅盤裡的星星圖案！",
+          "bx": 74,
+          "by": -14,
+          "tx": 68,
+          "ty": 10,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "撲通...",
+          "x": 11,
+          "y": 86,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "撲通...",
+          "x": 89,
+          "y": 86,
+          "rotate": 4,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p07_02",
+      "file": "CH00_P07_02_RAW.jpg",
+      "layout": "full_bleed",
+      "crop": [
+        0.26,
+        0.0,
+        0.74,
+        1.0
+      ],
+      "top_gutter": 112,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "他們的夥伴正在甦醒，凱。\n守護好他們——黑暗已經\n察覺到這道光芒。",
+          "bx": 24,
+          "by": -10,
+          "tx": 23,
+          "ty": 26,
+          "max_chars": 18,
+          "rx": 152,
+          "ry": 56
+        },
+        {
+          "type": "speech",
+          "text": "我絕不會讓他們出事的，長老！",
+          "bx": 80,
+          "by": -10,
+          "tx": 82,
+          "ty": 43,
+          "max_chars": 18
+        }
+      ],
+      "height": 560
+    },
+    {
+      "id": "v57_portrait_02_elder_lantern_oath",
+      "layout": "portrait_cinematic",
+      "file": "CH00_v57_PORTRAIT_02_Elder_Lantern_Oath.jpg",
+      "height": 1240,
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在十七顆呼應的星辰之下，露米娜長老高高舉起了金色蓮花燈。",
+          "bx": 50,
+          "by": -5,
+          "max_chars": 34,
+          "width": 690
+        },
+        {
+          "type": "speech",
+          "text": "十七顆溫柔的心\n已經抵達了，凱。\n請用智慧引導他們！",
+          "bx": 33,
+          "by": 14,
+          "tx": 34,
+          "ty": 26,
+          "max_chars": 18,
+          "rx": 145,
+          "ry": 64
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "gitaigo",
+          "text": "微光～",
+          "x": 78,
+          "y": 14,
+          "rotate": 5,
+          "size": 26,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p08_01_p08_02_duo",
+      "layout": "portrait_duo",
+      "top_gutter": 112,
+      "bottom_gutter": 32,
+      "left": {
+        "file": "CH00_P08_01_RAW.jpg",
+        "crop": [
+          0.33,
+          0.0,
+          0.8,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "speech",
+            "text": "哇！你好小好溫暖……你好呀，雷冰火鹿！",
+            "bx": 50,
+            "by": -14,
+            "tx": 60,
+            "ty": 8,
+            "max_chars": 16
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "咔嚓！",
+            "x": 22,
+            "y": 24,
+            "rotate": -12,
+            "size": 34,
+            "fill": "#F59E0B"
+          },
+          {
+            "kind": "mood",
+            "text": "閃耀",
+            "x": 24,
+            "y": 86,
+            "rotate": -6,
+            "size": 20,
+            "fill": "#38BDF8"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH00_P08_02_RAW.jpg",
+        "crop": [
+          0.3,
+          0.0,
+          0.76,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "shout",
+            "text": "孵化了！他有毛茸茸的雲朵耳朵！",
+            "bx": 50,
+            "by": -14,
+            "tx": 64,
+            "ty": 8,
+            "max_chars": 16
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "波！",
+            "x": 22,
+            "y": 24,
+            "rotate": -10,
+            "size": 36,
+            "fill": "#0EA5E9"
+          },
+          {
+            "kind": "sfx",
+            "text": "汪！",
+            "x": 22,
+            "y": 86,
+            "rotate": 8,
+            "size": 26,
+            "fill": "#F59E0B"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p08_03",
+      "file": "CH00_P08_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "牠們早就記住我們的心意了……",
+          "bx": 26,
+          "by": -14,
+          "tx": 36,
+          "ty": 38,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "哈哈！喂，好癢喔！",
+          "bx": 74,
+          "by": -14,
+          "tx": 68,
+          "ty": 40,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "舔舔～",
+          "x": 54,
+          "y": 26,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F97316"
+        }
+      ],
+      "height": 470
+    },
+    {
+      "id": "p08_04",
+      "file": "CH00_P08_04_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "哇——我的火冰狗好溫暖喔！",
+          "bx": 24,
+          "by": -14,
+          "tx": 34,
+          "ty": 24,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "蛋蛋也閃著電火花破殼了！",
+          "bx": 72,
+          "by": -14,
+          "tx": 66,
+          "ty": 24,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "燦笑",
+          "x": 86,
+          "y": 20,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 470
+    },
+    {
+      "id": "p08_05",
+      "file": "CH00_P08_05_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "哈哈，你看 Sticky 發光的小水滴！",
+          "bx": 30,
+          "by": -14,
+          "tx": 41,
+          "ty": 26,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "OKX 還戴著跟素描一樣的小眼鏡！",
+          "bx": 76,
+          "by": -14,
+          "tx": 81,
+          "ty": 24,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "彈跳～",
+          "x": 50,
+          "y": 18,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#38BDF8"
+        }
+      ],
+      "height": 470
+    },
+    {
+      "id": "p08_06",
+      "file": "CH00_P08_06_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Poppy 聞起來有櫻花的香氣耶！",
+          "bx": 26,
+          "by": -14,
+          "tx": 41,
+          "ty": 26,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "嗨，小森狐還有 Miku！",
+          "bx": 76,
+          "by": -14,
+          "tx": 64,
+          "ty": 26,
+          "max_chars": 18
+        }
+      ],
+      "height": 470
+    },
+    {
+      "id": "p08_07",
+      "file": "CH00_P08_07_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "不會吧——Bro 真的出現了！",
+          "bx": 30,
+          "by": -14,
+          "tx": 27,
+          "ty": 26,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "Berrie 和虛假元卡丘也在這裡呢！",
+          "bx": 76,
+          "by": -14,
+          "tx": 52,
+          "ty": 26,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃耀",
+          "x": 84,
+          "y": 18,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 470
+    },
+    {
+      "id": "p08_08",
+      "file": "CH00_P08_08_RAW.jpg",
+      "layout": "framed",
+      "height": 470,
+      "top_gutter": 105,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "等等——翡翠 X 真的開機了？！",
+          "bx": 28,
+          "by": -14,
+          "tx": 38,
+          "ty": 24,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "我的星紗獨角貓也超蓬鬆的！",
+          "bx": 74,
+          "by": -14,
+          "tx": 63,
+          "ty": 26,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嗶！",
+          "x": 45,
+          "y": 18,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "v60_b3_01_glade_gisele_yiren",
+      "file": "CH00_V6_B3_01_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Berrie 的緞帶在發光耶——聞起來像甜草莓！",
+          "bx": 28,
+          "by": -14,
+          "tx": 30,
+          "ty": 28,
+          "max_chars": 20
+        },
+        {
+          "type": "speech",
+          "text": "Poppy 的尾巴也像小星星一樣閃亮！",
+          "bx": 76,
+          "by": -14,
+          "tx": 68,
+          "ty": 30,
+          "max_chars": 18
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_b3_02_glade_shiye_haofung",
+      "file": "CH00_V6_B3_02_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 100,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "我的星紗獨角貓好軟好溫暖喔！",
+          "bx": 28,
+          "by": -14,
+          "tx": 32,
+          "ty": 26,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "哈哈！翡翠 X 頭上還長出一片小綠葉！",
+          "bx": 76,
+          "by": -14,
+          "tx": 68,
+          "ty": 26,
+          "max_chars": 18
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p09_02",
+      "file": "CH00_P09_02_RAW.jpg",
+      "layout": "framed",
+      "height": 360,
+      "top_gutter": 96,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "你們每人都會獲得一本 Python 魔法書——程式碼能引導夥伴的力量！",
+          "bx": 24,
+          "by": -14,
+          "tx": 33,
+          "ty": 12,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "跟我們在三捷班學的 Python 一模一樣！",
+          "bx": 77,
+          "by": -14,
+          "tx": 68,
+          "ty": 24,
+          "max_chars": 11
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "Python 魔法書 · 第三咒",
+        "concept": "字典 (Key : Value)",
+        "lines": [
+          "spellbook = {\"guardian\": \"San_Jie_17\", \"stage\": \"S1_Baby\"}",
+          "spellbook[\"bond\"] = \"ACTIVE\""
+        ],
+        "output": "17 本 Python 魔法書已與一階夥伴同步！"
+      }
+    },
+    {
+      "id": "v60_b3_03_plant_based_picnic",
+      "file": "CH00_V6_B3_03_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 480,
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "為新的友誼，也為守護活生生的宇宙——乾杯！",
+          "bx": 32,
+          "by": -14,
+          "tx": 34,
+          "ty": 34,
+          "max_chars": 20
+        },
+        {
+          "type": "narration",
+          "text": "圍著熱花茶、蔬食包與鮮果，十七顆心緊緊相連。",
+          "bx": 76,
+          "by": -14,
+          "max_chars": 22
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p10_01",
+      "file": "CH00_P10_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "大家快吃——剛蒸好的素包子還有森林野莓！",
+          "bx": 26,
+          "by": -14,
+          "tx": 36,
+          "ty": 36,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "等等……天空怎麼突然變紫了？！",
+          "bx": 74,
+          "by": -14,
+          "tx": 68,
+          "ty": 38,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "轟隆...",
+          "x": 84,
+          "y": 16,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#7C3AED"
+        }
+      ],
+      "height": 480
+    },
+    {
+      "id": "ex04_storm_rift",
+      "file": "CH00_EX04_Purple_Storm_Rift_Over_Meadow_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 300,
+      "top_gutter": 86,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "毫無預警，一道鋸齒狀的紫色風暴裂縫撕裂了草原天際！",
+          "bx": 50,
+          "by": -13,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "霹靂！！",
+          "x": 24,
+          "y": 24,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p07_03",
+      "file": "CH00_P07_03_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 86,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 68,
+        "cy": 38,
+        "color": "#C084FC",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "十七個新變數？！一擁而上——把他們全部腐化！",
+          "bx": 30,
+          "by": -13,
+          "tx": 66,
+          "ty": 30,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嗡嗡嗡！！",
+          "x": 28,
+          "y": 62,
+          "rotate": -10,
+          "size": 46,
+          "fill": "#9333EA"
+        }
+      ],
+      "height": 300
+    },
+    {
+      "id": "v57_glitch_swarm_zoom",
+      "layout": "zoom_cascade",
+      "top_gutter": 76,
+      "bottom_gutter": 14,
+      "steps": [
+        {
+          "file": "CH00_v57_PORTRAIT_03_Malcode_Glitch_Descent.jpg",
+          "crop": [
+            0.28,
+            0.08,
+            0.72,
+            0.36
+          ],
+          "x": 36,
+          "y_off": 0,
+          "w": 420,
+          "h": 215,
+          "sfx": [
+            {
+              "kind": "gitaigo",
+              "text": "嗡嗡！",
+              "x": 80,
+              "y": 24,
+              "rotate": -6,
+              "size": 24,
+              "fill": "#A855F7"
+            }
+          ]
+        },
+        {
+          "file": "CH00_v57_PORTRAIT_03_Malcode_Glitch_Descent.jpg",
+          "crop": [
+            0.05,
+            0.68,
+            0.95,
+            0.96
+          ],
+          "x": 344,
+          "y_off": 195,
+          "w": 420,
+          "h": 215,
+          "sfx": [
+            {
+              "kind": "sfx",
+              "text": "蟲群來襲！！",
+              "x": 32,
+              "y": 24,
+              "rotate": 8,
+              "size": 32,
+              "fill": "#9333EA"
+            }
+          ]
+        }
+      ],
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "成群的紫色故障蟲帶著靜電火花，從風暴雲層直撲草原！",
+          "bx": 50,
+          "by": -8,
+          "max_chars": 34,
+          "width": 690
+        }
+      ]
+    },
+    {
+      "id": "v57_portrait_03_malcode_glitch_descent",
+      "layout": "portrait_cinematic",
+      "file": "CH00_v57_PORTRAIT_03_Malcode_Glitch_Descent.jpg",
+      "height": 1240,
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "衝進草原吧，故障蟲群！\n把所有咒語\n通通打亂！",
+          "bx": 25,
+          "by": -4,
+          "tx": 44,
+          "ty": 16,
+          "max_chars": 18,
+          "rx": 155,
+          "ry": 66
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆！！",
+          "x": 81,
+          "y": 12,
+          "rotate": -9,
+          "size": 46,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "v56_new_06_brute_force_fails",
+      "file": "CH00B_NEW_03.jpg",
+      "layout": "framed",
+      "height": 380,
+      "top_gutter": 96,
+      "bottom_gutter": 6,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "哇啊！！用蠻力只會讓蟲怪越變越多！",
+          "bx": 24,
+          "by": -14,
+          "tx": 23,
+          "ty": 28,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "硬碰硬沒用——我們需要冷靜的心與乾淨的 Python 邏輯！",
+          "bx": 77,
+          "by": -14,
+          "tx": 41,
+          "ty": 34,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋滋分裂！！",
+          "x": 80,
+          "y": 16,
+          "rotate": 8,
+          "size": 34,
+          "fill": "#9333EA"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "除錯課 · 蠻力無效",
+        "concept": "為何盲目硬碰會讓蟲怪倍增",
+        "lines": [
+          "glitch_mites = 4",
+          "if response == 'brute_force':",
+          "    glitch_mites *= 2  # Panic doubles the swarm!"
+        ],
+        "output": "警告：蟲群倍增 -> 改用冷靜的蓮花程式護盾！"
+      }
+    },
+    {
+      "id": "v56_new_07_kai_ember_rescue",
+      "file": "CH00B_NEW_04.jpg",
+      "layout": "full_bleed",
+      "height": 410,
+      "top_gutter": 96,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "英雄凱和小火及時趕到了！！",
+          "bx": 22,
+          "by": -14,
+          "tx": 18,
+          "ty": 50,
+          "max_chars": 18
+        },
+        {
+          "type": "shout",
+          "text": "穩住，吳雙、宇文！蓮花程式護盾——啟動！",
+          "bx": 75,
+          "by": -14,
+          "tx": 52,
+          "ty": 16,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚！！",
+          "x": 34,
+          "y": 20,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "v57_bridge_03_kai_ember_lotus_shield",
+      "layout": "full_bleed",
+      "file": "CH00_v57_BRIDGE_03_Kai_Ember_Lotus_Shield.jpg",
+      "height": 450,
+      "top_gutter": 112,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "蓮花程式護盾！用善意彈開所有靜電！",
+          "bx": 34,
+          "by": -14,
+          "tx": 40,
+          "ty": 28,
+          "max_chars": 14
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚——！！",
+          "x": 76,
+          "y": 16,
+          "rotate": -6,
+          "size": 44,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "v57_bridge_03_zoom_cascade",
+      "layout": "zoom_cascade",
+      "top_gutter": 88,
+      "bottom_gutter": 28,
+      "steps": [
+        {
+          "file": "CH00_v57_BRIDGE_03_Kai_Ember_Lotus_Shield.jpg",
+          "crop": [
+            0.2,
+            0.25,
+            0.56,
+            0.78
+          ],
+          "x": 36,
+          "y_off": 0,
+          "w": 420,
+          "h": 310,
+          "sfx": [
+            {
+              "kind": "gitaigo",
+              "text": "嗡鳴～",
+              "x": 80,
+              "y": 24,
+              "rotate": -6,
+              "size": 24,
+              "fill": "#10B981"
+            }
+          ]
+        },
+        {
+          "file": "CH00_v57_BRIDGE_03_Kai_Ember_Lotus_Shield.jpg",
+          "crop": [
+            0.55,
+            0.15,
+            0.96,
+            0.72
+          ],
+          "x": 344,
+          "y_off": 290,
+          "w": 420,
+          "h": 310,
+          "sfx": [
+            {
+              "kind": "sfx",
+              "text": "彈開！！",
+              "x": 28,
+              "y": 22,
+              "rotate": 8,
+              "size": 36,
+              "fill": "#F59E0B"
+            }
+          ]
+        }
+      ],
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "故障蟲群撞上平靜的翡翠蓮花護盾，化作漫天溫柔的金色火花彈開！",
+          "bx": 50,
+          "by": -8,
+          "max_chars": 34,
+          "width": 690
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH00_P11_01_RAW.jpg",
+      "layout": "portrait_cinematic",
+      "crop": [
+        0.35,
+        0.0,
+        0.85,
+        1.0
+      ],
+      "top_gutter": 112,
+      "bottom_gutter": 32,
+      "speedlines": {
+        "cx": 54,
+        "cy": 38,
+        "color": "#E9D5FF",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "十七隻小蟲子……該讓你們的程式當機了！",
+          "bx": 54,
+          "by": -10,
+          "tx": 54,
+          "ty": 25,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟咔！！",
+          "x": 26,
+          "y": 18,
+          "rotate": -12,
+          "size": 44,
+          "fill": "#A855F7"
+        }
+      ],
+      "height": 1170
+    },
+    {
+      "id": "v57_portrait_04_vex_malcode_mist",
+      "layout": "portrait_cinematic",
+      "file": "CH00_v57_PORTRAIT_04_Vex_Malcode_Mist.jpg",
+      "height": 1240,
+      "top_gutter": 108,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在翻湧的紫色迷霧中，VEX 與魔王 MALCODE 背對背現身。",
+          "bx": 50,
+          "by": -5,
+          "max_chars": 34,
+          "width": 680
+        },
+        {
+          "type": "thought",
+          "text": "等等……為什麼他們\n沒有逃跑，\n反而彼此守護？",
+          "bx": 23,
+          "by": 15,
+          "tx": 33,
+          "ty": 29,
+          "max_chars": 17,
+          "rx": 145,
+          "ry": 64
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "gitaigo",
+          "text": "滋滋……",
+          "x": 16,
+          "y": 54,
+          "rotate": -8,
+          "size": 26,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH00_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "退到我們身後！小火——準備起飛！",
+          "bx": 26,
+          "by": -14,
+          "tx": 34,
+          "ty": 46,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "凱，小心！有人跟他在一起！",
+          "bx": 76,
+          "by": -14,
+          "tx": 82,
+          "ty": 64,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼嘯！",
+          "x": 16,
+          "y": 28,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#6D28D9"
+        }
+      ],
+      "height": 490
+    },
+    {
+      "id": "ex05_shield_brace",
+      "file": "CH00_EX05_Kai_Ember_Shield_Brace_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 520,
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "speedlines": {
+        "cx": 42,
+        "cy": 45,
+        "color": "#A7F3D0",
+        "opacity": 0.28
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "魔法書結界——撐住！小火，掩護側翼！！",
+          "bx": 28,
+          "by": -14,
+          "tx": 36,
+          "ty": 20,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "吼！！",
+          "x": 82,
+          "y": 14,
+          "rotate": 8,
+          "size": 40,
+          "fill": "#DC2626"
+        },
+        {
+          "kind": "sfx",
+          "text": "滋啪！！",
+          "x": 14,
+          "y": 20,
+          "rotate": -14,
+          "size": 34,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH00_P12_01_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.32,
+        0.0,
+        0.82,
+        1.0
+      ],
+      "top_gutter": 108,
+      "bottom_gutter": 32,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "Pythonia 從來不需要我……現在就看著你們珍貴的程式碼崩解吧！",
+          "bx": 42,
+          "by": -10,
+          "tx": 24,
+          "ty": 14,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "咚",
+            "咚",
+            "咚！"
+          ],
+          "x": 4,
+          "y": 56,
+          "step_x": 22,
+          "step_y": 40,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#111116"
+        }
+      ],
+      "height": 1170
+    },
+    {
+      "id": "p12_02",
+      "file": "CH00_P12_02_v2_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 115,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 54,
+        "cy": 38,
+        "color": "#F3E8FF",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "牽緊彼此的手！千萬別放開！！",
+          "bx": 28,
+          "by": -13,
+          "tx": 48,
+          "ty": 52,
+          "max_chars": 16
+        },
+        {
+          "type": "shout",
+          "text": "凱！！狂風把我們吹散了！！",
+          "bx": 76,
+          "by": -13,
+          "tx": 78,
+          "ty": 36,
+          "max_chars": 17
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟呼！！",
+          "x": 62,
+          "y": 18,
+          "rotate": -6,
+          "size": 48,
+          "fill": "#7C3AED"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "惡碼干擾 · 無限迴圈",
+        "concept": "失控的 while 迴圈",
+        "lines": [
+          "while vortex_power > 0:",
+          "    scatter(san_jie_17, biomes=4)  # Emergency!"
+        ],
+        "output": "警報：守護者已分散至 Pythonia 四大聖域！"
+      },
+      "height": 450
+    },
+    {
+      "id": "p12_03",
+      "file": "CH00_P12_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "抓緊你們的夥伴！",
+          "bx": 24,
+          "by": -14,
+          "tx": 18,
+          "ty": 44,
+          "max_chars": 17
+        },
+        {
+          "type": "speech",
+          "text": "等等——長老的護盾接住我們了！",
+          "bx": 76,
+          "by": -14,
+          "tx": 85,
+          "ty": 40,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼～",
+          "x": 52,
+          "y": 15,
+          "rotate": -6,
+          "size": 36,
+          "fill": "#10B981"
+        }
+      ],
+      "height": 430
+    },
+    {
+      "id": "v60_b3_04_lumina_lantern_scatter",
+      "file": "CH00_V6_B3_04_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 430,
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "願我的提燈護送每個孩子，平安降落到最需要他們的聖域！",
+          "bx": 34,
+          "by": -14,
+          "tx": 28,
+          "ty": 28,
+          "max_chars": 24
+        },
+        {
+          "type": "narration",
+          "text": "四道翡翠光泡帶著小隊穿越風暴。",
+          "bx": 78,
+          "by": -14,
+          "max_chars": 20
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p12_04",
+      "file": "CH00_P12_04_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 105,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "別走散！我們一定會找到凱和大家的！",
+          "bx": 26,
+          "by": -14,
+          "tx": 34,
+          "ty": 42,
+          "max_chars": 18
+        },
+        {
+          "type": "speech",
+          "text": "抱緊魔法書——我們要降落在那些浮島上了！",
+          "bx": 74,
+          "by": -14,
+          "tx": 66,
+          "ty": 44,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "旋轉～",
+          "x": 48,
+          "y": 16,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#A855F7"
+        }
+      ],
+      "height": 445
+    },
+    {
+      "id": "v60_b3_05_realm1_beacon",
+      "file": "CH00_V6_B3_05_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第一域・霜天極境——語晨、奕修與學議舉起發光的魔法書信標！",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 32
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_b3_06_realm2_beacon",
+      "file": "CH00_V6_B3_06_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二域・金鍛潮峽——道羏、家誠、煜博與楷翔點亮金色峽谷信標！",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "v60_b3_07_realm3_beacon",
+      "file": "CH00_V6_B3_07_RAW.jpg",
+      "layout": "framed",
+      "height": 420,
+      "top_gutter": 102,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第三域・翡翠竹林——峻銘、譯仁、明穗與秋容升起翠綠竹林信標！",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 34
+        }
+      ],
+      "sfx": []
+    },
+    {
+      "id": "p12_05",
+      "file": "CH00_P12_05_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 112,
+      "bottom_gutter": 102,
+      "speedlines": {
+        "cx": 48,
+        "cy": 45,
+        "color": "#FDE68A",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "我們接住你們了！飛高一點，小火！！",
+          "bx": 26,
+          "by": -13,
+          "tx": 44,
+          "ty": 24,
+          "max_chars": 17
+        },
+        {
+          "type": "shout",
+          "text": "去找你們的夥伴——把十七位全都找回來！",
+          "bx": 72,
+          "by": 113,
+          "tx": 78,
+          "ty": 78,
+          "max_chars": 18
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼轟！！",
+          "x": 18,
+          "y": 72,
+          "rotate": -10,
+          "size": 48,
+          "fill": "#EA580C"
+        }
+      ],
+      "height": 455
+    },
+    {
+      "id": "p13_01",
+      "file": "CH00_P13_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 92,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "看地平線！同學們的魔法書正在升起訊號！",
+          "bx": 20,
+          "by": -14,
+          "tx": 46,
+          "ty": 26,
+          "max_chars": 10
+        },
+        {
+          "type": "speech",
+          "text": "那我們就出發，把每一位夥伴都帶回家！",
+          "bx": 81,
+          "by": -11,
+          "tx": 58,
+          "ty": 28,
+          "max_chars": 10
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "滑翔～",
+          "x": 15,
+          "y": 64,
+          "rotate": -8,
+          "size": 26,
+          "fill": "#F59E0B"
+        }
+      ],
+      "height": 395
+    },
+    {
+      "id": "p13_02",
+      "file": "CH00_P13_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 72,
+      "bottom_gutter": 68,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "就這樣，十七位守護者散落在 Pythonia 四方……",
+          "bx": 34,
+          "by": -12,
+          "max_chars": 26
+        },
+        {
+          "type": "narration",
+          "text": "……他們團聚、進化並修復世界的冒險，才正要開始。",
+          "bx": 66,
+          "by": 112,
+          "max_chars": 26
+        }
+      ],
+      "height": 415
+    }
+  ]
+}

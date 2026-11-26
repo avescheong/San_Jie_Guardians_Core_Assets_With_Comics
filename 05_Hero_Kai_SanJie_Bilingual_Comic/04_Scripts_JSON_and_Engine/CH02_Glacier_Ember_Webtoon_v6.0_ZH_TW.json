@@ -1,0 +1,1291 @@
+{
+  "kicker": "WEBTOON V6.0 · 繁體中文導演剪輯版",
+  "title": "第二章：冰焰峽谷與斷裂之橋",
+  "subtitle": "技能覺醒版 · 24張原畫 · 第二聖域：熔岩鍛造峽谷 (v6.0)",
+  "end_banner": {
+    "kicker": "第二章完結 · 平衡聖柱已修復",
+    "title": "下集預告：第三章 — 彩虹瀑布與翡翠聖殿",
+    "subtitle": "順著黃宇博的星辰時空羅盤光束，英雄凱與小火飛向霧氣繚繞的瀑布涼亭……"
+  },
+  "sections": [
+    {
+      "id": "c2_ex00_habitat_forge_tide",
+      "file": "BOOK_05_DIVIDER_FORGE_TIDE.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 92,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "第二聖域・熔岩鍛造峽谷 —— #02 林道揚、#03 林家正、#06 黃宇博、#11 黃凱祥的守護之地。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "爐火微光...",
+          "x": 18,
+          "y": 16,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p01_01",
+      "file": "CH02_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 112,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在冰焰峽谷的高空之上，冰霜峭壁與熾熱岩漿交會——中間橫亙著一座斷裂的石橋。",
+          "bx": 30,
+          "by": -14,
+          "max_chars": 16
+        },
+        {
+          "type": "speech",
+          "text": "看下面，吳雙！學議！峽谷大橋塌了！",
+          "bx": 76,
+          "by": -13,
+          "tx": 58,
+          "ty": 10,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼呼—！",
+          "x": 20,
+          "y": 24,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p01_01_zoom",
+      "file": "CH02_P01_01_RAW.jpg",
+      "layout": "eye_strip",
+      "crop": [
+        0.14,
+        0.56,
+        0.86,
+        0.96
+      ],
+      "height": 190,
+      "top_gutter": 28,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "雲層下方，古老的石橋正懸在翻騰的岩漿上空搖搖欲墜。",
+          "bx": 50,
+          "by": -8,
+          "max_chars": 16,
+          "font_size": 15.0
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆隆...",
+          "x": 80,
+          "y": 78,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH02_P01_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 86,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "英雄凱！！我們在這邊的冰脊上！",
+          "bx": 26,
+          "by": -14,
+          "tx": 60,
+          "ty": 22,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "我的微笑暖爐徽章感應到你的訊號了——歡迎來到峽谷！",
+          "bx": 74,
+          "by": -14,
+          "tx": 74,
+          "ty": 24,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃耀！",
+          "x": 86,
+          "y": 16,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "揮手～",
+          "x": 16,
+          "y": 24,
+          "rotate": -10,
+          "size": 22,
+          "fill": "#0284C7"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH02_P02_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 86,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "我們被困在岩漿這邊了！石橋剛剛斷掉了！",
+          "bx": 26,
+          "by": -14,
+          "tx": 58,
+          "ty": 20,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "撐住，道揚！語晨！我和 DOYB 跳不過去這麼寬的斷崖！",
+          "bx": 74,
+          "by": -14,
+          "tx": 77,
+          "ty": 20,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "焦急",
+          "x": 18,
+          "y": 22,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH02_P02_02_RAW.jpg",
+      "layout": "portrait_cinematic",
+      "crop": [
+        0.18,
+        0.0,
+        0.82,
+        1.0
+      ],
+      "top_gutter": 100,
+      "bottom_gutter": 96,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在峽谷深處，腐化的錯誤甲蟲正不斷吸取古老平衡聖柱的能量。",
+          "bx": 50,
+          "by": -9,
+          "max_chars": 16
+        },
+        {
+          "type": "glitch",
+          "text": "ERR::404... 正在汲取熱力平衡核心...",
+          "bx": 50,
+          "by": 109,
+          "tx": 74,
+          "ty": 70,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋滋—碎裂！",
+          "x": 26,
+          "y": 18,
+          "rotate": -12,
+          "size": 30,
+          "fill": "#9333EA"
+        },
+        {
+          "kind": "sfx",
+          "text": "系統錯誤！",
+          "x": 78,
+          "y": 14,
+          "rotate": 6,
+          "size": 26,
+          "fill": "#C084FC"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH02_P03_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "別擔心，道揚和語晨！只要用 Python 平衡邏輯，我們就能重建大橋。",
+          "bx": 26,
+          "by": -14,
+          "tx": 34,
+          "ty": 21,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "我和火冰狗準備好了！讓我先試著架起一道冰橋！",
+          "bx": 76,
+          "by": -14,
+          "tx": 79,
+          "ty": 24,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "沉著",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 22,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p03_01_zoom",
+      "layout": "zoom_cascade",
+      "top_gutter": 32,
+      "bottom_gutter": 26,
+      "steps": [
+        {
+          "file": "CH02_P03_01_RAW.jpg",
+          "crop": [
+            0.22,
+            0.14,
+            0.56,
+            0.68
+          ],
+          "sfx": [
+            {
+              "kind": "mood",
+              "text": "自信！",
+              "x": 76,
+              "y": 18,
+              "rotate": -6,
+              "size": 22,
+              "fill": "#10B981"
+            }
+          ]
+        },
+        {
+          "file": "CH02_P03_01_RAW.jpg",
+          "crop": [
+            0.56,
+            0.24,
+            0.96,
+            0.88
+          ],
+          "sfx": [
+            {
+              "kind": "mood",
+              "text": "準備就緒！！",
+              "x": 37,
+              "y": 14,
+              "rotate": 6,
+              "size": 21,
+              "fill": "#0EA5E9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH02_P03_02_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.25,
+        0.0,
+        0.75,
+        1.0
+      ],
+      "top_gutter": 110,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "我還這麼小……我的小火花真的幫得上忙嗎？",
+          "bx": 14,
+          "by": -11,
+          "tx": 28,
+          "ty": 44,
+          "max_chars": 12
+        },
+        {
+          "type": "whisper",
+          "text": "放輕鬆，BARKLEY。溫暖不需要很大——只要真心就夠了。",
+          "bx": 84,
+          "by": -11,
+          "tx": 68,
+          "ty": 14,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "暖心～",
+          "x": 18,
+          "y": 34,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH02_P04_01_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.05,
+        0.0,
+        0.68,
+        1.0
+      ],
+      "top_gutter": 118,
+      "bottom_gutter": 28,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "不好！岩漿的熱氣正在半空中融化我的冰橋！",
+          "bx": 16,
+          "by": -12,
+          "tx": 34,
+          "ty": 18,
+          "max_chars": 12
+        },
+        {
+          "type": "narration",
+          "text": "單靠純冰在火山熱氣流上方立刻裂開——單一元素遠遠不夠。",
+          "bx": 84,
+          "by": -12,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嘶—碎裂！！",
+          "x": 70,
+          "y": 40,
+          "rotate": -12,
+          "size": 28,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH02_P04_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 108,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "快看魔法書！用 if-elif-else 條件判斷就能同時平衡冰與火！",
+          "bx": 28,
+          "by": -14,
+          "tx": 46,
+          "ty": 17,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "太好了！當 BARKLEY 的暖意遇上火冰狗的寒氣，就凝結成了水晶！",
+          "bx": 76,
+          "by": -14,
+          "tx": 78,
+          "ty": 29,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "微光閃爍～",
+          "x": 66,
+          "y": 14,
+          "rotate": 8,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #06",
+        "concept": "Conditionals (if / elif / else)",
+        "lines": [
+          "temp = 50  # balanced frost + ember",
+          "if temp < 20:",
+          "    status = \"Ice shatters!\"",
+          "elif temp > 80:",
+          "    status = \"Magma melts span!\"",
+          "else:",
+          "    status = \"Crystal bridge holds!\""
+        ],
+        "output": "Crystal bridge holds!"
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH02_P05_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 78,
+        "cy": 54,
+        "color": "#FEF3C7",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "BARKLEY！現在催動微笑暖爐徽章！",
+          "bx": 27,
+          "by": -14,
+          "tx": 20,
+          "ty": 20,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "火冰狗，把我們的冰霜氣流編織在旁邊！",
+          "bx": 68,
+          "by": -14,
+          "tx": 37,
+          "ty": 23,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟—！！",
+          "x": 76,
+          "y": 24,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH02_P05_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 92,
+        "cy": 38,
+        "color": "#BBF7D0",
+        "opacity": 0.4
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "小綠！展開神盾竹簡——穩固我們這一側！",
+          "bx": 26,
+          "by": -14,
+          "tx": 26,
+          "ty": 25,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "星辰時空羅盤已鎖定！DOYB，把雙重光束同步到中央！",
+          "bx": 74,
+          "by": -14,
+          "tx": 42,
+          "ty": 20,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚—！！",
+          "x": 80,
+          "y": 16,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#22C55E"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #07",
+        "concept": "Logical Operators (and)",
+        "lines": [
+          "left_balance = True   # Dao Yang + Yu Chen",
+          "right_anchor = True   # Jun Ming + Yu Bhor",
+          "if left_balance and right_anchor:",
+          "    print(\"Bridge synced across canyon!\")"
+        ],
+        "output": "Bridge synced across canyon!"
+      }
+    },
+    {
+      "id": "p06_01",
+      "file": "CH02_P06_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 96,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 50,
+        "cy": 50,
+        "color": "#FFFFFF",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "四位守護者，四位夥伴精靈。冰霜、烈焰、翡翠翠竹與星光交織成同一座大橋。",
+          "bx": 50,
+          "by": -14,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "cascade": [
+            "WEAVE!",
+            "LOCK!",
+            "SHINE!!"
+          ],
+          "x": 50,
+          "y": 16,
+          "rotate": -6,
+          "size": 30,
+          "fill": "#F59E0B",
+          "text": "編織！"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH02_P06_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "我們真的成功了！BARKLEY、火冰狗——你看它多穩固！",
+          "bx": 26,
+          "by": -14,
+          "tx": 26,
+          "ty": 22,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "我的羅盤零誤差——每一枚符文都完美對齊！",
+          "bx": 76,
+          "by": -14,
+          "tx": 76,
+          "ty": 23,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "自豪！",
+          "x": 51,
+          "y": 14,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#D97706"
+        }
+      ]
+    },
+    {
+      "id": "p06_03",
+      "file": "CH02_P06_03_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 104,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "俊明！！史上最棒的團隊合作！！",
+          "bx": 26,
+          "by": -14,
+          "tx": 44,
+          "ty": 21,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "擊掌，道揚！建橋小隊大集結！！",
+          "bx": 74,
+          "by": -14,
+          "tx": 58,
+          "ty": 21,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "啪！！",
+          "x": 51,
+          "y": 13,
+          "rotate": 6,
+          "size": 30,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "歡呼～",
+          "x": 16,
+          "y": 18,
+          "rotate": -10,
+          "size": 22,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH02_P07_01_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.36,
+        0.0,
+        0.99,
+        1.0
+      ],
+      "top_gutter": 104,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "glitch",
+          "text": "區區一座小橋？看它能不能撐過無窮迴圈蟲群的攻擊！",
+          "bx": 32,
+          "by": -10,
+          "tx": 58,
+          "ty": 9,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嗡嗡嗡！！",
+          "x": 22,
+          "y": 34,
+          "rotate": -14,
+          "size": 34,
+          "fill": "#A855F7"
+        },
+        {
+          "kind": "mood",
+          "text": "冷笑...",
+          "x": 85,
+          "y": 8,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#C084FC"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "MALCODE CORRUPTION · BUG #02",
+        "concept": "Infinite while Loop Trap",
+        "lines": [
+          "while True:  # DANGER: no exit condition!",
+          "    swarm.append(\"Glitch_Beetle\")",
+          "    attack(\"Crystal_Bridge\")"
+        ],
+        "output": "WARNING: Infinite swarm overload!"
+      }
+    },
+    {
+      "id": "p07_02",
+      "file": "CH02_P07_02_RAW.jpg",
+      "layout": "portrait_tall",
+      "crop": [
+        0.17,
+        0.0,
+        0.8,
+        1.0
+      ],
+      "top_gutter": 100,
+      "bottom_gutter": 26,
+      "speedlines": {
+        "cx": 82,
+        "cy": 72,
+        "color": "#E9D5FF",
+        "opacity": 0.45
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "黑暗靜電閃電猛擊水晶欄杆——整座峽谷隨之劇烈震動！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆隆！！",
+          "x": 74,
+          "y": 24,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#9333EA"
+        },
+        {
+          "kind": "sfx",
+          "text": "碎裂！",
+          "x": 76,
+          "y": 84,
+          "rotate": 8,
+          "size": 28,
+          "fill": "#EF4444"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH02_P08_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "待在防護罩裡！加上 break 條件來中止那個無窮迴圈！",
+          "bx": 28,
+          "by": -14,
+          "tx": 49,
+          "ty": 34,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "收到，英雄凱！鎖定魔法書護盾，直到蟲群歸零！",
+          "bx": 74,
+          "by": -14,
+          "tx": 61,
+          "ty": 30,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋滋—！",
+          "x": 16,
+          "y": 18,
+          "rotate": -14,
+          "size": 30,
+          "fill": "#A855F7"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #08",
+        "concept": "Safe while Loop with break",
+        "lines": [
+          "bugs = 12",
+          "while bugs > 0:",
+          "    bugs -= 4  # squad counter-wave!",
+          "    if bugs == 0:",
+          "        break  # loop safely exited!"
+        ],
+        "output": "Swarm cleared! Bridge integrity: 100%"
+      }
+    },
+    {
+      "id": "p08_02",
+      "file": "CH02_P08_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 98,
+      "bottom_gutter": 24,
+      "speedlines": {
+        "cx": 42,
+        "cy": 58,
+        "color": "#FEF08A",
+        "opacity": 0.42
+      },
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "小火從高空俯衝而下——將溫暖氣流與守護者們的冰焰波動融為一體！",
+          "bx": 40,
+          "by": -14,
+          "max_chars": 16
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "吼—！！",
+          "x": 42,
+          "y": 18,
+          "rotate": -8,
+          "size": 36,
+          "fill": "#EF4444"
+        },
+        {
+          "kind": "sfx",
+          "text": "呼呼—！",
+          "x": 80,
+          "y": 76,
+          "rotate": 8,
+          "size": 28,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p08_03",
+      "file": "CH02_P08_03_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "神盾竹牆——擋下每一道閃電！",
+          "bx": 28,
+          "by": -14,
+          "tx": 20,
+          "ty": 29,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "冰焰波動——打破無窮迴圈！！",
+          "bx": 96,
+          "by": -14,
+          "tx": 66,
+          "ty": 26,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "鏗鏘！！",
+          "x": 44,
+          "y": 36,
+          "rotate": -12,
+          "size": 32,
+          "fill": "#10B981"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.05,
+          0.22,
+          0.45,
+          0.78
+        ],
+        "x": 546,
+        "y_off": 110,
+        "w": 224,
+        "h": 224,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SHIELD UP!",
+            "x": 50,
+            "y": 18,
+            "rotate": -6,
+            "size": 24,
+            "fill": "#22C55E"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p09_01_duo",
+      "layout": "portrait_duo",
+      "top_gutter": 124,
+      "bottom_gutter": 32,
+      "height": 440,
+      "left": {
+        "file": "CH02_P09_01_RAW.jpg",
+        "crop": [
+          0.05,
+          0.0,
+          0.65,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "glitch",
+            "text": "切……居然找到乾淨的退出條件！好好享受這場勝利吧——我們在派森尼亞更深處還會再見的。",
+            "bx": 50,
+            "by": -18,
+            "tx": 55,
+            "ty": 16,
+            "max_chars": 12,
+            "font_size": 13.8
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "消失...",
+            "x": 24,
+            "y": 20,
+            "rotate": -8,
+            "size": 22,
+            "fill": "#9333EA"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH02_P09_02_RAW.jpg",
+        "crop": [
+          0.2,
+          0.0,
+          0.8,
+          1.0
+        ],
+        "balloons": [
+          {
+            "type": "narration",
+            "text": "蟲群消散後，平衡聖柱重新散發出澄澈的藍與金光——野花也在石縫間綻放。",
+            "bx": 50,
+            "by": -17,
+            "max_chars": 16,
+            "font_size": 14.0
+          }
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "鈴聲～",
+            "x": 76,
+            "y": 22,
+            "rotate": 8,
+            "size": 26,
+            "fill": "#0EA5E9"
+          },
+          {
+            "kind": "mood",
+            "text": "寧靜",
+            "x": 24,
+            "y": 24,
+            "rotate": -6,
+            "size": 20,
+            "fill": "#10B981"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p10_01",
+      "file": "CH02_P10_01_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "這是你們四個應得的！熱騰騰的素菜包、甜玉米和草本茶，大家一起享用吧！",
+          "bx": 26,
+          "by": -14,
+          "tx": 37,
+          "ty": 22,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "最棒的慶功野餐！連夕陽下的大橋都在發光呢！",
+          "bx": 74,
+          "by": -14,
+          "tx": 68,
+          "ty": 26,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "好香～",
+          "x": 86,
+          "y": 22,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH02_P10_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "哈哈，小心喔 BARKLEY——那杯草本茶還燙著呢！",
+          "bx": 26,
+          "by": -14,
+          "tx": 37,
+          "ty": 12,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "快看火冰狗！他找到最甜的藍莓了！",
+          "bx": 74,
+          "by": -14,
+          "tx": 67,
+          "ty": 13,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "咯咯笑～",
+          "x": 54,
+          "y": 24,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#EC4899"
+        },
+        {
+          "kind": "mood",
+          "text": "啊嗚啊嗚",
+          "x": 88,
+          "y": 46,
+          "rotate": 6,
+          "size": 20,
+          "fill": "#6366F1"
+        }
+      ]
+    },
+    {
+      "id": "p11_01",
+      "file": "CH02_P11_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "哇！我的星辰時空羅盤剛剛鎖定了一道新的魔法書信標！",
+          "bx": 28,
+          "by": -14,
+          "tx": 43,
+          "ty": 19,
+          "max_chars": 12
+        },
+        {
+          "type": "whisper",
+          "text": "它指向翡翠山脈的那一邊……還有更多同學需要幫助。",
+          "bx": 96,
+          "by": -14,
+          "tx": 84,
+          "ty": 29,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "叮咚！！",
+          "x": 66,
+          "y": 22,
+          "rotate": -10,
+          "size": 30,
+          "fill": "#06B6D4"
+        }
+      ],
+      "inset": {
+        "crop": [
+          0.42,
+          0.5,
+          0.72,
+          0.88
+        ],
+        "x": 546,
+        "y_off": 110,
+        "w": 224,
+        "h": 224,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "LOCKED!",
+            "x": 50,
+            "y": 18,
+            "rotate": -5,
+            "size": 24,
+            "fill": "#06B6D4"
+          }
+        ]
+      },
+      "code_tray": {
+        "theme": "hero",
+        "badge": "PYTHON SPELLBOOK · SPELL #09",
+        "concept": "Reusable Functions (def)",
+        "lines": [
+          "def locate_beacon(heading):",
+          "    return f\"Signal locked: {heading}\"",
+          "print(locate_beacon(\"Rainbow Falls\"))"
+        ],
+        "output": "Signal locked: Rainbow Falls"
+      }
+    },
+    {
+      "id": "p11_02",
+      "file": "CH02_P11_02_RAW.jpg",
+      "layout": "framed",
+      "top_gutter": 106,
+      "bottom_gutter": 24,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "在我追蹤下一道訊號的時候，冰焰大橋就交給你們守護了！",
+          "bx": 26,
+          "by": -14,
+          "tx": 19,
+          "ty": 27,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "交給我們吧，英雄凱！三捷守護者——永遠同在！！",
+          "bx": 72,
+          "by": -14,
+          "tx": 54,
+          "ty": 12,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃耀～",
+          "x": 52,
+          "y": 82,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH02_P12_01_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 56,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "大家大團圓時見！要加油喔！",
+          "bx": 30,
+          "by": -11,
+          "tx": 63,
+          "ty": 8,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "一路順風，英雄凱和小火！！把我們的朋友平安帶回來！！",
+          "bx": 68,
+          "by": 107,
+          "tx": 76,
+          "ty": 94,
+          "max_chars": 12,
+          "font_size": 15.0
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "道別～",
+          "x": 26,
+          "y": 24,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH02_P12_02_RAW.jpg",
+      "layout": "full_bleed",
+      "top_gutter": 44,
+      "bottom_gutter": 4,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "告別冰與火交織的山峰，小火展翼滑翔，飛向雙彩虹與陽光灑落的瀑布聖殿。",
+          "bx": 50,
+          "by": -9,
+          "max_chars": 16,
+          "font_size": 15.0
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "勇往直前...",
+          "x": 62,
+          "y": 18,
+          "rotate": -5,
+          "size": 24,
+          "fill": "#0EA5E9"
+        }
+      ]
+    }
+  ]
+}

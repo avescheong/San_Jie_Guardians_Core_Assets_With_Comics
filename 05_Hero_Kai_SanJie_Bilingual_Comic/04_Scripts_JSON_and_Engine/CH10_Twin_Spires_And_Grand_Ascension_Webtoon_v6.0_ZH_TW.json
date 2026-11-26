@@ -1,0 +1,2273 @@
+{
+  "kicker": "英雄凱 × 三潔十七守護者 • 第三幕：堡壘圍城 • 繁體中文條漫 v6.0",
+  "title": "第十章：雙塔激戰與究極覺醒",
+  "subtitle": "兩場絕境雙塔死戰、九位守護者第三階究極覺醒，與雙領域守護者淨化重生！",
+  "end_banner": {
+    "kicker": "未完待續 · 第十一章",
+    "title": "下回預告：總攻惡碼魔王堡壘",
+    "subtitle": "十七位守護者在英雄凱的星圖下全數會師，迎戰錯碼蟲王二世的終極決戰！"
+  },
+  "sections": [
+    {
+      "id": "p01_01",
+      "file": "CH10_P01_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 405,
+      "top_gutter": 62,
+      "bottom_gutter": 60,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "兩座被腐化的外圍高塔鎖住了堡壘大門——齒輪鍛造塔與水晶瀑布塔。",
+          "bx": 50,
+          "by": -9,
+          "max_chars": 26
+        },
+        {
+          "type": "narration",
+          "text": "要擊碎惡碼魔王的封印，兩支守護小隊必須同時點燃雙塔信標！",
+          "bx": 50,
+          "by": 109,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "隆隆……",
+          "x": 22,
+          "y": 19,
+          "rotate": -8,
+          "size": 26,
+          "fill": "#A855F7"
+        },
+        {
+          "kind": "mood",
+          "text": "脈動……",
+          "x": 78,
+          "y": 21,
+          "rotate": 7,
+          "size": 25,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p01_02",
+      "file": "CH10_P01_02_RAW.jpg",
+      "layout": "framed",
+      "height": 405,
+      "top_gutter": 94,
+      "bottom_gutter": 16,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "齒輪鍛造塔就在前方！準備好了嗎，巴克利？",
+          "bx": 25,
+          "by": -14,
+          "tx": 34,
+          "ty": 32,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "我的星時羅盤偵測到裡面有強烈的錯碼齒輪！",
+          "bx": 74,
+          "by": -14,
+          "tx": 57,
+          "ty": 32,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "滴答……滴答……",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p02_01",
+      "file": "CH10_P02_01_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 435,
+      "top_gutter": 96,
+      "bottom_gutter": 16,
+      "speedlines": {
+        "cx": 50,
+        "cy": 34,
+        "color": "#FDE047",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "守住前線，巴克利！烈焰反擊！",
+          "bx": 24,
+          "by": -15,
+          "tx": 27,
+          "ty": 41,
+          "max_chars": 11
+        },
+        {
+          "type": "shout",
+          "text": "火冰狗，快冷卻它的熔岩裝甲！",
+          "bx": 76,
+          "by": -15,
+          "tx": 70,
+          "ty": 43,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "吼啊啊！！",
+          "x": 50,
+          "y": 12,
+          "rotate": -5,
+          "size": 44,
+          "fill": "#F97316"
+        },
+        {
+          "kind": "sfx",
+          "text": "轟！！",
+          "x": 14,
+          "y": 38,
+          "rotate": -12,
+          "size": 34,
+          "fill": "#EF4444"
+        }
+      ]
+    },
+    {
+      "id": "p02_01b",
+      "file": "CH10_P02_01B_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 445,
+      "top_gutter": 96,
+      "bottom_gutter": 56,
+      "speedlines": {
+        "cx": 50,
+        "cy": 45,
+        "color": "#A855F7",
+        "opacity": 0.35
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "巴克利！！我們的二階攻擊全被彈開了！！",
+          "bx": 24,
+          "by": -15,
+          "tx": 20,
+          "ty": 42,
+          "max_chars": 11
+        },
+        {
+          "type": "villain",
+          "text": "可笑的微光！！嚐嚐腐化齒輪的重量吧！！",
+          "bx": 74,
+          "by": -15,
+          "tx": 52,
+          "ty": 28,
+          "max_chars": 12
+        },
+        {
+          "type": "narration",
+          "text": "熔岩衝擊波擊碎了反擊——兩隻夥伴被狠狠震飛到石橋上！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆猛擊！！",
+          "x": 44,
+          "y": 74,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#F97316"
+        },
+        {
+          "kind": "sfx",
+          "text": "滋啪！！",
+          "x": 80,
+          "y": 22,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p02_02",
+      "file": "CH10_P02_02_RAW.jpg",
+      "layout": "framed",
+      "height": 370,
+      "top_gutter": 86,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "護盾穹頂鎖定！立刻同步我們四人的聖物！",
+          "bx": 25,
+          "by": -14,
+          "tx": 43,
+          "ty": 26,
+          "max_chars": 11
+        },
+        {
+          "type": "speech",
+          "text": "露珠花瓣茶杯——治癒小隊並強化光芒！",
+          "bx": 75,
+          "by": -14,
+          "tx": 57,
+          "ty": 28,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "錚！！",
+          "x": 18,
+          "y": 24,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#38BDF8"
+        },
+        {
+          "kind": "mood",
+          "text": "閃耀",
+          "x": 85,
+          "y": 24,
+          "rotate": 10,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "Python 魔法書 · 函式與回傳",
+        "concept": "def + return · 聖物同步校準",
+        "lines": [
+          "def sync_relics(energies, threshold=100):",
+          "    total = sum(energies)",
+          "    return total >= threshold",
+          "",
+          "ready = sync_relics([28, 26, 25, 27])  # Fourfold Sun-Forge Dome"
+        ],
+        "output": "True -> 聖物共鳴達 106%！第三階大門解鎖！"
+      }
+    },
+    {
+      "id": "p02_02b",
+      "file": "CH10_P02_02B_RAW.jpg",
+      "layout": "framed",
+      "height": 375,
+      "top_gutter": 86,
+      "bottom_gutter": 46,
+      "speedlines": {
+        "cx": 50,
+        "cy": 22,
+        "color": "#EF4444",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "護盾正在裂開！！DOYB、波比——快退後！！",
+          "bx": 26,
+          "by": -15,
+          "tx": 42,
+          "ty": 46,
+          "max_chars": 11
+        },
+        {
+          "type": "shout",
+          "text": "牠們拼盡全力也要擋在我們面前！！",
+          "bx": 74,
+          "by": -15,
+          "tx": 59,
+          "ty": 46,
+          "max_chars": 11
+        },
+        {
+          "type": "narration",
+          "text": "在崩潰的邊緣，堅定不移的愛點燃了更深層的心靈共鳴……",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "喀啦裂開！！",
+          "x": 50,
+          "y": 38,
+          "rotate": -5,
+          "size": 42,
+          "fill": "#EF4444"
+        },
+        {
+          "kind": "mood",
+          "text": "咬緊牙關……",
+          "x": 15,
+          "y": 22,
+          "rotate": -10,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p03_01",
+      "file": "CH10_P03_01_RAW.jpg",
+      "layout": "framed",
+      "height": 380,
+      "top_gutter": 86,
+      "bottom_gutter": 10,
+      "speedlines": {
+        "cx": 50,
+        "cy": 18,
+        "color": "#FCD34D",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "我們絕不在這裡倒下！四心合一——連結所有聖物！！",
+          "bx": 25,
+          "by": -15,
+          "tx": 20,
+          "ty": 34,
+          "max_chars": 11
+        },
+        {
+          "type": "shout",
+          "text": "回應我們的勇氣吧——究極進化啟動！！",
+          "bx": 75,
+          "by": -15,
+          "tx": 82,
+          "ty": 34,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟鳴！！",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 44,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p03_01_eye",
+      "file": "CH10_P03_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 140,
+      "crop": [
+        0.06,
+        0.4,
+        0.94,
+        0.6
+      ],
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "同步！！",
+          "x": 50,
+          "y": 24,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p03_01b",
+      "file": "CH10_P03_01B_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 385,
+      "top_gutter": 52,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在燃燒的齒輪上空，四份羈絆突破二階，邁向璀璨的究極覺醒！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "烈焰！！",
+          "x": 16,
+          "y": 84,
+          "rotate": -10,
+          "size": 42,
+          "fill": "#F97316"
+        },
+        {
+          "kind": "mood",
+          "text": "閃爍",
+          "x": 85,
+          "y": 84,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p03_pt01",
+      "file": "CH10_PT01_DaoYang_Barkley_Grand_Ascension_3x4_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 1190,
+      "top_gutter": 10,
+      "bottom_gutter": 10,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "笑臉暖爐徽章點燃——日熔主宰巴克利展翅飛向第三階！",
+          "bx": 50,
+          "by": 4,
+          "max_chars": 25
+        },
+        {
+          "type": "shout",
+          "text": "迎著太陽翱翔吧，巴克利！！",
+          "bx": 22,
+          "by": 67,
+          "tx": 44,
+          "ty": 68,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "覺醒！！",
+          "x": 79,
+          "y": 13,
+          "rotate": 8,
+          "size": 44,
+          "fill": "#F59E0B"
+        },
+        {
+          "kind": "mood",
+          "text": "昂吼～",
+          "x": 20,
+          "y": 14,
+          "rotate": -10,
+          "size": 26,
+          "fill": "#EA580C"
+        }
+      ]
+    },
+    {
+      "id": "p03_02",
+      "file": "CH10_P03_02_RAW.jpg",
+      "layout": "framed",
+      "height": 430,
+      "top_gutter": 88,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "太陽龍、晶焰守護犬、星時鳳凰與九尾花狐——第三階究極形態！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 28
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆！！",
+          "x": 50,
+          "y": 84,
+          "rotate": -3,
+          "size": 42,
+          "fill": "#FCD34D"
+        }
+      ]
+    },
+    {
+      "id": "p04_01",
+      "file": "CH10_P04_01_RAW.jpg",
+      "layout": "framed",
+      "height": 430,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "哇……巴克利，你的太陽雙翼太不可思議了！",
+          "bx": 25,
+          "by": -14,
+          "tx": 39,
+          "ty": 41,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "火冰狗的烈焰與寒冰達到了完美和諧！",
+          "bx": 75,
+          "by": -14,
+          "tx": 66,
+          "ty": 41,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "光輝",
+          "x": 52,
+          "y": 18,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p04_02",
+      "file": "CH10_P04_02_RAW.jpg",
+      "layout": "framed",
+      "height": 495,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "DOYB的星時之羽能看穿每一個錯碼弱點！",
+          "bx": 25,
+          "by": -14,
+          "tx": 44,
+          "ty": 44,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "波比，我們把整座鍛造塔變回光明吧！",
+          "bx": 75,
+          "by": -14,
+          "tx": 57,
+          "ty": 46,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "翩翩～",
+          "x": 14,
+          "y": 42,
+          "rotate": -12,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p04_duo",
+      "layout": "split_duo",
+      "height": 490,
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "left": {
+        "file": "CH10_P04_01_RAW.jpg",
+        "crop": [
+          0.16,
+          0.14,
+          0.46,
+          0.52
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "FLARE!",
+            "x": 28,
+            "y": 82,
+            "rotate": -8,
+            "size": 32,
+            "fill": "#F97316"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH10_P04_02_RAW.jpg",
+        "crop": [
+          0.18,
+          0.14,
+          0.48,
+          0.52
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SHING!",
+            "x": 74,
+            "y": 82,
+            "rotate": 8,
+            "size": 32,
+            "fill": "#EC4899"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p05_01",
+      "file": "CH10_P05_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 365,
+      "top_gutter": 98,
+      "bottom_gutter": 20,
+      "speedlines": {
+        "cx": 72,
+        "cy": 44,
+        "color": "#FDE047",
+        "opacity": 0.35
+      },
+      "inset": {
+        "crop": [
+          0.58,
+          0.26,
+          0.86,
+          0.64
+        ],
+        "x": 548,
+        "y_off": 145,
+        "w": 222,
+        "h": 212,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SHATTER!",
+            "x": 50,
+            "y": 84,
+            "rotate": -8,
+            "size": 32,
+            "fill": "#A855F7"
+          }
+        ]
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "四重究極淨化光束——發射！！",
+          "bx": 22,
+          "by": -15,
+          "tx": 28,
+          "ty": 13,
+          "max_chars": 11
+        },
+        {
+          "type": "glitch",
+          "text": "錯誤……核心齒輪過載……正在關閉……",
+          "bx": 98,
+          "by": -15,
+          "tx": 73,
+          "ty": 11,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟隆隆！！",
+          "x": 44,
+          "y": 20,
+          "rotate": -7,
+          "size": 40,
+          "fill": "#F59E0B"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "Python 魔法書 · For 迴圈與累加器",
+        "concept": "for loop · 四重究極光束打擊",
+        "lines": [
+          "grand_beams = [\"Solar\", \"Crystal-Frost\", \"Star-Phoenix\", \"Petal-Light\"]",
+          "corruption = 100",
+          "for beam in grand_beams:",
+          "    corruption = max(0, corruption - 25)",
+          "print(f\"Clockwork Titan corruption: {corruption}%\")"
+        ],
+        "output": "Clockwork Titan corruption: 0% -> 核心淨化完成！"
+      }
+    },
+    {
+      "id": "p05_01b",
+      "file": "CH10_P05_01B_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 420,
+      "top_gutter": 92,
+      "bottom_gutter": 54,
+      "speedlines": {
+        "cx": 56,
+        "cy": 50,
+        "color": "#10B981",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "villain",
+          "text": "嗚啊啊！！我的胸口……詛咒齒輪正在碎裂！！",
+          "bx": 30,
+          "by": -14,
+          "tx": 58,
+          "ty": 20,
+          "max_chars": 12
+        },
+        {
+          "type": "thought",
+          "text": "等等……這股溫暖……我想起自己是誰了……",
+          "bx": 76,
+          "by": -14,
+          "tx": 62,
+          "ty": 20,
+          "max_chars": 11
+        },
+        {
+          "type": "narration",
+          "text": "隨著惡碼的錯碼鎖鏈斷裂，純淨的翡翠之心重新閃耀！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "碎裂！！",
+          "x": 24,
+          "y": 42,
+          "rotate": -8,
+          "size": 40,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "sfx",
+          "text": "繃斷！！",
+          "x": 82,
+          "y": 36,
+          "rotate": 10,
+          "size": 32,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p05_01c",
+      "file": "CH10_P05_01C_RAW.jpg",
+      "layout": "framed",
+      "height": 440,
+      "top_gutter": 62,
+      "bottom_gutter": 56,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "入侵之前，他原是守護黃金齒輪的派索尼亞高貴鍛造守護者。",
+          "bx": 50,
+          "by": -9,
+          "max_chars": 27
+        },
+        {
+          "type": "narration",
+          "text": "直到惡碼魔王從風暴中突襲，用錯碼鎖鏈貫穿了他的心！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "記憶回溯",
+          "x": 16,
+          "y": 14,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#D97706"
+        },
+        {
+          "kind": "sfx",
+          "text": "滋轟！！",
+          "x": 74,
+          "y": 46,
+          "rotate": 8,
+          "size": 34,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p05_02",
+      "file": "CH10_P05_02_RAW.jpg",
+      "layout": "framed",
+      "height": 440,
+      "top_gutter": 98,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "齒輪鍛造塔信標點燃——第一道封印解除！",
+          "bx": 24,
+          "by": -11,
+          "max_chars": 13
+        },
+        {
+          "type": "shout",
+          "text": "我們做到了！接下來交給翡翠潮汐小隊！",
+          "bx": 77,
+          "by": -15,
+          "tx": 67,
+          "ty": 46,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "飛舞",
+          "x": 58,
+          "y": 24,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#FBBF24"
+        }
+      ]
+    },
+    {
+      "id": "p05_02b",
+      "file": "CH10_P05_02B_RAW.jpg",
+      "layout": "framed",
+      "height": 440,
+      "top_gutter": 94,
+      "bottom_gutter": 54,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "原來你一直都是派索尼亞的守護者！太好了，你自由了！",
+          "bx": 26,
+          "by": -14,
+          "tx": 18,
+          "ty": 38,
+          "max_chars": 13
+        },
+        {
+          "type": "speech",
+          "text": "謝謝你們，小小英雄……你們擊碎了惡碼的錯碼，救了我的心！",
+          "bx": 74,
+          "by": -14,
+          "tx": 72,
+          "ty": 24,
+          "max_chars": 13
+        },
+        {
+          "type": "narration",
+          "text": "擺脫腐化的鍛造守護者立誓再次守護這座高塔！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "淨化～",
+          "x": 50,
+          "y": 16,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p06_01",
+      "file": "CH10_P06_01_RAW.jpg",
+      "layout": "framed",
+      "height": 440,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "與此同時，在水晶瀑布高塔……",
+          "bx": 28,
+          "by": -11,
+          "max_chars": 15
+        },
+        {
+          "type": "speech",
+          "text": "那些紫色荊棘正在吸乾整座瀑布的能量！",
+          "bx": 73,
+          "by": -14,
+          "tx": 46,
+          "ty": 44,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "嘎吱……",
+          "x": 82,
+          "y": 54,
+          "rotate": 10,
+          "size": 24,
+          "fill": "#9333EA"
+        }
+      ]
+    },
+    {
+      "id": "p06_02",
+      "file": "CH10_P06_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 360,
+      "top_gutter": 86,
+      "bottom_gutter": 10,
+      "inset": {
+        "crop": [
+          0.45,
+          0.08,
+          0.74,
+          0.44
+        ],
+        "x": 548,
+        "y_off": 145,
+        "w": 222,
+        "h": 212,
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "GLARE!!",
+            "x": 50,
+            "y": 84,
+            "rotate": -6,
+            "size": 32,
+            "fill": "#D946EF"
+          }
+        ]
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "竹鐵盾卷軸——結界展開！！",
+          "bx": 22,
+          "by": -15,
+          "tx": 29,
+          "ty": 38,
+          "max_chars": 11
+        },
+        {
+          "type": "glitch",
+          "text": "任何守護者都休想通過荊棘之根！！",
+          "bx": 98,
+          "by": -15,
+          "tx": 60,
+          "ty": 12,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼嘯！",
+          "x": 13,
+          "y": 40,
+          "rotate": -10,
+          "size": 34,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p06_eye",
+      "file": "CH10_P06_02_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 145,
+      "crop": [
+        0.38,
+        0.1,
+        0.78,
+        0.36
+      ],
+      "top_gutter": 14,
+      "bottom_gutter": 16,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "嘶……",
+          "x": 20,
+          "y": 50,
+          "rotate": -6,
+          "size": 28,
+          "fill": "#D946EF"
+        }
+      ]
+    },
+    {
+      "id": "p06_02b",
+      "file": "CH10_P06_02B_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 375,
+      "top_gutter": 86,
+      "bottom_gutter": 46,
+      "speedlines": {
+        "cx": 52,
+        "cy": 48,
+        "color": "#A855F7",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "我的翠竹結界被擊碎了！！小賈文，小心！！",
+          "bx": 26,
+          "by": -15,
+          "tx": 21,
+          "ty": 38,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "翡翠X機甲被壓制住了！這些荊棘太強大了！！",
+          "bx": 74,
+          "by": -15,
+          "tx": 67,
+          "ty": 54,
+          "max_chars": 12
+        },
+        {
+          "type": "narration",
+          "text": "腐化的荊棘巨獸一記橫掃便擊潰了小隊的前線！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟然崩碎！！",
+          "x": 46,
+          "y": 48,
+          "rotate": -8,
+          "size": 40,
+          "fill": "#A855F7"
+        },
+        {
+          "kind": "sfx",
+          "text": "咚轟！！",
+          "x": 86,
+          "y": 62,
+          "rotate": 10,
+          "size": 32,
+          "fill": "#F97316"
+        }
+      ]
+    },
+    {
+      "id": "p07_01",
+      "file": "CH10_P07_01_RAW.jpg",
+      "layout": "framed",
+      "height": 430,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "speedlines": {
+        "cx": 50,
+        "cy": 48,
+        "color": "#38BDF8",
+        "opacity": 0.28
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "史蒂奇，用潮汐波清理橋面！",
+          "bx": 25,
+          "by": -15,
+          "tx": 38,
+          "ty": 20,
+          "max_chars": 11
+        },
+        {
+          "type": "speech",
+          "text": "森之狐，固定藤蔓別讓大家滑倒！",
+          "bx": 75,
+          "by": -14,
+          "tx": 64,
+          "ty": 18,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "嘩啦！！",
+          "x": 16,
+          "y": 54,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#0EA5E9"
+        },
+        {
+          "kind": "sfx",
+          "text": "沙沙！",
+          "x": 85,
+          "y": 74,
+          "rotate": 8,
+          "size": 30,
+          "fill": "#22C55E"
+        }
+      ]
+    },
+    {
+      "id": "p07_01b",
+      "file": "CH10_P07_01B_RAW.jpg",
+      "layout": "framed",
+      "height": 430,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "thought",
+          "text": "只要我們五人現在同步聖物，就能治癒這座高塔！",
+          "bx": 24,
+          "by": -14,
+          "tx": 22,
+          "ty": 42,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "星莓之光——斬斷那些荊棘，莓兒！",
+          "bx": 73,
+          "by": -14,
+          "tx": 44,
+          "ty": 25,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "唰！！",
+          "x": 80,
+          "y": 28,
+          "rotate": -12,
+          "size": 38,
+          "fill": "#EC4899"
+        },
+        {
+          "kind": "mood",
+          "text": "閃耀",
+          "x": 74,
+          "y": 14,
+          "rotate": 8,
+          "size": 24,
+          "fill": "#FBBF24"
+        }
+      ]
+    },
+    {
+      "id": "p07_01c",
+      "file": "CH10_P07_01C_RAW.jpg",
+      "layout": "framed",
+      "height": 445,
+      "top_gutter": 96,
+      "bottom_gutter": 56,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "史蒂奇！！森之狐！！撐住——我們絕不放手！！",
+          "bx": 27,
+          "by": -15,
+          "tx": 19,
+          "ty": 36,
+          "max_chars": 12
+        },
+        {
+          "type": "shout",
+          "text": "莓兒就算拼到最後一口氣也在保護我！！",
+          "bx": 75,
+          "by": -15,
+          "tx": 88,
+          "ty": 40,
+          "max_chars": 12
+        },
+        {
+          "type": "narration",
+          "text": "深陷暗紫荊棘之中，五位守護者絕不放棄彼此的夥伴！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "纏縛！！",
+          "x": 36,
+          "y": 64,
+          "rotate": -8,
+          "size": 34,
+          "fill": "#A855F7"
+        },
+        {
+          "kind": "mood",
+          "text": "撐住……",
+          "x": 72,
+          "y": 16,
+          "rotate": 6,
+          "size": 22,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p07_duo",
+      "layout": "split_duo",
+      "height": 420,
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "left": {
+        "file": "CH10_P07_01_RAW.jpg",
+        "crop": [
+          0.05,
+          0.1,
+          0.36,
+          0.62
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SURGE!",
+            "x": 28,
+            "y": 82,
+            "rotate": -8,
+            "size": 32,
+            "fill": "#0EA5E9"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH10_P07_01B_RAW.jpg",
+        "crop": [
+          0.54,
+          0.14,
+          0.9,
+          0.64
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SLASH!",
+            "x": 74,
+            "y": 82,
+            "rotate": 8,
+            "size": 32,
+            "fill": "#EC4899"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p07_02",
+      "file": "CH10_P07_02_RAW.jpg",
+      "layout": "framed",
+      "height": 425,
+      "top_gutter": 114,
+      "bottom_gutter": 22,
+      "speedlines": {
+        "cx": 50,
+        "cy": 22,
+        "color": "#86EFAC",
+        "opacity": 0.3
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "我們一起救回夥伴！五心合一！！",
+          "bx": 25,
+          "by": -15,
+          "tx": 39,
+          "ty": 38,
+          "max_chars": 11
+        },
+        {
+          "type": "shout",
+          "text": "綻放翡翠蓮華——究極進化！！",
+          "bx": 75,
+          "by": -15,
+          "tx": 63,
+          "ty": 38,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "鈴鳴！！",
+          "x": 50,
+          "y": 14,
+          "rotate": -4,
+          "size": 40,
+          "fill": "#10B981"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "Python 魔法書 · all() 與串列檢查",
+        "concept": "all() · 五重翡翠蓮華同步",
+        "lines": [
+          "emerald_squad = [",
+          "    {\"pet\": \"Sticky\", \"sync\": True}, {\"pet\": \"Javin Jr\", \"sync\": True},",
+          "    {\"pet\": \"Berrie\", \"sync\": True}, {\"pet\": \"Sylvan-Fox\", \"sync\": True},",
+          "    {\"pet\": \"Emerald-X\", \"sync\": True}",
+          "]",
+          "if all(m[\"sync\"] for m in emerald_squad):",
+          "    print(\"FIVEFOLD GRAND ASCENSION ACTIVE!\")"
+        ],
+        "output": "五重究極覺醒啟動！"
+      }
+    },
+    {
+      "id": "p07_03",
+      "file": "CH10_P07_03_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 445,
+      "top_gutter": 88,
+      "bottom_gutter": 26,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "潮汐、翠竹、星莓、古林之根與生態機甲——五位究極精靈一同覺醒！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 27
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "閃耀！！",
+          "x": 50,
+          "y": 84,
+          "rotate": -5,
+          "size": 44,
+          "fill": "#34D399"
+        }
+      ]
+    },
+    {
+      "id": "p08_01",
+      "file": "CH10_P08_01_RAW.jpg",
+      "layout": "framed",
+      "height": 445,
+      "top_gutter": 88,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "五道古老符文封印鎖定就位——第三階究極形態完成！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "嗡鳴……",
+          "x": 50,
+          "y": 84,
+          "rotate": 0,
+          "size": 26,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p08_02",
+      "file": "CH10_P08_02_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 108,
+      "bottom_gutter": 20,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "史蒂奇，你成為真正的潮晶精靈了！",
+          "bx": 26,
+          "by": -14,
+          "tx": 39,
+          "ty": 30,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "小賈文也進化成大翠竹賢者了！",
+          "bx": 75,
+          "by": -14,
+          "tx": 81,
+          "ty": 30,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "太棒了！",
+          "x": 54,
+          "y": 18,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p08_eye",
+      "file": "CH10_P08_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 205,
+      "crop": [
+        0.06,
+        0.2,
+        0.94,
+        0.46
+      ],
+      "top_gutter": 16,
+      "bottom_gutter": 20,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "甦醒！！",
+          "x": 50,
+          "y": 80,
+          "rotate": -4,
+          "size": 30,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p09_01",
+      "file": "CH10_P09_01_RAW.jpg",
+      "layout": "framed",
+      "height": 390,
+      "top_gutter": 108,
+      "bottom_gutter": 18,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "莓兒的星光之翼閃耀得好耀眼！",
+          "bx": 25,
+          "by": -14,
+          "tx": 29,
+          "ty": 41,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "翡翠X機甲全生態能源上線！",
+          "bx": 75,
+          "by": -14,
+          "tx": 74,
+          "ty": 39,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "閃耀",
+          "x": 50,
+          "y": 12,
+          "rotate": 4,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p09_02",
+      "file": "CH10_P09_02_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 365,
+      "top_gutter": 86,
+      "bottom_gutter": 10,
+      "speedlines": {
+        "cx": 75,
+        "cy": 40,
+        "color": "#86EFAC",
+        "opacity": 0.34
+      },
+      "inset": {
+        "crop": [
+          0.72,
+          0.16,
+          0.96,
+          0.56
+        ],
+        "x": 548,
+        "y_off": 152,
+        "w": 222,
+        "h": 215,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "PETAL BURST",
+            "x": 50,
+            "y": 84,
+            "rotate": -6,
+            "size": 22,
+            "fill": "#EC4899"
+          }
+        ]
+      },
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "五重自然綻放——淨化這座高塔！！",
+          "bx": 22,
+          "by": -15,
+          "tx": 24,
+          "ty": 13,
+          "max_chars": 11
+        },
+        {
+          "type": "whisper",
+          "text": "黑暗荊棘……正在重新綻放成花朵……",
+          "bx": 98,
+          "by": -14,
+          "tx": 72,
+          "ty": 15,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "盛開！！",
+          "x": 48,
+          "y": 18,
+          "rotate": -8,
+          "size": 38,
+          "fill": "#10B981"
+        }
+      ]
+    },
+    {
+      "id": "p09_float",
+      "file": "CH10_P09_02_RAW.jpg",
+      "layout": "floating_beat",
+      "height": 170,
+      "crop": [
+        0.58,
+        0.14,
+        0.96,
+        0.62
+      ],
+      "top_gutter": 16,
+      "bottom_gutter": 20,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "綻放～",
+          "x": 50,
+          "y": 84,
+          "rotate": -5,
+          "size": 28,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p09_02b",
+      "file": "CH10_P09_02B_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 375,
+      "top_gutter": 86,
+      "bottom_gutter": 46,
+      "speedlines": {
+        "cx": 58,
+        "cy": 44,
+        "color": "#10B981",
+        "opacity": 0.34
+      },
+      "balloons": [
+        {
+          "type": "villain",
+          "text": "不……黑暗荊棘正在崩碎！！",
+          "bx": 26,
+          "by": -14,
+          "tx": 24,
+          "ty": 56,
+          "max_chars": 11
+        },
+        {
+          "type": "thought",
+          "text": "櫻花瓣……水晶瀑布……真正的我正在甦醒……",
+          "bx": 74,
+          "by": -14,
+          "tx": 62,
+          "ty": 38,
+          "max_chars": 13
+        },
+        {
+          "type": "narration",
+          "text": "在碎裂的荊棘之下，古老的自然守護靈於花光中現身！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "盛開！！",
+          "x": 52,
+          "y": 76,
+          "rotate": -6,
+          "size": 42,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "sfx",
+          "text": "喀嚓！！",
+          "x": 20,
+          "y": 32,
+          "rotate": -10,
+          "size": 32,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p09_02c",
+      "file": "CH10_P09_02C_RAW.jpg",
+      "layout": "framed",
+      "height": 440,
+      "top_gutter": 62,
+      "bottom_gutter": 56,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "在惡碼入侵之前，林泉守護靈一直溫柔滋養著派索尼亞的水晶瀑布。",
+          "bx": 50,
+          "by": -9,
+          "max_chars": 27
+        },
+        {
+          "type": "narration",
+          "text": "惡碼的錯碼蟲群感染了她的根脈——將綻放的花藤扭曲成暗紫荊棘！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "往昔記憶",
+          "x": 15,
+          "y": 14,
+          "rotate": -6,
+          "size": 22,
+          "fill": "#10B981"
+        },
+        {
+          "kind": "sfx",
+          "text": "蟲群！！",
+          "x": 78,
+          "y": 52,
+          "rotate": 8,
+          "size": 32,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p10_01",
+      "file": "CH10_P10_01_RAW.jpg",
+      "layout": "framed",
+      "height": 435,
+      "top_gutter": 110,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "水晶瀑布塔重獲自由——雙塔信標全數點燃！",
+          "bx": 25,
+          "by": -11,
+          "max_chars": 14
+        },
+        {
+          "type": "shout",
+          "text": "太棒了！！兩道外圍封印全部解開了！",
+          "bx": 77,
+          "by": -15,
+          "tx": 68,
+          "ty": 46,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "歡呼～",
+          "x": 50,
+          "y": 24,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#0EA5E9"
+        }
+      ]
+    },
+    {
+      "id": "p10_01b",
+      "file": "CH10_P10_01B_RAW.jpg",
+      "layout": "framed",
+      "height": 440,
+      "top_gutter": 94,
+      "bottom_gutter": 54,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "歡迎回來，林泉守護靈！瀑布又重新閃閃發光了！",
+          "bx": 27,
+          "by": -14,
+          "tx": 34,
+          "ty": 52,
+          "max_chars": 13
+        },
+        {
+          "type": "speech",
+          "text": "謝謝你們，善良的守護者！你們的慈悲解開了惡碼的詛咒！",
+          "bx": 74,
+          "by": -14,
+          "tx": 72,
+          "ty": 32,
+          "max_chars": 13
+        },
+        {
+          "type": "narration",
+          "text": "兩位被腐化的領域守護者皆獲淨化——派索尼亞的光芒愈發耀眼！",
+          "bx": 50,
+          "by": 108,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "祝福～",
+          "x": 50,
+          "y": 16,
+          "rotate": -4,
+          "size": 24,
+          "fill": "#EC4899"
+        }
+      ]
+    },
+    {
+      "id": "p10_02",
+      "file": "CH10_P10_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 460,
+      "top_gutter": 88,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "金光與翠光雙重光束擊中堡壘大門——黑暗結界應聲碎裂！",
+          "bx": 50,
+          "by": -10,
+          "max_chars": 26
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "轟裂！！",
+          "x": 62,
+          "y": 38,
+          "rotate": -7,
+          "size": 44,
+          "fill": "#F59E0B"
+        }
+      ],
+      "code_tray": {
+        "theme": "hero",
+        "badge": "Python 魔法書 · 布林 AND 邏輯閘",
+        "concept": "if ... and ... · 雙塔封印解鎖",
+        "lines": [
+          "forge_beacon = True",
+          "crystal_beacon = True",
+          "if forge_beacon and crystal_beacon:",
+          "    gate_status = \"OPEN\"",
+          "    print(\"CITADEL GATES UNLOCKED!\")"
+        ],
+        "output": "堡壘大門解鎖！通往王座之路暢通！"
+      }
+    },
+    {
+      "id": "p11_01",
+      "file": "CH10_P11_01_RAW.jpg",
+      "layout": "framed",
+      "height": 430,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "熱騰騰的素菜包和星莓果真是天下第一美味！",
+          "bx": 26,
+          "by": -14,
+          "tx": 31,
+          "ty": 34,
+          "max_chars": 12
+        },
+        {
+          "type": "speech",
+          "text": "大家好好補充體力——接下來就要迎戰黑曜堡壘了！",
+          "bx": 75,
+          "by": -14,
+          "tx": 74,
+          "ty": 36,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "叮噹～",
+          "x": 52,
+          "y": 78,
+          "rotate": -6,
+          "size": 24,
+          "fill": "#F59E0B"
+        }
+      ]
+    },
+    {
+      "id": "p11_02",
+      "file": "CH10_P11_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 495,
+      "top_gutter": 96,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "shout",
+          "text": "嗨，守護者們！！雙塔之戰表現太精彩了！",
+          "bx": 25,
+          "by": -15,
+          "tx": 37,
+          "ty": 9,
+          "max_chars": 11
+        },
+        {
+          "type": "shout",
+          "text": "英雄凱！還有小火！你們趕到了！！",
+          "bx": 76,
+          "by": -15,
+          "tx": 74,
+          "ty": 52,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "呼嘯！",
+          "x": 54,
+          "y": 26,
+          "rotate": -10,
+          "size": 36,
+          "fill": "#EF4444"
+        }
+      ]
+    },
+    {
+      "id": "p11_duo",
+      "layout": "split_duo",
+      "height": 485,
+      "top_gutter": 14,
+      "bottom_gutter": 14,
+      "left": {
+        "file": "CH10_P11_02_RAW.jpg",
+        "crop": [
+          0.16,
+          0.06,
+          0.56,
+          0.58
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "SWOOP!",
+            "x": 26,
+            "y": 84,
+            "rotate": -8,
+            "size": 28,
+            "fill": "#EF4444"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH10_P11_02_RAW.jpg",
+        "crop": [
+          0.56,
+          0.54,
+          0.96,
+          0.98
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "YAAAY!!",
+            "x": 74,
+            "y": 22,
+            "rotate": 8,
+            "size": 28,
+            "fill": "#F59E0B"
+          }
+        ]
+      }
+    },
+    {
+      "id": "p11_03",
+      "file": "CH10_P11_03_RAW.jpg",
+      "layout": "framed",
+      "height": 400,
+      "top_gutter": 94,
+      "bottom_gutter": 14,
+      "balloons": [
+        {
+          "type": "speech",
+          "text": "十七道星圖全數對齊！黎明時分全員會師！",
+          "bx": 27,
+          "by": -14,
+          "tx": 50,
+          "ty": 26,
+          "max_chars": 13
+        },
+        {
+          "type": "shout",
+          "text": "下一站：惡碼魔王的王座大殿！",
+          "bx": 76,
+          "by": -15,
+          "tx": 70,
+          "ty": 36,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "微光～",
+          "x": 56,
+          "y": 12,
+          "rotate": 0,
+          "size": 24,
+          "fill": "#FCD34D"
+        }
+      ]
+    },
+    {
+      "id": "p12_01",
+      "file": "CH10_P12_01_RAW.jpg",
+      "layout": "inset_reaction",
+      "height": 340,
+      "top_gutter": 94,
+      "bottom_gutter": 82,
+      "inset": {
+        "crop": [
+          0.51,
+          0.14,
+          0.75,
+          0.42
+        ],
+        "x": 548,
+        "y_off": 132,
+        "w": 222,
+        "h": 202,
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "SCAN...",
+            "x": 50,
+            "y": 84,
+            "rotate": -5,
+            "size": 24,
+            "fill": "#38BDF8"
+          }
+        ]
+      },
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "兩座外圍高塔都淪陷了……九個人全都達到了第三階……",
+          "bx": 26,
+          "by": -14,
+          "tx": 58,
+          "ty": 12,
+          "max_chars": 12
+        },
+        {
+          "type": "thought",
+          "text": "他們不再只是普通孩子了。我必須立刻稟報惡碼魔王。",
+          "bx": 28,
+          "by": 112,
+          "tx": 48,
+          "ty": 66,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "雜訊……",
+          "x": 20,
+          "y": 28,
+          "rotate": -8,
+          "size": 24,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p12_eye",
+      "file": "CH10_P12_01_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 190,
+      "crop": [
+        0.46,
+        0.18,
+        0.78,
+        0.36
+      ],
+      "top_gutter": 12,
+      "bottom_gutter": 14,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "mood",
+          "text": "GLINT...",
+          "x": 22,
+          "y": 50,
+          "rotate": -4,
+          "size": 26,
+          "fill": "#38BDF8"
+        }
+      ]
+    },
+    {
+      "id": "p12_pt02",
+      "file": "CH10_PT02_Malcode_Throne_Override_3x4_RAW.jpg",
+      "layout": "portrait_bleed",
+      "height": 980,
+      "top_gutter": 10,
+      "bottom_gutter": 12,
+      "balloons": [
+        {
+          "type": "narration",
+          "text": "黑曜堡壘深處——錯碼蟲王二世甦醒！",
+          "bx": 50,
+          "by": 4,
+          "max_chars": 24
+        },
+        {
+          "type": "glitch",
+          "text": "九個究極形態？有趣……就讓他們見識無限覆寫的恐怖吧！",
+          "bx": 75,
+          "by": 17,
+          "tx": 60,
+          "ty": 32,
+          "max_chars": 11
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "KRA-ZAAAP!!",
+          "x": 24,
+          "y": 16,
+          "rotate": -10,
+          "size": 44,
+          "fill": "#D946EF"
+        },
+        {
+          "kind": "mood",
+          "text": "CRACKLE...",
+          "x": 82,
+          "y": 86,
+          "rotate": 8,
+          "size": 26,
+          "fill": "#A855F7"
+        }
+      ]
+    },
+    {
+      "id": "p12_pt02_eye",
+      "file": "CH10_PT02_Malcode_Throne_Override_3x4_RAW.jpg",
+      "layout": "eye_strip",
+      "height": 225,
+      "crop": [
+        0.36,
+        0.32,
+        0.8,
+        0.5
+      ],
+      "top_gutter": 16,
+      "bottom_gutter": 20,
+      "balloons": [],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "OVERRIDE!!",
+          "x": 22,
+          "y": 50,
+          "rotate": -6,
+          "size": 34,
+          "fill": "#D946EF"
+        }
+      ]
+    },
+    {
+      "id": "p12_02",
+      "file": "CH10_P12_02_RAW.jpg",
+      "layout": "full_bleed",
+      "height": 455,
+      "top_gutter": 116,
+      "bottom_gutter": 22,
+      "balloons": [
+        {
+          "type": "whisper",
+          "text": "魔王大人……堡壘外門已經被突破了。",
+          "bx": 23,
+          "by": -14,
+          "tx": 38,
+          "ty": 46,
+          "max_chars": 12
+        },
+        {
+          "type": "glitch",
+          "text": "讓他們來吧！！我的終極覆寫演算法已經準備就緒！！",
+          "bx": 73,
+          "by": -15,
+          "tx": 54,
+          "ty": 9,
+          "max_chars": 12
+        }
+      ],
+      "sfx": [
+        {
+          "kind": "sfx",
+          "text": "滋滋轟！！",
+          "x": 82,
+          "y": 28,
+          "rotate": 10,
+          "size": 44,
+          "fill": "#C084FC"
+        },
+        {
+          "kind": "mood",
+          "text": "威壓……",
+          "x": 18,
+          "y": 78,
+          "rotate": -6,
+          "size": 26,
+          "fill": "#A855F7"
+        }
+      ],
+      "code_tray": {
+        "theme": "villain",
+        "badge": "惡碼覆寫 · 無限迴圈陷阱",
+        "concept": "while loop · 蟲王二世堡壘協議",
+        "lines": [
+          "citadel_shield = \"MAXIMUM\"",
+          "wave = 1",
+          "while citadel_shield == \"MAXIMUM\":",
+          "    deploy_bug_swarm(wave, power=99)",
+          "    wave += 1  # No break condition until core is debugged!"
+        ],
+        "output": "警告：無限錯碼蟲群啟動——堡壘決戰開始！"
+      }
+    },
+    {
+      "id": "p12_finale_duo",
+      "layout": "split_duo",
+      "height": 285,
+      "top_gutter": 18,
+      "bottom_gutter": 18,
+      "left": {
+        "file": "CH10_P11_03_RAW.jpg",
+        "crop": [
+          0.34,
+          0.24,
+          0.68,
+          0.72
+        ],
+        "sfx": [
+          {
+            "kind": "mood",
+            "text": "STAR-MAP",
+            "x": 30,
+            "y": 84,
+            "rotate": -6,
+            "size": 26,
+            "fill": "#FCD34D"
+          }
+        ]
+      },
+      "right": {
+        "file": "CH10_P12_02_RAW.jpg",
+        "crop": [
+          0.32,
+          0.08,
+          0.76,
+          0.5
+        ],
+        "sfx": [
+          {
+            "kind": "sfx",
+            "text": "SIEGE!!",
+            "x": 72,
+            "y": 84,
+            "rotate": 6,
+            "size": 32,
+            "fill": "#C084FC"
+          }
+        ]
+      }
+    }
+  ]
+}
